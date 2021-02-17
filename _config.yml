@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
 title: ISMIR 2022
+logo: /assets/img/logo.png
+description: International Society for Music Information Retrieval Conference 2022, Bengaluru, India
+theme: jekyll-theme-minimal
