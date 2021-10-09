@@ -1,9 +1,7 @@
 title: ISMIR 2022
 logo: /assets/img/ismir2022.png
 description: International Society for Music Information Retrieval Conference 2022, Bengaluru, India
-remote_theme: "jekyll-theme-minimal"
 domain: "ismir2022.ismir.net"
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-include-cache
-
-theme: jekyll-theme-minimal
+- jekyll-remote-theme # add this line to the plugins list if you already have one
