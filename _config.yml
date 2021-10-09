@@ -5,3 +5,5 @@ remote_theme: "jekyll-theme-minimal"
 domain: "ismir2022.ismir.net"
 plugins:
   - jekyll-include-cache
+
+theme: jekyll-theme-minimal
