@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.github/.DS_Store
+_site
+assets/.DS_Store
+assets/images/.DS_Store
+vendor
+
+.DS_Store
+.jekyll-cache

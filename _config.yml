@@ -1,7 +1,149 @@
 title: ISMIR 2022
-logo: /assets/img/ismir2022.png
-description: International Society for Music Information Retrieval Conference 2022, Bengaluru, India
-domain: "ismir2022.ismir.net"
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+description: >-
+  International Society for Music Information Retrieval Conference 2022, Bengaluru, India
+baseurl: "ismir2022.ismir.net" # the subpath of your site, e.g. /blog
+url: "ismir2022.ismir.net" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: jekyll-theme-conference
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+  - vendor
+
+# Collections and their defaults
+# collections:
+#   talks:
+#     output: true
+#     permalink: /:collection/:title/
+#   speakers:
+#     output: true
+#     permalink: /:collection/:title/
+#   rooms:
+#     output: true
+#     permalink: /:collection/:title/
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#   - scope:
+#       path: ""
+#       type: speakers
+#     values:
+#       layout: speaker
+#   - scope:
+#       path: ""
+#       type: rooms
+#     values:
+#       layout: room
+
+
+conference:
+
+  # Language
+  lang: en
+
+  # Show theme errors:
+  show_errors: False
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: ISMIR 2022
+      img: 'ismir2022-small.png'
+      url: 'ismir2022.ismir.net'
+    links:
+      - name: Calls
+        menu:
+          - name: Call for Papers
+            relative_url: /cfp/
+
+  # Main landing page
+  main:
+    logo:
+       img: 'banner.png'
+    links:
+      - name: Call for Papers
+        relative_url: /cfp/
+
+  # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+
+  #       ---
+
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
+
+  # # Live indications
+  # live:
+  #   date: 01.01.2020
+  #   timezone: GMT+1
+  #   time_stop: 240      # in minutes
+  #   streaming:
+  #     time_pause:   60  # in minutes
+  #     time_prepend:  5  # in minutes
+  #     time_extend:   5  # in minutes
+  #   demo: false
+
+  # talks:
+  #   # Talk categories
+  #   main_categories:
+  #     - name: Cat A
+  #       color: info
+  #     - name: Cat B
+  #       color: success
+
+  #   # Hide icons on talk overview page
+  #   hide_icons: false
+
+  # speakers:
+  #   # Show first and last name
+  #   show_firstname: true
+
+  # location:
+  #   # URL of location / room overview page
+  #   url: '/location'
+
+  #   # Disable links to locations
+  #   hide: false
+  #   map:
+  #     # show map
+  #     enable: true
+  #     # initial map center point
+  #     home_coord: 47.37808, 8.53935
+  #     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  #     # The following do match the Bootstrap design not too badly:
+  #     #   - Hydda.Full
+  #     #   - Thunderforest.Neighbourhood
+  #     #   - Esri.WorldTopoMap
+  #     map_provider: "OpenStreetMap.Mapnik"
+  #     default_zoom: 17
+
+  # program:
+  #   # URL of program page
+  #   url: '/program'
+
+  #   # Time steps in program table
+  #   time_steps: 15 # in minutes
+
+  #   # Show intermediary time steps (next to full hours)
+  #   show_alltimes: true
