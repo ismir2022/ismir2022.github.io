@@ -1,7 +1,7 @@
 title: ISMIR 2022
 description: >-
   International Society for Music Information Retrieval Conference 2022, Bengaluru, India
-baseurl: "ismir2022.ismir.net" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "ismir2022.ismir.net" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
