@@ -72,6 +72,8 @@ conference:
 
   # Main landing page
   main:
+    logo:
+       img: 'banner.png'
     links:
       - name: Call for Papers
         relative_url: /cfp/
