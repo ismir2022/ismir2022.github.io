@@ -75,6 +75,9 @@ conference:
     logo:
        img: 'banner.png'
     links:
+      - name: Welcome!
+        video: https://www.youtube.com/watch?v=F1mYxLbYHfg&feature=emb_title
+        iframe: true
       - name: Call for Papers
         relative_url: /cfp/
 
