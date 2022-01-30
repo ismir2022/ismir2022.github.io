@@ -68,7 +68,9 @@ conference:
       - name: Calls
         menu:
           - name: Call for Papers
-            relative_url: /cfp/
+            relative_url: /calls/cfp/
+          - name: Call for Tutorials
+            relative_url: /calls/cft/
 
   # Main landing page
   main:
@@ -76,7 +78,7 @@ conference:
        img: 'banner.png'
     links:
       - name: Call for Papers
-        relative_url: /cfp/
+        relative_url: /calls/cfp/
 
   # Information boxes
   # info_bars:
