@@ -201,7 +201,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="ajay-srinivasamurthy.png">
         <figcaption>Ajay Srinivasamurthy</figcaption>
         </figure>
     </td>
@@ -220,7 +220,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/chitralekha-gupta.png">
         <figcaption>Chitralekha Gupta</figcaption>
         </figure>
     </td>
