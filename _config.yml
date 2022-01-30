@@ -71,14 +71,21 @@ conference:
             relative_url: /calls/cfp/
           - name: Call for Tutorials
             relative_url: /calls/cft/
+      - name: Diversity & Inclusion
+        menu:
+          - name: New-to-ISMIR mentoring program
+            relative_url: /divNinc/mentoring/
+      - name: Team
+        relative_url: /team/
+
 
   # Main landing page
   main:
     logo:
        img: 'banner.png'
-    links:
-      - name: Call for Papers
-        relative_url: /calls/cfp/
+    # links:
+    #   - name: Call for Papers
+    #     relative_url: /calls/cfp/
 
   # Information boxes
   # info_bars:
