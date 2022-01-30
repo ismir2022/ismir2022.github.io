@@ -1,15 +1,32 @@
 ---
 layout: page
 ---
+<style>
+.image-cropper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
 
-## Team
+img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+</style>
+# Team
 
 ### General Chairs
 Preeti Rao
 Hema Murthy
 
 ### Scientific Program
+
 Masataka Goto
+<img src="/assets/team/masataka-goto.jpg"></img>
 <!-- ![alt text](/assets/team/masataka-goto.jpg "Masataka Goto") -->
 Rachael Bittner
 Rafael Caro
