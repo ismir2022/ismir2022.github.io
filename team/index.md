@@ -9,7 +9,47 @@ Preeti Rao
 Hema Murthy
 
 ### Scientific Program
-![alt text](/assets/team/masataka-goto.jpg "Masataka Goto")
+Masataka Goto
+<!-- ![alt text](/assets/team/masataka-goto.jpg "Masataka Goto") -->
 Rachael Bittner
-![alt text](/assets/team/rafael-caro-repetto.jpg "Rafael Caro")
+Rafael Caro
+<!-- ![alt text](/assets/team/rafael-caro-repetto.jpg "Rafael Caro") -->
 Xavier Serra
+
+### Tutorial Program
+Vipul Arora
+Keunwoo Choi
+Sri Rama Murty K.
+
+### Late Breaking/Demo
+Siddharth Gururani
+Sanjeel Parekh
+
+### Music Program
+Kaustuv Kanti Ganguli
+Sumitra Ranganathan
+
+### Publications
+Marius Miron
+
+### Sponsorship/Industry
+Balaji Thoshkahna
+Joe Cheri Ross
+
+### Diversity and Inclusion
+Ranjani H G
+Xiao Hu
+
+### Local Initiatives/Outreach
+Vinoo Alluri
+
+### Technology/Local Organization
+Ajay Srinivasamurthy
+Sharath Adavanne
+
+### Website
+Chitralekha Gupta
+Ashvala Vinay
+
+### Social Media/Publicity
+Albin Andrew Correya
