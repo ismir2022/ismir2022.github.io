@@ -12,6 +12,7 @@ img.profile {
   border-radius: 50%;
 }
 table {
+  width:60%;
   border:0px solid black;
   text-align: center;
 }
@@ -19,12 +20,25 @@ table {
 # Team
 
 ### General Chairs
-Preeti Rao  
-Hema Murthy  
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Preeti Rao</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Hema Murthy</figcaption>
+        </figure>
+    </td>
+  </tr>  
 
 ### Scientific Program
 
-<table style="width:100%">
+<table>
 <tr>
     <td>
         <figure>
@@ -33,7 +47,10 @@ Hema Murthy
         </figure>
     </td>
     <td>
-    Rachael Bittner
+        <figure>
+            <img class="image profile" src="">
+            <figcaption>Rachel Bittner</figcaption>
+        </figure>
     </td>
   </tr>
 
@@ -45,7 +62,10 @@ Hema Murthy
         </figure>
     </td>
     <td>
-    Xavier Serra
+        <figure>
+            <img class="image profile" src="">
+            <figcaption>Xavier Serra</figcaption>
+        </figure>
     </td>
   </tr>
 </table>
