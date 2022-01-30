@@ -2,14 +2,6 @@
 layout: page
 ---
 <style>
-.image-cropper {
-  width: 100px;
-  height: 100px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 50%;
-}
-
 img {
   display: inline;
   margin: 0 auto;
@@ -28,13 +20,16 @@ Hema Murthy
 
 ### Scientific Program
 
-Masataka Goto
-<img src="/assets/team/masataka-goto.jpg"></img>
-<!-- ![alt text](/assets/team/masataka-goto.jpg "Masataka Goto") -->
-Rachael Bittner
-Rafael Caro
-<!-- ![alt text](/assets/team/rafael-caro-repetto.jpg "Rafael Caro") -->
-Xavier Serra
+<figure>
+<img src="/assets/team/masataka-goto.jpg">
+<figcaption>Masataka Goto</figcaption>
+</figure>
+&nbsp;&nbsp;&nbsp;Rachael Bittner <br>
+<figure>
+<img src="/assets/team/rafael-caro-repetto.jpg">
+<figcaption>Rafael Caro</figcaption>
+</figure>
+&nbsp;&nbsp;&nbsp;Xavier Serra <br>
 
 ### Tutorial Program
 Vipul Arora
