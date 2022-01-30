@@ -13,8 +13,11 @@ layout: page
 img {
   display: inline;
   margin: 0 auto;
-  height: 100%;
-  width: auto;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
 }
 </style>
 # Team
