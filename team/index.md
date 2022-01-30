@@ -11,29 +11,48 @@ img.profile {
   overflow: hidden;
   border-radius: 50%;
 }
+table {
+  border:0px solid black;
+  text-align: center;
+}
 </style>
 # Team
 
 ### General Chairs
-Preeti Rao
-Hema Murthy
+Preeti Rao  
+Hema Murthy  
 
 ### Scientific Program
 
-<figure>
-<img class="image profile" src="/assets/team/masataka-goto.jpg">
-<figcaption>Masataka Goto</figcaption>
-</figure>
-&nbsp;&nbsp;&nbsp;Rachael Bittner <br>
-<figure>
-<img class="image profile" src="/assets/team/rafael-caro-repetto.jpg">
-<figcaption>Rafael Caro</figcaption>
-</figure>
-&nbsp;&nbsp;&nbsp;Xavier Serra <br>
+<table style="width:100%">
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/masataka-goto.jpg">
+        <figcaption>Masataka Goto</figcaption>
+        </figure>
+    </td>
+    <td>
+    Rachael Bittner
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/rafael-caro-repetto.jpg">
+        <figcaption>Rafael Caro</figcaption>
+        </figure>
+    </td>
+    <td>
+    Xavier Serra
+    </td>
+  </tr>
+</table>
 
 ### Tutorial Program
-Vipul Arora
-Keunwoo Choi
+Vipul Arora  
+Keunwoo Choi  
 Sri Rama Murty K.
 
 ### Late Breaking/Demo
