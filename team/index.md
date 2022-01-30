@@ -20,6 +20,7 @@ table {
 # Team
 
 ### General Chairs
+
 <table>
 <tr>
     <td>
@@ -35,6 +36,7 @@ table {
         </figure>
     </td>
   </tr>  
+</table>
 
 ### Scientific Program
 
@@ -71,39 +73,176 @@ table {
 </table>
 
 ### Tutorial Program
-Vipul Arora  
-Keunwoo Choi  
-Sri Rama Murty K.
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Vipul Arora</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Keunwoo Choi</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Sri Rama Murty K.</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
 
 ### Late Breaking/Demo
-Siddharth Gururani
-Sanjeel Parekh
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Siddharth Gururani</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/sanjeel-parekh.png">
+        <figcaption>Sanjeel Parekh</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
 
 ### Music Program
-Kaustuv Kanti Ganguli
-Sumitra Ranganathan
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/kaustuv-kanti-ganguli.jpg">
+        <figcaption>Kaustuv Kanti Ganguli</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Sumitra Ranganathan</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
 
 ### Publications
-Marius Miron
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Marius Miron</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
+
 
 ### Sponsorship/Industry
-Balaji Thoshkahna
-Joe Cheri Ross
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Balaji Thoshkahna</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Joe Cheri Ross</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
+
+
 
 ### Diversity and Inclusion
-Ranjani H G
-Xiao Hu
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Ranjani H G</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Xiao Hu</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
 
 ### Local Initiatives/Outreach
-Vinoo Alluri
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Vinoo Alluri</figcaption>
+        </figure>
+    </td>
+</tr>
+</table>
+
 
 ### Technology/Local Organization
-Ajay Srinivasamurthy
-Sharath Adavanne
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Ajay Srinivasamurthy</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Sharath Adavanne</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
+
 
 ### Website
-Chitralekha Gupta
-Ashvala Vinay
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Chitralekha Gupta</figcaption>
+        </figure>
+    </td>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Ashvala Vinay</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
+
+
 
 ### Social Media/Publicity
-Albin Andrew Correya
+<table>
+<tr>
+    <td>
+        <figure>
+        <img class="image profile" src="">
+        <figcaption>Albin Andrew Correya</figcaption>
+        </figure>
+    </td>
+  </tr>  
+</table>
