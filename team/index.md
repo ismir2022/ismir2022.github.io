@@ -2,7 +2,7 @@
 layout: page
 ---
 <style>
-img {
+img.profile {
   display: inline;
   margin: 0 auto;
   width: 100px;
@@ -21,12 +21,12 @@ Hema Murthy
 ### Scientific Program
 
 <figure>
-<img src="/assets/team/masataka-goto.jpg">
+<img class="image profile" src="/assets/team/masataka-goto.jpg">
 <figcaption>Masataka Goto</figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;Rachael Bittner <br>
 <figure>
-<img src="/assets/team/rafael-caro-repetto.jpg">
+<img class="image profile" src="/assets/team/rafael-caro-repetto.jpg">
 <figcaption>Rafael Caro</figcaption>
 </figure>
 &nbsp;&nbsp;&nbsp;Xavier Serra <br>
