@@ -137,7 +137,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/marius-miron.png">
         <figcaption>Marius Miron</figcaption>
         </figure>
     </td>
