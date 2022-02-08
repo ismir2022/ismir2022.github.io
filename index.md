@@ -5,16 +5,14 @@ layout: home
 <div>
 <div style="width:20%; float:left; margin:3%">
 <h2> Important Dates</h2>
-<ul>
-<li> Submission site opening: April 22, 2022 </li>
-<li> Abstract submission deadline: May 13, 2022 </li>
-<li> Full paper submission deadline: May 20, 2022 </li>
-<li> Notification of acceptance: July 14, 2022 </li>
-<li> Camera ready deadline: August 9, 2022 </li>
-</ul>
+<p>Submission site opening: April 22, 2022 </p>
+<p> Abstract submission deadline: May 13, 2022 </p>
+<p> Full paper submission deadline: May 20, 2022 </p>
+<p> Notification of acceptance: July 14, 2022 </p>
+<p> Camera ready deadline: August 9, 2022 </p>
 </div>
 
-<div style="width:70%; float:left; margin:3%">
+<div style="width:50%; float:right; margin:3%">
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. *The 23rd International Society for Music Information Retrieval Conference* will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
