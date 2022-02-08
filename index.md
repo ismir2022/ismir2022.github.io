@@ -21,3 +21,5 @@ layout: home
 
 <p> <font size="-2"> &copy; 2022 ISMIR 2022. All rights reserved. ISMIR 2022 logo designed by <a href="https://mrinali.co/">Mrinali Kamath</a>.</font></p>
 </div>
+
+2022 ISMIR 2022. All rights reserved. ISMIR 2022 logo designed by
