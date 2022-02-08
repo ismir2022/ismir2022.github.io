@@ -14,7 +14,7 @@ layout: page
 _Note:_ All deadlines are **Anywhere on Earth (AoE) UTC -12**. There will be no further extension to the submission deadlines. However, authors of registered papers on or before May 13th will be allowed to upload new versions of their papers until May 20th.
 
 ### Overview
-The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will be held in Bangalore, India, from December 4th to 8th, 2022. (https://ismir2022.ismir.net/)
+The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will be held in Bangalore, India, from December 4th to 8th, 2022. [https://ismir2022.ismir.net](https://ismir2022.ismir.net)
 
 The annual conference of the International Society for Music Information Retrieval (ISMIR) is the world's leading research forum on processing, analyzing, searching, organizing and accessing music-related data. The 23rd ISMIR conference welcomes contributions related to any aspect of music information research, including foundations and theories for music processing, analysis, algorithms, evaluation, and applications.
 
@@ -32,7 +32,7 @@ _Full paper review:_ Each paper will be reviewed by at least three reviewers and
 
 _Double blind review:_ ISMIR follows a double-blind review process. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the author(s).
 
-_Evaluation criteria:_  Evaluation criteria include the novelty of the paper, scholarly/scientific quality, reusable insights, pioneering proposals, appropriateness of topic, potential impact, readability and paper organization. Papers which propose brave new ideas are valued.  It is helpful to read the reviewer guidelines at https://ismir.net/reviewer-guidelines/ before the paper submission.
+_Evaluation criteria:_  Evaluation criteria include the novelty of the paper, scholarly/scientific quality, reusable insights, pioneering proposals, appropriateness of topic, potential impact, readability and paper organization. Papers which propose brave new ideas are valued.  It is helpful to read the reviewer guidelines at [https://ismir.net/reviewer-guidelines](https://ismir.net/reviewer-guidelines) before the paper submission.
 
 ### Submission Process
 _Submission site:_ [TBA]
@@ -79,7 +79,7 @@ Relevant topics for ISMIR 2022 include, but are not limited to:
 
 - _Applications:_ digital libraries and archives; music retrieval systems; music recommendation and playlist generation; music and health, well-being and therapy; music training and education; music composition, performance, and production; music videos, multimodal music systems; gaming, augmented/virtual reality; music heritage and sustainability; business and marketing.
 
-For additional information, you can reach the program chairs via [email] (mailto:ismir2022-papers@ismir.net)
+For additional information, you can reach the program chairs via [email](mailto:ismir2022-papers@ismir.net)
 
 
 Best regards,
