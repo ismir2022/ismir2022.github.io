@@ -81,7 +81,6 @@ conference:
 
   # Main landing page
   main:
-  {: .center}
     logo:
        img: 'banner_temp2.png'
     # links:
