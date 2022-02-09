@@ -63,7 +63,7 @@ conference:
     logo:
       # name: ISMIR 2022
       img: 'ismir2022-small.png'
-      url: 'ismir2022.ismir.net'
+      url: "ismir2022.ismir.net"
     links:
       - name: Calls
         menu:
