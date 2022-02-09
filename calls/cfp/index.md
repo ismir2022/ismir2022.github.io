@@ -2,8 +2,10 @@
 layout: page
 ---
 
+<br>
+
 # Call for Papers
-<br><br>
+<br>
 
 ### Important Dates:
 - _Submission site opening:_ April 22, 2022
