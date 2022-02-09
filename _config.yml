@@ -74,7 +74,7 @@ conference:
       - name: Diversity & Inclusion
         menu:
           - name: New-to-ISMIR mentoring program
-            relative_url: /divNinc/mentoring/
+            relative_url: /diversity/mentoring/
       - name: Team
         relative_url: /team/
 
