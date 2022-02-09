@@ -61,7 +61,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: ISMIR 2022
+      # name: ISMIR 2022
       img: 'ismir2022-small.png'
       url: 'ismir2022.ismir.net'
     links:
