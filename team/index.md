@@ -17,7 +17,10 @@ table {
   text-align: center;
 }
 </style>
+<br>
+
 # Team
+<br>
 
 ### General Chairs
 
