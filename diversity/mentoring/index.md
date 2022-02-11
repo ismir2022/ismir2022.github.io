@@ -72,4 +72,4 @@ If you are interested in the program and eligible for it, please apply using thi
 <br> <br> *A. All mentored papers will go through the same review process as all other papers submitted to an ISMIR conference. There is no assurance that a mentored paper will be accepted to the conference.*
 <br>
 
-For any further questions, please write to us at <a href="mailto:ismir2022-diversity@ismir.net">ismir2022-diversity@ismir.net</a>
+For any further questions, please write to us at [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net).
