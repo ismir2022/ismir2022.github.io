@@ -6,7 +6,7 @@ layout: page
 ## Call for Tutorials
 <br>
 
-The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will be held in Bengaluru, India, from December 4th to 8th, 2022. It is currently planned to be in a hybrid format with the details to be finalized later. https://ismir2022.ismir.net
+The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will be held in Bengaluru, India, from December 4th to 8th, 2022. It is currently planned to be in a hybrid format with the details to be finalized later. [https://ismir2022.ismir.net](https://ismir2022.ismir.net)
 
 The annual conference of the International Society for Music Information Retrieval (ISMIR) is the world’s leading research forum on processing, analyzing, searching, organizing and accessing music-related data. The 23rd ISMIR conference welcomes proposals for tutorials to be given in conjunction with the conference. Tutorials take place at the start of the ISMIR conference, and this year will be held on Sunday, Dec 4, 2022 in a hybrid format. Each tutorial is allocated 3 hours to concentrate on a single topic; tutorials take place in parallel sessions.
 
@@ -51,7 +51,7 @@ Acceptance/rejection decisions will be made by the ISMIR2022 Tutorial Chairs, an
 - Complementarity of tutorials
 - Usage of open-source and free software tools/data, reproducible research
 
-You may refer to the tutorials offered last year, https://ismir2021.ismir.net/tutorials/. For additional information, you can reach the tutorial program chairs via ismir2022-tutorials@ismir.net
+You may refer to the tutorials offered last year, [https://ismir2021.ismir.net/tutorials/](https://ismir2021.ismir.net/tutorials/). For additional information, you can reach the tutorial program chairs via ismir2022-tutorials@ismir.net
 
 Best regards,
 
