@@ -15,7 +15,6 @@ The New-to-ISMIR paper mentoring program program is designed for members new to 
 * Mentee authors get one cycle of review (authors submit, mentors provide a review) but are optionally encouraged to participate in an additional cycle where the authors incorporate the suggestions and mentor reviews the revised paper. Mentees are expected to provide additional information on their work, if requested by the mentor to provide better feedback. 
 * We strongly encourage the mentored papers to be revised based on the feedback and submitted to the upcoming ISMIR 2022 conference. All mentored papers, if submitted to ISMIR 2022, will go through the usual process of review without any exceptions. Both mentors and mentees agree to clearly declare conflict of interests when the mentored papers are submitted to the ISMIR conference to facilitate double-blind review process. 
 * In this pilot program, we will be able to support a limited number of papers for mentorship due to capacity constraints. If we receive more requests than we can support, we will prioritize papers considering authors’ needs and/or topics that fall under the special call for papers.
- 
 
 ## Eligibility
 
