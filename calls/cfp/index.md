@@ -88,3 +88,7 @@ For additional information, you can reach the program chairs via [email](mailto:
 Best regards,
 
 Scientific Program Chairs (Masataka Goto, Rachel Bittner, Rafael Caro Repetto, Xavier Serra)
+
+#### New to ISMIR paper mentoring program 
+
+ISMIR 2022 D&I is piloting a new to ISMIR mentoring initiative. More details available here: [https://ismir2022.ismir.net/diversity/mentoring](https://ismir2022.ismir.net/diversity/mentoring). 
