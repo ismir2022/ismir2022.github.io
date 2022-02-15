@@ -12,6 +12,7 @@ layout: home
     <p> Camera ready deadline:<br>August 9, 2022 </p>
     </div>
     <div style="width:70%; float:right;">
+    <p style="color:red"> <strong> New-to-ISMIR mentoring program has started: <a href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: 25 Feb, 2022] </strong></p>
     <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
     <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
