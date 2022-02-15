@@ -51,11 +51,11 @@ The topics of papers to be submitted to the program should be closely aligned wi
 
 Applications to the program must include a tentative title, author list and an abstract (200 words). 
 
-The papers submitted to the program should be an advanced-stage draft of the paper. To get maximum benefit out of the mentoring program, please ensure the work is as complete as possible and avoid incomplete submissions lacking sufficient detail. The papers should strictly follow ISMIR conference submission guidelines, outlined in the ISMIR 2022 Call for Papers: https://ismir2022.ismir.net/calls/cfp/. Only exception would be that the papers should NOT be anonymized during the mentoring process since the paper mentoring program is not anonymous. The papers are to be uploaded on a channel whose details will be provided closer to the deadline. The submitted papers will be shared with the mentor assigned to each paper. Submissions that deviate from the guidelines will not be accepted for mentorship.  
+The papers submitted to the program should be an advanced-stage draft of the paper. To get maximum benefit out of the mentoring program, please ensure the work is as complete as possible and avoid incomplete submissions lacking sufficient detail. The papers should strictly follow ISMIR conference submission guidelines, outlined in the ISMIR 2022 Call for Papers: [https://ismir2022.ismir.net/calls/cfp/](https://ismir2022.ismir.net/calls/cfp/). Only exception would be that the papers should NOT be anonymized during the mentoring process since the paper mentoring program is not anonymous. The papers are to be uploaded on a channel whose details will be provided closer to the deadline. The submitted papers will be shared with the mentor assigned to each paper. Submissions that deviate from the guidelines will not be accepted for mentorship.  
   
 ## How do I apply?
 
-If you are interested in the program and eligible for it, please apply using this form: https://forms.gle/aLuFtxg6Fe8KatEL8.
+If you are interested in the program and eligible for it, please apply using this form: [https://forms.gle/aLuFtxg6Fe8KatEL8](https://forms.gle/aLuFtxg6Fe8KatEL8)
  
 ## FAQ
 
@@ -71,4 +71,4 @@ If you are interested in the program and eligible for it, please apply using thi
 <br> <br> *A. All mentored papers will go through the same review process as all other papers submitted to an ISMIR conference. There is no assurance that a mentored paper will be accepted to the conference.*
 <br>
 
-For any further questions, please write to us at [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net).
+For any further questions, please write to us at [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net)
