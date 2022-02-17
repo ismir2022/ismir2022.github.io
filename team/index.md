@@ -68,7 +68,7 @@ table {
     </td>
     <td>
         <figure>
-            <img class="image profile" src="">
+            <img class="image profile" src="/assets/team/xavier-serra.png">
             <figcaption>Xavier Serra</figcaption>
         </figure>
     </td>
@@ -173,7 +173,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/ranjani.png">
         <figcaption>Ranjani H G</figcaption>
         </figure>
     </td>
