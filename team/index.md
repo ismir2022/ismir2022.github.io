@@ -28,7 +28,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/preeti-rao.jpg">
         <figcaption>Preeti Rao</figcaption>
         </figure>
     </td>
