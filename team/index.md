@@ -80,7 +80,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/vipul-arora.jpeg">
         <figcaption>Vipul Arora</figcaption>
         </figure>
     </td>
