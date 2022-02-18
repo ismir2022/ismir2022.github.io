@@ -104,7 +104,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/siddharth-gururani.jpeg">
         <figcaption>Siddharth Gururani</figcaption>
         </figure>
     </td>
