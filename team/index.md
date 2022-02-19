@@ -191,7 +191,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/vinoo-alluri.jpg">
         <figcaption>Vinoo Alluri</figcaption>
         </figure>
     </td>
