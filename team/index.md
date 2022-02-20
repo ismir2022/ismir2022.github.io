@@ -28,7 +28,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/preeti-rao.jpg">
+        <img class="image profile" src="/assets/team/preeti-rao.png">
         <figcaption>Preeti Rao</figcaption>
         </figure>
     </td>
@@ -122,7 +122,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/kaustuv-kanti-ganguli.jpg">
+        <img class="image profile" src="/assets/team/kaustuv-kanti-ganguli.png">
         <figcaption>Kaustuv Kanti Ganguli</figcaption>
         </figure>
     </td>
