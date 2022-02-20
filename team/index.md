@@ -80,7 +80,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/vipul-arora.jpeg">
+        <img class="image profile" src="/assets/team/vipul-arora.png">
         <figcaption>Vipul Arora</figcaption>
         </figure>
     </td>
@@ -104,7 +104,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/siddharth-gururani.jpeg">
+        <img class="image profile" src="/assets/team/siddharth-gururani.png">
         <figcaption>Siddharth Gururani</figcaption>
         </figure>
     </td>
