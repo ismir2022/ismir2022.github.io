@@ -26,7 +26,7 @@ The proposed authors of the papers submitted to the mentoring program must satis
        
 ## Important Dates
 
-  * [Feb 25] Deadline for applying to mentorship program with a tentative abstract and topics of the paper
+  * [~~Feb 25~~ Feb 28] Deadline for applying to mentorship program with a tentative abstract and topics of the paper
   * [March 25] Deadline for mentees to submit their paper to the program
   * [March 28] Mentors and mentees are matched and introduced to each other
   * [April 15] Deadline for mentors to provide their feedback
