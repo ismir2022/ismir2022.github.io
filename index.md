@@ -5,17 +5,18 @@ layout: home
 <div style="display:inline-block; margin-top:40px">
     <div style="width:25%; float:left;">
     <h2> Important Dates</h2>
-    <h3 style="color:#DB442A">Papers<h3>
+    <h4 style="color:#DB442A">Papers</h4>
+    <h4>Papers<h4>
     <p> Submission site opening:<br>April 22, 2022 </p>
     <p> Abstract submission deadline:<br>May 13, 2022 </p>
     <p> Full paper submission deadline:<br>May 20, 2022 </p>
     <p> Notification of acceptance:<br>July 14, 2022 </p>
     <p> Camera ready deadline:<br>August 9, 2022 </p>
-    <h3 style="color:#DB442A">Tutorials<h3>
+    <h4 style="color:#DB442A">Tutorials</h4>
     <p> Proposal Submission:<br>April 17, 2022 </p>
     <p> Revision:<br>April 24, 2022 </p>
     <p> Notification of Acceptance:<br>June 5, 2022 </p>
-    <h3 style="color:#DB442A">New-to-ISMIR Mentoring Program<h3>
+    <h4 style="color:#DB442A">New-to-ISMIR Mentoring Program</h4>
     <p>Deadline for applying to mentorship program:<br>February 28, 2022</p>
     <p>Deadline for mentees for paper submission:<br>March 25, 2022</p>
     <p>Notification for Mentor-Mentee match:<br>March 28, 2022</p>
