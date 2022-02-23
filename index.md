@@ -5,12 +5,23 @@ layout: home
 <div style="display:inline-block; margin-top:40px">
     <div style="width:25%; float:left;">
     <h2> Important Dates</h2>
-    <p>Submission site opening:<br>April 22, 2022 </p>
+    <h3 style="color:#DB442A">Papers<h3>
+    <p> Submission site opening:<br>April 22, 2022 </p>
     <p> Abstract submission deadline:<br>May 13, 2022 </p>
     <p> Full paper submission deadline:<br>May 20, 2022 </p>
     <p> Notification of acceptance:<br>July 14, 2022 </p>
     <p> Camera ready deadline:<br>August 9, 2022 </p>
-    <br><br>
+    <h3 style="color:#DB442A">Tutorials<h3>
+    <p> Proposal Submission:<br>April 17, 2022 </p>
+    <p> Revision:<br>April 24, 2022 </p>
+    <p> Notification of Acceptance:<br>June 5, 2022 </p>
+    <h3 style="color:#DB442A">New-to-ISMIR Mentoring Program<h3>
+    <p>Deadline for applying to mentorship program:<br>February 28, 2022</p>
+    <p>Deadline for mentees for paper submission:<br>March 25, 2022</p>
+    <p>Notification for Mentor-Mentee match:<br>March 28, 2022</p>
+    <p>Feedback from mentors:<br>April 15, 2022</p>
+    <p>Further discussions [optional]: <br>April 15-30, 2022</p>
+    <br>
     <a class="twitter-timeline" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <div style="width:70%; float:right;">
