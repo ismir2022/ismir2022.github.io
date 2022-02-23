@@ -1,6 +1,31 @@
 ---
 layout: home
 ---
+<style>
+    /* (A) FIXED WRAPPER */
+    .hwrap {
+    overflow: hidden; /* HIDE SCROLL BAR */
+    background: #eee;
+    }
+    /* (B) MOVING TICKER WRAPPER */
+    .hmove { display: flex; }
+    /* (C) ITEMS - INTO A LONG HORIZONTAL ROW */
+    .hitem {
+    flex-shrink: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    }
+    /* (D) ANIMATION - MOVE ITEMS FROM RIGHT TO LEFT */
+    /* 4 ITEMS -400%, CHANGE THIS IF YOU ADD/REMOVE ITEMS */
+    @keyframes tickerh {
+    0% { transform: translate3d(100%, 0, 0); }
+    100% { transform: translate3d(-100%, 0, 0); }
+    }
+    .hmove { animation: tickerh linear 15s infinite; }
+    .hmove:hover { animation-play-state: paused; }
+</style>
 # Welcome to ISMIR 2022!
 <div style="display:inline-block; margin-top:40px">
     <div style="width:25%; float:left;">
@@ -24,9 +49,10 @@ layout: home
     <br>
     <a class="twitter-timeline" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-
 <div style="width:70%; float:right;">
+    <div class="hwrap"><div class="hmove"><div class="hitem">
     <p> <strong> New-to-ISMIR mentoring program has started: <a style="color:red" href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: <strike>25 Feb, 2022</strike> 28 Feb, 2022] </strong></p>
+    </div></div></div>
     <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
     <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
