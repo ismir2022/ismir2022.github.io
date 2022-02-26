@@ -51,7 +51,7 @@ layout: home
     <p>Further discussions [optional]: <br>April 15-30, 2022</p>
     <br>
     </div>
-    <div style="width:20%; float:right;">
+    <div style="width:19%; float:right;">
     <a class="twitter-timeline" data-width="500" data-height="700" data-theme="light" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ISMIRConf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
