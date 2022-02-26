@@ -51,14 +51,13 @@ layout: home
     <p>Further discussions [optional]: <br>April 15-30, 2022</p>
     <br>
     </div>
+    <div style="width:55%; margin-left:10px;">
+    <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
+    <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
     <div style="width:19%; float:right;">
     <a class="twitter-timeline" data-width="500" data-height="700" data-theme="light" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ISMIRConf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
-<div style="width:55%; float:right;">
-    <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-    <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-    </div>
-    
 </div>
 <p> <font size="-2"> &copy; 2022 ISMIR 2022. All rights reserved. ISMIR 2022 logo designed by <a href="https://mrinali.co/">Mrinali Kamath</a>.</font></p>
