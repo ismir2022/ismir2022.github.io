@@ -31,7 +31,7 @@ layout: home
     <p> <strong> New-to-ISMIR mentoring program has started: <a style="color:red" href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: <strike>25 Feb, 2022</strike> 28 Feb, 2022] </strong></p>
     </div></div></div>
 <div style="display:inline-block; margin-top:40px">
-    <div style="width:17%; float:left;">
+    <div style="width:18%; float:left;">
     <h2> Important Dates</h2>
     <h4 style="color:#DB442A">Papers</h4>
     <p> Submission site opening:<br>April 22, 2022 </p>
@@ -51,12 +51,12 @@ layout: home
     <p>Further discussions [optional]: <br>April 15-30, 2022</p>
     <br>
     </div>
-<div style="width:60%; float:left;">
+<div style="width:59%; float:left;">
     <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
     <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
     <div style="width:18%; float:right;">
-    <a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-width="500" data-height="1000" data-theme="light" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </div>
 <a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ISMIRConf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
