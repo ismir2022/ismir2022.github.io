@@ -27,9 +27,9 @@ layout: home
     .hmove:hover { animation-play-state: paused; }
 </style>
 # Welcome to ISMIR 2022!
-<div class="hwrap"><div class="hmove"><div class="hitem">
+<!-- <div class="hwrap"><div class="hmove"><div class="hitem">
     <p> <strong> New-to-ISMIR mentoring program has started: <a style="color:red" href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: <strike>25 Feb, 2022</strike> 28 Feb, 2022] </strong></p>
-    </div></div></div>
+    </div></div></div> -->
 <div style="display:inline-block; margin-top:40px">
     <div style="width:20%; float:left;">
     <h3> Important Dates</h3>
