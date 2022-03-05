@@ -44,7 +44,7 @@ layout: home
     <p> Revision:<br>April 24, 2022 </p>
     <p> Notification of Acceptance:<br>June 5, 2022 </p>
     <h4 style="color:#DB442A">New-to-ISMIR Mentoring Program</h4>
-    <p>Deadline for applying to mentorship program:<br>February 28, 2022</p>
+    <strike><p>Deadline for applying to mentorship program:<br>February 28, 2022</p></strike>
     <p>Deadline for mentees for paper submission:<br>March 25, 2022</p>
     <p>Notification for Mentor-Mentee match:<br>March 28, 2022</p>
     <p>Feedback from mentors:<br>April 15, 2022</p>
