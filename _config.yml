@@ -82,7 +82,7 @@ conference:
   # Main landing page
   main:
     logo:
-       img: 'banner_temp2.png'
+       img: 'banner_chariot.png'
     # links:
     #   - name: Call for Papers
     #     relative_url: /calls/cfp/
