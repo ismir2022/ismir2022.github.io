@@ -31,24 +31,24 @@ layout: home
     <p> <strong> New-to-ISMIR mentoring program has started: <a style="color:red" href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: <strike>25 Feb, 2022</strike> 28 Feb, 2022] </strong></p>
     </div></div></div> -->
 <div style="display:inline-block; margin-top:40px">
-    <div style="width:25%; float:left;">
-    <h3> Important Dates</h3>
+    <div style="width:35%; float:left;">
+    <h3> Important Dates (AoE)</h3>
     <h4 style="color:#DB442A">Papers</h4>
-    <p> Submission site opening:<br>April 22, 2022 </p>
-    <p> Abstract submission deadline:<br>May 13, 2022 </p>
-    <p> Full paper submission deadline:<br>May 20, 2022 </p>
-    <p> Notification of acceptance:<br>July 14, 2022 </p>
-    <p> Camera ready deadline:<br>August 9, 2022 </p>
+    <p> Submission site opening: April 22, 2022 </p>
+    <p> Abstract submission deadline: May 13, 2022 </p>
+    <p> Full paper submission deadline: May 20, 2022 </p>
+    <p> Notification of acceptance: July 14, 2022 </p>
+    <p> Camera ready deadline: August 9, 2022 </p>
     <h4 style="color:#DB442A">Tutorials</h4>
-    <p> Proposal Submission:<br>April 17, 2022 </p>
-    <p> Revision:<br>April 24, 2022 </p>
-    <p> Notification of Acceptance:<br>June 5, 2022 </p>
+    <p> Proposal Submission: April 17, 2022 </p>
+    <p> Revision: April 24, 2022 </p>
+    <p> Notification of Acceptance: June 5, 2022 </p>
     <h4 style="color:#DB442A">New-to-ISMIR Mentoring Program</h4>
-    <strike><p>Deadline for applying to mentorship program:<br>February 28, 2022</p></strike>
-    <p>Deadline for mentees for paper submission:<br>March 25, 2022</p>
-    <p>Notification for Mentor-Mentee match:<br>March 28, 2022</p>
-    <p>Feedback from mentors:<br>April 15, 2022</p>
-    <p>Further discussions [optional]: <br>April 15-30, 2022</p>
+    <strike><p>Deadline for applying to mentorship program: February 28, 2022</p></strike>
+    <p>Deadline for mentees for paper submission: March 25, 2022</p>
+    <p>Notification for Mentor-Mentee match: March 28, 2022</p>
+    <p>Feedback from mentors: April 15, 2022</p>
+    <p>Further discussions [optional]: April 15-30, 2022</p>
     <br>
     </div>
     <div style="width:60%; float:right;">
