@@ -6,6 +6,7 @@ layout: page
 
 # Call for Papers
 <br>
+[Download PDF](/calls/cfp/ISMIR2022_Info_Sheet.pdf)
 
 ### Important Dates:
 - _Submission site opening:_ April 22, 2022
