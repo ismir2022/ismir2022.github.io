@@ -4,6 +4,8 @@ layout: page
 <br>
 
 ## Call for Sponsorship
+<br>
+
 ### About ISMIR 2022
 
 The annual conference of the International Society for Music Information Retrieval
@@ -82,7 +84,7 @@ additional information about ISMIR 2022.
 
 Joe Cheri Ross, Balaji Thoshkahna, Pratibha Moogi
 Sponsorship Chairs, ISMIR 2022
-https://ismir2022.ismir.net
+[https://ismir2022.ismir.net](https://ismir2022.ismir.net)
 
 
 
