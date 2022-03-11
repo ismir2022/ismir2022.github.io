@@ -1,4 +1,10 @@
-## About ISMIR 2022
+---
+layout: page
+---
+<br>
+
+## Call for Sponsorship
+### About ISMIR 2022
 
 The annual conference of the International Society for Music Information Retrieval
 (ISMIR) will be held in Bengaluru, India from December 4-8, 2022. ISMIR represents the
@@ -10,7 +16,7 @@ and electrical engineering. With its strong research and application leanings, t
 conference has traditionally been supported by prominent names in the music industry
 across the world.
 
-## Sponsorship Opportunities
+### Sponsorship Opportunities
 
 ISMIR 2022 will be organized in a hybrid mode where we expect around 150 participants
 attending physically and over 800 participants virtually from around the world.
@@ -27,7 +33,7 @@ Information Retrieval (WiMIR) and Diversity & Inclusion initiatives that are an 
 of ISMIR 2022. The benefits for conference sponsorship and WiMIR sponsorship are
 described below:
 
-## ISMIR 2022 Sponsorship Packages
+### ISMIR 2022 Sponsorship Packages
 
 | <span style="color:grey">**Platinum**</span>                                                                | <span style="color:gold">**Gold**</span>     | <span style="color:silver">**Silver**</span> |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -55,7 +61,7 @@ described below:
 
 In addition to Platinum, Gold and Silver tiers, we also offer sponsorship to ISMIR 2022 as a Supporter with the following limited benefits:
 
-## WiMIR Sponsorship Packages
+### WiMIR Sponsorship Packages
 
 | **Patron** | **Contributor** | **Supporter** |
 |------------|-----------------|---------------|
@@ -69,14 +75,14 @@ page of ISMIR2022 conference website; official WiMIR/D&I presentations during th
 ISMIR2022 conference; WiMIR/D&I blog post following the conclusion of the
 conference.
 
-## Contact
+### Contact
 Please contact us at ismir2022-sponsorship@ismir.net if you wish to discuss further
 on the sponsorship opportunities available, have any further questions or need
 additional information about ISMIR 2022.
 
 Joe Cheri Ross, Balaji Thoshkahna, Pratibha Moogi
 Sponsorship Chairs, ISMIR 2022
-https://smir2022.ismir.net
+https://ismir2022.ismir.net
 
 
 

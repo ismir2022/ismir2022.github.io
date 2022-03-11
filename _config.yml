@@ -71,6 +71,8 @@ conference:
             relative_url: /calls/cfp/
           - name: Call for Tutorials
             relative_url: /calls/cft/
+          - name: Call for Sponsorship
+            relative_url: /calls/cfs/
       - name: Diversity & Inclusion
         menu:
           - name: New-to-ISMIR mentoring program
