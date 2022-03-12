@@ -63,6 +63,14 @@ described below:
 
 In addition to Platinum, Gold and Silver tiers, we also offer sponsorship to ISMIR 2022 as a Supporter with the following limited benefits:
 
+|**Supporter**|
+|---------|
+|**INR 100,000**|
+|Small sized logo and company name on the conference website and proceedings|
+|Small logo displayed on the video broadcasts and (if applicable) conference platforms|
+|1 free registration|
+|Sponsorship acknowledgment and partial announcement on Social Media|
+
 ### WiMIR Sponsorship Packages
 
 | **Patron** | **Contributor** | **Supporter** |
@@ -85,6 +93,3 @@ additional information about ISMIR 2022.
 Joe Cheri Ross, Balaji Thoshkahna, Pratibha Moogi
 Sponsorship Chairs, ISMIR 2022
 [https://ismir2022.ismir.net](https://ismir2022.ismir.net)
-
-
-
