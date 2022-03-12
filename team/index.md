@@ -210,7 +210,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/sharath.jpeg">
         <figcaption>Sharath Adavanne</figcaption>
         </figure>
     </td>
