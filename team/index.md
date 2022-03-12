@@ -86,7 +86,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/keunwoo-choi.jpeg">
         <figcaption>Keunwoo Choi</figcaption>
         </figure>
     </td>
