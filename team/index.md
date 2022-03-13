@@ -34,7 +34,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/hema-murthy.jpg">
+        <img class="image profile" src="/assets/team/hema-murthy.png">
         <figcaption>Hema Murthy</figcaption>
         </figure>
     </td>
