@@ -34,7 +34,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/hema-murthy.jpg">
         <figcaption>Hema Murthy</figcaption>
         </figure>
     </td>
@@ -179,7 +179,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/xiao-hu.png">
         <figcaption>Xiao Hu</figcaption>
         </figure>
     </td>
