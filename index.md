@@ -5,7 +5,7 @@ layout: home
     table {
     width: 100%;
     }
-    table td:nth-child(1) { width: 30%; }
+    table td:nth-child(1) { width: 35%; }
     .center-align {
         text-align: center;
     }
@@ -69,10 +69,6 @@ layout: home
 <!-- </div> -->
 <br>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-<!-- <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
-<div class="embed-responsive embed-responsive-16by9">
-  <p align="center"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
-</div>
 <br>
 
 <table border="0">
@@ -192,9 +188,12 @@ layout: home
 <!-- <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {: .center-align}
 <br><br> -->
-
-<br><br>
-
+<br>
+<!-- <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+<div class="embed-responsive embed-responsive-16by9">
+  <p align="center"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
+</div>
+<br>
 [![alt text][1.1]][1] [![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
 {: .center-align}
 <!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> -->
