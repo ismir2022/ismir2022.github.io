@@ -70,11 +70,7 @@ layout: home
 
 ### Important Dates (AoE)
 
-<table border="0">
- <tr>
-    <td>
-
-    |<span style="color:#DB442A">Papers</span>| |
+||<span style="color:#DB442A">Papers</span>| |
 |:--------|---------:|
 | Submission site opening | April 22, 2022 |
 | Abstract submission deadline | May 13, 2022 |
@@ -92,14 +88,8 @@ layout: home
 | Deadline for mentees for paper submission | March 25, 2022 |
 | Notification for Mentor-Mentee match | March 28, 2022 |
 | Feedback from mentors | April 15, 2022 |
-| Further discussions [optional | April 15-30, 2022 |
-
-    </td>
-    <td>
-    <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </td>
- </tr>
-</table>
+| Further discussions [optional | April 15-30, 2022 || 
+    <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 
 |<span style="color:#DB442A">Papers</span>| |
 |:--------|---------:|
