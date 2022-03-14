@@ -5,6 +5,7 @@ layout: home
     table {
     width: 100%;
     }
+    table td:nth-child(1) { width: 30%; }
     .center-align {
         text-align: center;
     }
@@ -68,10 +69,9 @@ layout: home
 <!-- </div> -->
 <br>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-<div class="embed-video-small">
-<div class="videoWrapper">
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-</div>
+<!-- <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+<div class="embed-responsive embed-responsive-16by9">
+  <p align="center"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
 </div>
 <br>
 
