@@ -53,7 +53,7 @@ table {
     </td>
     <td>
         <figure>
-            <img class="image profile" src="">
+            <img class="image profile" src="/assets/team/rachel-bittner.jpeg">
             <figcaption>Rachel Bittner</figcaption>
         </figure>
     </td>
