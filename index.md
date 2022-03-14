@@ -71,6 +71,7 @@ layout: home
 ### Important Dates (AoE)
 
 **<span style="color:#DB442A">Papers</span>**
+
 | **Submission site opening** | April 22, 2022 |
 |:-----------------|:-------------|
 | **Abstract submission deadline** | May 13, 2022 |
@@ -79,12 +80,14 @@ layout: home
 | **Camera ready deadline** | August 9, 2022 |
 
 **<span style="color:#DB442A">Tutorials</span>**
+
 | **Proposal Submission** | April 17, 2022 |
 |:-----------------|:-------------|
 | **Revision** | April 24, 2022 |
 | **Notification of Acceptance** | June 5, 2022 |
 
 **<span style="color:#DB442A">New-to-ISMIR Mentoring Program</span>**
+
 | **<span style="text-decoration:line-through">Deadline for applying to mentorship program</span>** | <span style="text-decoration:line-through">February 28, 2022</span> |
 |:-----------------|:-------------|
 | **Deadline for mentees for paper submission** | March 25, 2022 |
