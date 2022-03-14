@@ -69,29 +69,29 @@ layout: home
 <br>
 
 ### Important Dates (AoE)
-**<span style="color:#DB442A">Papers**</span>
+**<span style="color:#DB442A">Papers</span>**
 | **Submission site opening** | April 22, 2022 |
 | **Abstract submission deadline** | May 13, 2022 |
 | **Full paper submission deadline** | May 20, 2022 |
 | **Notification of acceptance** | July 14, 2022 |
  | **Camera ready deadline** | August 9, 2022 |
 
-**<span style="color:#DB442A">Tutorials**</span>
+**<span style="color:#DB442A">Tutorials</span>**
 | **Proposal Submission** | April 17, 2022 |
 | **Revision** | April 24, 2022 |
 | **Notification of Acceptance** | June 5, 2022 |
 
-**<span style="color:#DB442A">New-to-ISMIR Mentoring Program**</span>
-| <strike><p>**Deadline for applying to mentorship program**</p> | <strike><p>February 28, 2022</p></strike> |
+**<span style="color:#DB442A">New-to-ISMIR Mentoring Program</span>**
+| **<span style="text-decoration:line-through">Deadline for applying to mentorship program</span>** | <span style="text-decoration:line-through">February 28, 2022</span> |
 | **Deadline for mentees for paper submission** | March 25, 2022 |
 | **Notification for Mentor-Mentee match** | March 28, 2022 |
 | **Feedback from mentors** | April 15, 2022 |
 | **Further discussions [optional]** | April 15-30, 2022 |
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br><br> -->
+<a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{: .center-align}
+<br><br>
 
- 
 [![alt text][1.1]][1] [![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
 {: .center-align}
 <!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> -->
