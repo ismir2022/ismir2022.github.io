@@ -68,14 +68,14 @@ layout: home
 <p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br>
 
-<table>
+<table border="0">
     <tr>
-        <td> **Important Dates (AoE)** </td>
+        <td> <strong>Important Dates (AoE)</strong> </td>
         <td></td>
-        <td rowspan="7"><a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+        <td rowspan="16"><a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr>
-        <td>**<span style="color:#DB442A">Papers</span>**</td>
+        <td><strong><span style="color:#DB442A">Papers</span><strong></td>
         <td> </td>
     </tr>
     <tr>
@@ -97,6 +97,50 @@ layout: home
     <tr>
         <td>Camera ready deadline</td>
         <td> August 9, 2022 </td>
+    </tr>
+    <tr>
+        <td><strong><span style="color:#DB442A">Tutorials</span><strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Proposal Submission</td>
+        <td> April 17, 2022 </td>
+    </tr>
+    <tr>
+        <td>Revision</td>
+        <td>April 24, 2022</td>
+    </tr>
+    <tr>
+        <td>Notification of Acceptance</td>
+        <td>June 5, 2022</td>
+    </tr>
+    <tr>
+        <td><strong><span style="color:#DB442A">New-to-ISMIR Mentoring Program</span><strong></td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td><span style="text-decoration:line-through">Deadline for applying to mentorship program</span></td>
+        <td>&nbsp;<span style="text-decoration:line-through">February 28, 2022</span></td>
+    </tr>
+    <tr>
+        <td><span style="text-decoration:line-through">Deadline for applying to mentorship program</span></td>
+        <td>&nbsp;<span style="text-decoration:line-through">February 28, 2022</span></td>
+    </tr>
+    <tr>
+        <td>Deadline for mentees for paper submission</td>
+        <td>March 25, 2022</td>
+    </tr>
+    <tr>
+        <td>Notification for Mentor-Mentee match</td>
+        <td>March 28, 2022</td>
+    </tr>
+    <tr>
+        <td>Feedback from mentors</td>
+        <td>April 15, 2022</td>
+    </tr>
+    <tr>
+        <td>Further discussions [optional]</td>
+        <td>April 15-30, 2022</td>
     </tr>
 </table>
 
