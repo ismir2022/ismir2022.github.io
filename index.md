@@ -143,7 +143,6 @@ layout: home
     </tr>
 </table>
 
-
 <!-- | **Important Dates (AoE)** | | <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |:--------|---------:|:-------:|
 |**<span style="color:#DB442A">Papers</span>**| |^^|
