@@ -65,17 +65,21 @@ layout: home
 <!-- </div> -->
 <br>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
+<div class="embed-video">
+<div class="videoWrapper">
 <p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+</div>
 <br>
 
-<table border="0">
+<table border="0" width=100%>
     <tr>
-        <td> <strong>Important Dates (AoE)</strong> </td>
+        <td> <h3>Important Dates (AoE)</h3> </td>
         <td></td>
         <td rowspan="17"><a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr>
-        <td><strong><span style="color:#DB442A">Papers</span></strong></td>
+        <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
     </tr>
     <tr>
@@ -99,7 +103,7 @@ layout: home
         <td> August 9, 2022 </td>
     </tr>
     <tr>
-        <td><strong><span style="color:#DB442A">Tutorials</span></strong></td>
+        <td><h4><span style="color:#DB442A">Tutorials</span></h4></td>
         <td> </td>
     </tr>
     <tr>
@@ -115,7 +119,7 @@ layout: home
         <td>June 5, 2022</td>
     </tr>
     <tr>
-        <td><strong><span style="color:#DB442A">New-to-ISMIR Mentoring Program</span></strong></td>
+        <td><h4><span style="color:#DB442A">New-to-ISMIR Mentoring Program</span></h4></td>
         <td> </td>
     </tr>
     <tr>
