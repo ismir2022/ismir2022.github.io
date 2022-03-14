@@ -74,16 +74,16 @@ layout: home
 <table border="0">
     <tr>
         <td> <h3>Important Dates (AoE)</h3> </td>
-        <td></td>
-        <td rowspan="17"><a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+        <td align="right"></td>
+        <td rowspan="17" align="right"><a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr>
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
-        <td> </td>
+        <td align="right"> </td>
     </tr>
     <tr>
         <td>Submission site opening</td>
-        <td> April 22, 2022 </td>
+        <td align="right"> April 22, 2022 </td>
     </tr>
     <tr>
         <td>Abstract submission deadline</td>
@@ -189,6 +189,7 @@ layout: home
 {: .center-align}
 <br><br> -->
 
+<br><br>
 
 [![alt text][1.1]][1] [![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
 {: .center-align}
