@@ -68,7 +68,7 @@ layout: home
 <br><br>
 
  
-[![alt text][1.1]][1][![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
+[![alt text][1.1]][1] [![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
 {: .center-align}
 <!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> -->
 
