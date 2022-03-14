@@ -65,31 +65,26 @@ layout: home
 <!-- </div> -->
 <br>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br>
 
 ### Important Dates (AoE)
 
-**<span style="color:#DB442A">Papers</span>**
-
+|**<span style="color:#DB442A">Papers</span>**| |
+|:--------|---------:|
 | **Submission site opening** | April 22, 2022 |
-|:-----------------|:-------------|
 | **Abstract submission deadline** | May 13, 2022 |
 | **Full paper submission deadline** | May 20, 2022 |
 | **Notification of acceptance** | July 14, 2022 |
 | **Camera ready deadline** | August 9, 2022 |
-
-**<span style="color:#DB442A">Tutorials</span>**
-
+|**<span style="color:#DB442A">Tutorials</span>**| |
+|:--------|---------:|
 | **Proposal Submission** | April 17, 2022 |
-|:-----------------|:-------------|
 | **Revision** | April 24, 2022 |
 | **Notification of Acceptance** | June 5, 2022 |
-
-**<span style="color:#DB442A">New-to-ISMIR Mentoring Program</span>**
-
+|**<span style="color:#DB442A">New-to-ISMIR Mentoring Program</span>**| |
+|:--------|---------:|
 | **<span style="text-decoration:line-through">Deadline for applying to mentorship program</span>** | <span style="text-decoration:line-through">February 28, 2022</span> |
-|:-----------------|:-------------|
 | **Deadline for mentees for paper submission** | March 25, 2022 |
 | **Notification for Mentor-Mentee match** | March 28, 2022 |
 | **Feedback from mentors** | April 15, 2022 |
