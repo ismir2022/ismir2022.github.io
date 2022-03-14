@@ -153,7 +153,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/balaji.jpg">
         <figcaption>Balaji Thoshkahna</figcaption>
         </figure>
     </td>
@@ -243,7 +243,7 @@ table {
 <tr>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/albin.png">
         <figcaption>Albin Andrew Correya</figcaption>
         </figure>
     </td>
