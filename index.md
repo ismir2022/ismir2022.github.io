@@ -68,26 +68,60 @@ layout: home
 <p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br>
 
-| Important Dates (AoE) | | <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
-|<span style="color:#DB442A">Papers</span>| |^^|
-|:--------|---------:|^^|
+<table>
+    <tr>
+        <td> **Important Dates (AoE)** </td>
+        <td></td>
+        <td rowspan="7"><a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+    </tr>
+    <tr>
+        <td>**<span style="color:#DB442A">Papers</span>**</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Submission site opening</td>
+        <td> April 22, 2022 </td>
+    </tr>
+    <tr>
+        <td>Abstract submission deadline</td>
+        <td> May 13, 2022 </td>
+    </tr>
+    <tr>
+        <td>Full paper submission deadline</td>
+        <td> May 20, 2022 </td>
+    </tr>
+    <tr>
+        <td>Notification of acceptance</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr>
+        <td>Camera ready deadline</td>
+        <td> August 9, 2022 </td>
+    </tr>
+</table>
+
+
+<!-- | **Important Dates (AoE)** | | <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
+|:--------|---------:|:-------:|
+|**<span style="color:#DB442A">Papers</span>**| |^^|
+|:--------|---------:|:-------:|
 | Submission site opening | April 22, 2022 |^^|
 | Abstract submission deadline | May 13, 2022 |^^|
 | Full paper submission deadline | May 20, 2022 |^^|
 | Notification of acceptance | July 14, 2022 |^^|
 | Camera ready deadline | August 9, 2022 |^^|
 |**<span style="color:#DB442A">Tutorials</span>**| |^^|
-|:--------|---------:|^^|
+|:--------|---------:|:-------:|
 | Proposal Submission | April 17, 2022 |^^|
 | Revision | April 24, 2022 |^^|
 | Notification of Acceptance | June 5, 2022 |^^|
 |**<span style="color:#DB442A">New-to-ISMIR Mentoring Program</span>**| |^^|
-|:--------|---------:|^^|
+|:--------|---------:|:-------:|
 | <span style="text-decoration:line-through">Deadline for applying to mentorship program</span>**  |  &nbsp;<span style="text-decoration:line-through">February 28, 2022</span> |^^|
 | Deadline for mentees for paper submission | March 25, 2022 |^^|
 | Notification for Mentor-Mentee match | March 28, 2022 |^^|
 | Feedback from mentors | April 15, 2022 |^^|
-| Further discussions [optional | April 15-30, 2022 |^^|
+| Further discussions [optional | April 15-30, 2022 |^^| -->
 
 <!-- |<span style="color:#DB442A">Papers</span>| |
 |:--------|---------:|
