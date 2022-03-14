@@ -12,7 +12,7 @@ img.profile {
   border-radius: 50%;
 }
 table {
-  width:60%;
+  width:100%;
   border:0px solid black;
   text-align: center;
 }
