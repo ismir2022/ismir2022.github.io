@@ -68,22 +68,22 @@ layout: home
 <!-- </div> -->
 <br>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-<p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="300" height="215" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br>
 
 <table border="0">
     <tr>
         <td> <h3>Important Dates (AoE)</h3> </td>
         <td align="right"></td>
-        <td rowspan="17" align="right"><a class="twitter-timeline" data-width="300" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+        <td rowspan="17" align="right"><a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr>
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
-        <td align="right"> </td>
+        <td> </td>
     </tr>
     <tr>
         <td>Submission site opening</td>
-        <td align="right"> April 22, 2022 </td>
+        <td> April 22, 2022 </td>
     </tr>
     <tr>
         <td>Abstract submission deadline</td>
