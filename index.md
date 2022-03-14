@@ -64,7 +64,8 @@ layout: home
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br><br>
 
-<p align="center">[![alt text][1.1]][1][![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4]</p>
+[![alt text][1.1]][1][![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4]
+
 <!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> -->
 
 <p align="center"> <font size="-2"> &copy; 2022 ISMIR 2022. All rights reserved. ISMIR 2022 logo designed by <a href="https://mrinali.co/">Mrinali Kamath</a>.</font></p>
