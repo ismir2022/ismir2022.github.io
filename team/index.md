@@ -159,7 +159,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/joe-cheri.png">
         <figcaption>Joe Cheri Ross</figcaption>
         </figure>
     </td>
