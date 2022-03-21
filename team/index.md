@@ -171,7 +171,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/pratibha-moogi.jpeg">
+        <img class="image profile" src="/assets/team/pratibha-moogi.png">
         <figcaption>Pratibha Moogi</figcaption>
         </figure>
     </td>
