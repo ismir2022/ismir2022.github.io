@@ -64,7 +64,6 @@ table {
         </figure>
     </td>
   </tr>
-
   <tr>
     <td>
         <figure>
@@ -98,7 +97,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/ari-rama-murthy.jpeg">
         <figcaption>Sri Rama Murty K.</figcaption>
         </figure>
     </td>
@@ -134,7 +133,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/sumitra-ranganathan.jpg">
         <figcaption>Sumitra Ranganathan</figcaption>
         </figure>
     </td>
@@ -235,7 +234,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="">
+        <img class="image profile" src="/assets/team/ashvala-vinay.jpeg">
         <figcaption>Ashvala Vinay</figcaption>
         </figure>
     </td>
