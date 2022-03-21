@@ -191,7 +191,7 @@ layout: home
 <br>
 <!-- <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
 <div class="embed-responsive embed-responsive-16by9">
-  <p align="center"><iframe width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
+  <p align="center"><iframe width="150" class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
 </div>
 <br>
 [![alt text][1.1]][1] [![alt text][2.1]][2][![alt text][3.1]][3][![alt text][4.1]][4] 
