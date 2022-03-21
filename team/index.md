@@ -38,6 +38,12 @@ table {
         <figcaption>Hema Murthy</figcaption>
         </figure>
     </td>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/ajay-srinivasamurthy.png">
+        <figcaption>Ajay Srinivasamurthy</figcaption>
+        </figure>
+    </td>
   </tr>  
 </table>
 
@@ -163,6 +169,12 @@ table {
         <figcaption>Joe Cheri Ross</figcaption>
         </figure>
     </td>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/pratibha-moogi.jpeg">
+        <figcaption>Pratibha Moogi</figcaption>
+        </figure>
+    </td>
   </tr>  
 </table>
 
@@ -202,12 +214,6 @@ table {
 ### Technology/Local Organization
 <table>
 <tr>
-    <td>
-        <figure>
-        <img class="image profile" src="/assets/team/ajay-srinivasamurthy.png">
-        <figcaption>Ajay Srinivasamurthy</figcaption>
-        </figure>
-    </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/sharath.jpeg">
