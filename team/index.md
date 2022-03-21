@@ -97,7 +97,7 @@ table {
     </td>
     <td>
         <figure>
-        <img class="image profile" src="/assets/team/ari-rama-murthy.jpeg">
+        <img class="image profile" src="/assets/team/sri-rama-murthy.jpeg">
         <figcaption>Sri Rama Murty K.</figcaption>
         </figure>
     </td>
