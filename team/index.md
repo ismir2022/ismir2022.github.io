@@ -194,6 +194,12 @@ table {
         <figcaption>Xiao Hu</figcaption>
         </figure>
     </td>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/makarand-velankar.png">
+        <figcaption>Makarand Velankar</figcaption>
+        </figure>
+    </td>
   </tr>  
 </table>
 
