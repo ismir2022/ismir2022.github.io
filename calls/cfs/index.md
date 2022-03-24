@@ -60,7 +60,9 @@ described below:
 | Logo on conference bag | | |
 | Promotional video on screen at the banquet | | |
 
-
+       
+   
+ 
 In addition to Platinum, Gold and Silver tiers, we also offer sponsorship to ISMIR 2022 as a Supporter with the following limited benefits:
 
 |**Supporter**|
