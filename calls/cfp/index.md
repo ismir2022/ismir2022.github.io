@@ -37,7 +37,7 @@ _Full paper review:_ Each paper will be reviewed by at least three reviewers and
 
 _Double blind review:_ ISMIR follows a double-blind review process. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the author(s).
 
-_Evaluation criteria:_  Evaluation criteria include the novelty of the paper, scholarly/scientific quality, reusable insights, pioneering proposals, appropriateness of topic, potential impact, readability and paper organization. Papers which propose brave new ideas are valued.  It is helpful to read the reviewer guidelines at [https://ismir.net/reviewer-guidelines](https://ismir.net/reviewer-guidelines) before the paper submission.
+_Evaluation criteria:_  Evaluation criteria include scholarly/scientific quality, novelty of the paper, reusable insights, pioneering proposals, readability and paper organization, potential to generate discourse, and relevance of the topic to ISMIR. Papers which propose brave new ideas are valued.  It is helpful to read the reviewer guidelines at [https://ismir.net/reviewer-guidelines](https://ismir.net/reviewer-guidelines) before the paper submission.
 
 ### Submission Process
 _Submission site:_ [TBA]
