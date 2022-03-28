@@ -126,8 +126,8 @@ layout: home
         <td>&nbsp;<span style="text-decoration:line-through">February 28, 2022</span></td>
     </tr>
     <tr>
-        <td>Deadline for mentees for paper submission</td>
-        <td>March 25, 2022</td>
+        <td><span style="text-decoration:line-through">Deadline for mentees for paper submission</span></td>
+        <td><span style="text-decoration:line-through">March 25, 2022</span></td>
     </tr>
     <tr>
         <td>Notification for Mentor-Mentee match</td>
