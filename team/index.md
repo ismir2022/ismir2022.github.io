@@ -110,13 +110,13 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/siddharth-gururani.png">
-        <figcaption>Siddharth Gururani</figcaption>
+        <figcaption>Siddharth<br>Gururani</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/sanjeel-parekh.png">
-        <figcaption>Sanjeel Parekh</figcaption>
+        <figcaption>Sanjeel<br>Parekh</figcaption>
         </figure>
     </td>
   </tr>  
@@ -134,7 +134,7 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/sumitra-ranganathan.jpg">
-        <figcaption>Sumitra Ranganathan</figcaption>
+        <figcaption>Sumitra<br>Ranganathan</figcaption>
         </figure>
     </td>
   </tr>  
