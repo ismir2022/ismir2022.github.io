@@ -5,8 +5,8 @@ layout: page
 img.profile {
   display: inline;
   margin: 0 auto;
-  width: 100px;
-  height: 100px;
+  width: 7em;
+  height: 7em;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
