@@ -29,19 +29,19 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/preeti-rao.png">
-        <figcaption>Preeti Rao</figcaption>
+        <figcaption>Preeti<br>Rao</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/hema-murthy.png">
-        <figcaption>Hema Murthy</figcaption>
+        <figcaption>Hema<br>Murthy</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/ajay-srinivasamurthy.png">
-        <figcaption>Ajay Srinivasamurthy</figcaption>
+        <figcaption>Ajay<br>Srinivasamurthy</figcaption>
         </figure>
     </td>
   </tr>  
@@ -54,13 +54,13 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/masataka-goto.jpg">
-        <figcaption>Masataka Goto</figcaption>
+        <figcaption>Masataka<br>Goto</figcaption>
         </figure>
     </td>
     <td>
         <figure>
             <img class="image profile" src="/assets/team/rachel-bittner.jpeg">
-            <figcaption>Rachel Bittner</figcaption>
+            <figcaption>Rachel<br>Bittner</figcaption>
         </figure>
     </td>
   </tr>
@@ -68,13 +68,13 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/rafael-caro-repetto.jpg">
-        <figcaption>Rafael Caro</figcaption>
+        <figcaption>Rafael<br>Caro</figcaption>
         </figure>
     </td>
     <td>
         <figure>
             <img class="image profile" src="/assets/team/xavier-serra.png">
-            <figcaption>Xavier Serra</figcaption>
+            <figcaption>Xavier<br>Serra</figcaption>
         </figure>
     </td>
   </tr>
@@ -86,19 +86,19 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/vipul-arora.png">
-        <figcaption>Vipul Arora</figcaption>
+        <figcaption>Vipul<br>Arora</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/keunwoo-choi.jpeg">
-        <figcaption>Keunwoo Choi</figcaption>
+        <figcaption>Keunwoo<br>Choi</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/sri-rama-murthy.jpeg">
-        <figcaption>Sri Rama Murty K.</figcaption>
+        <figcaption>Sri Rama<br>Murty K.</figcaption>
         </figure>
     </td>
   </tr>  
@@ -159,19 +159,19 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/balaji.jpg">
-        <figcaption>Balaji Thoshkahna</figcaption>
+        <figcaption>Balaji<br>Thoshkahna</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/joe-cheri.png">
-        <figcaption>Joe Cheri Ross</figcaption>
+        <figcaption>Joe Cheri<br>Ross</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/pratibha-moogi.png">
-        <figcaption>Pratibha Moogi</figcaption>
+        <figcaption>Pratibha<br>Moogi</figcaption>
         </figure>
     </td>
   </tr>  
@@ -185,19 +185,19 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/ranjani.png">
-        <figcaption>Ranjani H G</figcaption>
+        <figcaption>Ranjani<br>H G</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/xiao-hu.png">
-        <figcaption>Xiao Hu</figcaption>
+        <figcaption>Xiao<br>Hu</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/makarand-velankar.png">
-        <figcaption>Makarand Velankar</figcaption>
+        <figcaption>Makarand<br>Velankar</figcaption>
         </figure>
     </td>
   </tr>  
@@ -222,13 +222,13 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/sharath.jpeg">
-        <figcaption>Sharath Adavanne</figcaption>
+        <figcaption>Sharath<br>Adavanne</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/chandrasekhar.png">
-        <figcaption>Chandra Sekhar Seelamantula</figcaption>
+        <figcaption>Chandra Sekhar<br>Seelamantula</figcaption>
         </figure>
     </td>
   </tr>  
@@ -241,13 +241,13 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/chitralekha-gupta.png">
-        <figcaption>Chitralekha Gupta</figcaption>
+        <figcaption>Chitralekha<br>Gupta</figcaption>
         </figure>
     </td>
     <td>
         <figure>
         <img class="image profile" src="/assets/team/ashvala-vinay.jpeg">
-        <figcaption>Ashvala Vinay</figcaption>
+        <figcaption>Ashvala<br>Vinay</figcaption>
         </figure>
     </td>
   </tr>  
