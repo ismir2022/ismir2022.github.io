@@ -225,6 +225,12 @@ table {
         <figcaption>Sharath Adavanne</figcaption>
         </figure>
     </td>
+    <td>
+        <figure>
+        <img class="image profile" src="/assets/team/chandrasekhar.png">
+        <figcaption>Chandra Sekhar Seelamantula</figcaption>
+        </figure>
+    </td>
   </tr>  
 </table>
 
