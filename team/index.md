@@ -128,7 +128,7 @@ table {
     <td>
         <figure>
         <img class="image profile" src="/assets/team/kaustuv-kanti-ganguli.png">
-        <figcaption>Kaustuv Kanti Ganguli</figcaption>
+        <figcaption>Kaustuv Kanti<br>Ganguli</figcaption>
         </figure>
     </td>
     <td>
