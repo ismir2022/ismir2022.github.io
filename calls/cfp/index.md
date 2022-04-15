@@ -55,7 +55,7 @@ _Presenting authors:_  At least one author of each accepted paper must register 
 _Publication:_ Accepted papers will be published on the conference website and on an open access repository [TBD] using a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 ### Submission Requirements
-_Paper format:_ Papers must be formatted using the ISMIR 2022 templates (LaTeX or Word). Authors are required to submit their papers in PDF format. Submissions that manipulate the template (e.g., by decreasing margins or font sizes) may be rejected without review. All fonts need to be embedded within the PDF.
+_Paper format:_ Papers must be formatted using the ISMIR 2022 templates ([LaTeX](https://github.com/ismir/paper_templates/tree/master/2022/latex)/[Overleaf](https://www.overleaf.com/latex/templates/paper-template-for-ismir-2022/zqcwpbqntdsh) or [Word](https://github.com/ismir/paper_templates/tree/master/2022/word)). Authors are required to submit their papers in PDF format. Submissions that manipulate the template (e.g., by decreasing margins or font sizes) may be rejected without review. All fonts need to be embedded within the PDF.
 
 _Paper length:_ Papers must contain at most 6 pages of scientific content (including figures and tables), with additional optional pages that contain only references and acknowledgments. Overlength papers will be rejected without review.
 
