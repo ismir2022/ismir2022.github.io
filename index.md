@@ -98,8 +98,8 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">March 25, 2022</span></td>
     </tr>
     <tr class="mubx">
-        <td>Notification for Mentor-Mentee match</td>
-        <td>March 28, 2022</td>
+        <td><span style="text-decoration:line-through">Notification for Mentor-Mentee match</span></td>
+        <td><span style="text-decoration:line-through">March 28, 2022</span></td>
     </tr>
     <tr class="mubx">
         <td>Feedback from mentors</td>
