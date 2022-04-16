@@ -12,7 +12,7 @@ title: International Society for Music Information Retrieval
 
 ### Important Dates:
 - _Submission site opening:_ April 22, 2022
-- _Abtract submission deadline:_ May 13, 2022
+- _Abstract submission deadline:_ May 13, 2022
 - _Full paper submission deadline:_ May 20, 2022
 - _Notification of acceptance:_ July 14, 2022
 - _Camera ready deadline:_ August 9, 2022
