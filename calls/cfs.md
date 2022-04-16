@@ -36,7 +36,7 @@ described below:
 
 ### ISMIR 2022 Sponsorship Packages
 
-| <span style="color:grey">**Platinum**</span>                                                                | <span style="color:gold">**Gold**</span>     | <span style="color:silver">**Silver**</span> |
+| <span style="color:grey; float:left;">**Platinum**</span>                                                                | <span style="color:gold; float:left;">**Gold**</span>     | <span style="color:silver; float:left;">**Silver**</span> |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **INR 750,000**                                                             | **INR 400,000**                                                              | **INR 200,000**                                                             |
 | Large sized logo and company name on the conference website and proceedings | Medium sized logo and company name on the conference website and proceedings | Small sized logo and company name on the conference website and proceedings |
@@ -63,8 +63,9 @@ described below:
    
  
 In addition to Platinum, Gold and Silver tiers, we also offer sponsorship to ISMIR 2022 as a Supporter with the following limited benefits:
+<br><br>
 
-|**Supporter**|
+|<span style="float:left;">**Supporter**</span>|
 |---------|
 |**INR 100,000**|
 |Small sized logo and company name on the conference website and proceedings|
@@ -74,7 +75,7 @@ In addition to Platinum, Gold and Silver tiers, we also offer sponsorship to ISM
 
 ### WiMIR Sponsorship Packages
 
-| **Patron** | **Contributor** | **Supporter** |
+|<span style="float:left;">**Patron**</span>|<span style="float:left;">**Contributor**</span>|<span style="float:left;">**Supporter**</span>|
 |------------|-----------------|---------------|
 | **INR 350,000** |  **INR 150,000** | **INR 75,000** |
 | Social media acknowledgment through WiMIR’s Twitter account | Social media acknowledgment through WiMIR’s Twitter account | Social media acknowledgment through WiMIR’s Twitter account |
@@ -92,5 +93,5 @@ on the sponsorship opportunities available, have any further questions or need
 additional information about ISMIR 2022.
 
 Joe Cheri Ross, Balaji Thoshkahna, Pratibha Moogi
+<br>
 Sponsorship Chairs, ISMIR 2022
-[https://ismir2022.ismir.net](https://ismir2022.ismir.net)
