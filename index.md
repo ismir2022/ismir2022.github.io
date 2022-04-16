@@ -21,9 +21,9 @@ title: International Society for Music Information Retrieval
     <p> Notification of Acceptance: June 5, 2022 </p>
     <h4 style="color:#DB442A">New-to-ISMIR Mentoring Program</h4>
     <strike><p>Deadline for applying to mentorship program: February 28, 2022</p></strike>
-    <p>Deadline for mentees for paper submission: March 25, 2022</p>
-    <p>Notification for Mentor-Mentee match: March 28, 2022</p>
-    <p>Feedback from mentors: April 15, 2022</p>
+    <strike><p>Deadline for mentees for paper submission: March 25, 2022</p></strike>
+    <strike><p>Notification for Mentor-Mentee match: March 28, 2022</p></strike>
+    <strike><p>Feedback from mentors: April 15, 2022</p></strike>
     <p>Further discussions [optional]: April 15-30, 2022</p>
     <br>
     </div>
@@ -159,7 +159,6 @@ title: International Society for Music Information Retrieval
 {: .center-align}
 <br><br> -->
 <br>
-<p align="center"><iframe width="300" height="160" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <!-- <div class="embed-responsive embed-responsive-16by9">
   <p align="center"><iframe width="150" class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
 </div> -->
