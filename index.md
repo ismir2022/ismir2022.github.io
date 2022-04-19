@@ -102,8 +102,8 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">March 28, 2022</span></td>
     </tr>
     <tr class="mubx">
-        <td>Feedback from mentors</td>
-        <td>April 15, 2022</td>
+        <td><span style="text-decoration:line-through">Feedback from mentors</span></td>
+        <td><span style="text-decoration:line-through">April 15, 2022</span></td>
     </tr>
     <tr class="mubx">
         <td>Further discussions [optional]</td>
