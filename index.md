@@ -10,7 +10,16 @@ title: International Society for Music Information Retrieval
 
 <h3>Important Dates (AoE)</h3>
 
-<div class="tiwit"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="tiwit">
+<h4>Highlights</h4>
+<ul>
+<li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission</li>
+<li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a></li>
+<li>ISMIR 2022 paper submission site is now open! For more info, check out the <a href="https://ismir2022.ismir.net/calls/cfp">Call for Papers</a>.</li>
+</ul>
+<a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 <table class="dutab" rules=none>
     <tr class="mubx">
