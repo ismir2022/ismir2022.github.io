@@ -116,6 +116,9 @@ header{
     /* text-align: center; */
     padding-bottom: 20vh;
 }
+.headline a:hover {
+    
+    }
 
 @media screen and (max-width: 768px) {
     /* .bgimg {
