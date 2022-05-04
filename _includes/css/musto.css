@@ -894,6 +894,6 @@ a:first-child:hover{
   }
 .supporter-wrapper {
     img {
-      max-width: 90px;
+      max-width: 1em;
     }
 }
