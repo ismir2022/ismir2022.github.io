@@ -11,16 +11,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
             <td class="supporter-wrapper">
-                <a href="https://www.acrcloud.com/" target="_blank"><img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="avatar"></a>
-            </td>
-            <td class="supporter-wrapper">
-                <!-- <img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="avatar"> -->
-            </td>
-            <td class="supporter-wrapper">
-                <!-- <img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="avatar"> -->
-            </td>
-            <td class="supporter-wrapper">
-                <!-- <img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="avatar"> -->
+                <a href="https://www.acrcloud.com/" target="_blank"><img src="/assets/sponsors/ACRCloud-logo.png"></a>
             </td>
         </tr>
 </table>

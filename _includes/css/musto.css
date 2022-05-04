@@ -880,20 +880,24 @@ a:first-child:hover{
 .platinum-wrapper{
     img {
       max-width: 330px;
+      text-align: left;
     }
   }
 .gold-wrapper {
     img {
       max-width: 230px;
+      text-align: left;
     }
   }
 .silver-wrapper {
     img {
       max-width: 150px;
+      text-align: left;
     }
   }
 .supporter-wrapper {
     img {
       max-width: 90px;
+      text-align: left;
     }
 }
