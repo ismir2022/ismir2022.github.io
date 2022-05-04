@@ -10,9 +10,9 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
-            <td class="mugol">
-                <a href="https://www.acrcloud.com/" target="_blank"><img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="supporter-wrapper"></a>
-            </td>
-        </tr>
+        <td class="huidas">
+            <a href="https://www.acrcloud.com/" target="_blank"><img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="supporter-wrapper"></a>
+        </td>
+    </tr>
 </table>
 <br><br>
