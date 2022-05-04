@@ -878,22 +878,18 @@ a:first-child:hover{
 }
 
 .platinum-wrapper{
-    img {
-      max-width: 330px;
-    }
+        width: 330px;
+        height: auto;
   }
 .gold-wrapper {
-    img {
-      max-width: 230px;
-    }
+        width: 230px;
+        height: auto;
   }
 .silver-wrapper {
-    img {
-      max-width: 150px;
-    }
+        width: 150px;
+        height: auto;
   }
 .supporter-wrapper {
-    img {
-      max-width: 1em;
-    }
+        width: 90px;
+        height: auto;
 }
