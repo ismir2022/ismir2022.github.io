@@ -876,3 +876,24 @@ a:first-child:hover{
         padding-top: 2em;
     }
 }
+
+.platinum-wrapper{
+    img {
+      max-width: 330px;
+    }
+  }
+.gold-wrapper {
+    img {
+      max-width: 230px;
+    }
+  }
+.silver-wrapper {
+    img {
+      max-width: 150px;
+    }
+  }
+.supporter-wrapper {
+    img {
+      max-width: 90px;
+    }
+}
