@@ -116,9 +116,6 @@ header{
     /* text-align: center; */
     padding-bottom: 20vh;
 }
-.headline a:hover {
-    
-    }
 
 @media screen and (max-width: 768px) {
     /* .bgimg {
@@ -319,6 +316,31 @@ li span {
     .blessit{
         font-size: 1.6em;
     }
+}
+
+.scrolldown {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.scrolldown tbody {
+    display: block;
+}
+
+.scrolldown tbody {
+    
+    height: 15vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.scrolldown tbody td {
+    text-align:left;
+    width : 100vw;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 1vh;
 }
   
   /* The actual content */

@@ -7,7 +7,7 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n"
+		"$backgroundColor: #ffffff;\r\n$bodyColor: #000000;\r\n$bodyFont: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\r\n\r\nbody {\r\n  background: $backgroundColor;\r\n  color: $bodyColor;\r\n  font-family: $bodyFont;\r\n}\r\n"
 	],
 	"names": [],
 	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,aAAa,EAAC,kBAAkB,EAAC,UAAU,EAAC,SAAS,EAAC,KAAK,EAAC,UAAU,EAAC,mBAAmB,EAAC,gBAAgB,EAAC,iBAAiB,GAMvI"

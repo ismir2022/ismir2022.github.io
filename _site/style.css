@@ -317,6 +317,31 @@ li span {
         font-size: 1.6em;
     }
 }
+
+.scrolldown {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.scrolldown tbody {
+    display: block;
+}
+
+.scrolldown tbody {
+    
+    height: 15vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.scrolldown tbody td {
+    text-align:left;
+    width : 100vw;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 1vh;
+}
   
   /* The actual content */
 .content {
@@ -872,5 +897,22 @@ a:first-child:hover{
         display: block;
         padding-top: 2em;
     }
+}
+
+.platinum-wrapper{
+        width: 330px;
+        height: auto;
+  }
+.gold-wrapper {
+        width: 230px;
+        height: auto;
+  }
+.silver-wrapper {
+        width: 150px;
+        height: auto;
+  }
+.supporter-wrapper {
+        width: 90px;
+        height: auto;
 }
 
