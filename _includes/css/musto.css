@@ -409,16 +409,37 @@ a:first-child:hover{
 .platinum-wrapper{
         width: 330px;
         height: auto;
-  }
+}
+
 .gold-wrapper {
-        width: 230px;
+        width: 20em;
         height: auto;
-  }
+}
+
 .silver-wrapper {
-        width: 150px;
+        width: 10em;
         height: auto;
-  }
+}
+
 .supporter-wrapper {
-        width: 90px;
+        width: 5em;
         height: auto;
+}
+
+.pdfviewer{
+    height: 100vh;
+    width: 80vw;
+}
+
+.downloadpdf{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .pdfviewer{
+        display: none;
+    }
+    .downloadpdf{
+        display: block;
+    }
 }
