@@ -5,7 +5,7 @@ title: International Society for Music Information Retrieval
 
 <br>
 
-# Review Process
+# Review Form
 <br>
 
 <!-- <iframe class="pdfviewer" src="assets\ISMIR2022-ReviewForm.pdf#toolbar=0" /> -->
