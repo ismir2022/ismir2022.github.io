@@ -12,7 +12,7 @@ title: International Society for Music Information Retrieval
 <table class="scrolldown" rules=none>
 		<tbody>
             <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a></li></td>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
             </tr>
 			<tr>
 				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
