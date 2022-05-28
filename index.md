@@ -20,9 +20,9 @@ title: International Society for Music Information Retrieval
 			<tr>
 				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td><li><a href="https://cmt3.research.microsoft.com/ISMIR2022/"><span style="text-decoration:line-through">ISMIR 2022 paper submission site</span></a><span style="text-decoration:line-through"> is now open! For more info, check out the </span><a href="https://ismir2022.ismir.net/calls/cfp"><span style="text-decoration:line-through">Call for Papers</span></a>.</li></td>
-			</tr>
+			</tr> -->
 		</tbody>
 </table>
 
