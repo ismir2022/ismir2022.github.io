@@ -8,7 +8,7 @@ title: International Society for Music Information Retrieval
 <table class="customtable">
     <tr>
         <td class="teamsection" colspan="4">
-            <h2 style="color:#C9B037;">Contributor</h2>
+            <h2 class="sponsorhead" style="background-color:#c8b037;">Contributor</h2>
         </td>
     </tr>
     <tr>
@@ -19,7 +19,7 @@ title: International Society for Music Information Retrieval
     <tr></tr>
     <tr>
         <td class="teamsection" colspan="4">
-            <h2 style="color:#BFBFBF;">Supporter</h2>
+            <h2 class="sponsorhead" style="background-color:#d9d9d9;">Supporter</h2>
         </td>
     </tr>
     <tr>
