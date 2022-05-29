@@ -17,7 +17,9 @@ title: International Society for Music Information Retrieval
             <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
-    <br> <br>
+    <tr>
+       <br>
+    </tr>
     <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#d9d9d9;">Silver</h2>
@@ -28,7 +30,9 @@ title: International Society for Music Information Retrieval
             <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
     </tr>
-    <br> <br>
+    <tr>
+       <br>
+    </tr>
     <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#ff944d;">Supporter</h2>
