@@ -16,7 +16,7 @@ title: International Society for Music Information Retrieval
             <a href="https://www.adobe.com" target="_blank"><img src="../assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
-    <br> <br>
+    <tr></tr>
     <tr>
         <td class="teamsection" colspan="4">
             <h2 style="color:#BFBFBF;">Supporter</h2>
