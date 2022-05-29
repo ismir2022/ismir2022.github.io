@@ -6,7 +6,7 @@ title: International Society for Music Information Retrieval
 <table class="customtable">
     <tr>
         <td class="teamsection" colspan="4">
-            <h2 style="color:#C9B037;">Gold</h2>
+            <h2 class="sponsorhead" style="color:#c8b037;">Gold</h2>
         </td>
     </tr>
     <tr>
@@ -17,10 +17,10 @@ title: International Society for Music Information Retrieval
             <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
-    <br>
+    <br> <br>
     <tr>
         <td class="teamsection" colspan="4">
-            <h2 style="color:#BFBFBF;">Silver</h2>
+            <h2 class="sponsorhead" style="color:#d9d9d9;">Silver</h2>
         </td>
     </tr>
     <tr>
@@ -28,10 +28,10 @@ title: International Society for Music Information Retrieval
             <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
     </tr>
-    <br>
+    <br> <br>
     <tr>
         <td class="teamsection" colspan="4">
-            <h2 style="color:#6A3805;">Supporter</h2>
+            <h2 class="sponsorhead" style="color:#ff944d;">Supporter</h2>
         </td>
     </tr>
     <tr>
