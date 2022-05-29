@@ -18,7 +18,7 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
-       <br>
+       <td>&nbsp;</td>
     </tr>
     <tr>
         <td class="teamsection" colspan="4">
@@ -31,7 +31,7 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
-       <br>
+       <td>&nbsp;</td>
     </tr>
     <tr>
         <td class="teamsection" colspan="4">
