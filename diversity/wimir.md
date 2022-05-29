@@ -6,6 +6,11 @@ title: International Society for Music Information Retrieval
 
 <h1>Sponsors</h1>
 <table class="customtable">
+    <!-- <tr>
+        <td class="teamsection" colspan="4">
+            <h2 class="sponsorhead" style="background-color:#8f8a8a;">Patron</h2>
+        </td>
+    </tr> -->
     <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Contributor</h2>
