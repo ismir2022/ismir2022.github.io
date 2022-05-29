@@ -14,7 +14,7 @@ title: International Society for Music Information Retrieval
             <a href="https://indsca.web.app/about" target="_blank"><img src="/assets/sponsors/IndSCA-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
         <td class="teamsection">
-            <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.ai" alt="Avatar" class="gold-wrapper"></a>
+            <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection">
-            <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.png" alt="Avatar" class="silver-wrapper"></a>
+            <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.jpg" alt="Avatar" class="silver-wrapper"></a>
         </td>
     </tr>
     <tr>
