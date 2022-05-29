@@ -11,7 +11,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection">
-            <a href="https://indsca.web.app/about" target="_blank"><img src="/assets/sponsors/IndSCA-logo.png" alt="Avatar" class="gold-wrapper"></a>
+            <a href="https://indsca.web.app/about" target="_blank"><img src="/assets/sponsors/IndSCA-logo.png" alt="Avatar" width=180px></a>
         </td>
         <td class="teamsection">
             <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
