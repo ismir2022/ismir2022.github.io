@@ -240,7 +240,6 @@ button{
   
 .dropdown {
     float: left;
-    /* float: right; */
     overflow: hidden;
 }
   
@@ -405,25 +404,78 @@ a:first-child:hover{
         padding-top: 2em;
     }
 }
+.sponsorhead {
+    border: none;
+    width: 8.32em;
+    padding: 0.6em 1.2em;
+    display: inline-block;
+    border-radius: 4px;
+    box-shadow:
+      0 0.1em 0 rgba(255, 255, 255, 0.25),
+      0 0.1em 0 rgba(255, 255, 255, 0.25) inset,
+      0 0 0 rgba(0, 0, 0, 0.5) inset,
+      0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
+      0 -1.25rem 1.25rem rgba(0, 0, 0, 0.3) inset,
+      0 1.25rem 1.25rem rgba(255, 255, 255, 0.1) inset;
+  
+}
+
+.small-gold-wrapper {
+    width: 12em;
+    height: auto;
+}
 
 .platinum-wrapper{
-        width: 330px;
-        height: auto;
+    width: 20em;
+    height: auto;
 }
 
 .gold-wrapper {
-        width: 20em;
-        height: auto;
+    width: 14em;
+    height: auto;
 }
 
 .silver-wrapper {
-        width: 10em;
-        height: auto;
+    width: 10em;
+    height: auto;
 }
 
 .supporter-wrapper {
-        width: 5em;
-        height: auto;
+    width: 5em;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+
+    .sponsorhead{
+        width: 8em;
+    }
+
+    .teamsection{
+        display: block;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .small-gold-wrapper {
+        width: 8em;
+    }
+    
+    .platinum-wrapper{
+        width: 12em;
+    }
+    
+    .gold-wrapper {
+        width: 10em;
+    }
+    
+    .silver-wrapper {
+        width: 6em;
+    }
+    
+    .supporter-wrapper {
+        width: 4em;
+    }
 }
 
 .pdfviewer{
