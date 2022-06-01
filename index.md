@@ -76,8 +76,8 @@ title: International Society for Music Information Retrieval
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td><span style="text-decoration:line-through">LBD Submission Deadline</span></td>
-        <td>&nbsp;<span style="text-decoration:line-through">TBD</span></td>
+        <td>LBD Submission Deadline</td>
+        <td>&nbsp;TBD</td>
     </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">New-to-ISMIR Mentoring Program</span></h4></td>
