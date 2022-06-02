@@ -2,4 +2,5 @@
 layout: page
 title: International Society for Music Information Retrieval
 ---
-# Coming Soon
+# Accepted Tutorials at ISMIR 2022
+Coming Soon!
