@@ -21,6 +21,9 @@ title: International Society for Music Information Retrieval
         <td class="teamsection">
             <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
+        <td class="teamsection">
+            <a href="https://deezer.com" target="_blank"><img src="/assets/sponsors/deezer_logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
     </tr>
     <tr>
        <td>&nbsp;</td>

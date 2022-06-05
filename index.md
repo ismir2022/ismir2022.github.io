@@ -72,6 +72,14 @@ title: International Society for Music Information Retrieval
         <td>June 5, 2022</td>
     </tr>
     <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Late-Breaking Demo</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>LBD Submission Deadline</td>
+        <td>&nbsp;TBD</td>
+    </tr>
+    <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">New-to-ISMIR Mentoring Program</span></h4></td>
         <td> </td>
     </tr>

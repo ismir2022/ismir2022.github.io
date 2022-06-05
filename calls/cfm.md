@@ -2,4 +2,6 @@
 layout: page
 title: International Society for Music Information Retrieval
 ---
-# Coming Soon
+# Call for Music
+
+Coming Soon!
