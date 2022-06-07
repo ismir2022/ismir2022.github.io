@@ -20,7 +20,7 @@ title: International Society for Music Information Retrieval
     <tr>
         <td class="avatarbox">
             <img src="assets\volunteers\gowriprasad-r.jpg" alt="Avatar" class="avatar">
-            <p class = "avatarname">Gowriprasad R.jpg</p>    
+            <p class = "avatarname">Gowriprasad R</p>    
         </td>
         <td class="volunteerinfo">
             <p>Gowriprasad R is a Ph.D. student at the Indian Institute of Technology, Madras, India. He is interested in MIR tasks in Indian rhythm. He plays the Indian percussion instrument Tabla.</p>
