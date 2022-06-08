@@ -4,6 +4,14 @@ title: International Society for Music Information Retrieval
 ---
 # WiMIR
 
+The following are the various Diversity & Inclusion (D&I) initiatives of ISMIR 2022:
+* New-to-ISMIR paper mentoring program
+* WiMIR keynote (Dr. Richa Singh, IITD http://home.iitj.ac.in/~richa/)
+* WiMIR plenary session (TBA)
+* WiMIR workshops (TBA)
+* D&I waivers & grants (TBA)
+
+We thank our 2022 sponsors for their generous and vital continuation of support of these important initiatives. These sponsorships will make possible the financial  support to ISMIR attendees, including grants to cover registration fees, paper publication fees, etc.
 <h1>Sponsors</h1>
 <table class="customtable">
     <tr>
