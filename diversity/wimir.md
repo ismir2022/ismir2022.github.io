@@ -23,6 +23,9 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
         <td class="teamsection">
             <a href="https://deezer.com" target="_blank"><img src="../assets/sponsors/deezer_logo.png" alt="Avatar" class="platinum-wrapper"></a>
         </td>
+        <td class="teamsection">
+            <a href="https://research.atspotify.com/" target="_blank"><img src="../assets/sponsors/Spotify-logo.png" alt="Avatar" class="platinum-wrapper"></a>
+        </td>
     </tr>
     <tr>
         <td class="teamsection" colspan="4">

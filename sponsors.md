@@ -4,11 +4,16 @@ title: International Society for Music Information Retrieval
 ---
 <h1>Sponsors</h1>
 <table class="customtable">
-    <!-- <tr>
+    <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#8f8a8a;">Platinum</h2>
         </td>
-    </tr> -->
+    </tr>
+    <tr>
+        <td class="teamsection">
+            <a href="https://research.atspotify.com/" target="_blank"><img src="/assets/sponsors/Spotify-logo.png" alt="Avatar" class="platinum-wrapper"></a>
+        </td>
+    </tr>
     <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
