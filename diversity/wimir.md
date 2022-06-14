@@ -28,6 +28,9 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
         </td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Contributor</h2>
         </td>

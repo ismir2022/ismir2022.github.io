@@ -15,6 +15,9 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
         </td>
