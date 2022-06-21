@@ -68,8 +68,8 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">April 24, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Notification of Acceptance</td>
-        <td>June 5, 2022</td>
+        <td><span style="text-decoration:line-through">Notification of Acceptance</span></td>
+        <td><span style="text-decoration:line-through">June 5, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Late-Breaking Demo</span></h4></td>
