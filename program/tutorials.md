@@ -4,8 +4,7 @@ title: International Society for Music Information Retrieval
 ---
 
 **Contents**
-* TOC
-{:toc}
+{% include toc.html %}
 
 # Accepted Tutorials at ISMIR 2022
 
