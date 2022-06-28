@@ -39,6 +39,9 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
         <td class="teamsection">
             <a href="https://www.adobe.com" target="_blank"><img src="../assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
+        <td class="teamsection">
+            <a href="https://www.izotope.com/" target="_blank"><img src="../assets/sponsors/Izotope_Logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
     </tr>
     <tr>
        <td>&nbsp;</td>

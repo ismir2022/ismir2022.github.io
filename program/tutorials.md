@@ -3,11 +3,6 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 
-**Contents**
-{% include toc.html %}
-
-# Accepted Tutorials at ISMIR 2022
-
 # 1. An Introduction to Symbolic Music Processing in Python with Partitura
 
 Symbolic music formats (e.g., MIDI, MusicXML/MEI) can provide a variety of high-level musical information like note pitch and duration, key/time signature, beat/downbeat position, etc. Such data can be used as both input/training data and as ground truth for MIR systems.
