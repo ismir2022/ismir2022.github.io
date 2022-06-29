@@ -92,6 +92,6 @@ Please contact us at ismir2022-sponsorship@ismir.net if you wish to discuss furt
 on the sponsorship opportunities available, have any further questions or need
 additional information about ISMIR 2022.
 
-Joe Cheri Ross, Balaji Thoshkahna, Pratibha Moogi
+Joe Cheri Ross, Pratibha Moogi, Rishikesh Daoo
 <br>
 Sponsorship Chairs, ISMIR 2022
