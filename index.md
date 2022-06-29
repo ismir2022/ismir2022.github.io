@@ -55,6 +55,49 @@ title: International Society for Music Information Retrieval
         <td>Camera ready deadline</td>
         <td> August 9, 2022 </td>
     </tr>
+    <!--
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Music</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>First Call for Music</td>
+        <td> TBA </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Music submission deadline</td>
+        <td> TBA </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Notification of Acceptance</td>
+        <td> TBA </td>
+    </tr>
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Registration</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Registration portal opens</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Author registration deadline</td>
+        <td> August 12, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Early-bird registration deadline</td>
+        <td> August 31, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Online registration closes (only for in-person attendance)</td>
+        <td> November 27, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Registration at the venue (in-person attendance)</td>
+        <td> December 04-08, 2022 </td>
+    </tr>
+
+    -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Tutorials</span></h4></td>
         <td> </td>
