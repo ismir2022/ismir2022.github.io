@@ -95,9 +95,7 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td>Registration at the venue (in-person attendance)</td>
         <td> December 04-08, 2022 </td>
-    </tr>
-
-    -->
+    </tr> -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Tutorials</span></h4></td>
         <td> </td>
