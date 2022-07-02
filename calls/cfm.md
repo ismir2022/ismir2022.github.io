@@ -39,8 +39,10 @@ Only one submission per participant will be accepted. Pieces have to be shorter 
 ## Questions
 Questions can be directed to [email](mailto:ismir2022-music@ismir.net) 
 
-Best,
+Best Regards,
+
 Kaustuv Kanti Ganguli, Sumitra Ranganathan
-ISMIR 2022 Music Program Chair
+
+ISMIR 2022 Music Program Chairs
 
 
