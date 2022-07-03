@@ -2,7 +2,7 @@
 layout: page
 title: International Society for Music Information Retrieval
 ---
-# Indian Music Experience Workshop
+# Indian Music Experience (IME) Workshop
 
 ## December 9, 2022 (Friday)
 
