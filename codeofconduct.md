@@ -1,3 +1,8 @@
+---
+layout: page
+title: International Society for Music Information Retrieval
+---
+
 # ISMIR 2022 Code of Conduct
 
 ISMIR 2022 is committed to providing a harassment-free experience for everyone. All attendees, speakers, sponsors, and volunteers at our conference are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
@@ -49,4 +54,4 @@ Participants asked to stop any harassing or inappropriate behaviour are expected
 ### Scope
 This Code of Conduct applies to all ISMIR 2022 activities including physical and virtual talks, poster sessions, tutorials, workshops, social events, Twitter, and other online media.
 
-This work, "ISMIR2022 Code of Conduct", is a derivative of ["Conference Code of Conduct"](http://confcodeofconduct.com/) by [Conference Code of Conduct](https://github.com/confcodeofconduct), licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US). We also adapt content from the [SPE-Inspiring Plastics Professionals Virtual Meetings Conduct Policy](https://www.4spe.org/i4a/pages/index.cfm?pageID=5720). "ISMIR 2022 Code of Conduct" is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US) by ISMIR 2022.
+This work, "ISMIR 2022 Code of Conduct", is a derivative of ["Conference Code of Conduct"](http://confcodeofconduct.com/) by [Conference Code of Conduct](https://github.com/confcodeofconduct), licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US). We also adapt content from the [SPE-Inspiring Plastics Professionals Virtual Meetings Conduct Policy](https://www.4spe.org/i4a/pages/index.cfm?pageID=5720). "ISMIR 2022 Code of Conduct" is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US) by ISMIR 2022.
