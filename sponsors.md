@@ -38,7 +38,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection sponsorsection">
-            <a href="https://www.siriusxm.com/pandora" target="_blank"><img src="/assets/sponsors/siriuspandora_logo.jpg" alt="Avatar" class="gold-wrapper"></a>
+            <a href="https://www.siriusxm.com/pandora" target="_blank"><img src="/assets/sponsors/SiriusPandora_logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
     <tr>
