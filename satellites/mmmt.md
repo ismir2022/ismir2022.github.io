@@ -44,9 +44,9 @@ The registration fee for the workshop are as follows:
 
 The registration fee for the workshop is the same for in-person or virtual attendance at the workshop. The convenient way to register for the MMMT workshop is to select it as an add-on during ISMIR 2022 registration. This is the recommended way to register for the workshop. 
 
-If you wish to register only for the MMMT workshop (and not ISMIR 2022), you would be able to do it through this registration portal: <Link available soon>
+If you wish to register only for the MMMT workshop (and not ISMIR 2022), you would be able to do it through this registration portal: **Link available from July 14 **
 
-#### General Terms & Conditions of Registration:
+#### General Terms & Conditions:
 - By registering to this satellite event, you agree to abide by the [ISMIR 2022 Code of Conduct](https://ismir2022.ismir.net/codeofconduct).
 - All prices mentioned above are quoted in Indian Rupee (INR or ₹) and are inclusive of taxes.
 - All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30)
