@@ -18,8 +18,8 @@ A tentative program for the day:
 
 5.00 pm: Travel from the museum back to ISMIR conference venue (60-90 min travel time)
 
-The workshop is available only to in-person registrants and not available for virtual participation. We will however make an effort to record some of the sessions and make it available later to all participants. Registration for the satellite workshop is free with the in-person registration for ISMIR 2022. You are welcome to bring accompanying guests at a nominal additional fee. Transportation (between the museum and the ISMIR conference venue), lunch and coffee-breaks are included with your registration. 
+The workshop is available only to in-person registrants and not available for virtual participation. We will however make an effort to record some of the sessions and make it available later to all participants. Registration for the satellite workshop is free with the in-person registration for ISMIR 2022. Transportation (between the museum and the ISMIR conference venue), lunch and coffee-breaks are included with your registration. 
 
-To register for the satellite workshop, please make sure you select the IME workshop add-on while registering as an in-person attendee for the ISMIR 2022 conference. 
+To register for the satellite workshop, please make sure you select "Yes" on the corresponding question while registering as an in-person attendee for the ISMIR 2022 conference. You are welcome to bring accompanying guests at a nominal additional fee using the add-on tickets available during registration. 
 
 The detailed program will be available soon. Please watch this space for additional information!
