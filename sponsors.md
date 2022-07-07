@@ -69,6 +69,9 @@ title: International Society for Music Information Retrieval
         <td class="teamsection sponsorsection">
             <a href="https://www.acrcloud.com/" target="_blank"><img src="/assets/sponsors/ACRCloud-logo.png" alt="Avatar" class="supporter-wrapper"></a>
         </td>
+        <td class="teamsection sponsorsection">
+            <a href="https://www.cochl.ai/" target="_blank"><img src="/assets/sponsors/cochl_logo.png" alt="Avatar" class="supporter-wrapper"></a>
+        </td>
     </tr>
 </table>
 <br><br>
