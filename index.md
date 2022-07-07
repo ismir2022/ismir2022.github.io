@@ -31,6 +31,59 @@ title: International Society for Music Information Retrieval
 <div class="fulltwitter"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <table class="timelinetable" rules=none>
+    <!--
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Registration</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Registration portal opens</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Author registration deadline</td>
+        <td> August 12, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Early Bird registration deadline</td>
+        <td> August 31, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Online registration portal closes for in-person attendance</td>
+        <td> November 25, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Registration deadline for virtual attendance</td>
+        <td> December 5, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Registration at the venue (for in-person attendance)</td>
+        <td> December 04-08, 2022 </td>
+    </tr> 
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Grants</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Grant applications for registration waivers open</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Application deadline for Author grants</td>
+        <td> July 25, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Author grant notifications</td>
+        <td> Aug 3, 2022 </td>
+    </tr> 
+    <tr class="timelineparts">
+        <td> Application deadline for Music Author grants and WiMIR grants</td>
+        <td> Aug 19, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Grant notifications for Music Author grants and WiMIR grants</td>
+        <td> Aug 19, 2022 </td>
+    </tr> -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
@@ -79,31 +132,6 @@ title: International Society for Music Information Retrieval
         <td>Performance-ready submission deadline</td>
         <td> Oct 31, 2022 </td>
     </tr>
-    <!--
-    <tr class="timelineparts">
-        <td><h4><span style="color:#DB442A">Registration</span></h4></td>
-        <td> </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Registration portal opens</td>
-        <td> July 14, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Author registration deadline</td>
-        <td> August 12, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Early-bird registration deadline</td>
-        <td> August 31, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Online registration closes (only for in-person attendance)</td>
-        <td> November 25, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Registration at the venue (in-person attendance)</td>
-        <td> December 04-08, 2022 </td>
-    </tr> -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Tutorials</span></h4></td>
         <td> </td>
