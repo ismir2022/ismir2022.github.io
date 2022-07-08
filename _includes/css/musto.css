@@ -513,23 +513,29 @@ button.reg {
     cursor: pointer;
     radius: 0.1;
   }
-table.reg{
+  table.reg{
     border-collapse: collapse;
     width: 100%;
   }
-td.reg, th.reg {
-border: 1px solid #f2f3f4;
-text-align: center;
-padding: 8px;
-}
-td.reg {
-	background-color: white;
-}
-tr.reg:nth-child(1) {
-background-color: #cdcdcd;
-border: 1px solid #f2f3f4;
-}
-tr.reg:nth-child(2) {
-background-color: #f0f0f0;
-border: 1px solid #f2f3f4;
-}
+  
+  td.reg, th.reg {
+    border: 1px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+  }
+  th.reg {
+   font-weight: bold;
+   background-color: #f0f0f0;
+   border: 1px solid #f2f3f4;
+  }
+  td.reg {
+      background-color: white;
+  }
+  th.reg1{
+    border: 1px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #cdcdcd;
+    border: 1px solid #f2f3f4;
+  }
