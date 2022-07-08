@@ -150,10 +150,6 @@ li span {
     padding-bottom: 1vh;
 }
 
-button{
-    background-color: rgba(255, 255, 255, 0);
-    border: rgb(255, 255, 255);
-}
   
 .container {
     padding: 2px 16px;
@@ -526,7 +522,9 @@ border: 1px solid #f2f3f4;
 text-align: center;
 padding: 8px;
 }
-
+td.reg {
+	background-color: white;
+}
 tr.reg:nth-child(1) {
 background-color: #cdcdcd;
 border: 1px solid #f2f3f4;
