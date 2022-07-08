@@ -251,6 +251,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
 * Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone.							
 * Refunds will be processed within 30 days after the completion of the conference.							
 Up to September 30, 2022 - Registration fee will be refunded after deducting 20% of the fees paid, as administration fees.							
-* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).							
-### Enquiries:						
+* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).			
+
+### Enquiries:
 Please write to us at [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net) if you have any questions about registering and attending ISMIR 2022. 							
