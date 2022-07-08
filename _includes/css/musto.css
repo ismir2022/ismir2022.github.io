@@ -501,3 +501,24 @@ a:first-child:hover{
         display: block;
     }
 }
+
+
+
+table.reg{
+    border-collapse: collapse;
+    width: 100%;
+  }
+td.reg, th.reg {
+border: 1px solid #f2f3f4;
+text-align: center;
+padding: 8px;
+}
+
+tr.reg:nth-child(1) {
+background-color: #cdcdcd;
+border: 1px solid #f2f3f4;
+}
+tr.reg:nth-child(2) {
+background-color: #f0f0f0;
+border: 1px solid #f2f3f4;
+}
