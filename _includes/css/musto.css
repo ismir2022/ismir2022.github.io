@@ -503,7 +503,20 @@ a:first-child:hover{
 }
 
 
-
+button.reg {
+    background-color: #f2f3f4;
+    border: 0.1em solid rgb(216, 54, 22);
+    border-radius: 0.5em;
+    color: rgb(216, 54, 22);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    radius: 0.1;
+  }
 table.reg{
     border-collapse: collapse;
     width: 100%;
