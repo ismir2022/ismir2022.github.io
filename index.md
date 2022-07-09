@@ -31,6 +31,59 @@ title: International Society for Music Information Retrieval
 <div class="fulltwitter"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <table class="timelinetable" rules=none>
+    <!--
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Registration</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Registration portal opens</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Author registration deadline</td>
+        <td> August 12, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Early Bird registration deadline</td>
+        <td> August 31, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Online registration portal closes for in-person attendance</td>
+        <td> November 25, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Registration deadline for virtual attendance</td>
+        <td> December 5, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Registration at the venue (for in-person attendance)</td>
+        <td> December 04-08, 2022 </td>
+    </tr> 
+    <tr class="timelineparts">
+        <td><h4><span style="color:#DB442A">Grants</span></h4></td>
+        <td> </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Grant applications for registration waivers open</td>
+        <td> July 14, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Application deadline for Author grants</td>
+        <td> July 25, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Author grant notifications</td>
+        <td> Aug 3, 2022 </td>
+    </tr> 
+    <tr class="timelineparts">
+        <td> Application deadline for Music Author grants and WiMIR grants</td>
+        <td> Aug 19, 2022 </td>
+    </tr>
+    <tr class="timelineparts">
+        <td> Grant notifications for Music Author grants and WiMIR grants</td>
+        <td> Aug 19, 2022 </td>
+    </tr> -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
@@ -55,47 +108,30 @@ title: International Society for Music Information Retrieval
         <td>Camera ready deadline</td>
         <td> August 9, 2022 </td>
     </tr>
-    <!--
     <tr class="timelineparts">
-        <td><h4><span style="color:#DB442A">Music</span></h4></td>
+        <td><h4><span style="color:#DB442A">Music Program</span></h4></td>
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td>First Call for Music</td>
-        <td> TBA </td>
+        <td><span style="text-decoration:line-through">First Call for Music</span></td>
+        <td><span style="text-decoration:line-through">July 4, 2022</span></td>
+    </tr>
+    <tr class="timelineparts">
+        <td>Submission site opening</td>
+        <td> July 10, 2022 </td>
     </tr>
     <tr class="timelineparts">
         <td>Music submission deadline</td>
-        <td> TBA </td>
+        <td> July 31, 2022 </td>
     </tr>
     <tr class="timelineparts">
-        <td>Notification of Acceptance</td>
-        <td> TBA </td>
+        <td>Notification of acceptance</td>
+        <td> Aug 15, 2022 </td>
     </tr>
     <tr class="timelineparts">
-        <td><h4><span style="color:#DB442A">Registration</span></h4></td>
-        <td> </td>
+        <td>Performance-ready submission deadline</td>
+        <td> Oct 31, 2022 </td>
     </tr>
-    <tr class="timelineparts">
-        <td>Registration portal opens</td>
-        <td> July 14, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Author registration deadline</td>
-        <td> August 12, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Early-bird registration deadline</td>
-        <td> August 31, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Online registration closes (only for in-person attendance)</td>
-        <td> November 27, 2022 </td>
-    </tr>
-    <tr class="timelineparts">
-        <td>Registration at the venue (in-person attendance)</td>
-        <td> December 04-08, 2022 </td>
-    </tr> -->
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Tutorials</span></h4></td>
         <td> </td>

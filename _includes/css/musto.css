@@ -150,10 +150,6 @@ li span {
     padding-bottom: 1vh;
 }
 
-button{
-    background-color: rgba(255, 255, 255, 0);
-    border: rgb(255, 255, 255);
-}
   
 .container {
     padding: 2px 16px;
@@ -501,3 +497,46 @@ a:first-child:hover{
         display: block;
     }
 }
+
+
+button.reg {
+    background-color: #f2f3f4;
+    border: 0.1em solid rgb(216, 54, 22);
+    border-radius: 0.5em;
+    color: rgb(216, 54, 22);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    radius: 0.1;
+  }
+  table.reg{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td.reg, th.reg {
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+  }
+  th.reg {
+   font-weight: bold;
+   background-color: #f0f0f0;
+   border: 2px solid #f2f3f4;
+   text-align: center;
+   padding: 8px;
+  }
+  td.reg {
+      background-color: white;
+  }
+  th.reg1{
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #cdcdcd;
+  }
