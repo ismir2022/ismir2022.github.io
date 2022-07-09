@@ -61,7 +61,7 @@ The registration fee for the workshop are as follows:
     <th class="reg">Dec 02 - 03</th>
   </tr>
   <tr class="reg">
-  	<td class="reg">Student (In-person or Virtual)</td>
+  	<td class="reg">Student (In-person or virtual)</td>
     <td class="reg">&#8377;1,800</td>
     <td class="reg">&#8377;2,200</td>
     <td class="reg">&#8377;2,200</td>
