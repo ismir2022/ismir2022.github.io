@@ -83,7 +83,7 @@ The registration fee for the workshop are as follows:
 The registration fee for the workshop is the same for in-person or virtual attendance at the workshop. The convenient way to register for the MMMT workshop is to select it as an add-on during ISMIR 2022 registration. This is the recommended way to register for the workshop.
 
 If you wish to register only for the MMMT workshop (and not ISMIR 2022), you would be able to do it through the link below: 
-<br>
+
 <a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank"><button class="reg">Register for MMMT</button></a>
 <br>
 
