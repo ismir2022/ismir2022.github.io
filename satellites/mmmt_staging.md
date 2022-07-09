@@ -34,6 +34,9 @@ Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
 
 ### Registration
+
+<a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank"><button class="reg">Register Now for MMMT Workshop</button></a>
+<br>
 The registration fee for the workshop are as follows:
 
 <table class="reg">
