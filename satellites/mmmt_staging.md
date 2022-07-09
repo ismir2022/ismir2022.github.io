@@ -4,14 +4,14 @@ title: International Society for Music Information Retrieval
 ---
 # Music, Mind, Movement and Technology Workshop
 ## 2 - 3 December, 2022, Hybrid Workshop
-### Workshop Chair: Vinoo Alluri
+### Workshop Chair: Vinoo Alluri, IIIT Hyderabad
 
-### [**Download PDF**](../assets/MMMT_poster.pdf)
-The Music, Mind, Movement and Technology (MMMT) Workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others. 
+### [**Download Poster**](../assets/MMMT_poster.pdf)
+The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others. 
 
 ### Speakers:
 - _Opening Keynote:_ <br>
-Jean-Julien Aucouturier (FEMTO-ST Institute) 
+Jean-Julien Aucouturier (FEMTO-ST Institute)
 
 - _Music and Health:_ <br>
 Kat Agres (National University of Singapore)<br>
@@ -34,9 +34,6 @@ Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
 
 ### Registration
-
-<a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank"><button class="reg">Register Now for MMMT Workshop</button></a>
-<br>
 The registration fee for the workshop are as follows:
 
 <table class="reg">
@@ -85,10 +82,12 @@ The registration fee for the workshop are as follows:
 
 The registration fee for the workshop is the same for in-person or virtual attendance at the workshop. The convenient way to register for the MMMT workshop is to select it as an add-on during ISMIR 2022 registration. This is the recommended way to register for the workshop.
 
-If you wish to register only for the MMMT workshop (and not ISMIR 2022), you would be able to do it through this registration portal: **Link will be available from July 14 **
+If you wish to register only for the MMMT workshop (and not ISMIR 2022), you would be able to do it through the link below: 
+<a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank"><button class="reg">Register for MMMT</button></a>
+<br>
 
 ### General Terms & Conditions:
-* By registering to this satellite event, you agree to abide by the ISMIR 2022 Code of Conduct.
+* By registering to this satellite event, you agree to abide by the [ISMIR 2022 Code of Conduct](https://ismir2022.ismir.net/codeofconduct).
 * All prices mentioned above are quoted in Indian Rupee (INR). Goods and Services Tax (GST) of 18% is applicable on the fees (as illustrated above)
 * All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30)
 * Approximately, 1 USD = 79 INR, 1 EUR = 80 INR, 100 JPY = 58 INR. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
