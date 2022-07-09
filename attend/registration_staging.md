@@ -13,9 +13,8 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
 <table class="reg">
   <tr class="reg">
     <th class="reg1">CATEGORY</th>
-    <td class="reg" rowspan="27"></td>
     <th class="reg1" colspan="3">Prices in INR, exclusive of 18% GST</th>
-    <td class="reg" rowspan="27"></td>
+    <td bgcolor="#f2f3f4" rowspan="27" width="0.1"></td>
     <th class="reg1" colspan="3">Prices in INR, inclusive of 18% GST</th>
   </tr>
   <tr class="reg">
@@ -46,7 +45,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg"></td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
   <tr class="reg">
   	<th class="reg">NON-AUTHOR</th>
@@ -85,7 +84,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg">&#8377;49,560</td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
   <tr class="reg">
   	<th class="reg">Virtual Participation</th>
@@ -115,7 +114,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg">&#8377;19,470</td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
   <tr class="reg">
   	<th class="reg">TUTORIALS</th>
@@ -145,7 +144,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg">&#8377;3,540</td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
   <tr class="reg">
   	<th class="reg">ADD-ONS</th>
@@ -167,7 +166,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg" colspan="3">&#8377;2,360</td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
   <tr class="reg">
   	<th class="reg">SATELLITES</th>
@@ -206,7 +205,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg">&#8377;5,900</td>
   </tr>
   <tr>
-  	<td class="reg" colspan="9"> </td>
+  	<td class="reg" colspan="8"> </td>
   </tr>
 </table>
 
