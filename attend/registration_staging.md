@@ -58,10 +58,10 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
   </tr>
   <tr class="reg">
   	<th class="reg">In-person Participation</th>
-    <th class="reg">Until 31 Aug</th>
+    <th class="reg">Until Aug 31</th>
     <th class="reg">Sep 1 - Nov 25</th>
     <th class="reg">Dec 04 - 08</th>
-    <th class="reg">Until 31 Aug</th>
+    <th class="reg">Until Aug 31</th>
     <th class="reg">Sep 1 - Nov 25</th>
     <th class="reg">Dec 04 - 08</th>
   </tr>
