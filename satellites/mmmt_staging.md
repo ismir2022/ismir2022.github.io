@@ -44,7 +44,7 @@ The registration fee for the workshop are as follows:
     <th class="reg1" colspan="3">Prices in INR, inclusive of 18% GST</th>
   </tr>
   <tr class="reg">
-  	<th class="reg"></th>
+  	<th class="reg" rowspan="2"></th>
     <th class="reg">Early Bird</th>
     <th class="reg">Regular</th>
     <th class="reg">On-site</th>
@@ -53,8 +53,7 @@ The registration fee for the workshop are as follows:
     <th class="reg">On-site</th>
   </tr>
   <tr class="reg">
-  	<th class="reg">MMMT Workshop</th>
-    <th class="reg">Until 31 Aug</th>
+  	<th class="reg">Until 31 Aug</th>
     <th class="reg">Sep 1 - Nov 25</th>
     <th class="reg">Dec 02 - 03</th>
     <th class="reg">Until 31 Aug</th>
