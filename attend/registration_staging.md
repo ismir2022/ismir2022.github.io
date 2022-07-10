@@ -211,14 +211,16 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
 
 <br>
 
-### Inclusions for attending the conference VIRTUALLY							
+ISMIR 2022 will be a Hybrid conference allowing all registrants to choose to attend the event virtually or in-person in Bengaluru.
+
+### Registration benefits (Virtual participation) 
 * E-version of all conference material - abstract book, program book, etc.							
-* Access to the conference through the virtual conference platform that will host all sessions and exhibitions of the conference. No access to the physical-only events of the conference. 							
+* Access to the conference through the virtual conference platform that will host all hybrid sessions and exhibitions of the conference. No access to the physical-only events of the conference. 							
 * 1-year membership of the International Society for Music Information Retrieval.
 
-### Inclusions for attending the conference IN-PERSON							
-* Everthing included for virtual participants							
-* Conference kit/ bag with all conference material							
+### Registration benefits (In-Person participation) 
+* Everything included for virtual participants							
+* Conference kit/ bag with all the conference material							
 * Access to all physical sessions and exhibitions at the venue							
 * Welcome reception, banquet, coffee breaks and luncheons during the conference dates (4-8 Dec)
 * Registration for IME workshop on Dec 9, 2022 is free with In-person registration. Please make sure you select this option during registration	
@@ -228,10 +230,10 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
 * A student author registration can cover upto one paper and a full author registration can cover upto two papers.							
 * It is mandatory for at least one author of an accepted paper to register for the conference and present their work at the conference (in-person or virtually).
 
-### Important Note for in-person participants							
-* All non-Indian nationals registering for in-person participation have to submit their passport details which will solely be used to procure necessary ministry permissions to host an international conference in India and procure necessary documents required by the participants to apply for a VISA to India, to attend ISMIR 2022. The details captured will be deleted at the end of the conference and will not be used for any other purposes other than mentioned above.
-* The participant is responsible to procure a Conference VISA to visit India for ISMIR 2022 (Additional information is here: [https://ismir2022.ismir.net/attend/travel](https://ismir2022.ismir.net/attend/travel)).
-* An invitation letter for VISA purposes will be sent to the registered email address after completion of the registration process and paying the relevant fee. Invitation letters for those registering by Early Bird deadline (Aug 31, 2022) will be sent by Sep 5, 2022.
+### Important Note for in-person participants			
+* All non-Indian nationals registering for in-person participation will need to submit their passport details which will be used solely to obtain the necessary ministry approvals for the organisers to host international conference participants and procure the documents required by the participants to apply for a VISA to India. The details captured will be deleted at the end of the conference and will not be used for any other purposes other than mentioned above. 
+* The participant is responsible for their own Conference VISA application for the travel to India for ISMIR 2022 (Additional information is here: https://ismir2022.ismir.net/attend/travel). 
+* An invitation letter for VISA purposes will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Aug 31, 2022) will be sent out by Sep 5, 2022. 
 
 ### General Terms & Conditions:							
 * All prices mentioned above are quoted in Indian Rupee (INR). Goods and Services Tax (GST) of 18% is applicable on the fees (as illustrated above)							
