@@ -14,7 +14,7 @@ The information on this page is provided as general guidance for securing a visa
  
 ### General Information
 Visitors entering India must possess a passport valid for at least 6 months after their date of entry into India. There should be at least two blank pages in the passport.
-An entry visa is essential for all those visiting India. There are several types of visas, including Conference, Tourist and Business Visas. Those traveling specifically for ISMIR 2022 should apply only for a Conference Visa.
+An entry visa is essential for all those visiting India. There are several types of visas, including Conference, Tourist and Business Visas. Those traveling specifically for ISMIR 2022 are required to apply for a Conference Visa.
  
 ### When to Apply
 For most countries, the time taken by embassies to issue a Conference Visa is normally 14 days, and the visa is valid for three months from the date of issue by the embassy (not from the date of entry into India). For applications from citizens of Afghanistan, Iraq, Pakistan, Sudan, Foreigners of Pakistani Origin and Stateless persons, the time taken is 60 days and the visa is valid for one month.
