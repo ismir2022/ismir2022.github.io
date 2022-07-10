@@ -75,7 +75,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <td class="reg">&#8377;24,780</td>
   </tr>
   <tr class="reg">
-    <td class="reg">Full (In-person or virtual)</td>
+    <td class="reg">Full (In-person)</td>
     <td class="reg">&#8377;34,000</td>
     <td class="reg">&#8377;38,000</td>
     <td class="reg">&#8377;42,000</td>
