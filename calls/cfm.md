@@ -28,9 +28,9 @@ After notification of acceptance, all participants have a chance to further edit
 
 Only one submission per participant will be accepted. Pieces have to be shorter than 10 minutes. The submission is not anonymous. The proposals and video performances will be submitted through the CMT system for a light review. There is no guarantee that all submissions will be accepted for the program. Please note the submission proposal is for informative purposes for the selection and will not be included in the conference proceedings. The artist must hold the copyright of submitted materials to be used in ISMIR 2022.
 
-_Submission site:_ https://cmt3.research.microsoft.com/ISMIR2022
+_Submission site:_ [https://cmt3.research.microsoft.com/ISMIR2022](https://cmt3.research.microsoft.com/ISMIR2022)
 
-Each accepted music author needs to register for the conference as a physical-attendee (student or regular). One registration can cover one music submission. If they are already ISMIR authors and have registered, their music submission will be covered. Kindly indicate in the submission form if the first author of a submission is a student author.
+Each accepted music submission needs to be covered by an in-person registration (student or full, as appropriate) by the early bird deadline(Aug 31, 2022). If the authors of the music submission are already ISMIR paper authors and have registered for the conference, their music submission can be covered with the same registration. Kindly indicate in the submission form if the first author of a submission is a student author.
 
 ## Important Dates
 * Submission portal opening: Jul 10, 2022

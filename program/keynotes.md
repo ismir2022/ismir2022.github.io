@@ -2,5 +2,7 @@
 layout: page
 title: International Society for Music Information Retrieval
 ---
-# Keynote Talks
-Coming Soon!
+
+# Keynote Speakers
+
+Coming soon . . . 

@@ -98,4 +98,8 @@ If you wish to register only for the MMMT workshop (and not ISMIR 2022), you wou
 * While your safety is of utmost importance, organisers take no responsibility for loss of belongings/ valuables or damage to your property (at the venue or during transit).
 * By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the workshop.
 
+### Cancellation Policy:							
+* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% (+taxes) of the fees paid as administration fees. 
+* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).			
+
 <br>
