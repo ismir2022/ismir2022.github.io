@@ -18,6 +18,9 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection sponsorsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
         </td>
@@ -51,6 +54,9 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection sponsorsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#d9d9d9;">Silver</h2>
         </td>
@@ -62,6 +68,9 @@ title: International Society for Music Information Retrieval
         <td class="teamsection sponsorsection">
             <a href="https://www.izotope.com/" target="_blank"><img src="/assets/sponsors/Izotope_Logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
+    </tr>
+    <tr>
+       <td>&nbsp;</td>
     </tr>
     <tr>
        <td>&nbsp;</td>
