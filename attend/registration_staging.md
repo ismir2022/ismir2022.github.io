@@ -249,7 +249,7 @@ ISMIR 2022 will be a Hybrid conference allowing all registrants to choose to att
 * By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the conference. 
 
 ### Cancellation Policy:							
-* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid as administration fees, within 30 business days. 
+* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid (and associated taxes) as administration fees, within 30 business days. 
 * No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST). 	
 
 ### Enquiries:
