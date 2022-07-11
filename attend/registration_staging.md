@@ -237,7 +237,7 @@ ISMIR 2022 will be a Hybrid conference allowing all registrants to choose to att
 
 ### General Terms & Conditions:							
 * All prices mentioned above are quoted in Indian Rupee (INR). Goods and Services Tax (GST) of 18% is applicable on the fees (as illustrated above)							
-* All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30)					
+* All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30), except on-site registration. 	
 * Approximately, 1 USD = 79 INR, 1 EUR = 80 INR, 100 JPY = 58 INR. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee. 
 * Those who wish to attend the tutorials will have to register for tutorials additionally using add-ons
 * If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.							
