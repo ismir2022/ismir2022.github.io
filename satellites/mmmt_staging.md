@@ -3,21 +3,14 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 # Music, Mind, Movement and Technology Workshop
-## 2 - 3 December, 2022, Hybrid Workshop
-### Workshop Chair: Vinoo Alluri, IIIT Hyderabad
+### December 2-3, 2022 (Hybrid Workshop)
+### Time: 9:30am - 5:00pm IST 
+### Venue: Indian Institute of Science (IISc), Bengaluru
+### Workshop Chair: [Vinoo Alluri](https://www.iiit.ac.in/people/faculty/vinoo-alluri/), IIIT Hyderabad
 
 ### [**Download Poster**](../assets/MMMT_poster.pdf)
 
 The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others.
-
-The workshop will be held in a hybrid format and all the talks can be attended virtually. The speakers who will be present in-person will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022. We look forward to seeing you there!
-
-Venue: IISc, Bengaluru
-
-Date: December 2-3
-
-Time: 9:30am - 5:00pm IST 
-
 
 ## Speakers
 
@@ -43,6 +36,10 @@ Marcelo Wanderley (Mc Gill University)
 #### Music and Neuroscience
 Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
+
+## Schedule
+
+All the talks can be attended virtually. The speakers who will be present physically will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022! We look forward to seeing you there!
 
 ## Registration
 The registration fee for the workshop are as follows:
