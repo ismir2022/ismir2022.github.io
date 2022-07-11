@@ -94,12 +94,16 @@ If you wish to register only for the MMMT workshop (and not ISMIR 2022), you wou
 * Approximately, 1 USD = 79 INR, 1 EUR = 80 INR, 100 JPY = 58 INR. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
 * If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the workshop if you are attending the workshop in-person, which will be verified at the venue while collecting your badge.
 * Registration will be only considered as confirmed on receipt of the complete amount.
+* You can register online using your Debit or Credit Card. UPI and Netbanking are additional payment options available if you have an bank account in India.
 * Login credentials to access the virtual conference platform will be sent to you closer to the conference dates.
 * While your safety is of utmost importance, organisers take no responsibility for loss of belongings/ valuables or damage to your property (at the venue or during transit).
 * By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the workshop.
 
 ### Cancellation Policy:							
-* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% (+taxes) of the fees paid as administration fees. 
-* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).			
+Kindly send the cancellation requests to ismir2022-registration@ismir.net, on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid (and associated taxes) as administration fees, within 30 business days.
+No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).
+
+### Enquiries:
+Please write to us at vinoo.alluri@iiit.ac.in if you have any questions about registering and attending MMMT workshop.
 
 <br>
