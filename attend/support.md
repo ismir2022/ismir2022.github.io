@@ -71,7 +71,7 @@ Applications for WiMIR Grants are accepted until August 19, 2022 (or until grant
  
 Please apply for grants using this google form: [https://forms.gle/McTMivAHNVK1WD5E9](https://forms.gle/McTMivAHNVK1WD5E9) (form opens July 14, 2022)
 
-You will be considered for all the grants that you qualify for, based on the information you provide in the application. 
+You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2022 grants committee.  
 
 ### Questions?
 Email [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net)
