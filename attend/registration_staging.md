@@ -156,12 +156,12 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <th class="reg"></th>
   </tr>
   <tr class="reg">
-  	<td class="reg">Banquet (+1)</td>
+  	<td class="reg">Banquet Extra person (+1)</td>
     <td class="reg" colspan="3">&#8377;3,000</td>
     <td class="reg" colspan="3">&#8377;3,540</td>
   </tr>
   <tr class="reg">
-    <td class="reg">IME Workshop (+1)</td>
+    <td class="reg">IME Workshop Extra person(+1)</td>
     <td class="reg" colspan="3">&#8377;2,000</td>
     <td class="reg" colspan="3">&#8377;2,360</td>
   </tr>
