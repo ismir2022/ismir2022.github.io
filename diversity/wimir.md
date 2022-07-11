@@ -20,6 +20,9 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
         </td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection">
             <a href="https://deezer.com" target="_blank"><img src="../assets/sponsors/deezer_logo.png" alt="Avatar" class="platinum-wrapper"></a>
         </td>
@@ -31,9 +34,15 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
        <td>&nbsp;</td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorheadV2" style="background-color:#c8b037; background-image: linear-gradient(to right, #eaecef, #c8b037, #eaecef);">Contributor</h2>
         </td>
+    </tr>
+    <tr>
+       <td>&nbsp;</td>
     </tr>
     <tr>
         <td class="teamsection">
@@ -50,9 +59,15 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
        <td>&nbsp;</td>
     </tr>
     <tr>
+       <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td class="teamsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorheadV2" style="background-color:#d9d9d9; background-image: linear-gradient(to right, #eaecef, #d9d9d9, #eaecef);">Supporter</h2>
         </td>
+    </tr>
+    <tr>
+       <td>&nbsp;</td>
     </tr>
     <tr>
         <td class="teamsection">
