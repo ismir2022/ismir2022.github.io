@@ -13,7 +13,7 @@ The following are the various Diversity & Inclusion (D&I) initiatives of ISMIR 2
 
 We thank our 2022 sponsors for their generous and vital continuation of support of these important initiatives. These sponsorships will make possible the financial  support to ISMIR attendees, including grants to cover registration fees, paper publication fees, etc.
 <h1>Sponsors</h1>
-<table class="customtable">
+<table class="customtable sponsorblock">
     <tr>
         <td class="teamsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorheadV2" style="background-color:#8f8a8a; background-image: linear-gradient(to right, #eaecef, #8f8a8a, #eaecef);">Patron</h2>
