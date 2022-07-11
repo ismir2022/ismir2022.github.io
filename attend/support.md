@@ -40,7 +40,7 @@ Music Author Grants are available for the authors of accepted submissions to the
 
 ### Women in MIR (WiMIR) Grants 
 
-WiMIR Grants (100% or 50% registration fee waivers) are enabled by dedicated generous support of our industry partners, and will be available to women, trans, or non-binary people, people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from [low-middle-income-countries](http://bitly.ws/sANU).
+WiMIR Grants (100% or 50% registration fee waivers) are enabled by dedicated generous support of our industry partners, and will be available to women, trans, or non-binary people, people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries.
  
 Applicants do NOT need to be students to apply for the WiMIR Grants, though priority will be given to first or supporting authors of accepted papers. Registration waivers under this category are available for both in-person and virtual participation in the conference. WiMIR grants for authors of Late breaking/Demo submissions are under consideration and will be announced in due course.
 
