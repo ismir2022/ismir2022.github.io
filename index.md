@@ -117,8 +117,8 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">July 4, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Submission site opening</td>
-        <td> July 10, 2022 </td>
+	<td><span style="text-decoration:line-through">Submission site opening</span></td>
+        <td><span style="text-decoration:line-through">July 10, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Music submission deadline</td>
