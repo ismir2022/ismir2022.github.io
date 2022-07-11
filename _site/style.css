@@ -150,10 +150,6 @@ li span {
     padding-bottom: 1vh;
 }
 
-button{
-    background-color: rgba(255, 255, 255, 0);
-    border: rgb(255, 255, 255);
-}
   
 .container {
     padding: 2px 16px;
@@ -165,9 +161,20 @@ button{
     border-radius: 50%;
 }
 
+.keynoteavatar{
+    width: 12em;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 .avatarname{
     font-weight: bold;
     font-size: 1em;
+}
+
+.keynoteavatarname{
+    font-size: 1.2em;
 }
 
 @media screen and (max-width: 768px) {
@@ -177,6 +184,9 @@ button{
     .avatarname{
         font-size: 0.5em;
     }
+    .keynoteavatarname{
+        font-size: 0.8em;
+    }
 }
 
 .teamsection{
@@ -185,6 +195,28 @@ button{
 
 .avatarbox{
     width: 25%;
+}
+
+.mobilecustomtable{
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .mobilecustomtable{
+        display: block;
+    }
+
+    .customtable{
+        display: none;
+    }
+
+    .avatarbox{
+        text-align: center;
+    }
+
+    .volunteerinfo p{
+        text-align: center;
+    }
 }
 
 .volunteerinfo{
@@ -500,5 +532,76 @@ a:first-child:hover{
     .downloadpdf{
         display: block;
     }
+}
+
+
+button.reg {
+    background-color: #f2f3f4;
+    border: 0.1em solid rgb(216, 54, 22);
+    border-radius: 0.5em;
+    color: rgb(216, 54, 22);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    radius: 0.1;
+  }
+  table.reg{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td.reg, th.reg {
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+  }
+  th.reg {
+   font-weight: bold;
+   background-color: #f0f0f0;
+   border: 2px solid #f2f3f4;
+   text-align: center;
+   padding: 8px;
+  }
+  td.reg {
+      background-color: white;
+  }
+  th.reg1{
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #cdcdcd;
+  }
+
+  .sponsorheadV2 {
+    border: none;
+    width: 100%;
+    padding: 0.6em 1.2em;
+    display: inline-block;
+    border-radius: 4px;
+    box-shadow:
+        0 0.1em 0 rgba(255, 255, 255, 0.25) inset,
+        0 0 0 rgba(0, 0, 0, 0.5) inset,
+        0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
+        0 1.25rem 1.25rem rgba(255, 255, 255, 0.1) inset;
+}
+
+.pricetable{
+    width: 90%;
+    text-align: center;
+    /* border: 0.5vw solid rgb(216, 54, 22); */
+}
+
+.pricetable tr:first-child{
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.pricetable tr:not(:first-child){
+    background-color: rgba(0, 0, 0, 0.1);
 }
 

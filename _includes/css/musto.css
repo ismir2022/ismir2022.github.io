@@ -161,9 +161,20 @@ li span {
     border-radius: 50%;
 }
 
+.keynoteavatar{
+    width: 12em;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 .avatarname{
     font-weight: bold;
     font-size: 1em;
+}
+
+.keynoteavatarname{
+    font-size: 1.2em;
 }
 
 @media screen and (max-width: 768px) {
@@ -173,6 +184,9 @@ li span {
     .avatarname{
         font-size: 0.5em;
     }
+    .keynoteavatarname{
+        font-size: 0.8em;
+    }
 }
 
 .teamsection{
@@ -181,6 +195,28 @@ li span {
 
 .avatarbox{
     width: 25%;
+}
+
+.mobilecustomtable{
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .mobilecustomtable{
+        display: block;
+    }
+
+    .customtable{
+        display: none;
+    }
+
+    .avatarbox{
+        text-align: center;
+    }
+
+    .volunteerinfo p{
+        text-align: center;
+    }
 }
 
 .volunteerinfo{
@@ -552,4 +588,19 @@ button.reg {
         0 0 0 rgba(0, 0, 0, 0.5) inset,
         0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
         0 1.25rem 1.25rem rgba(255, 255, 255, 0.1) inset;
+}
+
+.pricetable{
+    width: 90%;
+    text-align: center;
+    /* border: 0.5vw solid rgb(216, 54, 22); */
+}
+
+.pricetable tr:first-child{
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.pricetable tr:not(:first-child){
+    background-color: rgba(0, 0, 0, 0.1);
 }
