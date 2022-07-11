@@ -7,33 +7,44 @@ title: International Society for Music Information Retrieval
 ### Workshop Chair: Vinoo Alluri, IIIT Hyderabad
 
 ### [**Download Poster**](../assets/MMMT_poster.pdf)
-The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others. 
 
-### Speakers:
-- _Opening Keynote:_ <br>
+The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others.
+
+The workshop will be held in a hybrid format and all the talks can be attended virtually. The speakers who will be present in-person will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022. We look forward to seeing you there!
+
+Venue: IISc, Bengaluru
+
+Date: December 2-3
+
+Time: 9:30am - 5:00pm IST 
+
+
+## Speakers
+
+#### Opening Keynote
 Jean-Julien Aucouturier (FEMTO-ST Institute)
 
-- _Music and Health:_ <br>
+#### Music and Health
 Kat Agres (National University of Singapore)<br>
 Suvi Saarikallio (University of Jyvaskyla)
 
-- _Music and Culture:_ <br>
+#### Music and Culture
 Nori Jacoby (Max Planck Institute for Empirical Aesthetics)<br>
 Tuomas Eerola (Durham University)
 
-- _Music Perception:_ <br>
+#### Music Perception
 Anja Volk (Utrecht University)<br>
 Petri Toiviainen (University of Jyvaskyla)
 
-- _Music and Gestures:_ <br>
+#### Music and Gestures 
 Martin Clayton (Durham University)<br>
 Marcelo Wanderley (Mc Gill University)
 
-- _Music and Neuroscience:_ <br>
+#### Music and Neuroscience
 Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
 
-### Registration
+## Registration
 The registration fee for the workshop are as follows:
 
 <table class="reg">
