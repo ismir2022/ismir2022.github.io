@@ -242,15 +242,15 @@ ISMIR 2022 will be a Hybrid conference allowing all registrants to choose to att
 * Those who wish to attend the tutorials will have to register for tutorials additionally using add-ons
 * If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.							
 * Registration will be only considered as confirmed on receipt of the complete amount.							
-* You can register online using your Debit/Credit Card/UPI/Netbanking.							
+* You can register online using your Debit or Credit Card. UPI and Netbanking are additional payment options available if you have an bank account in India.
 * The registration fee does not include any travel cost, insurance, accommodation, sightseeing tours or airport transfers.							
 * Login credentials to access the virtual conference platform will be sent to you closer to the conference dates.							
 * While your safety is of utmost importance, organisers take no responsibility for the loss of belongings/valuables or damage to your property (at the venue or during transit).							
 * By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the conference. 
 
 ### Cancellation Policy:							
-* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid as administration fees. 
-* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST).			
+* Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid as administration fees, within 30 business days. 
+* No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST). 	
 
 ### Enquiries:
-Please write to us at [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net) if you have any questions about registering and attending ISMIR 2022. 							
+Please write to us at [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net) if you have any questions about registering and attending ISMIR 2022. 
