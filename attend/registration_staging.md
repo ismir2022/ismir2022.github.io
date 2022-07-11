@@ -186,23 +186,23 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
     <th class="reg">Sep 01 - Nov 25</th>
     <th class="reg">Dec 02 - 03</th>
   </tr>
-  <tr class="reg">
-  	<td class="reg">Student (In-person or Virtual)</td>
-    <td class="reg">&#8377;1,800</td>
-    <td class="reg">&#8377;2,200</td>
-    <td class="reg">&#8377;2,200</td>
-    <td class="reg">&#8377;2,124</td>
-    <td class="reg">&#8377;2,596</td>
-    <td class="reg">&#8377;2,596</td>
+<tr class="reg">
+  	<td class="reg">Student (In-person or virtual)</td>
+    <td class="reg">&#8377;1,000</td>
+    <td class="reg">&#8377;1,200</td>
+    <td class="reg">&#8377;1,200</td>
+    <td class="reg">&#8377;1,180</td>
+    <td class="reg">&#8377;1,416</td>
+    <td class="reg">&#8377;1,416</td>
   </tr>
   <tr class="reg">
     <td class="reg">Full (In-person or virtual)</td>
-    <td class="reg">&#8377;5,000</td>
-    <td class="reg">&#8377;5,000</td>
-    <td class="reg">&#8377;5,000</td>
-    <td class="reg">&#8377;5,900</td>
-    <td class="reg">&#8377;5,900</td>
-    <td class="reg">&#8377;5,900</td>
+    <td class="reg">&#8377;2,200</td>
+    <td class="reg">&#8377;2,500</td>
+    <td class="reg">&#8377;2,500</td>
+    <td class="reg">&#8377;2,596</td>
+    <td class="reg">&#8377;2,950</td>
+    <td class="reg">&#8377;2,950</td>
   </tr>
   <tr>
   	<td class="reg" colspan="8"> </td>
