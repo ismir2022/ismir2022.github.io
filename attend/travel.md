@@ -80,6 +80,8 @@ The registration fee cannot be refunded for the reason of VISA being denied – 
 It takes around one month for the Embassy to process the VISA application, please register and apply for VISA as early as you can to make sure you have enough time to plan your trip.
 
 
-Prepared by 
+Prepared by, 
+
 Elisyan India Pvt Ltd
+
 [www.elisyan.in](www.elisyan.in)
