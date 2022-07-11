@@ -21,7 +21,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4">
+        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
         </td>
     </tr>
@@ -57,7 +57,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4">
+        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorhead" style="background-color:#d9d9d9;">Silver</h2>
         </td>
     </tr>
@@ -76,7 +76,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4">
+        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorhead" style="background-color:#ff944d;">Supporter</h2>
         </td>
     </tr>
