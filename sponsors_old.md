@@ -5,8 +5,8 @@ title: International Society for Music Information Retrieval
 <h1>Sponsors</h1>
 <table class="customtable">
     <tr>
-        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#8f8a8a; background-image: linear-gradient(to right, #eaecef, #8f8a8a, #eaecef);">Platinum</h2>
+        <td class="teamsection sponsorsection" colspan="4">
+            <h2 class="sponsorhead" style="background-color:#8f8a8a;">Platinum</h2>
         </td>
     </tr>
     <tr>
@@ -21,8 +21,8 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#c8b037; background-image: linear-gradient(to right, #eaecef, #c8b037, #eaecef);">Gold</h2>
+        <td class="teamsection sponsorsection" colspan="4">
+            <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
         </td>
     </tr>
     <tr>
@@ -57,8 +57,8 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#d9d9d9; background-image: linear-gradient(to right, #eaecef, #d9d9d9, #eaecef);">Silver</h2>
+        <td class="teamsection sponsorsection" colspan="4">
+            <h2 class="sponsorhead" style="background-color:#d9d9d9;">Silver</h2>
         </td>
     </tr>
     <tr>
@@ -76,8 +76,8 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#ff944d; background-image: linear-gradient(to right, #eaecef, #ff944d, #eaecef);">Supporter</h2>
+        <td class="teamsection sponsorsection" colspan="4">
+            <h2 class="sponsorhead" style="background-color:#ff944d;">Supporter</h2>
         </td>
     </tr>
     <tr>

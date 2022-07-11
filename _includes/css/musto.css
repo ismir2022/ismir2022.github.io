@@ -541,7 +541,7 @@ button.reg {
     background-color: #cdcdcd;
   }
 
-  .sponsorheadStaging {
+  .sponsorheadV2 {
     border: none;
     width: 100%;
     padding: 0.6em 1.2em;
@@ -553,5 +553,4 @@ button.reg {
         0 0 0 rgba(0, 0, 0, 0.5) inset,
         0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
         0 1.25rem 1.25rem rgba(255, 255, 255, 0.1) inset;
-  
 }
