@@ -40,7 +40,7 @@ Music Author Grants are available for the authors of accepted submissions to the
 
 ### Women in MIR (WiMIR) Grants 
 
-WiMIR Grants (100% or 50% registration fee waivers) are enabled by dedicated generous support of our industry partners, and will be available to women, trans, or non-binary people, people identifying as black, ethinic/racial minorities of the region, queer, unaffiliated researchers, and those from [low-middle-income-countries](http://bitly.ws/sANU).
+WiMIR Grants (100% or 50% registration fee waivers) are enabled by dedicated generous support of our industry partners, and will be available to women, trans, or non-binary people, people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from [low-middle-income-countries](http://bitly.ws/sANU).
  
 Applicants do NOT need to be students to apply for the WiMIR Grants, though priority will be given to first or supporting authors of accepted papers. Registration waivers under this category are available for both in-person and virtual participation in the conference. WiMIR grants for authors of Late breaking/Demo submissions are under consideration and will be announced in due course.
 
@@ -53,9 +53,9 @@ Childcare grants and accommodation grants are under consideration and details re
 Grants are awarded on the basis of financial need, student and Diversity & Inclusion eligibility, and availability of funds. For registration waiver grants, the following funding categories will be prioritised, though anyone may apply: 
 
 - Student: Applicants enrolled in a degree-granting academic program in the 2021-2022 and/or 2022-2023 academic year(s)
-- Minorities in MIR: Applicants identifying as Black, African, African-American or ethnic/racial minority (of the applicant’s region)
-- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: http://bitly.ws/sANU 
-- Queer in MIR: Applicants identifying as LGBTQIA.
+- Minorities in MIR: Applicants identifying as Black, African, African-American or an ethnic/racial minority (of the applicant’s region)
+- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [http://bitly.ws/sANU](http://bitly.ws/sANU) 
+- Queer in MIR: Applicants identifying as LGBTQIA
 - Unaffiliated researcher: Applicants who currently have no professional affiliation that will cover the conference registration fee
 - Women in MIR: Applicants identifying as a woman or other gender minority
 
@@ -69,9 +69,9 @@ Candidates for Music Author Grants should apply by August 19, 2022. Notification
  
 Applications for WiMIR Grants are accepted until August 19, 2022 (or until grants are available) though we strongly recommend candidates to apply early for immediate consideration. WiMIR Grant notifications for author applicants are sent out no later than August 3, 2022 (if applied by July 25, 2022). WiMIR Grant notifications for non-authors will be announced no later than August 24, 2022, in time for ISMIR 2022 early bird registration deadline. 
  
-Please apply for grants using this form: https://forms.gle/McTMivAHNVK1WD5E9 (form opens July 14, 2022)
+Please apply for grants using this google form: [https://forms.gle/McTMivAHNVK1WD5E9](https://forms.gle/McTMivAHNVK1WD5E9) (form opens July 14, 2022)
 
 You will be considered for all the grants that you qualify for, based on the information you provide in the application. 
 
 ### Questions?
-Email ismir2022-diversity@ismir.net 
+Email [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net)
