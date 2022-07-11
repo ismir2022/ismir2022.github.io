@@ -12,28 +12,28 @@ title: International Society for Music Information Retrieval
 
 The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others.
 
-## Speakers
+## Themes and Speakers
 
-#### Opening Keynote
+### Opening Keynote
 Jean-Julien Aucouturier (FEMTO-ST Institute)
 
-#### Music and Health
+### Music and Health
 Kat Agres (National University of Singapore)<br>
 Suvi Saarikallio (University of Jyvaskyla)
 
-#### Music and Culture
+### Music and Culture
 Nori Jacoby (Max Planck Institute for Empirical Aesthetics)<br>
 Tuomas Eerola (Durham University)
 
-#### Music Perception
+### Music Perception
 Anja Volk (Utrecht University)<br>
 Petri Toiviainen (University of Jyvaskyla)
 
-#### Music and Gestures 
+### Music and Gestures 
 Martin Clayton (Durham University)<br>
 Marcelo Wanderley (Mc Gill University)
 
-#### Music and Neuroscience
+### Music and Neuroscience
 Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
 
