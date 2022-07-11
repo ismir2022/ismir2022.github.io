@@ -24,8 +24,7 @@ All the deadlines above are the end of the calendar day (23:59), in AoE time zon
 
 ## Forms of Support
 
-Eligible parties may apply for registration waivers for scientific programs (main conference). To maximize the number of grants we can support, we will provide 100% or 50% waivers to registration fee. Child care grants and local accommodation grants are under consideration and will be announced later and will be announced later. 
-
+Eligible parties may apply for registration waivers for scientific programs (main conference). To maximize the number of grants we can support, we will provide 100% or 50% waivers to registration fee. Child care grants and local accommodation grants are under consideration and will be announced later.
 ## Grant categories
 
 This year, we will have 100% or 50% registration waivers offered under the following grant categories:
