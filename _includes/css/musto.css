@@ -201,6 +201,10 @@ li span {
     display: none;
 }
 
+.sponsorblock{
+    display: block;
+}
+
 @media screen and (max-width: 768px) {
     .mobilecustomtable{
         display: block;
@@ -208,6 +212,10 @@ li span {
 
     .customtable{
         display: none;
+    }
+
+    .sponsorblock{
+        display: block;
     }
 
     .avatarbox{
