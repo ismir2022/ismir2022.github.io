@@ -201,6 +201,10 @@ li span {
     display: none;
 }
 
+.sponsorblock{
+    display: block;
+}
+
 @media screen and (max-width: 768px) {
     .mobilecustomtable{
         display: block;
@@ -210,12 +214,16 @@ li span {
         display: none;
     }
 
+    .sponsorblock{
+        display: block;
+    }
+
     .avatarbox{
         text-align: center;
     }
 
     .volunteerinfo p{
-        text-align: center;
+        text-align: left;
     }
 }
 
