@@ -15,8 +15,8 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
 <h1>Sponsors</h1>
 <table class="customtable">
     <tr>
-        <td class="teamsection" colspan="4">
-            <h2 class="sponsorhead" style="background-color:#8f8a8a;">Patron</h2>
+        <td class="teamsection" colspan="4" style="text-align:center;">
+            <h2 class="sponsorheadV2" style="background-color:#8f8a8a; background-image: linear-gradient(to right, #eaecef, #8f8a8a, #eaecef);">Patron</h2>
         </td>
     </tr>
     <tr>
@@ -31,8 +31,8 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection" colspan="4">
-            <h2 class="sponsorhead" style="background-color:#c8b037;">Contributor</h2>
+        <td class="teamsection" colspan="4" style="text-align:center;">
+            <h2 class="sponsorheadV2" style="background-color:#c8b037; background-image: linear-gradient(to right, #eaecef, #c8b037, #eaecef);">Contributor</h2>
         </td>
     </tr>
     <tr>
@@ -50,8 +50,8 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="teamsection" colspan="4">
-            <h2 class="sponsorhead" style="background-color:#d9d9d9;">Supporter</h2>
+        <td class="teamsection" colspan="4" style="text-align:center;">
+            <h2 class="sponsorheadV2" style="background-color:#d9d9d9; background-image: linear-gradient(to right, #eaecef, #d9d9d9, #eaecef);">Supporter</h2>
         </td>
     </tr>
     <tr>
