@@ -31,7 +31,7 @@ title: International Society for Music Information Retrieval
 <div class="fulltwitter"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <table class="timelinetable" rules=none>
-    <!--
+    
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Registration</span></h4></td>
         <td> </td>
@@ -60,6 +60,7 @@ title: International Society for Music Information Retrieval
         <td> Registration at the venue (for in-person attendance)</td>
         <td> December 04-08, 2022 </td>
     </tr> 
+    <!--
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Grants</span></h4></td>
         <td> </td>
