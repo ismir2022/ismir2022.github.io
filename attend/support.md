@@ -10,19 +10,17 @@ As a part of the commitments to foster diversity and inclusion, and to support e
 A major part of our capacity to hand out grants will be enabled through the generous support of industry partners, whom we thank in advance for supporting our community.
 
 ## Important Dates
-Date | Event
---- | ---
-**July 14, 2022** | **ISMIR 2022 registration portal opens**
-July 14, 2022 | Grants applications open for registration waiver grants under all categories
-July 25, 2022 | Application deadline for Author Grants 
-August 3, 2022 | Author Grant notifications for applications submitted by July 25, 2022
-**August 12, 2022** | **Registration deadline for authors of accepted papers** 
-August 19, 2022 | Application deadline for Music Author Grants and WiMIR Grants
-August 24, 2022 | Grant notifications for Music Author Grants
-August 24, 2022 | Grant notifications for WiMIR grants (applications submitted by August 19, 2022)
-**August 31, 2022** | **Early bird registrations close**
 
-All the deadlines above are the end of the day, in AoE time zone (UTC-12:00)
+* July 14, 2022: **ISMIR 2022 registration portal opens**
+* July 25, 2022: Application deadline for Author Grants
+* August 3, 2022: Author Grant notifications (for applications submitted by July 25, 2022)
+* **August 12, 2022: Registration deadline for authors of accepted papers** 
+* August 19, 2022: Application deadline for Music Author Grants and WiMIR Grants
+* August 24, 2022: Grant notifications for Music Author Grants
+* August 24, 2022: Grant notifications for WiMIR grants (for applications submitted by August 19, 2022)
+* **August 31, 2022: Early bird for ISMIR 2022 registrations close**
+
+All the deadlines above are the end of the calendar day (23:59), in AoE time zone (UTC-12:00)
 
 ## Forms of Support
 
