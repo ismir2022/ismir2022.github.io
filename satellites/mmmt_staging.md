@@ -3,12 +3,12 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 # Music, Mind, Movement and Technology Workshop
-### December 2-3, 2022 (Hybrid Workshop)
-### Time: 9:30am - 5:00pm IST 
-### Venue: Indian Institute of Science (IISc), Bengaluru
-### Workshop Chair: [Vinoo Alluri](https://www.iiit.ac.in/people/faculty/vinoo-alluri/), IIIT Hyderabad
+#### December 2-3, 2022 (Hybrid Workshop)
+#### Time: 9:30am - 5:00pm IST 
+#### Venue: Indian Institute of Science (IISc), Bengaluru
+#### Workshop Chair: [Vinoo Alluri](https://www.iiit.ac.in/people/faculty/vinoo-alluri/), IIIT Hyderabad
 
-### [**Download Poster**](../assets/MMMT_poster.pdf)
+#### [**Download Poster**](../assets/MMMT_poster.pdf)
 
 The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite workshop around the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022). MMMT workshop is an attempt to increase the dialog between the fields of Music Information Retrieval and Music Cognition. This two-day workshop brings together leading International researchers for a series of talks highlighting interdisciplinary research and facilitating interaction and exchange of ideas around various themes. The scope of MMMT extends across the fields of computer science, musicology, cognitive science, social computing, information science, and electrical engineering, amongst others.
 
