@@ -232,7 +232,7 @@ ISMIR 2022 will be a Hybrid conference allowing all registrants to choose to att
 
 ### Important Note for in-person participants			
 * All non-Indian nationals registering for in-person participation will need to submit their passport details which will be used solely to obtain the necessary ministry approvals for the organisers to host international conference participants and procure the documents required by the participants to apply for a VISA to India. The details captured will be deleted at the end of the conference and will not be used for any other purposes other than mentioned above. 
-* The participant is responsible for their own Conference VISA application for the travel to India for ISMIR 2022 (Additional information is here: https://ismir2022.ismir.net/attend/travel). 
+* The participant is responsible for their own Conference VISA application for the travel to India for ISMIR 2022 (Additional information is here: [https://ismir2022.ismir.net/attend/travel](https://ismir2022.ismir.net/attend/travel))
 * An invitation letter for VISA purposes will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Aug 31, 2022) will be sent out by Sep 5, 2022. 
 
 ### General Terms & Conditions:							
