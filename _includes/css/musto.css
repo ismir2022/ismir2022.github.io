@@ -34,7 +34,7 @@ footer {
     color: rgb(0, 0, 0);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .fa-brands {
         font-size: 1em;
@@ -52,7 +52,7 @@ footer {
     font-size: 0.8em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .copyright {
         font-size: 0.1em;
@@ -67,7 +67,7 @@ footer {
     margin-top: 0em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .indexlogo{
         width: 6em;
     }
@@ -81,7 +81,7 @@ footer {
     margin-bottom: 0%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .maincontent{
         padding-left: 6vw;
         padding-right: 10vw;
@@ -102,7 +102,7 @@ header{
     padding-bottom: 20vh;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .headbanner{
         height: 0vh;
@@ -115,7 +115,7 @@ li span {
     font-size: 2.0rem;
 }
   
-@media all and (max-width: 768px) {    
+@media all and (max-width: 600px) {    
     li {
       font-size: 1.0rem;
     }
@@ -177,7 +177,7 @@ li span {
     font-size: 1.2em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .avatar{
         width: 3em;
     }
@@ -202,7 +202,7 @@ li span {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .mobilecustomtable{
         display: block;
     }
@@ -231,7 +231,7 @@ li span {
     text-align: left;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .volunteerinfo{
         font-size: 0.5em;
@@ -373,7 +373,7 @@ a:first-child:hover{
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .topnav a:not(:first-child){
         padding: 0.5em 1em;
@@ -490,11 +490,11 @@ a:first-child:hover{
         width: 8em;
     }
 
-    /* .teamsection{
+    .teamsection{
         display: block;
         margin-top: 0.5em;
         margin-bottom: 0.5em;
-    } */
+    }
 
     .sponsorsection{
         display: block;
