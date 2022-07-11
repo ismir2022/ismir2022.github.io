@@ -53,10 +53,10 @@ The registration fee for the workshop are as follows:
     <th class="reg">On-site</th>
   </tr>
   <tr class="reg">
-  	<th class="reg">Until 31 Aug</th>
+  	<th class="reg">Until Aug 31</th>
     <th class="reg">Sep 1 - Nov 30</th>
     <th class="reg">Dec 02 - 03</th>
-    <th class="reg">Until 31 Aug</th>
+    <th class="reg">Until Aug 31</th>
     <th class="reg">Sep 1 - Nov 30</th>
     <th class="reg">Dec 02 - 03</th>
   </tr>
