@@ -11,7 +11,7 @@ A major part of our capacity to hand out grants will be enabled through the gene
 
 ## Important Dates
 
-* July 14, 2022: **ISMIR 2022 registration portal opens**
+* <span style="color: rgb(216, 54, 22)">July 14, 2022: ISMIR 2022 registration portal and grant applications open</span> 
 * July 25, 2022: Application deadline for Author Grants
 * August 3, 2022: Author Grant notifications (for applications submitted by July 25, 2022)
 * **August 12, 2022: Registration deadline for authors of accepted papers** 
