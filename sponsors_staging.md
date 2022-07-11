@@ -5,7 +5,7 @@ title: International Society for Music Information Retrieval
 <h1>Sponsors</h1>
 <table class="customtable">
     <tr>
-        <td class="teamsection sponsorsection" colspan="4" align="center">
+        <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
             <h2 class="sponsorhead" style="background-color:#8f8a8a;">Platinum</h2>
         </td>
     </tr>
