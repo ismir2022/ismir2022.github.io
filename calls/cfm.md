@@ -6,6 +6,12 @@ title: International Society for Music Information Retrieval
 
 ISMIR 2022 invites submissions of music/sound art works for the concert program during the conference week. Like the conference, the concert will be held in a hybrid format. The call is open to all composers, technologists, and performers for inclusion in the conference’s concert program. Submissions demonstrating applications of music information retrieval, computational musicology, human computer interaction, machine accompaniment, call-response, ethical hacking, cultural diversity in non-Eurogenetic music are highly encouraged.
 
+## Important Dates
+* Submission portal opening: Jul 10, 2022
+* Submission deadline: Jul 31, 2022
+* Notification of acceptance: Aug 15, 2022
+* Performance-ready submission deadline: Oct 31, 2022
+
 ## Themes
 This year, music from any genre and in any formats is invited for submission. However, to make it a good fit for a hybrid format and make it more interesting, we propose the following themes that participants are encouraged to explore, but of course not limit to:
 - **Recorded Ensemble:** Participants form teams to record ensemble performances to submit. (i) Networked offline — performers in different locations can pre-record each track and assemble it with others’ tracks by post editing, to perform as if the performances were played at the same time; (ii) Networked live — participants can also select to do a live performance using specialized audio streaming software (like Jacktrip, Soundjack) providing the audio to a multiple screen chat application like Zoom. The accepted submissions will be played back on-site as well as broadcast live.
@@ -31,12 +37,6 @@ Only one submission per participant will be accepted. Pieces have to be shorter 
 _Submission site:_ [https://cmt3.research.microsoft.com/ISMIR2022](https://cmt3.research.microsoft.com/ISMIR2022)
 
 Each accepted music submission needs to be covered by an in-person registration (student or full, as appropriate) by the early bird deadline(Aug 31, 2022). If the authors of the music submission are already ISMIR paper authors and have registered for the conference, their music submission can be covered with the same registration. Kindly indicate in the submission form if the first author of a submission is a student author.
-
-## Important Dates
-* Submission portal opening: Jul 10, 2022
-* Submission deadline: Jul 31, 2022
-* Notification of acceptance: Aug 15, 2022
-* Performance-ready submission deadline: Oct 31, 2022
 
 ## Questions
 Questions can be directed via [email](mailto:ismir2022-music@ismir.net) to ismir2022-music@ismir.net
