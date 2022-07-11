@@ -544,8 +544,6 @@ button.reg {
   .sponsorheadStaging {
     border: none;
     width: 100%;
-    line-height: 2;
-    vertical-align: middle;
     padding: 0.6em 1.2em;
     display: inline-block;
     border-radius: 4px;
