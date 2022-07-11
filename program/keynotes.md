@@ -20,6 +20,9 @@ title: International Society for Music Information Retrieval
             </p>
         </td>
     </tr>
+    <br>
+    <br>
+    <br>
     <tr>
         <td class="avatarbox">
             <img src="..\assets\speakers\richa_singh.jpg" alt="Avatar" class="keynoteavatar">
@@ -55,6 +58,9 @@ title: International Society for Music Information Retrieval
             </p>
         </td>
     </tr>
+    <br>
+    <br>
+    <br>
     <tr>
         <td class="avatarbox">
             <img src="..\assets\speakers\richa_singh.jpg" alt="Avatar" class="keynoteavatar">
