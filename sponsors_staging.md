@@ -6,7 +6,7 @@ title: International Society for Music Information Retrieval
 <table class="customtable">
     <tr>
         <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#8f8a8a; background-image: linear-gradient(to right, white, #8f8a8a, white);">Platinum</h2>
+            <h2 class="sponsorheadStaging" style="background-color:#8f8a8a; background-image: linear-gradient(to right, #eaecef, #8f8a8a, #eaecef);">Platinum</h2>
         </td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#c8b037; background-image: linear-gradient(to right, white, #c8b037, white);">Gold</h2>
+            <h2 class="sponsorheadStaging" style="background-color:#c8b037; background-image: linear-gradient(to right, #eaecef, #c8b037, #eaecef);">Gold</h2>
         </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#d9d9d9; background-image: linear-gradient(to right, white, #d9d9d9, white);">Silver</h2>
+            <h2 class="sponsorheadStaging" style="background-color:#d9d9d9; background-image: linear-gradient(to right, #eaecef, #d9d9d9, #eaecef);">Silver</h2>
         </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ title: International Society for Music Information Retrieval
     </tr>
     <tr>
         <td class="teamsection sponsorsection" colspan="4" style="text-align:center;">
-            <h2 class="sponsorheadStaging" style="background-color:#ff944d; background-image: linear-gradient(to right, white, #ff944d, white);">Supporter</h2>
+            <h2 class="sponsorheadStaging" style="background-color:#ff944d; background-image: linear-gradient(to right, #eaecef, #ff944d, #eaecef);">Supporter</h2>
         </td>
     </tr>
     <tr>
