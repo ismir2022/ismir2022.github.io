@@ -9,9 +9,9 @@ ISMIR 2022 is committed to providing a harassment-free experience for everyone. 
 
 ## Need Help?
 If you are being harassed, notice that someone else is being harassed, or have any other concerns regarding conference conduct, you may report it through any the following channels:
-- ISMIR 2022 General Chairs (Preeti Rao, Hema Murthy, Ajay Srinivasamurthy): ismir2022@ismir.net 
-- ISMIR 2022 Diversity & Inclusion Chairs (Xiao Hu, Ranjani H G): ismir2022-diversity@ismir.net
-- ISMIR Board (roster [here](https://www.ismir.net/about/)): codeofconduct@ismir.net or board@ismir.net
+- ISMIR 2022 General Chairs (Preeti Rao, Hema Murthy, Ajay Srinivasamurthy): [ismir2022@ismir.net](mailto:ismir2022@ismir.net) 
+- ISMIR 2022 Diversity & Inclusion Chairs (Xiao Hu, Ranjani H G): [ismir2022-diversity@ismir.net](mailto:ismir2022-diversity@ismir.net)
+- ISMIR Board (roster [here](https://www.ismir.net/about/)): [codeofconduct@ismir.net](mailto:codeofconduct@ismir.net) or [board@ismir.net](mailto:board@ismir.net)
 - Volunteer team contact (24-hour support): Will be provided closer to the conference
 
 ## The Quick Version
