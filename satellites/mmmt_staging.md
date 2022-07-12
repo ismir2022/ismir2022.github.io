@@ -38,8 +38,7 @@ Blair Kaneshiro (Stanford University)<br>
 Peter Keller (Aarhus University)<br>
 
 ## Schedule
-
-All the talks can be attended virtually. The speakers who will be present physically will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022! We look forward to seeing you there!
+All the talks will take place between 9:30am - 5:00pm IST and can be attended virtually. The speakers who will be present physically will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022! We look forward to seeing you there!
 
 ## Registration
 The registration fee for the workshop are as follows:
