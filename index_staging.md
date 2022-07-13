@@ -3,14 +3,14 @@ layout: default
 title: International Society for Music Information Retrieval
 ---
 
-<h1 style="float:right; width:64%;"> Welcome to ISMIR 2022! </h1>
-<p style="float:right; width:64%;">The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
+<h1 style="float:right; width:63%;"> Welcome to ISMIR 2022! </h1>
+<p style="float:right; width:63%;">The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
-<p style="float:right; width:64%;">
+<p style="float:right; width:63%;">
 ISMIR 2022 will comprise a technical program of submitted research papers, keynote and plenary talks by eminent speakers in MIR and related areas such as musicology and music cognition. A number of special sessions are planned on themes that are topical to both academia and industry. Further, satellite events such as workshops aimed to facilitate and increase interdisciplinary dialogue between Music Information Science and Humanities are planned for the days around the conference. The varied themes of these workshops include Music and Health, Music Culture and Identity, Music and Movement, Music Perception, and Neuromusicology. 
 </p>
 <br>
-<h3 style="float:right; width:64%">Highlights</h3>
+<h3 style="float:right; width:63%">Highlights</h3>
 <table class="scrolldown" rules=none style="float:right; width:64%;">
 		<tbody>
             <tr>
@@ -25,9 +25,9 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 		</tbody>
 </table>
 
-<div class="row" style="float:right; width:64%">
+<div class="row" style="float:right; width:63%">
     <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
-    <section style="background-color: rgb(255, 255, 255); height:20vw">
+    <section style="background-color: rgb(255, 255, 255); height:25vw">
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
@@ -46,7 +46,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 ### Important Dates (AoE)
-<table style="width:24vw; height:65vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:25vw; height:65vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
@@ -193,7 +193,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
 </table>
 <br>
-<div style="float:left;"><a class="twitter-timeline" data-width="24vw" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="float:left;"><a class="twitter-timeline" data-width="25vw" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
