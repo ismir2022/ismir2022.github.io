@@ -4,7 +4,7 @@ title: International Society for Music Information Retrieval
 ---
 
 <!-- <h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1> -->
-<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:63%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
+<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:55%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
 <h2><span style="color:#DB442A">Welcome to ISMIR 2022!</span></h2>
 <p>The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
@@ -13,9 +13,10 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </p>
 </div>
 <br>
-<h3 style="float:right; width:63%">Highlights</h3>
-<table class="scrolldown" rules=none style="float:right; width:63%;">
+<!-- <h3 style="float:right; width:55%">Highlights</h3> -->
+<table class="scrolldown" rules=none style="float:right; width:55%;">
 		<tbody>
+	    <tr> <h3 style="color:#DB442A">Highlights</h3> </tr>
             <tr>
 			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
             </tr>
@@ -28,9 +29,9 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 		</tbody>
 </table>
 
-<div class="row" style="float:right; width:63%">
-    <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
+<div class="row" style="float:right; width:55%">
     <section style="background-color: rgb(255, 255, 255); height:25vw">
+	<h3 style="padding-top: 0.125em;color:#DB442A"> Blogs </h3>
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
