@@ -22,15 +22,6 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             <tr>
                 <td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="[here](https://ismir2022.ismir.net/attend/support)">Apply for grants</a></li></td>
             </tr>
-            <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
-            </tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
-			</tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
-			</tr>
 		</tbody>
 </table>
 
@@ -55,7 +46,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 ### Important Dates (AoE)
-<table style="width:24vw; height:45vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:24vw; height:55vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
