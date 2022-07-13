@@ -35,8 +35,8 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </table>
 
 <div class="row" style="float:right; width:64%">
-    <section style="background-color: #f9f9f9;">
-        <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
+    <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
+    <section style="background-color: #DB442A;">
         <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
