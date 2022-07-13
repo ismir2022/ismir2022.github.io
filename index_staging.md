@@ -23,7 +23,7 @@ title: International Society for Music Information Retrieval
 			</tr>
 		</tbody>
 </table>
-<table class="timelinetable2" rules=none style="height:30vh; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255);">
+<table class="timelinetable2" style="height:20vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
