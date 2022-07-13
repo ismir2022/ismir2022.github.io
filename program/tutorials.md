@@ -68,6 +68,7 @@ This tutorial is the result of an ongoing collaborative effort involving many co
 ### T3(M): Designing Controllable Synthesis System for Musical Signals
 
 *Hyeong-Seok Choi, Yusong Wu*
+
 Advances in deep learning and signal processing research have made it possible to generate signals that at times can be difficult to distinguish from real samples.
 Despite the realistic output the models can produce, however, the controllability of the models is still constrained because of the black-box-like nature of many models.
  
