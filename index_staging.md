@@ -4,7 +4,7 @@ title: International Society for Music Information Retrieval
 ---
 
 <!-- <h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1> -->
-<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:55%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
+<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:63%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
 <h2><span style="color:#DB442A">Welcome to ISMIR 2022!</span></h2>
 <p>The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
@@ -13,29 +13,24 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </p>
 </div>
 <br>
-<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:55%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
-<!-- <h3 style="float:right; width:55%">Highlights</h3> -->
-<table class="scrolldown" rules=none style="float:right;">
+<h3 style="float:right; width:63%">Highlights</h3>
+<table class="scrolldown" rules=none style="float:right; width:63%;">
 		<tbody>
-	    <tr> <h3 style="color:#DB442A">Highlights</h3> </tr>
             <tr>
-			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="https://ismir2022.ismir.net/program/keynotes">Keynotes</a>, <a href="https://ismir2022.ismir.net/program/tutorials">Tutorials</a> and <a href="https://ismir2022.ismir.net/program/satellites">Satellite Events</a> at ISMIR 2022 is now available</li></td>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
             </tr>
             <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="https://ismir2022.ismir.net/attend/registration">Register Now!</a></li></td>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="[Register Now!](https://ismir2022.ismir.net/attend/registration)">Register Now!</a></li></td>
             </tr>
             <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="https://ismir2022.ismir.net/attend/support">Apply for grants</a></li></td>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="[here](https://ismir2022.ismir.net/attend/support)">Apply for grants</a></li></td>
             </tr>
 		</tbody>
 </table>
-</div>
 
-<div class="row" style="float:right; width:55%">
-	<h3 style="color:#DB442A">Blogs</h3>
-	
+<div class="row" style="float:right; width:63%">
+    <h3 style="padding-top: 0.125em;"> ISMIR 2022 Blog </h3>
     <section style="background-color: rgb(255, 255, 255); height:25vw">
-	
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
@@ -51,9 +46,11 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         </table> -->
     </section>
+    <br>
+    <br>
 </div>
 
-<table style="width:40%; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
 	<tr> <td> <h3> Important Dates (AoE) </h3> </td> 
 	     <td> </td>
 	
@@ -203,8 +200,8 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             <td><span style="text-decoration:line-through">April 15, 2022</span></td>
         </tr>
 </table>
-
+<br>
 <div style="float:left;"><a class="twitter-timeline" data-width="26vw" data-height="47vh" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
-
-
+<br>
+<br>
