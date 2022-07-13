@@ -76,7 +76,6 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             <td> Registration at the venue (for in-person attendance)</td>
             <td> December 04-08, 2022 </td>
         </tr> 
-        <!--
         <tr>
             <td><h4><span style="color:#DB442A">Grants</span></h4></td>
             <td> </td>
@@ -100,7 +99,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         <tr>
             <td> Grant notifications for Music Author grants and WiMIR grants</td>
             <td> Aug 19, 2022 </td>
-        </tr> -->
+        </tr> 
         <tr>
             <td><h4><span style="color:#DB442A">Papers</span></h4></td>
             <td> </td>
