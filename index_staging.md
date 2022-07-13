@@ -11,7 +11,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </p>
 <br>
 <h3 style="float:right; width:63%">Highlights</h3>
-<table class="scrolldown" rules=none style="float:right; width:64%;">
+<table class="scrolldown" rules=none style="float:right; width:63%;">
 		<tbody>
             <tr>
 			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
@@ -43,10 +43,11 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         </table> -->
     </section>
+    <br>
 </div>
 
 ### Important Dates (AoE)
-<table style="width:25vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
@@ -193,7 +194,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
 </table>
 <br>
-<div style="float:left;"><a class="twitter-timeline" data-width="25vw" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="float:left;"><a class="twitter-timeline" data-width="26vw" data-height="410" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
