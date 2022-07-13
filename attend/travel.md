@@ -5,9 +5,7 @@ title: International Society for Music Information Retrieval
 
 # Travel
 
-This page will be updated with information to help you plan your travel to Bengaluru, India to attend ISMIR 2022. 
-
-We will update the page with information on connectivity, visas, accommodation and more! Please watch this space for additional information. 
+This page contains information to help you plan your travel to Bengaluru, India to attend ISMIR 2022. We will periodically update the information on connectivity, visas, accommodation and more as it becomes available. Please watch this space for additional information.
 
 ## VISA Information
 The information on this page is provided as general guidance for securing a visa to travel to India to attend the ISMIR 2022 conference. The information provided cannot be constituted as legal advice. While the ISMIR 2022 organizers make every effort to keep the information up to date, we cannot make any guarantees about the accuracy or validity of the information.   
