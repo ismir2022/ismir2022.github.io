@@ -14,7 +14,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 <br>
 <div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:55%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
-<!-- <h3 style="float:right; width:55%">Highlights</h3> -->
+<h3 style="float:right; width:55%">Highlights</h3>
 <table class="scrolldown" rules=none style="float:right; width:55%;">
 		<tbody>
 	    <tr> <h3 style="color:#DB442A">Highlights</h3> </tr>
@@ -32,9 +32,10 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 <div class="row" style="float:right; width:55%">
+	<h3 style="color:#DB442A">Blogs</h3>
 	
     <section style="background-color: rgb(255, 255, 255); height:25vw">
-	<h3 style="color:#DB442A">Blogs</h3>
+	
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
