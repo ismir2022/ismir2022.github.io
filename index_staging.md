@@ -3,9 +3,9 @@ layout: default
 title: International Society for Music Information Retrieval
 ---
 
-<h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1>
+<!-- <h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1> -->
 <div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:63%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
-<h2> Welcome to ISMIR 2022! </h2>
+<h2><span style="color:#DB442A">Welcome to ISMIR 2022!</span></h2>
 <p>The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
 <p>
@@ -51,7 +51,10 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 <table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
-	<tr> <td> <h3> Important Dates (AoE) </h3> </td> </tr>
+	<tr> <td> <h3> Important Dates (AoE) </h3> </td> 
+	     <td> </td>
+	
+	</tr>
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
