@@ -3,7 +3,7 @@ layout: default
 title: International Society for Music Information Retrieval
 ---
 
-<h1 style="float:right; width:63%;"> Welcome to ISMIR 2022! </h1>
+<h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1>
 <div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:63%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
 <p>The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
