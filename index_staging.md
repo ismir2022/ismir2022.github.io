@@ -21,8 +21,7 @@ title: International Society for Music Information Retrieval
 			</tr>
 		</tbody>
 </table>
-<table class="timelinetable2 scrolldown" rules=none style="height:60vh;">
-    <tbody>
+<table class="timelinetable2" rules=none style="height:60vh; overflow-y: auto;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
@@ -168,10 +167,9 @@ title: International Society for Music Information Retrieval
             <td><span style="text-decoration:line-through">Feedback from mentors</span></td>
             <td><span style="text-decoration:line-through">April 15, 2022</span></td>
         </tr>
-    </tbody>
 </table>
 <br>
-<div style="float:left;"><a class="twitter-timeline" style="width:30%;" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="float:left;"><a class="twitter-timeline" style="width:40%; height=400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
