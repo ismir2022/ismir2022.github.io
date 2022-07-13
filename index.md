@@ -60,7 +60,6 @@ title: International Society for Music Information Retrieval
         <td> Registration at the venue (for in-person attendance)</td>
         <td> December 04-08, 2022 </td>
     </tr> 
-    <!--
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Grants</span></h4></td>
         <td> </td>
@@ -84,7 +83,7 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td> Grant notifications for Music Author grants and WiMIR grants</td>
         <td> Aug 19, 2022 </td>
-    </tr> -->
+    </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
