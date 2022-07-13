@@ -633,17 +633,17 @@ button.reg {
     min-height: 250px;
     border-radius: 4px;
     overflow: hidden;
-    background-color: $bg-color;
+    background-color: rgb(255, 255, 255);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    margin-bottom: 2.25rem; // don't use % value see more: https://github.com/philipwalton/flexbugs/issues/86
+    margin-bottom: 2.25rem;
     border-bottom: 0;
     transition: box-shadow .25s ease;
-    &:hover,
-    &:focus {
+
+    &:hover, &:focus {
         border-bottom: 0;
         box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
     }
-    @include breakpoint($md) {
+    @include breakpoint(600px) {
         width: 48.4375%;
         margin-right: 3.125%;
 
@@ -652,7 +652,7 @@ button.reg {
         margin-right: 0;
         }
     }
-    @include breakpoint($xl) {
+    @include breakpoint(600px) {
         width: 31.25%;
         margin-right: 3.125%;
 
@@ -676,12 +676,12 @@ button.reg {
         position: relative;
         padding: 1.875rem 1.25rem 0.625rem;
         width: 100%;
-        color: $grey;
+        color: #838c8d;
         border-bottom: 0;
 
         &:focus,
         &:hover {
-        color: $grey;
+        color: #838c8d;
         border-bottom: 0;
         }
     }
@@ -696,7 +696,7 @@ button.reg {
 
     .post-card__thumb {
     margin: 0;
-    background: $bg-color;
+    background: rgb(255, 255, 255);
     position: relative;
     overflow: hidden;
 
