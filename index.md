@@ -11,18 +11,15 @@ title: International Society for Music Information Retrieval
 <h3>Highlights</h3>
 <table class="scrolldown" rules=none>
 		<tbody>
-            <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
-            </tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
-			</tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
-			</tr>
-			<!-- <tr>
-				<td><li><a href="https://cmt3.research.microsoft.com/ISMIR2022/"><span style="text-decoration:line-through">ISMIR 2022 paper submission site</span></a><span style="text-decoration:line-through"> is now open! For more info, check out the </span><a href="https://ismir2022.ismir.net/calls/cfp"><span style="text-decoration:line-through">Call for Papers</span></a>.</li></td>
-			</tr> -->
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
+		</tr>
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="[Register Now!](https://ismir2022.ismir.net/attend/registration)">Register Now!</a></li></td>
+		</tr>
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="[here](https://ismir2022.ismir.net/attend/support)">Apply for grants</a></li></td>
+		</tr>
 		</tbody>
 </table>
 
@@ -60,7 +57,6 @@ title: International Society for Music Information Retrieval
         <td> Registration at the venue (for in-person attendance)</td>
         <td> December 04-08, 2022 </td>
     </tr> 
-    <!--
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Grants</span></h4></td>
         <td> </td>
@@ -84,7 +80,7 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td> Grant notifications for Music Author grants and WiMIR grants</td>
         <td> Aug 19, 2022 </td>
-    </tr> -->
+    </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
