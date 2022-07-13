@@ -21,9 +21,9 @@ title: International Society for Music Information Retrieval
 		</tbody>
 </table>
 
-<div class="row">
+<div class="row" style="float:right; width:64%">
     <section class="blog">
-        <h3 style="float:right; width:64%"> Read our blog posts </h3>
+        <h3> Read our blog posts </h3>
         <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
