@@ -36,13 +36,21 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 
 <div class="row" style="float:right; width:64%">
     <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
-    <section style="background-color: rgb(255, 255, 255);">
-        <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
+    <section style="background-color: rgb(255, 255, 255); height:30vw">
+        <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
             {% endfor %}
-            <!--  {% include pagination.html %} -->
-        </div>
+        </div> -->
+        <table style="overflow-y:auto">
+        <tr>
+            <td>
+            <iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe>
+            </td>
+            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe></td>
+            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe></td>
+        </tr>
+        </table>
     </section>
 </div>
 
