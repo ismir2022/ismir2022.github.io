@@ -3,9 +3,6 @@ layout: default
 title: International Society for Music Information Retrieval
 ---
 
-<br>
-
-### 
 <h1 style="float:right; width:65%;"> Welcome to ISMIR 2022! </h1>
 <p style="float:right; width:65%;">The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 <br>
@@ -24,7 +21,7 @@ title: International Society for Music Information Retrieval
 		</tbody>
 </table>
 
-### Important Dates
+### Important Dates (AoE)
 <table class="timelinetable2" style="height:50vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
@@ -173,7 +170,7 @@ title: International Society for Music Information Retrieval
         </tr>
 </table>
 <br>
-<div style="float:left;"><a class="twitter-timeline" data-width="400" data-height="500" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="float:left;"><a class="twitter-timeline" data-width="450" data-height="500" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
