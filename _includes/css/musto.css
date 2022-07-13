@@ -399,6 +399,9 @@ a:first-child:hover{
 .timelinetable{
     width: 50%;
 }
+.timelinetable2{
+    width: 30%;
+}
 
 @media screen and (max-width: 600px) {
     .timelinetable{
