@@ -13,6 +13,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </p>
 </div>
 <br>
+<div style="background-color: rgb(255, 255, 255); height:45vh;float:right; width:55%; padding-left: 2vw; padding-right: 2vw; padding-top: 1vh; padding-bottom: 1vh; display:block; overflow-y:auto; overflow-x:hidden; ">
 <!-- <h3 style="float:right; width:55%">Highlights</h3> -->
 <table class="scrolldown" rules=none style="float:right; width:55%;">
 		<tbody>
@@ -28,10 +29,12 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             </tr>
 		</tbody>
 </table>
+</div>
 
 <div class="row" style="float:right; width:55%">
+	
     <section style="background-color: rgb(255, 255, 255); height:25vw">
-	<h3 style="padding-top: 0.125em;color:#DB442A"> Blogs </h3>
+	<h3 style="color:#DB442A">Blogs</h3>
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
@@ -51,7 +54,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
     <br>
 </div>
 
-<table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:40%; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
 	<tr> <td> <h3> Important Dates (AoE) </h3> </td> 
 	     <td> </td>
 	
@@ -206,3 +209,12 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
