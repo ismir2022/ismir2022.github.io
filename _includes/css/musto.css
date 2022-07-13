@@ -614,3 +614,14 @@ button.reg {
 .pricetable tr:not(:first-child){
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+.home-post-list{ 
+    padding-top: 1.65em;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 0 auto;
+    @include breakpoint(600px) {
+      padding-top: 1.65em;
+  
+    }
+  }

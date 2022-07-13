@@ -4,11 +4,24 @@ title: International Society for Music Information Retrieval
 ---
 
 <h1 style="float:right; width:64%;"> Welcome to ISMIR 2022! </h1>
-<p style="float:right; width:64%;">The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
+<p style="float:right; width:64%;">The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
+</p>
+<p style="float:right; width:64%;">
+ISMIR 2022 will comprise a technical program of submitted research papers, keynote and plenary talks by eminent speakers in MIR and related areas such as musicology and music cognition. A number of special sessions are planned on themes that are topical to both academia and industry. Further, satellite events such as workshops aimed to facilitate and increase interdisciplinary dialogue between Music Information Science and Humanities are planned for the days around the conference. The varied themes of these workshops include Music and Health, Music Culture and Identity, Music and Movement, Music Perception, and Neuromusicology. 
+</p>
 <br>
 <h3 style="float:right; width:64%">Highlights</h3>
 <table class="scrolldown" rules=none style="float:right; width:64%;">
 		<tbody>
+            <tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
+            </tr>
+            <tr>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="[Register Now!](https://ismir2022.ismir.net/attend/registration)">Register Now!</a></li></td>
+            </tr>
+            <tr>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="[here](https://ismir2022.ismir.net/attend/support)">Apply for grants</a></li></td>
+            </tr>
             <tr>
                 <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
             </tr>
@@ -22,8 +35,8 @@ title: International Society for Music Information Retrieval
 </table>
 
 <div class="row" style="float:right; width:64%">
-    <section class="blog">
-        <h3> Read our blog posts </h3>
+    <section style="background-color: #f9f9f9;">
+        <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
         <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
