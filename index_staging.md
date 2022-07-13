@@ -6,7 +6,7 @@ title: International Society for Music Information Retrieval
 <h1 style="float:right; width:64%;"> Welcome to ISMIR 2022! </h1>
 <p style="float:right; width:64%;">The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 <br>
-<h3 style="float:right; width:65%">Highlights</h3>
+<h3 style="float:right; width:64%">Highlights</h3>
 <table class="scrolldown" rules=none style="float:right; width:64%;">
 		<tbody>
             <tr>
@@ -21,8 +21,20 @@ title: International Society for Music Information Retrieval
 		</tbody>
 </table>
 
+<div class="row">
+    <section class="blog">
+        <h3 style="float:right; width:64%"> Read our blog posts </h3>
+        <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
+            {% for post in site.posts %}
+                {% include card.html %}
+            {% endfor %}
+            <!--  {% include pagination.html %} -->
+        </div>
+    </section>
+</div>
+
 ### Important Dates (AoE)
-<table style="width:24vw; height:50vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:24vw; height:45vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
@@ -170,7 +182,7 @@ title: International Society for Music Information Retrieval
         </tr>
 </table>
 <br>
-<div style="float:left;"><a class="twitter-timeline" data-width="24vw" data-height="500" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div style="float:left;"><a class="twitter-timeline" data-width="24vw" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <!-- <div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 <br>
 <br>
