@@ -41,16 +41,16 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             {% for post in site.posts %}
                 {% include card.html %}
             {% endfor %}
-        </div> -->
-        <table style="overflow-y:auto">
+        </div>
+        <table style="overflow:hidden">
         <tr>
             <td>
-            <iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe>
+            <iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe>
             </td>
-            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe></td>
-            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=600px ></iframe></td>
+            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
+            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
         </tr>
-        </table>
+        </table> -->
     </section>
 </div>
 
