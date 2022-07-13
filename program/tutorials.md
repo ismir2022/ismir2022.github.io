@@ -10,6 +10,8 @@ All the tutorials at ISMIR 2022 will take place on 04 December, 2022 in a hybrid
 
 ### T1(M): An Introduction to Symbolic Music Processing in Python with Partitura
 
+*Carlos Cancino-Chacón, Francesco Foscarin, Emmanouil Karystinaios, Silvan David Peter*
+
 Symbolic music formats (e.g., MIDI, MusicXML/MEI) can provide a variety of high-level musical information like note pitch and duration, key/time signature, beat/downbeat position, etc. Such data can be used as both input/training data and as ground truth for MIR systems.
 
 This tutorial aims to provide an introduction to symbolic music processing for a broad MIR audience, with a particular focus on showing how to extract relevant MIR features from symbolic musical formats in a fast, intuitive, and scalable way. We do this with the aid of the Python package Partitura.  To target different kinds of symbolic data, we use an extended version of the ASAP Dataset, a multi-modal dataset that contains MusicXML scores, MIDI performances, audio performances, and score-to-performance alignments.
@@ -38,6 +40,8 @@ a M.Sc. degree in Electrical Engineering and Audio Engineering from the Graz Uni
 
 ### T2(M): Computational Methods For Supporting Corpus-Based Research On Indian Art Music
 
+*Thomas Nuttall, Genís Plaja-Roglans, Lara Pearson, Brindha Manickavasakan*
+
 Culture-aware approaches to computational musicology and music information research (MIR) have been shown to be effective for a musically relevant analysis of a music culture. Projects such as CompMusic (2011-2017), MusicalBridges (2018-2022) or the initiatives funded by SPARC (2019-2022) have demonstrated the importance of considering sociocultural specifics of a music tradition to effectively define research problems, collect data and propose methods for analysis. These projects  have made particularly notable contributions to the analysis of Indian Art Music (IAM), leading to a collective body of bespoke computational methods for analyzing these traditions.
 
 
@@ -63,6 +67,7 @@ This tutorial is the result of an ongoing collaborative effort involving many co
 
 ### T3(M): Designing Controllable Synthesis System for Musical Signals
 
+*Hyeong-Seok Choi, Yusong Wu*
 Advances in deep learning and signal processing research have made it possible to generate signals that at times can be difficult to distinguish from real samples.
 Despite the realistic output the models can produce, however, the controllability of the models is still constrained because of the black-box-like nature of many models.
  
@@ -82,6 +87,8 @@ The target audience for this tutorial is researchers who are interested in deep 
 ## Afternoon Session
 
 ### T4(A): Few-Shot and Zero-Shot Learning for Musical Audio
+
+*Yu Wang, Hugo Flores García, Jeong Choi*
 
 While deep neural networks achieved promising results in many MIR tasks, they typically require a large amount of labeled data for training. Rare, fine-grained, or newly emerged classes (e.g. a rare musical instrument, a new music genre) where large-scale data collection is hard or simply impossible are often considered out-of-vocabulary and unsupported by MIR systems. To address this, few-shot learning (FSL) and zero-shot learning (ZSL) are learning paradigms that aim to train a model that can learn a new concept based on just a handful of labeled examples (few-shot) or some auxiliary information (zero-shot), mimicking human ability. By doing so, the trained model is no longer limited to a pre-defined and fixed set of classes but ideally can generalize to any class of interest with the cost of little human intervention. In addition, few-shot and zero-shot models naturally incorporate human input without asking for significant effort, making them useful tools when developing MIR systems that can be customized by individual users.  
 
@@ -107,6 +114,8 @@ Jeong is a machine learning researcher at Naver, where he leads NOW AI team that
 
 ### T5(A): Deep learning for automatic mixing
 
+*Christian J. Steinmetz, Soumya Sai Vanka, Gary Bromham, Marco A. Martínez Ramírez*
+
 Mixing is a central task within audio post-production where expert knowledge is required to deliver professional quality content, encompassing both technical and creative considerations. Recently, deep learning approaches have been introduced that aim to address this challenge by generating a cohesive mixture of a set of recordings as would an audio engineer. These approaches leverage large-scale datasets and therefore have the potential to outperform traditional approaches based on expert systems, but bring their own unique set of challenges. In this tutorial, we will begin by providing an introduction to the mixing process from the perspective of an audio engineer, along with a discussion of the tools used in the process from a signal processing perspective. We will then discuss a series of recent deep learning approaches and relevant datasets, providing code to build, train, and evaluate these systems. Future directions and challenges will be discussed, including new deep learning systems, evaluation methods, and approaches to address dataset availability. Our goal is to provide a starting point for researchers working in MIR who have little to no experience in audio engineering so they can easily begin addressing problems in this domain. In addition, our tutorial may be of interest to researchers outside of MIR, but with a background in audio engineering or signal processing, who are interested in gaining exposure to current approaches in deep learning. 
 
 
@@ -121,6 +130,8 @@ Mixing is a central task within audio post-production where expert knowledge is 
 <hr>
 
 ### T6(A): Trustworthy MIR: Creating MIR applications with values
+
+*Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro*
 
 The MIR community shows an increasing interest in understanding how current
 technologies affect the everyday experience of people all over the world, e.g., how we
