@@ -46,34 +46,34 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 ### Important Dates (AoE)
-<table style="width:25vw; height:65vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:25vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
         </tr>
         <tr>
             <td>Registration portal opens</td>
-            <td> July 14, 2022 </td>
+            <td> Jul 14, 2022 </td>
         </tr>
         <tr>
             <td>Author registration deadline</td>
-            <td> August 12, 2022 </td>
+            <td> Aug 12, 2022 </td>
         </tr>
         <tr>
             <td>Early Bird registration deadline</td>
-            <td> August 31, 2022 </td>
+            <td> Aug 31, 2022 </td>
         </tr>
         <tr>
             <td> Online registration portal closes for in-person attendance</td>
-            <td> November 25, 2022 </td>
+            <td> Nov 25, 2022 </td>
         </tr>
         <tr>
             <td> Registration deadline for virtual attendance</td>
-            <td> December 5, 2022 </td>
+            <td> Dec 5, 2022 </td>
         </tr>
         <tr>
             <td> Registration at the venue (for in-person attendance)</td>
-            <td> December 04-08, 2022 </td>
+            <td> Dec 04-08, 2022 </td>
         </tr> 
         <tr>
             <td><h4><span style="color:#DB442A">Grants</span></h4></td>
@@ -81,11 +81,11 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td> Grant applications for registration waivers open</td>
-            <td> July 14, 2022 </td>
+            <td> Jul 14, 2022 </td>
         </tr>
         <tr>
             <td> Application deadline for Author grants</td>
-            <td> July 25, 2022 </td>
+            <td> Jul 25, 2022 </td>
         </tr>
         <tr>
             <td> Author grant notifications</td>
@@ -105,7 +105,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Submission site opening</span></td>
-            <td><span style="text-decoration:line-through">April 22, 2022</span></td>
+            <td><span style="text-decoration:line-through">Apr 22, 2022</span></td>
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Abstract submission deadline</span></td>
@@ -117,11 +117,11 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td> July 14, 2022 </td>
+            <td> Jul 14, 2022 </td>
         </tr>
         <tr>
             <td>Camera ready deadline</td>
-            <td> August 9, 2022 </td>
+            <td> Aug 9, 2022 </td>
         </tr>
         <tr>
             <td><h4><span style="color:#DB442A">Music Program</span></h4></td>
@@ -129,15 +129,15 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">First Call for Music</span></td>
-            <td><span style="text-decoration:line-through">July 4, 2022</span></td>
+            <td><span style="text-decoration:line-through">Jul 4, 2022</span></td>
         </tr>
         <tr>
         <td><span style="text-decoration:line-through">Submission site opening</span></td>
-            <td><span style="text-decoration:line-through">July 10, 2022</span></td>
+            <td><span style="text-decoration:line-through">Jul 10, 2022</span></td>
         </tr>
         <tr>
             <td>Music submission deadline</td>
-            <td> July 31, 2022 </td>
+            <td> Jul 31, 2022 </td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
@@ -153,15 +153,15 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Proposal Submission</span></td>
-            <td><span style="text-decoration:line-through">April 17, 2022</span></td>
+            <td><span style="text-decoration:line-through">Apr 17, 2022</span></td>
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Revision</span></td>
-            <td><span style="text-decoration:line-through">April 24, 2022</span></td>
+            <td><span style="text-decoration:line-through">Apr 24, 2022</span></td>
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Notification of Acceptance</span></td>
-            <td><span style="text-decoration:line-through">June 5, 2022</span></td>
+            <td><span style="text-decoration:line-through">Jun 5, 2022</span></td>
         </tr>
         <tr>
             <td><h4><span style="color:#DB442A">Late-Breaking Demo</span></h4></td>
@@ -177,19 +177,19 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Deadline for applying to mentorship program</span></td>
-            <td>&nbsp;<span style="text-decoration:line-through">February 28, 2022</span></td>
+            <td>&nbsp;<span style="text-decoration:line-through">Feb 28, 2022</span></td>
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Deadline for mentees for paper submission</span></td>
-            <td><span style="text-decoration:line-through">March 25, 2022</span></td>
+            <td><span style="text-decoration:line-through">Mar 25, 2022</span></td>
         </tr>
         <tr>
             <td><span style="text-decoration:line-through">Notification for Mentor-Mentee match</span></td>
-            <td><span style="text-decoration:line-through">March 28, 2022</span></td>
+            <td><span style="text-decoration:line-through">Mar 28, 2022</span></td>
         </tr>
         <tr >
             <td><span style="text-decoration:line-through">Feedback from mentors</span></td>
-            <td><span style="text-decoration:line-through">April 15, 2022</span></td>
+            <td><span style="text-decoration:line-through">Apr 15, 2022</span></td>
         </tr>
 </table>
 <br>
