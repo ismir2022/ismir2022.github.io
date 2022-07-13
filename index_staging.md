@@ -27,7 +27,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 
 <div class="row" style="float:right; width:64%">
     <h3 style="padding-top: 0.125em;"> Read our blog posts </h3>
-    <section style="background-color: rgb(255, 255, 255); height:30vw">
+    <section style="background-color: rgb(255, 255, 255); height:20vw">
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
@@ -46,7 +46,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 </div>
 
 ### Important Dates (AoE)
-<table style="width:24vw; height:55vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
+<table style="width:24vw; height:65vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh;">
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
