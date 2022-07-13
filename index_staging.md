@@ -4,11 +4,13 @@ title: International Society for Music Information Retrieval
 ---
 
 <h1 style="float:right; width:63%;"> Welcome to ISMIR 2022! </h1>
-<p style="float:right; width:63%;">The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
+<div style="background-color: rgb(255, 255, 255); height:30vw;float:right; width:63%; padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh; display:block;">
+<p>The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
 </p>
-<p style="float:right; width:63%;">
+<p>
 ISMIR 2022 will comprise a technical program of submitted research papers, keynote and plenary talks by eminent speakers in MIR and related areas such as musicology and music cognition. A number of special sessions are planned on themes that are topical to both academia and industry. Further, satellite events such as workshops aimed to facilitate and increase interdisciplinary dialogue between Music Information Science and Humanities are planned for the days around the conference. The varied themes of these workshops include Music and Health, Music Culture and Identity, Music and Movement, Music Perception, and Neuromusicology. 
 </p>
+</div>
 <br>
 <h3 style="float:right; width:63%">Highlights</h3>
 <table class="scrolldown" rules=none style="float:right; width:63%;">
