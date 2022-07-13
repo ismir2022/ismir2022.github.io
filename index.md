@@ -12,13 +12,13 @@ title: International Society for Music Information Retrieval
 <table class="scrolldown" rules=none>
 		<tbody>
 		<tr>
-			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[reviewform](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a> and <a href="[reviewform](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> at ISMIR 2022 is now available</li></td>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="[Keynotes](https://ismir2022.ismir.net/program/keynotes)">Keynotes</a>, <a href="[Tutorials](https://ismir2022.ismir.net/program/tutorials)">Tutorials</a> and <a href="[Satellite Events](https://ismir2022.ismir.net/program/satellites)">Satellite Events</a> at ISMIR 2022 is now available</li></td>
 		</tr>
 		<tr>
-			<td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open: <a href="[reviewform](https://ismir2022.ismir.net/attend/registration)">Register Now!</a></li></td>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="[Register Now!](https://ismir2022.ismir.net/attend/registration)">Register Now!</a></li></td>
 		</tr>
 		<tr>
-			<td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available. <a href="[reviewform](https://ismir2022.ismir.net/attend/support)">More information here</a></li></td>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="[here](https://ismir2022.ismir.net/attend/support)">Apply for grants</a></li></td>
 		</tr>
 		</tbody>
 </table>
