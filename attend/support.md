@@ -68,7 +68,8 @@ Candidates for Music Author Grants should apply by August 19, 2022. Notification
  
 Applications for WiMIR Grants are accepted until August 19, 2022 (or until grants are available) though we strongly recommend candidates to apply early for immediate consideration. WiMIR Grant notifications for author applicants are sent out no later than August 3, 2022 (if applied by July 25, 2022). WiMIR Grant notifications for non-authors will be announced no later than August 24, 2022, in time for ISMIR 2022 early bird registration deadline. 
  
-Please apply for grants using this google form: [https://forms.gle/McTMivAHNVK1WD5E9](https://forms.gle/McTMivAHNVK1WD5E9) (form opens July 14, 2022)
+Please apply for grants using this google form: [https://forms.gle/McTMivAHNVK1WD5E9](https://forms.gle/McTMivAHNVK1WD5E9). **We request grant applicants to wait until the notification deadlines before registering for the conference.**
+
 
 You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2022 grants committee.  
 
