@@ -49,7 +49,7 @@ We thank our 2022 sponsors for their generous and vital continuation of support 
             <a href="https://www.adobe.com" target="_blank"><img src="../assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
         <td class="teamsection">
-            <a href="https://www.izotope.com/" target="_blank"><img src="../assets/sponsors/Izotope_Logo.png" alt="Avatar" class="gold-wrapper"></a>
+            <a href="https://www.izotope.com/" target="_blank"><img src="../assets/sponsors/Soundwide-logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
         <td class="teamsection">
             <a href="https://www.siriusxm.com/pandora" target="_blank"><img src="../assets/sponsors/SiriusPandora_logo.png" alt="Avatar" class="gold-wrapper"></a>

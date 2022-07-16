@@ -66,7 +66,7 @@ title: International Society for Music Information Retrieval
             <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
         <td class="teamsection sponsorsection">
-            <a href="https://www.izotope.com/" target="_blank"><img src="/assets/sponsors/Izotope_Logo.png" alt="Avatar" class="silver-wrapper"></a>
+            <a href="https://www.izotope.com/" target="_blank"><img src="/assets/sponsors/Soundwide-logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
     </tr>
     <tr>
