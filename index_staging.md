@@ -35,16 +35,61 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             {% for post in site.posts %}
                 {% include card.html %}
             {% endfor %}
-        </div>
+        </div> -->
         <table style="overflow:hidden">
         <tr>
-            <td>
-            <iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe>
-            </td>
-            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
-            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
+            {% for post in site.posts %}
+                <td>
+                    <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+                    {% if post.categories %}
+                        {% assign categories = post.categories %}
+                        <span class="post-card__label">
+                        {% for category in categories %}
+                            <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
+                            {% unless forloop.last %}&nbsp;{% endunless %}
+                        {% endfor %}
+                        </span>
+                    {% endif %}
+                    <a href="{{ post.url | relative_url }}">
+                        {% if post.featured-img %}
+                        <figure class="post-card__thumb">
+                            <img
+                            src="{{ site.url }}{{ site.baseurl }}{{post.featured-img}}"
+                            data-srcset="{{ site.url }}{{ site.baseurl }}{{post.featured-img}}, {{ site.url }}{{ site.baseurl }}{{post.featured-img}} 2x"
+                            class="lazyload blur"
+                            alt="{{post.title}}"
+                            />
+                            <noscript><img src="{{ site.url }}{{ site.baseurl }}{{post.featured-img}}" alt="{{ post.title }}"></noscript>
+                        </figure>
+                        {% else %}
+                        <figure class="post-card__thumb">
+                            <div class="dark-bg"></div>
+                        </figure>
+                        {% endif %}
+                    </a>
+                    <a class="post-card__inner" href="{{ post.url | relative_url }}">
+                        <div class="post-card__header">
+                        <h3>{{ post.title | strip_html | truncate: 50 }}</h3>
+                        {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
+                        <span class="post-card__meta">
+                            <time>{{ post.date | date: date_format }}</time>
+                        </span>
+                        </div>
+                        {% if post.summary %}
+                        <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
+                        {% else %}
+                        <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+                        {% endif %}
+                    </a>
+                    </div>
+                    <!-- <iframe src="_includes/card.html" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe> -->
+                </td>
+                <!-- {% include card.html %} -->
+            {% endfor %}
+            <!-- <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
+            <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td> -->
         </tr>
-        </table> -->
+        </table>
     </section>
     <br>
     <br>
