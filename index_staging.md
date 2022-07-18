@@ -28,15 +28,31 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 		</tbody>
 </table>
 
-<div class="row" style="float:right; width:63%">
+<div class="cardrow">
     <h3 style="padding-top: 0.125em;"> ISMIR 2022 Blog </h3>
     <section style="background-color: rgb(255, 255, 255); height:25vw">
+    <table class="cardtable">
+    <tr>
+    {% for post in site.posts %}
+        <td class="cardcell">
+        <div class="card">
+            <img src="https://picsum.photos/200" alt="Card Avatar" class = "cardimage">
+            <div class="cardcontainer">
+                <h4>{{post.title}}</h4> 
+                <p>{{post.summary | strip_html | truncatewords:10}}</p> 
+                <a href = "{{post.url | relative_url}}">Read More</a>
+            </div>
+        </div>
+        </td>
+    {% endfor %}
+    </tr>
+    </table>
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
             {% for post in site.posts %}
                 {% include card.html %}
             {% endfor %}
         </div> -->
-        <table style="overflow:hidden">
+        <!-- <table style="overflow:hidden">
         <tr>
             {% for post in site.posts %}
                 <td>
@@ -81,15 +97,15 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
                         <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
                         {% endif %}
                     </a>
-                    </div>
+                    </div> -->
                     <!-- <iframe src="_includes/card.html" scrolling="no" frameborder="yes" shadow="yes" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe> -->
-                </td>
+                <!-- </td> -->
                 <!-- {% include card.html %} -->
-            {% endfor %}
+            <!-- {% endfor %} -->
             <!-- <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td>
             <td><iframe src="https://ismir2021.ismir.net/blog/gettingmostismir/" scrolling="no" frameborder="no" shadow="no" style="-webkit-transform:scale(0.8);position: relative;top:-150px;" width=300px height=500px ></iframe></td> -->
-        </tr>
-        </table>
+        <!-- </tr>
+        </table> -->
     </section>
     <br>
     <br>
