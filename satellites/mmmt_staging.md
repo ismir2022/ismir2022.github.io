@@ -16,7 +16,8 @@ The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite w
 ## Themes and Speakers
 
 ### Opening Keynote
-<a href = "https://github.com/jjau" target="_blank"> Jean-Julien Aucouturier</a> <span style="color:#848884">, FEMTO-ST Institute </span>
+<img src="../assets/mmmt_speakers/JJ_Aucouturier.jpeg" alt="Avatar" class="avatar">
+<p class = "avatarname"><a href = "https://github.com/jjau" target="_blank"> Jean-Julien Aucouturier</a> <span style="color:#848884">, FEMTO-ST Institute </span></p>
 
 ### Music and Health
 <a href = "http://www.katagres.com/" target="_blank"> Kat Agres</a> <span style="color:#848884">, National University of Singapore</span><br><br>
