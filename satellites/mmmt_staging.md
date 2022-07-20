@@ -3,9 +3,10 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 # Music, Mind, Movement and Technology Workshop
-#### December 2-3, 2022 (Hybrid Workshop)
+<p style="color:#F52121;font-size:24px;font-weight=lighter;" >December 2-3, 2022</p>
+
+### Venue: Online/Indian Institute of Science (IISc), Bengaluru
 #### Time: 9:30am - 5:00pm IST 
-#### Venue: Indian Institute of Science (IISc), Bengaluru
 #### Workshop Chair: [Vinoo Alluri](https://www.iiit.ac.in/people/faculty/vinoo-alluri/), IIIT Hyderabad
 
 #### [**Download Poster**](../assets/MMMT_poster.pdf)
@@ -15,27 +16,28 @@ The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite w
 ## Themes and Speakers
 
 ### Opening Keynote
-Jean-Julien Aucouturier (FEMTO-ST Institute)
+<img src="../assets/mmmt_speakers/JJ_Aucouturier.jpeg" alt="Avatar" class="avatar">
+<p class = "avatarname"><a href = "https://github.com/jjau" target="_blank"> Jean-Julien Aucouturier</a> <span style="color:#848884">, FEMTO-ST Institute </span></p>
 
 ### Music and Health
-Kat Agres (National University of Singapore)<br>
-Suvi Saarikallio (University of Jyvaskyla)
+<a href = "http://www.katagres.com/" target="_blank"> Kat Agres</a> <span style="color:#848884">, National University of Singapore</span><br><br>
+<a href = "https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en" target = "_blank">Suvi Saarikallio</a><span style="color:#848884">, University of Jyvaskyla</span>
 
 ### Music and Culture
-Nori Jacoby (Max Planck Institute for Empirical Aesthetics)<br>
-Tuomas Eerola (Durham University)
+<a href = "https://www.norijacoby.com/" target="_blank"> Nori Jacoby</a> <span style="color:#848884">, Max Planck Institute for Empirical Aesthetics</span><br><br>
+<a href = "https://tuomaseerola.github.io/" target = "_blank">Tuomas Eerola</a> <span style="color:#848884">, Durham University</span>
 
 ### Music Perception
-Anja Volk (Utrecht University)<br>
-Petri Toiviainen (University of Jyvaskyla)
+<a href = "https://webspace.science.uu.nl/~fleis102/" target="_blank"> Anja Volk</a> <span style="color:#848884">, Utrecht University</span><br><br>
+<a href = "https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/" target = "_blank">Petri Toiviainen</a> <span style="color:#848884">, University of Jyvaskyla</span>
 
 ### Music and Gestures 
-Martin Clayton (Durham University)<br>
-Marcelo Wanderley (Mc Gill University)
+<a href = "https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ" target="_blank"> Martin Clayton</a> <span style="color:#848884">, Durham University</span><br><br>
+<a href = "https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en" target = "_blank">Marcelo Wanderley</a> <span style="color:#848884">, Mc Gill University</span>
 
 ### Music and Neuroscience
-Blair Kaneshiro (Stanford University)<br>
-Peter Keller (Aarhus University)<br>
+<a href = "https://ccrma.stanford.edu/~blairbo" target="_blank"> Blair Kaneshiro</a> <span style="color:#848884">, Stanford University</span><br><br>
+<a href = "https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en" target = "_blank">Peter Keller</a> <span style="color:#848884">, Aarhus University</span>
 
 ## Schedule
 All the talks will take place between 9:30am - 5:00pm IST and can be attended virtually. The speakers who will be present physically will also present via an online platform. Each talk will last for 40 minutes followed by a 20 minute Q&A after each session. However, we encourage attendees to attend physically as this would give you a chance to interact with the physical speakers during coffee breaks and lunch. At the end of the workshop we hope to have an informal get together to ring in ISMIR 2022! We look forward to seeing you there!
