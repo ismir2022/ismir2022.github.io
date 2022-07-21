@@ -3,7 +3,7 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 # Music, Mind, Movement and Technology Workshop
-<p style="color:#F52121;font-size:24px;font-weight=lighter;" >December 2-3, 2022</p>
+<p style="color:#848884;font-size:24px;font-weight=lighter;" >December 2-3, 2022</p>
 
 ### Venue: Online/Indian Institute of Science (IISc), Bengaluru
 #### Time: 9:30am - 5:00pm IST 
@@ -16,8 +16,7 @@ The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid satellite w
 ## Themes and Speakers
 
 ### Opening Keynote
-<img src="../assets/mmmt_speakers/JJ_Aucouturier.jpeg" alt="Avatar" class="avatar">
-<p class = "avatarname"><a href = "https://github.com/jjau" target="_blank"> Jean-Julien Aucouturier</a> <span style="color:#848884">, FEMTO-ST Institute </span></p>
+<a href = "https://github.com/jjau" target="_blank"> Jean-Julien Aucouturier</a>
 
 ### Music and Health
 <a href = "http://www.katagres.com/" target="_blank"> Kat Agres</a> <span style="color:#848884">, National University of Singapore</span><br><br>
