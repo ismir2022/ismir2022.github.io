@@ -39,6 +39,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
                 <img src="https://picsum.photos/200" alt="Card Avatar" class = "cardimage">
                 <div class="cardcontainer">
                     <p><b>{{post.title}}</b></p>
+                    <p>{{ post.date | date: "%a, %b %d, %y" }}</p>
                     <p>{{post.summary | strip_html | truncatewords:20}}</p>
                 </div>
             </div>
@@ -51,6 +52,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
             <img src="https://picsum.photos/200" alt="Card Avatar" class = "cardimage">
             <div class="cardcontainer">
                 <p><b>{{post.title}}</b></p>
+                <p>{{ post.date | date: "%a, %b %d, %y" }}</p>
                 <p>{{post.summary | strip_html | truncatewords:20}}</p> 
             </div>
         </div>
