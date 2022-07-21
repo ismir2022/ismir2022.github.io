@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 authors: Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 permalink: /blog/preparing/
 title: Preparing a Successful ISMIR Submission
 featured-img: /assets/img/blog/preparing.png
 display-title: true
 summary: Springtime tends to be a busy and productive time for Music Information Retrieval...
+date: 21 July 2022
 ---
 
 _This blog post is part of a series of posts aimed toward supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._
