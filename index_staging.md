@@ -38,7 +38,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         <div class="card">
             <img src="https://picsum.photos/200" alt="Card Avatar" class = "cardimage">
             <div class="cardcontainer">
-                <h4>{{post.title}}</h4> 
+                <p><b>{{post.title}}</b></p>
                 <p>{{post.summary | strip_html | truncatewords:10}}</p> 
                 <a href = "{{post.url | relative_url}}">Read More</a>
             </div>

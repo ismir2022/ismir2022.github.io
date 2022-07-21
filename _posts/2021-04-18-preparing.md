@@ -5,6 +5,7 @@ permalink: /blog/preparing/
 title: Preparing a Successful ISMIR Submission
 featured-img: /assets/img/blog/preparing.png
 display-title: true
+summary: Go Home Right Now
 ---
 
 _This blog post is part of a series of posts aimed toward supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._

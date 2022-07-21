@@ -21,6 +21,7 @@ a {
 
 footer {
     font-family: 'Lato', sans-serif;
+    clear: both;
 }
 
 .fa-brands {
@@ -639,6 +640,7 @@ button.reg {
   
 .cardcontainer {
     padding: 2px 16px;
+    font-size: 1vw;
 }
 
 .cardrow{
