@@ -2,14 +2,14 @@
 layout: teampage
 title: International Society for Music Information Retrieval
 ---
-<table class="customtable">
+<table class="teamtable">
     <tr>
         <td class="teamsection" colspan="4">
             <h2>Volunteers</h2>
         </td>
     </tr>
     <tr>
-        <td class="avatarbox">
+        <td class="teambox">
             <img src="assets\volunteers\sangsaptak-pal.jpg" alt="Avatar" class="avatar">
             <p class = "avatarname">Sangsaptak Pal</p>    
         </td>
@@ -18,7 +18,7 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
-        <td class="avatarbox">
+        <td class="teambox">
             <img src="assets\volunteers\gowriprasad-r.jpg" alt="Avatar" class="avatar">
             <p class = "avatarname">Gowriprasad R</p>    
         </td>

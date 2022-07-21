@@ -192,6 +192,27 @@ li span {
 
 .teamsection{
     text-align: left;
+    width: 100% !important;
+}
+
+.teambox{
+    text-align: center;
+    width: 25%;
+}
+
+/* .teamtable tr{
+    width: 100%;
+} */
+
+@media screen and (max-width: 600px) {
+    /* .teambox{
+        width: 25%;
+    } */
+
+    .teamsection{
+        width: 100%;
+    }
+
 }
 
 .avatarbox{
@@ -202,6 +223,9 @@ li span {
     display: none;
 }
 
+.teamtable{
+    table-layout: fixed;
+}
 
 @media screen and (max-width: 600px) {
     .mobilecustomtable{
@@ -209,7 +233,27 @@ li span {
     }
 
     .customtable{
-        display: none;
+        display: block;
+    }
+
+    .teamtable{
+        display: block;
+        width: 100%;
+        border-collapse:collapse;
+    }
+
+    .teamtable td{
+        width: 25%;
+    }
+
+    /* .teamtable tr, td{
+        width: 100%;
+        border: 2px solid blue;
+    } */
+
+    .teambox{
+        border: 2px solid blue;
+        width: 25% !important;
     }
 
     .sponsorblock{
@@ -220,6 +264,15 @@ li span {
 
     .avatarbox{
         text-align: center;
+        /* border: 2px solid red; */
+    }
+
+    /* .teambox{
+        border: 2px solid blue;
+    } */
+
+    .avatarbox{
+        width: 25%;
     }
 
     .volunteerinfo p{
@@ -396,6 +449,10 @@ a:first-child:hover{
     width: 100%;
     text-align: center;
 }
+
+/* .customtable tr, td{
+    border: 2px solid red;
+} */
 
 .timelinetable{
     width: 50%;
