@@ -200,6 +200,10 @@ li span {
     width: 25%;
 }
 
+.mobileteamtable{
+    display: none !important;
+}
+
 /* .teamtable tr{
     width: 100%;
 } */
@@ -208,6 +212,14 @@ li span {
     /* .teambox{
         width: 25%;
     } */
+    
+    .teamtable{
+        display: none !important;
+    }
+
+    .mobileteamtable{
+        display: block !important;
+    }
 
     .teamsection{
         width: 100%;
@@ -252,7 +264,7 @@ li span {
     } */
 
     .teambox{
-        border: 2px solid blue;
+        /* border: 2px solid blue; */
         width: 25% !important;
     }
 
@@ -276,7 +288,7 @@ li span {
     }
 
     .volunteerinfo p{
-        text-align: left;
+        text-align: center;
     }
 }
 
