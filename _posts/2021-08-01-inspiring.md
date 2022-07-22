@@ -3,7 +3,7 @@ layout: post
 authors: Giorgia Cantisani
 permalink: /blog/inspiring/
 title: "Inspiring Women in Science: An Interview with Dr. Blair Kaneshiro"
-featured-img: /assets/img/blog/inspiring2.png
+featured-img: /assets/blog/inspiring2.png
 display-title: true
 summary: Why are women still so underrepresented in science? ...
 ---
