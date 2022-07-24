@@ -5,7 +5,7 @@ title: International Society for Music Information Retrieval
 <h1>Sponsors</h1>
 <table class="customtable sponsorblock">
     <tr>
-        <td class="sponsorsection" colspan="4" style="text-align:center;">
+        <td class="sponsorsection" colspan="4" style="text-align:left;">
             <h2 class="sponsorheadV2" style="background-color:#8f8a8a; background-image: linear-gradient(to right, #eaecef, #8f8a8a, #eaecef);">Platinum</h2>
         </td>
     </tr>
@@ -21,7 +21,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="sponsorsection" colspan="4" style="text-align:center;">
+        <td class="sponsorsection" colspan="4" style="text-align:left;">
             <h2 class="sponsorheadV2" style="background-color:#c8b037; background-image: linear-gradient(to right, #eaecef, #c8b037, #eaecef);">Gold</h2>
         </td>
     </tr>
@@ -57,7 +57,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="sponsorsection" colspan="4" style="text-align:center;">
+        <td class="sponsorsection" colspan="4" style="text-align:left;">
             <h2 class="sponsorheadV2" style="background-color:#d9d9d9; background-image: linear-gradient(to right, #eaecef, #d9d9d9, #eaecef);">Silver</h2>
         </td>
     </tr>
@@ -76,7 +76,7 @@ title: International Society for Music Information Retrieval
        <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="sponsorsection" colspan="4" style="text-align:center;">
+        <td class="sponsorsection" colspan="4" style="text-align:left;">
             <h2 class="sponsorheadV2" style="background-color:#ff944d; background-image: linear-gradient(to right, #eaecef, #ff944d, #eaecef);">Supporter</h2>
         </td>
     </tr>
