@@ -40,7 +40,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
     </tr>
     <tr class="timelineparts">
         <td>Registration portal opens</td>
-        <td> July 14, 2022 </td>
+        <td><span style="text-decoration:line-through">July 14, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Author registration deadline</td>
@@ -108,7 +108,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
     </tr>
     <tr class="timelineparts">
         <td>Camera ready deadline</td>
-        <td> August 9, 2022 </td>
+        <td><span style="text-decoration:line-through">August 9</span> August 31, 2022</td>
     </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Music Program</span></h4></td>
