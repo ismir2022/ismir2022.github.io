@@ -8,6 +8,10 @@ display-title: true
 summary: Why are women still so underrepresented in science? ...
 ---
 
+Author : Giorgia Cantisani
+
+<img src = "../../assets/blog/inspiring2.png" class="postismirimage">
+
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2020/05/26/inspiring-women-in-science-an-interview-with-dr-blair-kaneshiro/)
 
 Why are women still so underrepresented in science? Female scientists represent only [**a third of researchers globally**](http://uis.unesco.org/sites/default/files/documents/fs51-women-in-science-2018-en.pdf), and things are not getting better when talking about information and communication technologies, where [less than a fifth of the graduates](https://ec.europa.eu/eurostat/web/products-datasets/product?code=educ_uoe_grad02) are women.

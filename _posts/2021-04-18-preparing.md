@@ -9,6 +9,10 @@ summary: Springtime tends to be a busy and productive time for Music Information
 date: 21 July 2022
 ---
 
+Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
+
+<img src = "../../assets/blog/preparing.png" class="postismirimage">
+
 _This blog post is part of a series of posts aimed toward supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
