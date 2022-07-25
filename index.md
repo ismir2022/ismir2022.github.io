@@ -39,7 +39,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td>Registration portal opens</td>
+	<td><span style="text-decoration:line-through">Registration portal opens</span></td>
         <td><span style="text-decoration:line-through">July 14, 2022</span></td>
     </tr>
     <tr class="timelineparts">
