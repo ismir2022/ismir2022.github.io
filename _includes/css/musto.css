@@ -461,6 +461,10 @@ a:first-child:hover{
     width: 100%;
     text-align: center;
 }
+.customtable2{
+    width: 100%;
+    text-align: left;
+}
 
 /* .customtable tr, td{
     border: 2px solid red;
