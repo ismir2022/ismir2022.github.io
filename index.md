@@ -103,8 +103,8 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         <td> <span style="text-decoration:line-through">May 20, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Notification of acceptance</td>
-        <td> July 14, 2022 </td>
+	<td><span style="text-decoration:line-through">Notification of acceptance</span></td>
+	<td><span style="text-decoration:line-through">July 14, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Camera ready deadline</td>
