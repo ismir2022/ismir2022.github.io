@@ -743,3 +743,35 @@ button.reg {
     width:100%;
 }
 
+.institutetable{
+    padding-top: 2vh;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 80%;
+    padding-bottom: 2vh;
+}
+
+.institutetable tr, td{
+    /* padding-left: 1vw;
+    padding-right: 1vw; */
+    /* width: 10%; */
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 16%;
+    overflow: hidden;
+    /* border: 2px solid red; */
+}
+
+.footer-wrapper {
+    width: 8em;
+    height: auto;
+}
+
+.small-footer-wrapper {
+    width: 10em;
+    height: auto;
+}
+
