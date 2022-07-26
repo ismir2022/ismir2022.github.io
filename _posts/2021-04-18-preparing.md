@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 authors: Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
-permalink: /blog/preparing/
+# permalink: /blog/preparing/
+permalink: /
 title: Preparing a Successful ISMIR Submission
 featured-img: /assets/blog/preparing.png
 display-title: true
@@ -11,7 +12,9 @@ date: 21 July 2022
 
 Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 
+<div>
 <img src = "../../assets/blog/preparing.png" class="postismirimage">
+</div>
 
 _This blog post is part of a series of posts aimed toward supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._
 
