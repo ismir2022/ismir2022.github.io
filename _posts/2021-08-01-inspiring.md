@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: Giorgia Cantisani
-# permalink: /blog/inspiring/
-permalink: /
+permalink: /blog/inspiring/
+# permalink: /
 title: "Inspiring Women in Science: An Interview with Dr. Blair Kaneshiro"
 featured-img: /assets/blog/inspiring2.png
 display-title: true
