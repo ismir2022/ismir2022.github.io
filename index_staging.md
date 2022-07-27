@@ -4,18 +4,17 @@ title: International Society for Music Information Retrieval
 ---
 
 <!-- <h1 style="float:left; width:63%;"> Welcome to ISMIR 2022! </h1> -->
-<table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh; float: left;">
+<table style="width:26vw; height:70vh; display: block; overflow-y:auto; overflow-x:hidden; background-color:rgb(255, 255, 255); padding-left: 2vw; padding-right: 2vw; padding-bottom: 1vh; float: left; text-align:left;">
 	<tr> <td> <h3> Important Dates (AoE) </h3> </td> 
 	     <td> </td>
-	
 	</tr>
         <tr>
             <td><h4><span style="color:#DB442A">Registration</span></h4></td>
             <td> </td>
         </tr>
         <tr>
-            <td>Registration portal opens</td>
-            <td> July 14, 2022 </td>
+            <td><span style="text-decoration:line-through">Registration portal opens</span></td>
+            <td><span style="text-decoration:line-through">July 14, 2022</span></td>
         </tr>
         <tr>
             <td>Author registration deadline</td>
@@ -42,12 +41,12 @@ title: International Society for Music Information Retrieval
             <td> </td>
         </tr>
         <tr>
-            <td> Grant applications for registration waivers open</td>
-            <td> July 14, 2022 </td>
+            <td> <span style="text-decoration:line-through">Grant applications for registration waivers open</span></td>
+            <td> <span style="text-decoration:line-through">July 14, 2022</span> </td>
         </tr>
         <tr>
-            <td> Application deadline for Author grants</td>
-            <td> July 25, 2022 </td>
+            <td><span style="text-decoration:line-through">Application deadline for Author grants</span></td>
+            <td><span style="text-decoration:line-through">July 25, 2022</span></td>
         </tr>
         <tr>
             <td> Author grant notifications</td>
@@ -78,12 +77,12 @@ title: International Society for Music Information Retrieval
             <td> <span style="text-decoration:line-through">May 20, 2022</span></td>
         </tr>
         <tr>
-            <td>Notification of acceptance</td>
-            <td> July 14, 2022 </td>
+            <td><span style="text-decoration:line-through">Notification of acceptance</span></td>
+            <td><span style="text-decoration:line-through">July 14, 2022</span></td>
         </tr>
         <tr>
             <td>Camera ready deadline</td>
-            <td> August 9, 2022 </td>
+            <td><span style="text-decoration:line-through">August 9</span>August 31, 2022 </td>
         </tr>
         <tr>
             <td><h4><span style="color:#DB442A">Music Program</span></h4></td>
@@ -95,7 +94,7 @@ title: International Society for Music Information Retrieval
         </tr>
         <tr>
         <td><span style="text-decoration:line-through">Submission site opening</span></td>
-            <td><span style="text-decoration:line-through">July 20, 2022</span></td>
+            <td><span style="text-decoration:line-through">July 10, 2022</span></td>
         </tr>
         <tr>
             <td>Music submission deadline</td>
