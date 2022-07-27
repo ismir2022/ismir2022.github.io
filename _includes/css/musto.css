@@ -776,3 +776,19 @@ button.reg {
     width: 10em;
     height: auto;
 }
+
+@media screen and (max-width: 600px) {
+    .footer-wrapper{
+        width: 2em;
+        height: auto;
+    }
+
+    .small-footer-wrapper{
+        width: 2em;
+        height: auto;
+    }
+
+    .institutetable{
+        width: 20%;
+    }
+}
