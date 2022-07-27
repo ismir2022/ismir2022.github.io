@@ -7,6 +7,7 @@ title: "Inspiring Women in Science: An Interview with Dr. Blair Kaneshiro"
 featured-img: /assets/blog/inspiring2.png
 display-title: true
 summary: Why are women still so underrepresented in science? ...
+date: 27 July 2022
 ---
 
 Author : Giorgia Cantisani
