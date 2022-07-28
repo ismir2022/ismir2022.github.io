@@ -1,8 +1,8 @@
 ---
 layout: post
 authors: Giorgia Cantisani
-permalink: /inspiring/
-title: "Inspiring Women in Science: An Interview with Dr. Blair Kaneshiro"
+title: Inspiring Women in Science - An Interview with Dr. Blair Kaneshiro
+permalink: /blog/inspiring
 featured-img: /assets/blog/inspiring2.png
 display-title: true
 summary: Why are women still so underrepresented in science? ...
@@ -54,6 +54,5 @@ I recommend taking a broad look at what types of scientific fields are out there
 
 _**Giorgia Cantisani** graduated with a Master&#39;s Degree in Biomedical Engineering from the Polytechnic University of Turin and, since September 2018, is a PhD student at Télécom Paris in France. Her research interests range from music information retrieval (MIR) to neuroscience. In particular, she is interested in the analysis of brain responses to music and how these can be used to guide and inform MIR tasks._
 
-![](/assets/img/blog/inspiring2.png)
 
-_**The 22nd International Society for Music Information Retrieval** (ISMIR) Conference Registration is now OPEN! Join the ISMIR2021 Tutorials, Conference, and Satellite Events by Registering at [**https://ismir2021.ismir.net/registration**](https://ismir2021.ismir.net/registration). We also have several grants to cover REGISTRATION and TUTORIAL fees, as well as CHILDCARE expenses. Apply here: [**https://bit.ly/ismir2021grants**](https://bit.ly/ismir2021grants)_
+_**The 23rd International Society for Music Information Retrieval** (ISMIR) Conference Registration is now OPEN! Join the ISMIR2022 Tutorials, Conference, and Satellite Events by Registering at [**https://ismir2022.ismir.net/attend/registration**](https://ismir2022.ismir.net/attend/registration). We also have several grants to cover REGISTRATION and TUTORIAL fees, as well as CHILDCARE expenses. Apply here: [**https://ismir2022.ismir.net/attend/support**](https://ismir2022.ismir.net/attend/support)_

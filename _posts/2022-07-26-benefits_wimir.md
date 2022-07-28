@@ -15,7 +15,9 @@ The mentoring program has run annually since 2016: Participants typically sign u
 
 This blog post recounts some WiMIR mentees&#39; stories and experiences.
 
-## &quot;WiMIR mentorship programme&quot; by Iris Yuping Ren, one of our mentees
+<hr>
+
+### &quot;WiMIR mentorship programme&quot; by Iris Yuping Ren, one of our mentees
 
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2016/06/20/wimir-mentorship-programme-by-iris-yuping-ren-one-of-our-mentees/) _on June 20, 2016 by Iris Yuping Ren._
 
@@ -42,7 +44,9 @@ Oriol and I were then in contact, and had our first Skype a few days later. I wa
 
 Till now, Oriol and I have had 4 very nice sessions over Skype. Sometimes there are glitches from the internet connections (that&#39;s about all I can complain about), but every time I had such a great time chatting and learning with him. I could write the details of each Skype session, but I guess it won&#39;t offer much since they differ a lot from other mentors and mentees. But I think a more common thing is that I feel lots of support from a knowledgeable and experienced someone who works in the same field and cares about more things than just their work. I can&#39;t speak for everybody, but it was great for me to experience that!
 
-## Transitioning from Master&#39;s to PhD: changing the scene from Uruguay to Paris
+<hr>
+
+### Transitioning from Master&#39;s to PhD: changing the scene from Uruguay to Paris
 
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2017/04/09/transitioning-from-masters-to-phd-changing-the-scene-from-uruguay-to-paris/) _on April 9, 2017 by Magdalena Fuentes._
 
@@ -54,7 +58,9 @@ The MIR mentoring program itself offers a wide and interesting context for discu
 
 Initiatives like the WiMIR mentoring program encourage diversity in the MIR community and stimulate young researchers to get more involved in the field. I think it&#39;s worth starting more enterprises like this, in particular those encouraging the participation of both male and female young researchers from places where the MIR community is not yet strongly present.
 
-## Mentorship as a way to mind the gap in music academia and to prepare students for the &quot;real world.&quot;
+<hr>
+
+### Mentorship as a way to mind the gap in music academia and to prepare students for the &quot;real world.&quot;
 
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2017/05/16/mentorship-as-a-way-to-mind-the-gap-in-music-academia-and-to-prepare-students-for-the-real-world/) _on May 16, 2017 by Stefanie Acevedo._
 
@@ -88,7 +94,6 @@ More importantly, though, mentoring programs by organizations such as WiMIR can 
 
 For more blog posts about the WiMIR mentoring program, click [here](https://wimir.wordpress.com/category/mentoring/)!
 
-![](/assets/img/blog/benefits_wimir.png)
 
-_**The 22nd International Society for Music Information Retrieval** (ISMIR) Conference Registration is now OPEN! Join the ISMIR2021 Tutorials, Conference, and Satellite Events by Registering at [**https://ismir2021.ismir.net/registration**](https://ismir2021.ismir.net/registration). We also have several grants to cover REGISTRATION and TUTORIAL fees, as well as CHILDCARE expenses. Apply here: [**https://bit.ly/ismir2021grants**](https://bit.ly/ismir2021grants)_
+_**The 23rd International Society for Music Information Retrieval** (ISMIR) Conference Registration is now OPEN! Join the ISMIR2022 Tutorials, Conference, and Satellite Events by Registering at [**https://ismir2022.ismir.net/attend/registration**](https://ismir2022.ismir.net/attend/registration). We also have several grants to cover REGISTRATION and TUTORIAL fees, as well as CHILDCARE expenses. Apply here: [**https://ismir2022.ismir.net/attend/support**](https://ismir2022.ismir.net/attend/support)_
 

@@ -2,7 +2,7 @@
 layout: post
 authors: Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 title: Preparing a Successful ISMIR Submission
-permalink: /preparing/
+permalink: /blog/preparing
 featured-img: /assets/blog/preparing.png
 display-title: true
 summary: Springtime tends to be a busy and productive time for Music Information Retrieval...
@@ -11,15 +11,14 @@ date: 21 July 2022
 
 ### Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 
-<!-- <div>
-<img src = "../assets/blog/preparing.png" class="postismirimage">
-</div> -->
-
 _This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/preparing/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 <!-- _This blog post was a part of a series of posts aimed towards supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._ -->
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
-![](/assets/blog/preparing.png)
+<!-- ![](/assets/blog/preparing.png) -->
+<div>
+<img src = "/assets/blog/preparing.png" class="postismirimage">
+</div>
 
 Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 13, 2022** and **full papers due by May 20, 2022**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
 
@@ -65,7 +64,7 @@ Authors are encouraged to keep in mind some common pitfalls that cause ISMIR sub
 - **Quantitative analyses lack evaluation metrics or statistics.** Submissions may be negatively reviewed if authors have not supported their claimed outcomes with sufficient rigor. Reporting of quantitative results should be accompanied by appropriate statistical analyses. When appropriate, authors are encouraged to use available objective evaluation methods (such as those described in [https://craffel.github.io/mir\_eval/](https://craffel.github.io/mir_eval/)) as much as possible and also ensure that the same evaluation criteria are applied across systems that are being compared in their paper. Other good practices include dataset partitioning in a manner that avoids train-test leakage in machine learning-based work. We also recommended following Reproducible Research guidelines as much as possible ([https://ismir.net/resources/reproducible/](https://ismir.net/resources/reproducible/)).
 - **The results are not generalizable or do not consider a sufficient sample size.** For instance, machine learning experiments must involve either standard data sets or other data sets that are of sufficient size and are clearly described in the paper. It is important to present system or implementation details that make for reproducible research. Similarly for research involving human subjects, authors should be cognizant of standard sample sizes for survey, interview, and experimental research by consulting published literature in the appropriate domain. For qualitative studies, the goal may not be to generalize the results to a wider population but rather, to gain deeper insights into a problem; in these settings, the expected sample size tends to be much smaller. It can be helpful to clearly make this point when describing the study design and/or limitations.
 - Please keep in mind that studies with qualitative data may have a different research goal (such as gaining deeper insights into a problem) rather than generalizing the results to a wider population, and also the expected sample size differs from quantitative studies.
-- **The submission has major formatting errors.** Authors may not change the formatting specifications of the [provided paper templates](https://github.com/ismir/paper_templates/archive/2021v1.zip). In addition, submissions which have incomplete metadata, are not anonymized, do not use one of the provided templates, or do not adhere to the page limits will be automatically rejected.
+- **The submission has major formatting errors.** Authors may not change the formatting specifications of the [provided paper templates](https://github.com/ismir/paper_templates/tree/master/2022). In addition, submissions which have incomplete metadata, are not anonymized, do not use one of the provided templates, or do not adhere to the page limits will be automatically rejected.
 
 ## Other options
 
@@ -97,6 +96,6 @@ We expect the research to broadly fit in the list of topics available in the Cal
 
 **I am interested in submitting an ISMIR paper but am not sure whether I have funds to register for the conference if my paper is accepted. What should I do?**
 
-The ISMIR2021 organizers are committed to making the conference accessible and will be offering a number of fee reductions and grants. Therefore, authors are encouraged to submit any paper that meets the guidelines of the [Call for Papers](https://ismir2021.ismir.net/cfp/).
+The ISMIR2022 organizers are committed to making the conference accessible and will be offering a number of fee reductions and grants. Therefore, authors are encouraged to submit any paper that meets the guidelines of the [Call for Papers](https://ismir2022.ismir.net/calls/cfp).
 
-_Do you have additional questions about ISMIR paper submissions that are not addressed here? Email the ISMIR2021 Scientific Program Chairs at_ [_ismir2021-papers@ismir.net_](mailto:ismir2021-papers@ismir.net)_._
+_Do you have additional questions about ISMIR paper submissions that are not addressed here? Email the ISMIR2022 Scientific Program Chairs at_ [_ismir2022-papers@ismir.net_](mailto:ismir2022-papers@ismir.net)_._
