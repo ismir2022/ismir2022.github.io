@@ -12,7 +12,7 @@ date: 26 July 2022
 
 _This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/benefits-wimir/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 
-<img src = "../assets/blog/benefits_wimir.png" class="postismirimage">
+<!-- <img src = "../assets/blog/benefits_wimir.png" class="postismirimage"> -->
 
 The [Women in Music Information Retrieval (WiMIR) mentoring program](https://wimir.wordpress.com/mentoring-program/) connects women students, postdocs, early-stage researchers, industry employees, and faculty to more senior women and men in MIR who are dedicated to increasing opportunities for women in the field. Mentors share their experiences and offer guidance to support mentees in achieving and exceeding their goals and aspirations. By connecting individuals of different backgrounds and expertise, this program strengthens networks within the MIR community, both in academia and industry.
 
