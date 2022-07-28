@@ -1,8 +1,6 @@
 ---
 layout: page
 authors: Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
-permalink: /blog/preparing/
-# permalink: /
 title: Preparing a Successful ISMIR Submission
 featured-img: /assets/blog/preparing.png
 display-title: true
