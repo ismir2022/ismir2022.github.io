@@ -9,35 +9,35 @@ summary: Springtime tends to be a busy and productive time for Music Information
 date: 21 July 2022
 ---
 
-## Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
+### Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 
-<div>
+<!-- <div>
 <img src = "../assets/blog/preparing.png" class="postismirimage">
-</div>
+</div> -->
 
 _This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/preparing/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 <!-- _This blog post was a part of a series of posts aimed towards supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._ -->
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
-<!-- ![](/assets/images/ismir2022.png) -->
+![](/assets/blog/preparing.png)
 
-Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 8, 2021** and **full papers due by May 15, 2021**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
+Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 13, 2022** and **full papers due by May 20, 2022**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
 
 ## Preparing and writing an ISMIR paper
 
-The Call for Papers for ISMIR2021, along with an extensive list of Topics of Interest, can be found at [https://ismir2021.ismir.net/cfp/](https://ismir2021.ismir.net/cfp/).
+The Call for Papers for ISMIR2022, along with an extensive list of Topics of Interest, can be found at [https://ismir2022.ismir.net/calls/cfp/](https://ismir2021.ismir.net/calls/cfp/).
 
 ## ISMIR Paper Submissions Specifications
 
-_This is a summary of the submission requirements. Please view the official_ [_Call for Papers_](https://ismir2021.ismir.net/cfp/) _for the complete description of requirements._
+_This is a summary of the submission requirements. Please view the official_ [_Call for Papers_](https://ismir2022.ismir.net/calls/cfp/) _for the complete description of requirements._
 
 ISMIR paper submissions are full papers, up to 6 pages of content, representing **completed work**. Works-in-progress, or papers with results that are forthcoming or not fully reported, are not suitable as full paper submissions to the ISMIR conference (but see &quot;Other options&quot;, below).
 
-The page limit of ISMIR paper submissions is **&quot;6+n&quot; pages**. This means that the scientific content of the paper (text, figures, and tables) must fit in no more than 6 pages. Following that, any number of additional optional pages can contain only references (acknowledgments may also be included in these later pages but should not be included in the initial paper submission, to preserve anonymity). Papers must be submitted in PDF format using the [ISMIR2021 paper template](https://github.com/ismir/paper_templates/archive/2021v1.zip), which is available in LaTeX and Word formats.
+The page limit of ISMIR paper submissions is **&quot;6+n&quot; pages**. This means that the scientific content of the paper (text, figures, and tables) must fit in no more than 6 pages. Following that, any number of additional optional pages can contain only references (acknowledgments may also be included in these later pages but should not be included in the initial paper submission, to preserve anonymity). Papers must be submitted in PDF format using the [ISMIR2022 paper template](https://github.com/ismir/paper_templates/tree/master/2022), which is available in LaTeX and Word formats.
 
 The content of ISMIR submissions must represent **original contributions** , which means that the research cannot have been published elsewhere previously, and cannot be currently submitted for publication at any other venue. Due to the double-blind review process (see below), it is critical that **anonymity** be preserved in the paper submissions. Therefore, authors should retain the anonymous author names in the paper template, should not include any links that can identify the authors, and should self-cite in the third person. Authors are also strongly discouraged from posting their submitted manuscripts (e.g., on personal websites or preprint servers), or promoting their work publicly (e.g., on social media or blogs) while their paper is under review.
 
-Papers are submitted via the [Microsoft CMT](https://cmt3.research.microsoft.com/ISMIR2021) system, which is currently open for submissions. Authors must initiate their submission and provide an initial abstract by the end of **May 8, 2021,** Anywhere on Earth (AoE — i.e., 23:59 in the latest timezone on Earth). Following this, the authors are welcome to continue editing their submission through **May 15, 2021** (AoE). In the CMT system, authors should also be prepared to (1) upload any supplementary materials (e.g., audio samples, code, supplementary data) – again, preserving author anonymity; (2) write one line of text summarizing the main take-home message of their work; and (3) indicate any reviewers who present a conflict of interest and should not review the work (this typically includes any current or recent mentors, mentees, colleagues, or collaborators). Review decisions will be sent by **July 9, 2021** , and camera-ready versions of accepted papers will be due by **August 2, 2021**.
+Papers are submitted via the [Microsoft CMT](https://cmt3.research.microsoft.com/ISMIR2022) system, which is currently open for submissions. Authors must initiate their submission and provide an initial abstract by the end of **May 13, 2022,** Anywhere on Earth (AoE — i.e., 23:59 in the latest timezone on Earth). Following this, the authors are welcome to continue editing their submission through **May 20, 2022** (AoE). In the CMT system, authors should also be prepared to (1) upload any supplementary materials (e.g., audio samples, code, supplementary data) – again, preserving author anonymity; (2) write one line of text summarizing the main take-home message of their work; and (3) indicate any reviewers who present a conflict of interest and should not review the work (this typically includes any current or recent mentors, mentees, colleagues, or collaborators). Review decisions will be sent by **July 14, 2022** , and camera-ready versions of accepted papers will be due by **August 31, 2022**.
 
 Prospective authors who are new to writing ISMIR papers are encouraged to browse [past years&#39; proceedings](https://ismir.net/conferences/)[papers](https://ismir.net/conferences/) to get a sense of the topics, content, and structure of ISMIR papers.
 
@@ -81,7 +81,7 @@ We recognize that a paper rejection is a disappointing outcome of hard work on t
 
 **I need an additional week to work on my paper submission. Can I get an extension?**
 
-In order to adhere to the review and notification timeline, there will be no extension to the deadlines listed in the [Call for Papers](https://ismir2021.ismir.net/cfp/) (abstracts due May 8; full papers due May 15; AoE).
+In order to adhere to the review and notification timeline, there will be no extension to the deadlines listed in the [Call for Papers](https://ismir2022.ismir.net/calls/cfp) (abstracts due May 8; full papers due May 15; AoE).
 
 **I can&#39;t fit all of my content in the page limit. Is it okay to have 1-2 pages of extra content?**
 

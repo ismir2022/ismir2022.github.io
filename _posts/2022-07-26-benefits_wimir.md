@@ -3,7 +3,7 @@ layout: post
 authors: Iris Yuping Ren, Magdalena Fuentes, Stefanie Acevedo, Qhansa Bayu, Blair Kaneshiro
 title: The Benefits of Joining the WiMIR Mentoring Program
 featured-img: /assets/blog/benefits_wimir.png
-permalink: /blog/benefits-wimir/
+permalink: /blog/benefits-wimir
 summary: The WiMIR connects women students, postdocs, early-stage researchers ...
 date: 26 July 2022
 ---
