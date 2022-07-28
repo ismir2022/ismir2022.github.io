@@ -20,11 +20,11 @@ _This blog post was originally published in [ISMIR 2021 conference](https://ismi
 <img src = "/assets/blog/preparing.png" class="postismirimage">
 </div>
 
-Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 13, 2022** and **full papers due by May 20, 2022**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
+Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 13, 2022** and **full papers due by May 20, 2022**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2022.
 
 ## Preparing and writing an ISMIR paper
 
-The Call for Papers for ISMIR2022, along with an extensive list of Topics of Interest, can be found at [https://ismir2022.ismir.net/calls/cfp/](https://ismir2021.ismir.net/calls/cfp/).
+The Call for Papers for ISMIR2022, along with an extensive list of Topics of Interest, can be found at [https://ismir2022.ismir.net/calls/cfp/](https://ismir2022.ismir.net/calls/cfp).
 
 ## ISMIR Paper Submissions Specifications
 
@@ -42,7 +42,7 @@ Prospective authors who are new to writing ISMIR papers are encouraged to browse
 
 ## Special Call for Papers: Cultural Diversity in MIR
 
-For ISMIR2021, there is also a special Call for Papers on **Cultural Diversity in MIR**. As described on the [Call for Papers](https://ismir2021.ismir.net/cfp/) web page, any paper which meets the ISMIR paper guidelines and addresses an MIR topic of interest &quot;with a focus on non-Western music or cross-cultural studies&quot; may be submitted in this track. These papers will be reviewed by carefully chosen reviewers; accepted papers will have the same presentation format as other papers, but will receive special recognition on the conference website and be eligible for a special award in the themed track. This is an **optional** submission track, and any paper may still be submitted in the regular track.
+For ISMIR2022, there is also a special Call for Papers on **Cultural Diversity in MIR**. As described on the [Call for Papers](https://ismir2022.ismir.net/calls/cfp) web page, any paper which meets the ISMIR paper guidelines and addresses an MIR topic of interest &quot;with a focus on non-Western music or cross-cultural studies&quot; may be submitted in this track. These papers will be reviewed by carefully chosen reviewers; accepted papers will have the same presentation format as other papers, but will receive special recognition on the conference website and be eligible for a special award in the themed track. This is an **optional** submission track, and any paper may still be submitted in the regular track.
 
 ## The ISMIR paper reviewing process
 
@@ -52,7 +52,7 @@ ISMIR paper reviews are **double blind** , meaning that the identities of the au
 
 ## Maximizing success
 
-ISMIR has an established set of criteria on which submitted papers are evaluated: Novelty, scholarly/scientific quality, reusable insights, thought-provoking potential, appropriateness of topic, importance, and presentation/readability (see the [Call for Papers](https://ismir2021.ismir.net/cfp/) for more information).
+ISMIR has an established set of criteria on which submitted papers are evaluated: Novelty, scholarly/scientific quality, reusable insights, thought-provoking potential, appropriateness of topic, importance, and presentation/readability (see the [Call for Papers](https://ismir2022.ismir.net/calls/cfp) for more information).
 
 To make these concepts more concrete, we strongly encourage every ISMIR author to closely examine ISMIR paper reviewer materials. The [ISMIR Society](https://ismir.net/) maintains an online webpage of [Reviewer Guidelines](https://ismir.net/reviewer-guidelines/) as well as a link to a document containing [example ISMIR reviews](https://tomcollinsresearch.net/pdf/ismirReviewExamples.pdf) compiled by MIR researcher [Tom Collins](https://tomcollinsresearch.net/). Moreover, an example reviewer form can be accessed on page 3 of the [example review document](https://tomcollinsresearch.net/pdf/ismirReviewExamples.pdf). Authors can and should evaluate their paper against these metrics prior to submission in order to maximize the success of their submission.
 
