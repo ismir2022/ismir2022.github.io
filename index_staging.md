@@ -179,7 +179,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
 
 <div class="cardrow">
     <h3 style="padding-top: 0.125em;"> ISMIR 2022 Blog </h3>
-    <section style="background-color: rgb(255, 255, 255); height:60vh; overflow:scroll;">
+    <section style="background-color: rgb(255, 255, 255); height:60vh; overflow-y:auto;">
     <table class="cardtable">
     <tr>
     {% for post in site.posts limit:3 %}

@@ -6,8 +6,8 @@ title: International Society for Music Information Retrieval
 # ISMIR 2022 Blog
 
 <br>
-<div class="cardrow">
-    <section>
+<div style="width:100%;">
+     <section style="background-color: rgb(255, 255, 255); height:60vh; overflow-y:auto;">
     <table class="cardtable">
     <tr>
     {% for post in site.posts limit:3 %}
