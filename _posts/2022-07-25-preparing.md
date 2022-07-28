@@ -38,7 +38,7 @@ The content of ISMIR submissions must represent **original contributions** , whi
 
 Papers are submitted via the [Microsoft CMT](https://cmt3.research.microsoft.com/ISMIR2022) system, which is currently open for submissions. Authors must initiate their submission and provide an initial abstract by the end of **May 13, 2022,** Anywhere on Earth (AoE — i.e., 23:59 in the latest timezone on Earth). Following this, the authors are welcome to continue editing their submission through **May 20, 2022** (AoE). In the CMT system, authors should also be prepared to (1) upload any supplementary materials (e.g., audio samples, code, supplementary data) – again, preserving author anonymity; (2) write one line of text summarizing the main take-home message of their work; and (3) indicate any reviewers who present a conflict of interest and should not review the work (this typically includes any current or recent mentors, mentees, colleagues, or collaborators). Review decisions will be sent by **July 14, 2022** , and camera-ready versions of accepted papers will be due by **August 31, 2022**.
 
-Prospective authors who are new to writing ISMIR papers are encouraged to browse [past years&#39; proceedings](https://ismir.net/conferences/)[papers](https://ismir.net/conferences/) to get a sense of the topics, content, and structure of ISMIR papers.
+Prospective authors who are new to writing ISMIR papers are encouraged to browse [past years&#39; proceedings,](https://ismir.net/conferences/) and [papers](https://ismir.net/conferences/) to get a sense of the topics, content, and structure of ISMIR papers.
 
 ## Special Call for Papers: Cultural Diversity in MIR
 
