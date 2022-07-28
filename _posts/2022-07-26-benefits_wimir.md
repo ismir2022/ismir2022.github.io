@@ -9,6 +9,11 @@ date: 26 July 2022
 ---
 
 ### Authors: Iris Yuping Ren, Magdalena Fuentes, Stefanie Acevedo, Qhansa Bayu, Blair Kaneshiro
+
+_This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/benefits-wimir/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
+
+<img src = "../assets/blog/benefits_wimir.png" class="postismirimage">
+
 The [Women in Music Information Retrieval (WiMIR) mentoring program](https://wimir.wordpress.com/mentoring-program/) connects women students, postdocs, early-stage researchers, industry employees, and faculty to more senior women and men in MIR who are dedicated to increasing opportunities for women in the field. Mentors share their experiences and offer guidance to support mentees in achieving and exceeding their goals and aspirations. By connecting individuals of different backgrounds and expertise, this program strengthens networks within the MIR community, both in academia and industry.
 
 The mentoring program has run annually since 2016: Participants typically sign up in the fall, are matched in January, and carry out four remote mentoring calls between January and June.
@@ -81,6 +86,8 @@ Further, research has shown that women and other minority faculty are more likel
 More importantly, though, mentoring programs by organizations such as WiMIR can aid students in diversifying their interests in order to better prepare them for successful careers. As an educator in music, I believe it is my duty to enable students to follow their dreams, but also to prepare them for the real world. As a Hispanic woman, I want to increase the diversity in music theory, but I feel a responsibility to my students to give them the broader picture: academia is cutthroat, the road is long, and job prospects are difficult. I want students to be able to follow their hearts and passion for the arts, but I also want them to have financially-stable and bright futures. The best possible way to prepare a student for a music career, in my opinion, is to diversify their portfolio with a secondary interest in order to develop lucrative skills (not just for a job at a music department, but also for a job in Arts Management at BMI or ASCAP, or as a Data Scientist at Spotify or Google). In my case, I diversified by pursuing a master&#39;s degree in experimental psychology and learning computational skills. We need to be marketable as specialists in music that can apply that knowledge outside of the concert hall or theory classroom. While Universities tout interdisciplinarity, resources are often lacking and students may not have the knowledge, time, or guidance to seek out secondary interests (especially at disadvantaged schools). Not many students can afford the luxury of getting multiple degrees. At many schools, a music degree does not provide training beyond the traditional Western Classical music curriculum. This, then, is where external mentorship can aid students to not only experiment and define other interests, but also gain exposure to and prepare themselves for alternate career paths that also utilize their musical talent. Even for older students, like myself, or those who have already graduated, cross-disciplinary mentorship can help us expand our horizons, leading to a broader portfolio, an increased awareness of the applications of our research, or even, a back up career plan.
 
 [**Stefanie Acevedo**](https://stefanieacevedo.com/) _is a PhD Candidate in music theory at Yale University. She is a past member of the Society for Music Theory&#39;s_ [_Committee for the Status of Women_](https://womeninmusictheory.wordpress.com/)_, a past board member of the_ [_International Alliance for Women in Music_](https://iawm.org/)_, and currently serves as a member of the Graduate and Professional Student Title IX Advisory Board at Yale. Her dissertation is a computational and EEG study of popular harmony expectation. She is currently a mentee in WiMIR&#39;s mentorship program._
+
+<hr>
 
 **END NOTES:**
 

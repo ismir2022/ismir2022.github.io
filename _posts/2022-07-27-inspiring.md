@@ -11,6 +11,7 @@ date: 27 July 2022
 
 ### Author : Giorgia Cantisani
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2020/05/26/inspiring-women-in-science-an-interview-with-dr-blair-kaneshiro/)
+_This blog post was also published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/inspiring/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 
 <img src = "../assets/blog/inspiring2.png" class="postismirimage">
 
@@ -18,6 +19,7 @@ Why are women still so underrepresented in science? Female scientists represent 
 
 The Music Information Retrieval (MIR) community is no exception, with **less than 20% female participation at ISMIR 2019** , the conference of the International Society for Music Information Retrieval. Despite the efforts of organizers this year to promote diversity in the choice of the keynote and the session chairs, the gender gap is still evident when looking at the author and attendee statistics.
 
+<img src = "/assets/img/blog/inspiring1.png" class="postismirimage">
 <!-- ![](/assets/img/blog/inspiring1.png) -->
 
 Much still needs to be done to bring women into the community and to reduce the gender gap. For this purpose, [_Women in Music Information Retrieval (WiMIR)_](https://wimir.wordpress.com/) – a group of people within ISMIR – has put together ideas and started a number of _diversity and inclusion initiatives_. The goal is to build a community around women in the field and create a network able to support young researchers through _grants_, [_workshops_](https://wimir.wordpress.com/wimir-workshop/) and [_mentoring_](https://wimir.wordpress.com/category/mentoring/) from senior scientists. Thanks to the WiMIR grants, ISMIR 2019 female participation had a 5% increase!
