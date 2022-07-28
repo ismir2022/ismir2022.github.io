@@ -3,11 +3,12 @@ layout: post
 authors: Iris Yuping Ren, Magdalena Fuentes, Stefanie Acevedo, Qhansa Bayu, Blair Kaneshiro
 title: The Benefits of Joining the WiMIR Mentoring Program
 featured-img: /assets/blog/benefits_wimir.png
-permalink: /benefits-wimir/
+permalink: /blog/benefits-wimir/
 summary: The WiMIR connects women students, postdocs, early-stage researchers ...
 date: 26 July 2022
 ---
 
+### Authors: Iris Yuping Ren, Magdalena Fuentes, Stefanie Acevedo, Qhansa Bayu, Blair Kaneshiro
 The [Women in Music Information Retrieval (WiMIR) mentoring program](https://wimir.wordpress.com/mentoring-program/) connects women students, postdocs, early-stage researchers, industry employees, and faculty to more senior women and men in MIR who are dedicated to increasing opportunities for women in the field. Mentors share their experiences and offer guidance to support mentees in achieving and exceeding their goals and aspirations. By connecting individuals of different backgrounds and expertise, this program strengthens networks within the MIR community, both in academia and industry.
 
 The mentoring program has run annually since 2016: Participants typically sign up in the fall, are matched in January, and carry out four remote mentoring calls between January and June.

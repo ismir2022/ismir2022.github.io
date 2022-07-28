@@ -1,8 +1,7 @@
 ---
 layout: page
 authors: Giorgia Cantisani
-permalink: /blog/inspiring/
-# permalink: /
+permalink: /inspiring/
 title: "Inspiring Women in Science: An Interview with Dr. Blair Kaneshiro"
 featured-img: /assets/blog/inspiring2.png
 display-title: true
@@ -10,9 +9,9 @@ summary: Why are women still so underrepresented in science? ...
 date: 27 July 2022
 ---
 
-Author : Giorgia Cantisani
+### Author : Giorgia Cantisani
 
-<img src = "../../assets/blog/inspiring2.png" class="postismirimage">
+<img src = "../assets/blog/inspiring2.png" class="postismirimage">
 
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2020/05/26/inspiring-women-in-science-an-interview-with-dr-blair-kaneshiro/)
 

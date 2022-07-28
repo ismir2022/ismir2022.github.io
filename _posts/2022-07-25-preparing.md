@@ -1,25 +1,27 @@
 ---
-layout: page
+layout: post
 authors: Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 title: Preparing a Successful ISMIR Submission
+permalink: /preparing/
 featured-img: /assets/blog/preparing.png
 display-title: true
 summary: Springtime tends to be a busy and productive time for Music Information Retrieval...
 date: 21 July 2022
 ---
 
-Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
+## Authors : Blair Kaneshiro, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Krananburg, Jordan B.L. Smith
 
 <div>
-<img src = "../../assets/blog/preparing.png" class="postismirimage">
+<img src = "../assets/blog/preparing.png" class="postismirimage">
 </div>
 
-_This blog post is part of a series of posts aimed toward supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._
+_This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/preparing/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
+<!-- _This blog post was a part of a series of posts aimed towards supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._ -->
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
 <!-- ![](/assets/images/ismir2022.png) -->
 
-Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2021.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 8, 2021** and **full papers due by May 15, 2021**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
+Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 8, 2021** and **full papers due by May 15, 2021**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2021.
 
 ## Preparing and writing an ISMIR paper
 
