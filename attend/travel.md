@@ -24,7 +24,8 @@ Location: [Link](https://g.page/sheratongrandbangalore?share)
 <p style="text-align:left;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3600747978185!2d77.55503569999999!3d13.0127271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d78c39ed1d7%3A0x6832860dbb5cd434!2sSheraton%20Grand%20Bangalore%20Hotel%20at%20Brigade%20Gateway!5e0!3m2!1sen!2ssg!4v1659061442486!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 
-**[Taj Yeshwanthpur](https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local)**
+
+### Taj Yeshwanthpur
 
 Category: 05 Star
 
@@ -37,7 +38,7 @@ Location: [Link](https://goo.gl/maps/tEVYiQS3V1BgK1nt5)
 <p style="text-align:left;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.103392665237!2d77.5407647!3d13.0290874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d6b78323a6d%3A0x52c990fae2561020!2sTaj%20Yeshwantpur%2C%20Bengaluru!5e0!3m2!1sen!2ssg!4v1659061370529!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 
-**[Vividus Hotel](http://www.vividushotels.com/)**
+### Vividus Hotel
 
 Category: 04 Star
 
@@ -50,7 +51,7 @@ Location: [Link](https://g.page/vividushotels?share)
 <p style="text-align:left;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7995668596445!2d77.578344!3d12.9846679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1778ed23d1f3%3A0xacab7252163d0c6c!2sVividus%20Hotels%20%2C%20Bangalore!5e0!3m2!1sen!2ssg!4v1659061210653!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 
-**[Holiday Inn Express Bengaluru Yeshwantpur](https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail)**
+### Holiday Inn Express Bengaluru Yeshwantpur
 
 Category: 03 Star
 
@@ -62,7 +63,7 @@ Location: [Link](https://goo.gl/maps/HohbKcjowoacDeh36)
 
 <p style="text-align:left;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.170700726651!2d77.54785389999999!3d13.0247993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dba166ad3e3%3A0x23121b6d20aa130d!2sHoliday%20Inn%20Express%20Bengaluru%20Yeshwantpur%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2ssg!4v1659061075930!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
-**[Citrine Hotel](https://www.thecitrinehotel.com/)**
+### Citrine Hotel
 
 Category: 03 Star
 
