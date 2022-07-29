@@ -15,11 +15,12 @@ _This blog post was originally published in [ISMIR 2021 conference](https://ismi
 <!-- _This blog post was a part of a series of posts aimed towards supporting Diversity &amp; Inclusion at the ISMIR2021 conference. It was authored by the Diversity &amp; Inclusion Chairs and Scientific Program Chairs._ -->
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
-<!-- ![](/assets/blog/preparing.png) -->
+<br>
+![](/assets/blog/preparing.png)
 <!-- <div>
 <img src = "/assets/blog/preparing.png" class="postismirimage">
 </div> -->
-
+<br>
 Springtime tends to be a busy and productive time for Music Information Retrieval (MIR) researchers, many of whom are hard at work preparing paper submissions for the annual [International Society for Music Information Retrieval (ISMIR) Conference](https://ismir2022.ismir.net/). This year&#39;s deadlines are fast approaching, with **abstracts due by May 13, 2022** and **full papers due by May 20, 2022**. For newer researchers, or those who are new to ISMIR, this process can feel somewhat mysterious. Here we outline key aspects of the ISMIR paper writing and review process, with the aim of positioning ISMIR researchers for successful paper contributions in 2022.
 
 ## Preparing and writing an ISMIR paper
