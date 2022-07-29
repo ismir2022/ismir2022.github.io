@@ -12,44 +12,67 @@ This page contains information to help you plan your travel to Bengaluru, India 
 ## Accommodation
 
 **[Sheraton Grand Bangalore Hotel at Brigade Gateway](https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)**
+
 Category: 05 Star
+
 Website: [Link](https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
+
 Distance from NSSC (conference venue): 3.5 kilometres (10 mins drive)
+
 Location: [Link](https://g.page/sheratongrandbangalore?share)
 
-<!-- <p style="text-align:center;"><iframe src="https://g.page/sheratongrandbangalore?share" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p> -->
+<p style="text-align:center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.3600747978185!2d77.55503569999999!3d13.0127271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d78c39ed1d7%3A0x6832860dbb5cd434!2sSheraton%20Grand%20Bangalore%20Hotel%20at%20Brigade%20Gateway!5e0!3m2!1sen!2ssg!4v1659061442486!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
 
 **[Taj Yeshwanthpur](https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local)**
+
 Category: 05 Star
+
 Website: [Link](https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local)
+
 Distance from NSSC (conference venue): 4 kilometres (12 mins drive)
+
 Location: [Link](https://goo.gl/maps/tEVYiQS3V1BgK1nt5)
 
-<!-- <p style="text-align:center;"><iframe src="https://goo.gl/maps/tEVYiQS3V1BgK1nt5" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p> -->
+<p style="text-align:center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.103392665237!2d77.5407647!3d13.0290874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d6b78323a6d%3A0x52c990fae2561020!2sTaj%20Yeshwantpur%2C%20Bengaluru!5e0!3m2!1sen!2ssg!4v1659061370529!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
 
 **[Vividus Hotel](http://www.vividushotels.com/)**
+
 Category: 04 Star
+
 Website: [Link](http://www.vividushotels.com/)
+
 Distance from NSSC (conference venue): 05 kilometres (15 mins drive)
+
 Location: [Link](https://g.page/vividushotels?share)
 
-<!-- <p style="text-align:center;"><iframe src="https://g.page/vividushotels?share" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p> -->
+<p style="text-align:center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7995668596445!2d77.578344!3d12.9846679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1778ed23d1f3%3A0xacab7252163d0c6c!2sVividus%20Hotels%20%2C%20Bangalore!5e0!3m2!1sen!2ssg!4v1659061210653!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
 
 **[Holiday Inn Express Bengaluru Yeshwantpur](https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail)**
+
 Category: 03 Star
+
 Website: [Link](https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail)
+
 Distance from NSSC (conference venue): 05 kilometres (15 mins drive)
+
 Location: [Link](https://goo.gl/maps/HohbKcjowoacDeh36)
 
-<!-- <p style="text-align:center;"><iframe src="https://goo.gl/maps/HohbKcjowoacDeh36" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p> -->
+<p style="text-align:center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.170700726651!2d77.54785389999999!3d13.0247993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dba166ad3e3%3A0x23121b6d20aa130d!2sHoliday%20Inn%20Express%20Bengaluru%20Yeshwantpur%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2ssg!4v1659061075930!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 **[Citrine Hotel](https://www.thecitrinehotel.com/)**
+
 Category: 03 Star
+
 Website: [Link](https://www.thecitrinehotel.com/)
+
 Distance from NSSC (conference venue): 3.5 kilometres (12 mins drive)
+
 Location: [Link](https://goo.gl/maps/9fs8TETWijAyYtcdA)
 
-<!-- <p style="text-align:center;"><iframe src="https://goo.gl/maps/9fs8TETWijAyYtcdA" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p> -->
+<p style="text-align:center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.76910887039!2d77.5747291!3d12.986614399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae161798414663%3A0xd5d3e5a387c6bff!2sCitrine%20Hotel!5e0!3m2!1sen!2ssg!4v1659061515269!5m2!1sen!2ssg" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
 <hr>
 
