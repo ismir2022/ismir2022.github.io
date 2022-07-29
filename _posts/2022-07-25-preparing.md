@@ -16,7 +16,8 @@ _This blog post was originally published in [ISMIR 2021 conference](https://ismi
 
 <!-- <img src = "..\..\assets\images\ismir2022.png" class="postismirimage"> -->
 <br>
-![](/assets/blog/preparing.png)
+<img src = "/assets/blog/preparing.png" class="postismirimage">
+<!-- ![](/assets/blog/preparing.png) -->
 <!-- <div>
 <img src = "/assets/blog/preparing.png" class="postismirimage">
 </div> -->

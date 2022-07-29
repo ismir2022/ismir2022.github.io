@@ -13,7 +13,7 @@ date: 27 July 2022
 _Originally published at_ [_https://wimir.wordpress.com_](https://wimir.wordpress.com/2020/05/26/inspiring-women-in-science-an-interview-with-dr-blair-kaneshiro/)
 _This blog post was also published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/inspiring/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 <br>
-![](/assets/blog/inspiring2.png)
+<img src = "../assets/blog/inspiring2.png" class="postismirimage">
 <br>
 <!-- <img src = "../assets/blog/inspiring2.png" class="postismirimage"> -->
 

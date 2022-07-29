@@ -12,7 +12,8 @@ date: 26 July 2022
 
 _This blog post was originally published in [ISMIR 2021 conference](https://ismir2021.ismir.net/blog/benefits-wimir/) blog as a part of a series of posts aimed towards supporting Diversity &amp; Inclusion._
 <br>
-![](/assets/blog/benefits_wimir.png)
+<img src = "../assets/blog/benefits_wimir.png" class="postismirimage">
+<!-- ![](/assets/blog/benefits_wimir.png) -->
 <br>
 <!-- <img src = "../assets/blog/benefits_wimir.png" class="postismirimage"> -->
 
