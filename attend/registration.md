@@ -14,7 +14,7 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
   <tr class="reg">
     <th class="reg1">CATEGORY</th>
     <th class="reg1" colspan="3">Prices in INR, exclusive of 18% GST</th>
-    <td bgcolor="#f2f3f4" rowspan="27" width="0.01"></td>
+    <!-- <td bgcolor="#f2f3f4" rowspan="27" width="0.01"></td> -->
     <th class="reg1" colspan="3">Prices in INR, inclusive of 18% GST</th>
   </tr>
   <tr class="reg">
