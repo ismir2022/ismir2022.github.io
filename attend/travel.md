@@ -7,6 +7,52 @@ title: International Society for Music Information Retrieval
 
 This page contains information to help you plan your travel to Bengaluru, India to attend ISMIR 2022. We will periodically update the information on connectivity, visas, accommodation and more as it becomes available. Please watch this space for additional information.
 
+<hr>
+
+## Accommodation
+
+* **[Sheraton Grand Bangalore Hotel at Brigade Gateway](https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)**
+Category: 05 Star
+Website: [Link](https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
+Distance from NSSC (conference venue): 3.5 kilometres (10 mins drive)
+Location: [Link](https://g.page/sheratongrandbangalore?share)
+
+<p style="text-align:center;"><iframe src="https://g.page/sheratongrandbangalore?share" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+* **[Taj Yeshwanthpur](https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local)**
+Category: 05 Star
+Website: [Link](https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local)
+Distance from NSSC (conference venue): 4 kilometres (12 mins drive)
+Location: [Link](https://goo.gl/maps/tEVYiQS3V1BgK1nt5)
+
+<p style="text-align:center;"><iframe src="https://goo.gl/maps/tEVYiQS3V1BgK1nt5" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+* **[Vividus Hotel](http://www.vividushotels.com/)**
+Category: 04 Star
+Website: [Link](http://www.vividushotels.com/)
+Distance from NSSC (conference venue): 05 kilometres (15 mins drive)
+Location: [Link](https://g.page/vividushotels?share)
+
+<p style="text-align:center;"><iframe src="https://g.page/vividushotels?share" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+* **[Holiday Inn Express Bengaluru Yeshwantpur](https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail)**
+Category: 03 Star
+Website: [Link](https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail)
+Distance from NSSC (conference venue): 05 kilometres (15 mins drive)
+Location: [Link](https://goo.gl/maps/HohbKcjowoacDeh36)
+
+<p style="text-align:center;"><iframe src="https://goo.gl/maps/HohbKcjowoacDeh36" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+* **[Citrine Hotel](https://www.thecitrinehotel.com/)**
+Category: 03 Star
+Website: [Link](https://www.thecitrinehotel.com/)
+Distance from NSSC (conference venue): 3.5 kilometres (12 mins drive)
+Location: [Link](https://goo.gl/maps/9fs8TETWijAyYtcdA)
+
+<p style="text-align:center;"><iframe src="https://goo.gl/maps/9fs8TETWijAyYtcdA" width="300vw" height="300vh" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+<hr>
+
 ## VISA Information
 The information on this page is provided as general guidance for securing a visa to travel to India to attend the ISMIR 2022 conference. The information provided cannot be constituted as legal advice. While the ISMIR 2022 organizers make every effort to keep the information up to date, we cannot make any guarantees about the accuracy or validity of the information.   
  
