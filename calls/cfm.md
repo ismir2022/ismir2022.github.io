@@ -8,7 +8,7 @@ ISMIR 2022 invites submissions of music/sound art works for the concert program 
 
 ## Important dates
 * ~~Submission portal opening: Jul 10, 2022~~
-* Submission deadline: Jul 31, 2022
+* Submission deadline: ~~Jul 31, 2022~~ Aug 9, 2022
 * Notification of acceptance: Aug 15, 2022
 * Music author grant application deadline: Aug 19, 2022
 * Notification of Music author grant: Aug 24, 2022
@@ -17,7 +17,7 @@ ISMIR 2022 invites submissions of music/sound art works for the concert program 
 ## Music author grants
 Music Author Grants are available for the authors of accepted submissions to the ISMIR 2022 music program. The grants include 100% or 50% registration fee waivers and are awarded based on quality of the accepted music submission, the degree of financial need, the applicant’s newness to ISMIR, and the applicant’s geographical diversity. 
 
-For detailed information on grants, please refer to: https://ismir2022.ismir.net/attend/support
+For detailed information on grants, please refer to: [https://ismir2022.ismir.net/attend/support] (https://ismir2022.ismir.net/attend/support)
 
 ## Themes
 This year, music from any genre and in any formats is invited for submission. However, to make it a good fit for a hybrid format and make it more interesting, we propose the following themes that participants are encouraged to explore, but of course not limit to:
