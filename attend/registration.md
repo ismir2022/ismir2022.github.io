@@ -7,7 +7,7 @@ title: International Society for Music Information Retrieval
 
 Registration is now open for ISMIR 2022! Please be aware that by registering, you agree to abide by the [ISMIR 2022 Code of Conduct](https://ismir2022.ismir.net/codeofconduct). ISMIR 2022 will be a hybrid conference allowing all registrants to choose to attend the event virtually or in-person in Bengaluru. We encourage participants to register for the conference early, especially if you plan to attend ISMIR 2022 in-person to allow sufficient time to obtain a visa and make appropriate travel plans. 
 
-<a href="https://www.townscript.com/e/ismir2022-register" target="_blank"><button class="reg">Register for ISMIR 2022</button></a>
+<a href="https://www.townscript.com/v2/e/ismir2022-register/booking/tickets" target="_blank"><button class="reg">Register for ISMIR 2022</button></a>
 <br>
 
 <table class="reg">
