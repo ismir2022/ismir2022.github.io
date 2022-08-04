@@ -2,7 +2,7 @@ import React from 'react'
 
 const MainContent = () => {
   return (
-    <div className="px-20 mx-20 ">
+    <div>
       <h1 className="text-[#d83616] text-bold text-4xl mt-5">Welcome to ISMIR 2022!</h1>
       <p className="text-xl mt-8">
         The 23rd International Society for Music Information Retrieval
