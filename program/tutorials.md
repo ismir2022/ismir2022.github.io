@@ -52,7 +52,7 @@ This tutorial is the result of an ongoing collaborative effort involving many co
 
 **Biographies of Presenters**
 
-**Thomas Nuttall** is a Research Engineer in the Music Technology Group (MTG) of Universitat Pompeu Fabra in Barcelona, Spain. His research focus is on melodic pattern analysis in musical traditions under-represented in the music computation and computational musicology fields, such as Arab-Andalusian or Indian Art Music, and on building tools that bridge the gap between the music information retrieval and musicology research communities.
+[**Thomas Nuttall**](https://thomasgnuttall.github.io/about) is a Research Engineer in the Music Technology Group (MTG) of Universitat Pompeu Fabra in Barcelona, Spain. His research focus is on melodic pattern analysis in musical traditions under-represented in the music computation and computational musicology fields, such as Arab-Andalusian or Indian Art Music, and on building tools that bridge the gap between the music information retrieval and musicology research communities.
 
 
 **Genís Plaja-Roglans** is a Ph.D student in the Music Technology Group (MTG) of Universitat Pompeu Fabra in Barcelona, Spain. His research focus is on creation of bespoke machine learning models for the understanding of musical traditions under-represented in Music Information Research, currently focusing on Carnatic and Hindustani music. Recent work includes vocal melody estimation, singing voice source separation and repeated pattern discovery. 
