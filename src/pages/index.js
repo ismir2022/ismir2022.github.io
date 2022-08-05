@@ -10,19 +10,15 @@ import Dates from "../components/dates";
 const IndexPage = () => {
   return (
     <div className="bg-[#E9ECEF]">
-      {/* <div className="text-3xl font-bold underline">
-      This is a test
-    </div> */}
       <TopNav />
-      <hr />
-      <div className="w-full px-20 my-5">
+      {/* <div className="w-full px-20 my-5 z-0">
         <StaticImage src="../images/ismir_banner.png" alt="banner_img" />
       </div>
-      <hr />
+      <hr /> */}
       <div className="flex flex-col space-y-5 mx-20">
         <MainContent />
         <Highlights />
-        <div className="flex flex-row place-content-between">
+        <div className="flex flex-row place-content-evenly">
           <Dates/>
           <Twitter/>
         </div>
