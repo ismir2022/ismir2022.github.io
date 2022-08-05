@@ -26,7 +26,7 @@ const TopNav = () => {
             </label>
             <ul
               tabindex="0"
-              class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow bg-white rounded-box w-52"
+              class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-52"
             >
               <li tabindex="0">
                 <a class="justify-between">
@@ -41,7 +41,7 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white">
+                <ul class="p-2 bg-white shadow-lg">
                   <li>
                     <a>Call for Papers</a>
                   </li>
@@ -72,9 +72,9 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white">
+                <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <Link to="/keynote/">Keynote Speakers</Link>
+                    <Link to="/programs/keynotes">Keynote Speakers</Link>
                   </li>
                   <li>
                     <a>Tutorials</a>
@@ -97,7 +97,7 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white">
+                <ul class="p-2 bg-white shadow-lg">
                   <li>
                     <a>Registration</a>
                   </li>
@@ -134,7 +134,7 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white">
+                <ul class="p-2 bg-white shadow-lg">
                   <li>
                     <a>New-to-ISMIR Mentoring</a>
                   </li>
@@ -156,7 +156,7 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white">
+                <ul class="p-2 bg-white shadow-lg">
                   <li>
                     <a>Organizing Team</a>
                   </li>
@@ -167,15 +167,15 @@ const TopNav = () => {
               </li>
             </ul>
           </div>
-          <a class="btn btn-ghost normal-case text-xl">
+          <Link to="/"  class="btn btn-ghost h-max items-center lg:ml-5">
             <StaticImage
               src="../images/ismir2022logo.png"
               alt="ismirlogo"
               objectFit="contain"
               width={120}
-              height={40}
+              
             />
-          </a>
+          </Link>
         </div>
         <div class="navbar-center hidden lg:flex">
           <ul class="menu menu-horizontal p-0">
@@ -192,7 +192,7 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white ">
+              <ul class="p-2 bg-white shadow-lg">
                 <li>
                   <a>Call for Papers</a>
                 </li>
@@ -223,9 +223,9 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white">
+              <ul class="p-2 bg-white shadow-lg">
                 <li>
-                  <Link to="/keynote/">Keynote Speakers</Link>
+                  <Link to="/programs/keynotes">Keynote Speakers</Link>
                   
                 </li>
                 <li>
@@ -249,7 +249,7 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white z-1">
+              <ul class="p-2 bg-white shadow-lg">
                 <li>
                   <a>Registration</a>
                 </li>
@@ -286,7 +286,7 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white">
+              <ul class="p-2 bg-white shadow-lg">
                 <li>
                   <a>New-to-ISMIR Mentoring</a>
                 </li>
@@ -308,7 +308,7 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white">
+              <ul class="p-2 bg-white shadow-lg">
                 <li>
                   <a>Organizing Team</a>
                 </li>

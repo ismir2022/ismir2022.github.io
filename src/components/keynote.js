@@ -7,8 +7,8 @@ const Keynote = () => {
       <h1 className="text-[#d83616] text-extrabold text-5xl mt-5">
         Keynote Speakers
       </h1>
-      <div className="grid grid-col-4 space-x-12">
-        <div className="col-start-1 col-end-2 place-self-center">
+      <div className="md:grid md:grid-col-4 space-x-12">
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
           <StaticImage
             src="../images/TMKrishna.jpg"
             alt="TMKRISHNA"
@@ -44,8 +44,8 @@ const Keynote = () => {
           <p className="text-2xl">The title and an abstract of the keynote will be added soon.</p>
         </div>
       </div>
-      <div className="grid grid-col-4 space-x-12">
-        <div className="col-start-1 col-end-2 place-self-center">
+      <div className="md:grid md:grid-col-4 space-x-12">
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center">
           <StaticImage src="../images/richa_singh.jpg" 
             height={192}
             width={192}/>

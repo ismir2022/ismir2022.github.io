@@ -23,7 +23,9 @@
     "gatsby-source-filesystem": "^4.19.0",
     "gatsby-transformer-sharp": "^4.19.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-icons": "^4.4.0",
+    "save": "^2.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",

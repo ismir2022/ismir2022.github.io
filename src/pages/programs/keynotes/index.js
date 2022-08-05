@@ -1,15 +1,16 @@
 import React from 'react'
-import TopNav from '../../../components/top-nav'
+import Layout from '../../../components/layout'
 import Keynote from '../../../components/keynote'
 
 const Index = () => {
   return (
-    <div className="bg-[#E9ECEF]">
-      <TopNav/>
-      <div className="flex flex-col space-y-5 mx-20 ">
+    <Layout>
+      <div className="flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-20 ">
         <Keynote/>
       </div>
-    </div>
+    </Layout>
+      
+
   )
 }
 
