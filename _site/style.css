@@ -21,6 +21,7 @@ a {
 
 footer {
     font-family: 'Lato', sans-serif;
+    clear: both;
 }
 
 .fa-brands {
@@ -34,7 +35,7 @@ footer {
     color: rgb(0, 0, 0);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .fa-brands {
         font-size: 1em;
@@ -52,7 +53,7 @@ footer {
     font-size: 0.8em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .copyright {
         font-size: 0.1em;
@@ -67,7 +68,7 @@ footer {
     margin-top: 0em;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .indexlogo{
         width: 6em;
     }
@@ -81,7 +82,7 @@ footer {
     margin-bottom: 0%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
     .maincontent{
         padding-left: 6vw;
         padding-right: 10vw;
@@ -102,7 +103,7 @@ header{
     padding-bottom: 20vh;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .headbanner{
         height: 0vh;
@@ -115,7 +116,7 @@ li span {
     font-size: 2.0rem;
 }
   
-@media all and (max-width: 768px) {    
+@media all and (max-width: 600px) {    
     li {
       font-size: 1.0rem;
     }
@@ -150,10 +151,6 @@ li span {
     padding-bottom: 1vh;
 }
 
-button{
-    background-color: rgba(255, 255, 255, 0);
-    border: rgb(255, 255, 255);
-}
   
 .container {
     padding: 2px 16px;
@@ -165,26 +162,134 @@ button{
     border-radius: 50%;
 }
 
+.keynoteavatar{
+    width: 12em;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 .avatarname{
     font-weight: bold;
     font-size: 1em;
 }
 
-@media screen and (max-width: 768px) {
+.keynoteavatarname{
+    font-size: 1.2em;
+}
+
+@media screen and (max-width: 600px) {
     .avatar{
         width: 3em;
     }
     .avatarname{
         font-size: 0.5em;
     }
+    .keynoteavatarname{
+        font-size: 0.8em;
+    }
 }
 
 .teamsection{
     text-align: left;
+    width: 100% !important;
+}
+
+.teambox{
+    text-align: center;
+    width: 25%;
+}
+
+.mobileteamtable{
+    display: none !important;
+}
+
+/* .teamtable tr{
+    width: 100%;
+} */
+
+@media screen and (max-width: 600px) {
+    /* .teambox{
+        width: 25%;
+    } */
+    
+    .teamtable{
+        display: none !important;
+    }
+
+    .mobileteamtable{
+        display: block !important;
+    }
+
+    .teamsection{
+        width: 100%;
+    }
+
 }
 
 .avatarbox{
     width: 25%;
+}
+
+.mobilecustomtable{
+    display: none;
+}
+
+.teamtable{
+    table-layout: fixed;
+}
+
+@media screen and (max-width: 600px) {
+    .mobilecustomtable{
+        display: block;
+    }
+
+    .customtable{
+        display: block;
+    }
+
+    .teamtable{
+        display: block;
+        width: 100%;
+        border-collapse:collapse;
+    }
+
+    .teamtable td{
+        width: 25%;
+    }
+
+    /* .teamtable tr, td{
+        width: 100%;
+        border: 2px solid blue;
+    } */
+
+    .teambox{
+        /* border: 2px solid blue; */
+        width: 25% !important;
+    }
+
+    .sponsorblock{
+        width: 100%;
+        text-align: left;
+        display: inline;
+    }
+
+    .avatarbox{
+        text-align: center;
+        /* border: 2px solid red; */
+    }
+
+    /* .teambox{
+        border: 2px solid blue;
+    } */
+
+    .avatarbox{
+        width: 25%;
+    }
+
+    .volunteerinfo p{
+        text-align: center;
+    }
 }
 
 .volunteerinfo{
@@ -192,7 +297,7 @@ button{
     text-align: left;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .volunteerinfo{
         font-size: 0.5em;
@@ -334,7 +439,7 @@ a:first-child:hover{
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
     .topnav a:not(:first-child){
         padding: 0.5em 1em;
@@ -356,9 +461,20 @@ a:first-child:hover{
     width: 100%;
     text-align: center;
 }
+.customtable2{
+    width: 100%;
+    text-align: left;
+}
+
+/* .customtable tr, td{
+    border: 2px solid red;
+} */
 
 .timelinetable{
     width: 50%;
+}
+.timelinetable2{
+    width: 30%;
 }
 
 @media screen and (max-width: 600px) {
@@ -451,11 +567,11 @@ a:first-child:hover{
         width: 8em;
     }
 
-    /* .teamsection{
+    .teamsection{
         display: block;
         margin-top: 0.5em;
         margin-bottom: 0.5em;
-    } */
+    }
 
     .sponsorsection{
         display: block;
@@ -499,6 +615,181 @@ a:first-child:hover{
     }
     .downloadpdf{
         display: block;
+    }
+}
+
+
+button.reg {
+    background-color: #f2f3f4;
+    border: 0.1em solid rgb(216, 54, 22);
+    border-radius: 0.5em;
+    color: rgb(216, 54, 22);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    radius: 0.1;
+  }
+  table.reg{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td.reg, th.reg {
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+  }
+  th.reg {
+   font-weight: bold;
+   background-color: #f0f0f0;
+   border: 2px solid #f2f3f4;
+   text-align: center;
+   padding: 8px;
+  }
+  td.reg {
+      background-color: white;
+  }
+  th.reg1{
+    border: 2px solid #f2f3f4;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #cdcdcd;
+  }
+
+  .sponsorheadV2 {
+    border: none;
+    width: 100%;
+    padding: 0.6em 1.2em;
+    display: inline-block;
+    border-radius: 4px;
+    box-shadow:
+        0 0.1em 0 rgba(255, 255, 255, 0.25) inset,
+        0 0 0 rgba(0, 0, 0, 0.5) inset,
+        0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
+        0 1.25rem 1.25rem rgba(255, 255, 255, 0.1) inset;
+}
+
+.pricetable{
+    width: 90%;
+    text-align: center;
+    /* border: 0.5vw solid rgb(216, 54, 22); */
+}
+
+.pricetable tr:first-child{
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.pricetable tr:not(:first-child){
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.home-post-list{ 
+    padding-top: 1.65em;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 0 auto;
+    @include breakpoint(600px) {
+      padding-top: 1.65em;
+  
+    }
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 12vw;
+    /* height: 40%; */
+}
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+.cardcontainer {
+    padding: 2px 16px;
+    font-size: 1vw;
+    text-align: left;
+}
+
+.cardrow{
+    float:right; 
+    width:63%
+}
+
+.cardtable{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.cardcell{
+    padding-left: 2vw;
+}
+
+.postismirimage{
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.cardimage{
+    width:100%;
+}
+
+.institutetable{
+    padding-top: 2vh;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 80%;
+    padding-bottom: 2vh;
+}
+
+.institutetable tr, td{
+    /* padding-left: 1vw;
+    padding-right: 1vw; */
+    /* width: 10%; */
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 16%;
+    overflow: hidden;
+    /* border: 2px solid red; */
+}
+
+.footer-wrapper {
+    width: 8em;
+    height: auto;
+}
+
+.small-footer-wrapper {
+    width: 10em;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .footer-wrapper{
+        width: 2em;
+        height: auto;
+    }
+
+    .small-footer-wrapper{
+        width: 2em;
+        height: auto;
+    }
+
+    .institutetable{
+        width: 20%;
     }
 }
 
