@@ -6,8 +6,8 @@ const TopNav = () => {
   return (
     <div>
       <div class="navbar bg-[#E9ECEF]">
-        <div class="navbar-start">
-          <div class="dropdown">
+        <div class="navbar-start text-[#d83616]">
+          <div class="dropdown text-[#d83616]">
             <label tabindex="0" class="btn btn-ghost lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -29,7 +29,7 @@ const TopNav = () => {
               class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-52"
             >
               <li tabindex="0">
-                <a class="justify-between">
+                <a class="justify-between active:bg-[#d83616]">
                   Calls
                   <svg
                     class="fill-current"
@@ -43,24 +43,24 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a>Call for Papers</a>
+                    <a className="active:bg-[#d83616]">Call for Papers</a>
                   </li>
                   <li>
-                    <a>Call for Tutorials</a>
+                    <a className="active:bg-[#d83616]">Call for Tutorials</a>
                   </li>
                   <li>
-                    <a>Call for Sponsorships</a>
+                    <a className="active:bg-[#d83616]">Call for Sponsorships</a>
                   </li>
                   <li>
-                    <a>Call for Late-Breaking Demo</a>
+                    <a className="active:bg-[#d83616]">Call for Late-Breaking Demo</a>
                   </li>
                   <li>
-                    <a>Call for Music</a>
+                    <a className="active:bg-[#d83616]">Call for Music</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between">
+                <a class="justify-between active:bg-[#d83616]">
                   Program
                   <svg
                     class="fill-current"
@@ -74,18 +74,18 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <Link to="/programs/keynotes">Keynote Speakers</Link>
+                    <Link to="/programs/keynotes" className="active:bg-[#d83616]">Keynote Speakers</Link>
                   </li>
                   <li>
-                    <a>Tutorials</a>
+                    <a className="active:bg-[#d83616]">Tutorials</a>
                   </li>
                   <li>
-                    <a>Satellite Events</a>
+                    <a className="active:bg-[#d83616]">Satellite Events</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between">
+                <a class="justify-between active:bg-[#d83616]">
                   Attend
                   <svg
                     class="fill-current"
@@ -99,30 +99,30 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a>Registration</a>
+                    <a className="active:bg-[#d83616]">Registration</a>
                   </li>
                   <li>
-                    <a>Financial Support</a>
+                    <a className="active:bg-[#d83616]">Financial Support</a>
                   </li>
                   <li>
-                    <a>Venue</a>
+                    <a className="active:bg-[#d83616]">Venue</a>
                   </li>
                   <li>
-                    <a>Travel</a>
+                    <a className="active:bg-[#d83616]">Travel</a>
                   </li>
                   <li>
-                    <a>Explore</a>
+                    <a className="active:bg-[#d83616]">Explore</a>
                   </li>
                   <li>
-                    <a>Code of Conduct</a>
+                    <a className="active:bg-[#d83616]">Code of Conduct</a>
                   </li>
                 </ul>
               </li>
               <li>
-                <a>Sponsors</a>
+                <a className="active:bg-[#d83616]">Sponsors</a>
               </li>
               <li tabindex="0">
-                <a class="justify-between">
+                <a class="justify-between active:bg-[#d83616]">
                   Diversity & Inclusion
                   <svg
                     class="fill-current"
@@ -136,15 +136,15 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a>New-to-ISMIR Mentoring</a>
+                    <a className="active:bg-[#d83616]">New-to-ISMIR Mentoring</a>
                   </li>
                   <li>
-                    <a>WiMIR</a>
+                    <a className="active:bg-[#d83616]">WiMIR</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between">
+                <a class="justify-between active:bg-[#d83616]">
                   About
                   <svg
                     class="fill-current"
@@ -158,12 +158,12 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a>Organizing Team</a>
+                    <a className="active:bg-[#d83616]">Organizing Team</a>
                   </li>
                 </ul>
               </li>
               <li>
-                <a>Contact</a>
+                <a className="active:bg-[#d83616]">Contact</a>
               </li>
             </ul>
           </div>
@@ -177,10 +177,10 @@ const TopNav = () => {
             />
           </Link>
         </div>
-        <div class="navbar-center hidden lg:flex">
+        <div class="navbar-center hidden lg:flex text-[#d83616]">
           <ul class="menu menu-horizontal p-0">
-            <li tabindex="0">
-              <a>
+            <li tabindex="0 ">
+              <a className="active:bg-[#d83616]">
                 Calls
                 <svg
                   class="fill-current"
@@ -192,26 +192,26 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg">
+              <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a>Call for Papers</a>
+                  <a className="active:bg-[#d83616]">Call for Papers</a>
                 </li>
                 <li>
-                  <a>Call for Tutorials</a>
+                  <a className="active:bg-[#d83616]">Call for Tutorials</a>
                 </li>
                 <li>
-                  <a>Call for Sponsorships</a>
+                  <a className="active:bg-[#d83616]">Call for Sponsorships</a>
                 </li>
                 <li>
-                  <a>Call for Late-Breaking Demo</a>
+                  <a className="active:bg-[#d83616]">Call for Late-Breaking Demo</a>
                 </li>
                 <li>
-                  <a>Call for Music</a>
+                  <a className="active:bg-[#d83616]">Call for Music</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a>
+              <a className="active:bg-[#d83616]">
                 Program
                 <svg
                   class="fill-current"
@@ -223,21 +223,21 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg">
-                <li>
-                  <Link to="/programs/keynotes">Keynote Speakers</Link>
+              <ul class="p-2 bg-white shadow-lg z-10">
+                <li >
+                  <Link to="/programs/keynotes" className="active:bg-[#d83616]">Keynote Speakers</Link>
                   
                 </li>
                 <li>
-                  <a>Tutorials</a>
+                  <a className="active:bg-[#d83616]">Tutorials</a>
                 </li>
                 <li>
-                  <a>Satellite Events</a>
+                  <a className="active:bg-[#d83616]">Satellite Events</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a>
+              <a className="active:bg-[#d83616]">
                 Attend
                 <svg
                   class="fill-current"
@@ -249,32 +249,32 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg">
+              <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a>Registration</a>
+                  <a className="active:bg-[#d83616]">Registration</a>
                 </li>
                 <li>
-                  <a>Financial Support</a>
+                  <a className="active:bg-[#d83616]">Financial Support</a>
                 </li>
                 <li>
-                  <a>Venue</a>
+                  <a className="active:bg-[#d83616]">Venue</a>
                 </li>
                 <li>
-                  <a>Travel</a>
+                  <a className="active:bg-[#d83616]">Travel</a>
                 </li>
                 <li>
                   <a>Explore</a>
                 </li>
                 <li>
-                  <a>Code of Conduct</a>
+                  <a className="active:bg-[#d83616]">Code of Conduct</a>
                 </li>
               </ul>
             </li>
             <li>
-              <a>Sponsors</a>
+              <a className="active:bg-[#d83616]">Sponsors</a>
             </li>
             <li tabindex="0">
-              <a>
+              <a className="active:bg-[#d83616]">
                 Diversity & Inclusion
                 <svg
                   class="fill-current"
@@ -286,17 +286,17 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg">
+              <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a>New-to-ISMIR Mentoring</a>
+                  <a className="active:bg-[#d83616]">New-to-ISMIR Mentoring</a>
                 </li>
                 <li>
-                  <a>WiMIR</a>
+                  <a className="active:bg-[#d83616]">WiMIR</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a>
+              <a className="active:bg-[#d83616]">
                 About
                 <svg
                   class="fill-current"
@@ -308,31 +308,21 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg">
+              <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a>Organizing Team</a>
+                  <a className="active:bg-[#d83616]">Organizing Team</a>
                 </li>
                 <li>
-                  <a>Contact</a>
+                  <a className="active:bg-[#d83616]">Contact</a>
                 </li>
               </ul>
             </li>
             <li>
-              <a>Contact</a>
+              <a className="active:bg-[#d83616]">Contact</a>
             </li>
           </ul>
         </div>
       </div>
-      {/* <a className="w-40 h-20">
-        <StaticImage src="../images/ismir2022logo.png" alt="ismirlogo"/>
-      </a>
-      <div><button>Calls</button></div>
-      <div><button>Program</button></div>
-      <div><button>Attend</button></div>
-      <div><button>Sponsors</button></div>
-      <div><button>Diversity & Inclusion</button></div>
-      <div><button>About</button></div>
-      <div><button>Contact</button></div> */}
     </div>
   );
 };

@@ -10,7 +10,6 @@ const Twitter = () => {
         data-width="500"
         data-height="550"
       >
-        Tweets by ISMIRConf
       </a>{" "}
       <Script
         async
