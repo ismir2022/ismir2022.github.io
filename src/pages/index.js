@@ -11,7 +11,7 @@ const IndexPage = () => {
   return (
     <Layout>
       
-      <div className="flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-20">
+      <div className="flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-10 text-center md:text-left">
         <MainContent />
         <Highlights />
         <h3 className="text-black text-3xl">Important Dates (AoE)</h3>

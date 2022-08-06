@@ -5,7 +5,6 @@ const Index = () => {
   return (
     <div className="bg-[#E9ECEF] h-screen">
         <TopNav/>
-      <div className="flex flex-col space-y-5 mx-20 "></div>
     </div>
   )
 }

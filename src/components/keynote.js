@@ -4,10 +4,10 @@ import React from "react";
 const Keynote = () => {
   return (
     <div className="space-y-20">
-      <h1 className="text-[#d83616] text-extrabold text-5xl mt-5">
+      <h1 className="text-[#d83616] font-bold md:text-5xl text-4xl mt-5">
         Keynote Speakers
       </h1>
-      <div className="md:grid md:grid-col-4 space-x-12">
+      <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
           <StaticImage
             src="../images/TMKrishna.jpg"
@@ -18,8 +18,8 @@ const Keynote = () => {
           />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-3xl">TM Krishna</p>
-          <p className="text-2xl">Karnatik Musician, Author & Activist</p>
+          <p className="text-[#d83616] text-3xl font-bold">TM Krishna</p>
+          <p className="text-2xl font-bold italic">Karnatik Musician, Author & Activist</p>
           <p className="text-2xl">
             TM Krishna is one of the pre-eminent vocalists in the rigorous
             Karnatik tradition of India’s classical music. As a public
@@ -44,15 +44,15 @@ const Keynote = () => {
           <p className="text-2xl">The title and an abstract of the keynote will be added soon.</p>
         </div>
       </div>
-      <div className="md:grid md:grid-col-4 space-x-12">
+      <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center">
           <StaticImage src="../images/richa_singh.jpg" 
             height={192}
             width={192}/>
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-3xl">Richa Singh</p>
-          <p className="text-2xl">
+          <p className="text-[#d83616] text-3xl font-bold">Richa Singh</p>
+          <p className="text-2xl font-bold italic">
             Professor and Head, Dept. of Computer Science and Engineering Indian
             Institute of Technology Jodhpur
           </p>

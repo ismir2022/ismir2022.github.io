@@ -26,10 +26,10 @@ const TopNav = () => {
             </label>
             <ul
               tabindex="0"
-              class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-52"
+              class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
             >
               <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616]">
+                <a class="justify-between active:bg-[#d83616] text-xl">
                   Calls
                   <svg
                     class="fill-current"
@@ -43,24 +43,24 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a className="active:bg-[#d83616]">Call for Papers</a>
+                    <a className="active:bg-[#d83616] text-xl">Call for Papers</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Call for Tutorials</a>
+                    <a className="active:bg-[#d83616] text-xl">Call for Tutorials</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Call for Sponsorships</a>
+                    <a className="active:bg-[#d83616] text-xl">Call for Sponsorships</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Call for Late-Breaking Demo</a>
+                    <a className="active:bg-[#d83616] text-xl">Call for Late-Breaking Demo</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Call for Music</a>
+                    <a className="active:bg-[#d83616] text-xl">Call for Music</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616]">
+                <a class="justify-between active:bg-[#d83616] text-xl">
                   Program
                   <svg
                     class="fill-current"
@@ -74,18 +74,18 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <Link to="/programs/keynotes" className="active:bg-[#d83616]">Keynote Speakers</Link>
+                    <Link to="/programs/keynotes" className="active:bg-[#d83616] text-xl">Keynote Speakers</Link>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Tutorials</a>
+                    <a className="active:bg-[#d83616] text-xl">Tutorials</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Satellite Events</a>
+                    <a className="active:bg-[#d83616] text-xl">Satellite Events</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616]">
+                <a class="justify-between active:bg-[#d83616] text-xl">
                   Attend
                   <svg
                     class="fill-current"
@@ -99,30 +99,30 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a className="active:bg-[#d83616]">Registration</a>
+                    <a className="active:bg-[#d83616] text-xl">Registration</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Financial Support</a>
+                    <a className="active:bg-[#d83616] text-xl">Financial Support</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Venue</a>
+                    <a className="active:bg-[#d83616] text-xl">Venue</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Travel</a>
+                    <a className="active:bg-[#d83616] text-xl">Travel</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Explore</a>
+                    <a className="active:bg-[#d83616] text-xl">Explore</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">Code of Conduct</a>
+                    <a className="active:bg-[#d83616] text-xl">Code of Conduct</a>
                   </li>
                 </ul>
               </li>
               <li>
-                <a className="active:bg-[#d83616]">Sponsors</a>
+                <a className="active:bg-[#d83616] text-xl">Sponsors</a>
               </li>
               <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616]">
+                <a class="justify-between active:bg-[#d83616] text-xl">
                   Diversity & Inclusion
                   <svg
                     class="fill-current"
@@ -136,15 +136,15 @@ const TopNav = () => {
                 </a>
                 <ul class="p-2 bg-white shadow-lg">
                   <li>
-                    <a className="active:bg-[#d83616]">New-to-ISMIR Mentoring</a>
+                    <a className="active:bg-[#d83616] text-xl">New-to-ISMIR Mentoring</a>
                   </li>
                   <li>
-                    <a className="active:bg-[#d83616]">WiMIR</a>
+                    <a className="active:bg-[#d83616] text-xl">WiMIR</a>
                   </li>
                 </ul>
               </li>
               <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616]">
+                <a class="justify-between active:bg-[#d83616] text-xl">
                   About
                   <svg
                     class="fill-current"
@@ -156,14 +156,14 @@ const TopNav = () => {
                     <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
                   </svg>
                 </a>
-                <ul class="p-2 bg-white shadow-lg">
+                <ul class="p-2 bg-white shadow-lg text-xl">
                   <li>
-                    <a className="active:bg-[#d83616]">Organizing Team</a>
+                    <a className="active:bg-[#d83616] text-xl">Organizing Team</a>
                   </li>
                 </ul>
               </li>
               <li>
-                <a className="active:bg-[#d83616]">Contact</a>
+                <a className="active:bg-[#d83616] text-xl">Contact</a>
               </li>
             </ul>
           </div>
@@ -180,7 +180,7 @@ const TopNav = () => {
         <div class="navbar-center hidden lg:flex text-[#d83616]">
           <ul class="menu menu-horizontal p-0">
             <li tabindex="0 ">
-              <a className="active:bg-[#d83616]">
+              <a className="active:bg-[#d83616] text-2xl">
                 Calls
                 <svg
                   class="fill-current"
@@ -194,24 +194,24 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616]">Call for Papers</a>
+                  <a className="active:bg-[#d83616] text-2xl">Call for Papers</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Call for Tutorials</a>
+                  <a className="active:bg-[#d83616] text-2xl">Call for Tutorials</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Call for Sponsorships</a>
+                  <a className="active:bg-[#d83616] text-2xl">Call for Sponsorships</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Call for Late-Breaking Demo</a>
+                  <a className="active:bg-[#d83616] text-2xl">Call for Late-Breaking Demo</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Call for Music</a>
+                  <a className="active:bg-[#d83616] text-2xl">Call for Music</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a className="active:bg-[#d83616]">
+              <a className="active:bg-[#d83616] text-2xl">
                 Program
                 <svg
                   class="fill-current"
@@ -225,19 +225,19 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li >
-                  <Link to="/programs/keynotes" className="active:bg-[#d83616]">Keynote Speakers</Link>
+                  <Link to="/programs/keynotes" className="active:bg-[#d83616] text-2xl">Keynote Speakers</Link>
                   
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Tutorials</a>
+                  <a className="active:bg-[#d83616] text-2xl">Tutorials</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Satellite Events</a>
+                  <a className="active:bg-[#d83616] text-2xl">Satellite Events</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a className="active:bg-[#d83616]">
+              <a className="active:bg-[#d83616] text-2xl">
                 Attend
                 <svg
                   class="fill-current"
@@ -251,30 +251,30 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616]">Registration</a>
+                  <a className="active:bg-[#d83616] text-2xl">Registration</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Financial Support</a>
+                  <a className="active:bg-[#d83616] text-2xl">Financial Support</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Venue</a>
+                  <a className="active:bg-[#d83616] text-2xl">Venue</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Travel</a>
+                  <a className="active:bg-[#d83616] text-2xl">Travel</a>
                 </li>
                 <li>
                   <a>Explore</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Code of Conduct</a>
+                  <a className="active:bg-[#d83616] text-2xl">Code of Conduct</a>
                 </li>
               </ul>
             </li>
             <li>
-              <a className="active:bg-[#d83616]">Sponsors</a>
+              <a className="active:bg-[#d83616] text-2xl">Sponsors</a>
             </li>
             <li tabindex="0">
-              <a className="active:bg-[#d83616]">
+              <a className="active:bg-[#d83616] text-2xl">
                 Diversity & Inclusion
                 <svg
                   class="fill-current"
@@ -288,15 +288,15 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616]">New-to-ISMIR Mentoring</a>
+                  <a className="active:bg-[#d83616] text-2xl">New-to-ISMIR Mentoring</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">WiMIR</a>
+                  <a className="active:bg-[#d83616] text-2xl">WiMIR</a>
                 </li>
               </ul>
             </li>
             <li tabindex="0">
-              <a className="active:bg-[#d83616]">
+              <a className="active:bg-[#d83616] text-2xl">
                 About
                 <svg
                   class="fill-current"
@@ -310,15 +310,15 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616]">Organizing Team</a>
+                  <a className="active:bg-[#d83616] text-2xl">Organizing Team</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616]">Contact</a>
+                  <a className="active:bg-[#d83616] text-2xl">Contact</a>
                 </li>
               </ul>
             </li>
             <li>
-              <a className="active:bg-[#d83616]">Contact</a>
+              <a className="active:bg-[#d83616] text-2xl">Contact</a>
             </li>
           </ul>
         </div>

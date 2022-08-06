@@ -5,7 +5,7 @@ import { StaticImage } from "gatsby-plugin-image";
 const Footer = () => {
   return (
     <div className="flex flex-col gap-8 pb-3 ">
-      <div className="md:flex md:flex-row md:space-x-20 place-self-center space-y-10 md:space-y-0 justify-center items-center">
+      <div className="flex flex-row md:space-x-20 place-self-center space-x-5 place-items-evenly md:px-10 space-y-0 justify-center items-center">
         <div>
           <StaticImage
             src="../images/footer/iitb.png"
@@ -50,7 +50,7 @@ const Footer = () => {
           />
         </div>
       </div>
-      <div className="flex flex-row space-x-5 md:space-x-20 items-center justify-center ">
+      <div className="flex flex-row place-content-evenly">
         <a
           target="_blank"
           href="https://www.facebook.com/ISMIRConf"
