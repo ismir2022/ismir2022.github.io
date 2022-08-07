@@ -1,6 +1,6 @@
 import { StaticImage } from "gatsby-plugin-image";
 import * as React from "react";
-import {Link} from 'gatsby'
+import { Link } from "gatsby";
 
 const TopNav = () => {
   return (
@@ -26,154 +26,142 @@ const TopNav = () => {
             </label>
             <ul
               tabindex="0"
-              class="menu menu-compact dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
+              class="dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
             >
-              <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616] text-xl">
-                  Calls
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
-                  </svg>
-                </a>
-                <ul class="p-2 bg-white shadow-lg">
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Call for Papers</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Call for Tutorials</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Call for Sponsorships</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Call for Late-Breaking Demo</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Call for Music</a>
-                  </li>
-                </ul>
+              <li tabindex="0" className="collapse collapse-arrow">
+                <input type="checkbox" />
+                <div class="collapse-title text-xl font-medium">Calls</div>
+                <div class="collapse-content pr-0">
+                  <ul class="bg-white ">
+                    <li>
+                      <a className="active:bg-none  text-xl">
+                        Call for Papers
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none  text-xl">
+                        Call for Tutorials
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none  text-xl">
+                        Call for Sponsorships
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none  text-xl">
+                        Call for Late-Breaking Demo
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none  text-xl">
+                        Call for Music
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
-              <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616] text-xl">
-                  Program
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
-                  </svg>
-                </a>
-                <ul class="p-2 bg-white shadow-lg">
-                  <li>
-                    <Link to="/programs/keynotes" className="active:bg-[#d83616] text-xl">Keynote Speakers</Link>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Tutorials</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Satellite Events</a>
-                  </li>
-                </ul>
+              <li tabindex="0" className="collapse collapse-arrow">
+                <input type="checkbox" />
+                <div class="collapse-title text-xl font-medium">Program</div>
+                <div className="collapse-content">
+                  <ul class="bg-white">
+                    <li>
+                      <Link
+                        to="/programs/keynotes"
+                        className="active:bg-none text-xl"
+                      >
+                        Keynote Speakers
+                      </Link>
+                    </li>
+                    <li>
+                      <a className="active:bg-none text-xl">Tutorials</a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none text-xl">
+                        Satellite Events
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
-              <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616] text-xl">
-                  Attend
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
-                  </svg>
-                </a>
-                <ul class="p-2 bg-white shadow-lg">
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Registration</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Financial Support</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Venue</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Travel</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Explore</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Code of Conduct</a>
-                  </li>
-                </ul>
+              <li tabindex="0" className="collapse collapse-arrow">
+                <input type="checkbox" />
+                <div class="collapse-title text-xl font-medium">Attend</div>
+                <div className="collapse-content">
+                  <ul class="bg-white">
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">
+                        Registration
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">
+                        Financial Support
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">Venue</a>
+                    </li>
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">Travel</a>
+                    </li>
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">Explore</a>
+                    </li>
+                    <li>
+                      <a className="active:bg-[#d83616] text-xl">
+                        Code of Conduct
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
-              <li>
-                <a className="active:bg-[#d83616] text-xl">Sponsors</a>
+              <li tabindex="0" className="collapse">
+                <a className=" text-xl collapse-title font-medium">Sponsors</a>
               </li>
-              <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616] text-xl">
+              <li tabindex="0" className="collapse collapse-arrow">
+                <input type="checkbox" />
+                <div class="collapse-title text-xl font-medium">
                   Diversity & Inclusion
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
-                  </svg>
-                </a>
-                <ul class="p-2 bg-white shadow-lg">
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">New-to-ISMIR Mentoring</a>
-                  </li>
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">WiMIR</a>
-                  </li>
-                </ul>
+                </div>
+                <div className="collapse-content">
+                  <ul class="bg-white">
+                    <li>
+                      <a className="active:bg-none text-xl">
+                        New-to-ISMIR Mentoring
+                      </a>
+                    </li>
+                    <li>
+                      <a className="active:bg-none text-xl">WiMIR</a>
+                    </li>
+                  </ul>
+                </div>
               </li>
-              <li tabindex="0">
-                <a class="justify-between active:bg-[#d83616] text-xl">
-                  About
-                  <svg
-                    class="fill-current"
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
-                  </svg>
-                </a>
-                <ul class="p-2 bg-white shadow-lg text-xl">
-                  <li>
-                    <a className="active:bg-[#d83616] text-xl">Organizing Team</a>
-                  </li>
-                </ul>
+              <li tabindex="0" className="collapse collapse-arrow">
+                <input type="checkbox" />
+                <div class="collapse-title text-xl font-medium">About</div>
+                <div className="collapse-content">
+                  <ul class="bg-white">
+                    <li>
+                      <a className="active:bg-none text-xl">
+                        Organizing Team
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
-              <li>
-                <a className="active:bg-[#d83616] text-xl">Contact</a>
+              <li tabindex="0" className="collapse">
+                <a className="text-xl collapse-title font-medium">Contact</a>
               </li>
             </ul>
           </div>
-          <Link to="/"  class="btn btn-ghost h-max items-center lg:ml-5">
+          <Link to="/" class="btn btn-ghost h-max items-center lg:ml-5">
             <StaticImage
               src="../images/ismir2022logo.png"
               alt="ismirlogo"
               objectFit="contain"
               width={120}
-              
             />
           </Link>
         </div>
@@ -194,16 +182,24 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Call for Papers</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Call for Papers
+                  </a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Call for Tutorials</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Call for Tutorials
+                  </a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Call for Sponsorships</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Call for Sponsorships
+                  </a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Call for Late-Breaking Demo</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Call for Late-Breaking Demo
+                  </a>
                 </li>
                 <li>
                   <a className="active:bg-[#d83616] text-2xl">Call for Music</a>
@@ -224,15 +220,21 @@ const TopNav = () => {
                 </svg>
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
-                <li >
-                  <Link to="/programs/keynotes" className="active:bg-[#d83616] text-2xl">Keynote Speakers</Link>
-                  
+                <li>
+                  <Link
+                    to="/programs/keynotes"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
+                    Keynote Speakers
+                  </Link>
                 </li>
                 <li>
                   <a className="active:bg-[#d83616] text-2xl">Tutorials</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Satellite Events</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Satellite Events
+                  </a>
                 </li>
               </ul>
             </li>
@@ -254,7 +256,9 @@ const TopNav = () => {
                   <a className="active:bg-[#d83616] text-2xl">Registration</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Financial Support</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Financial Support
+                  </a>
                 </li>
                 <li>
                   <a className="active:bg-[#d83616] text-2xl">Venue</a>
@@ -263,10 +267,12 @@ const TopNav = () => {
                   <a className="active:bg-[#d83616] text-2xl">Travel</a>
                 </li>
                 <li>
-                  <a>Explore</a>
+                  <a className="active:bg-[#d83616] text-2xl">Explore</a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Code of Conduct</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Code of Conduct
+                  </a>
                 </li>
               </ul>
             </li>
@@ -288,7 +294,9 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">New-to-ISMIR Mentoring</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    New-to-ISMIR Mentoring
+                  </a>
                 </li>
                 <li>
                   <a className="active:bg-[#d83616] text-2xl">WiMIR</a>
@@ -310,7 +318,9 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Organizing Team</a>
+                  <a className="active:bg-[#d83616] text-2xl">
+                    Organizing Team
+                  </a>
                 </li>
                 <li>
                   <a className="active:bg-[#d83616] text-2xl">Contact</a>

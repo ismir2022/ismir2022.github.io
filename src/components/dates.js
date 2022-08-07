@@ -5,7 +5,7 @@ const Dates = () => {
     <div className="flex flex-col gap-5">
       <div className="bg-white px-5 w-fit md:px10 py-5 space-y-5">
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Registration</h3>
+          <h3 className="text-2xl font-bold  text-[#d83616]">Registration</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword line-through">Registration portal opens</p>
@@ -34,7 +34,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Grants</h3>
+          <h3 className="text-2xl font-bold  text-[#d83616]">Grants</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">Grant applications for registration waivers open</p>
@@ -59,7 +59,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Papers</h3>
+          <h3 className="text-2xl font-bold text-[#d83616]">Papers</h3>
           <div className="flex flex-col space-y-5 place-content-evenly">
             <div className="flex flex-row space-x-5 ">
               <p className="w-1/2 breakword  line-through">Submission site opening</p>
@@ -84,7 +84,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Music Program</h3>
+          <h3 className="text-2xl font-bold text-[#d83616]">Music Program</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword line-through">First Call for Music</p>
@@ -109,7 +109,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Tutorials</h3>
+          <h3 className="text-2xl font-bold  text-[#d83616]">Tutorials</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword line-through">Proposal Submission</p>
@@ -126,7 +126,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">Late-Breaking Demo</h3>
+          <h3 className="text-2xl font-bold  text-[#d83616]">Late-Breaking Demo</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">LBD Submission Deadline</p>
@@ -135,7 +135,7 @@ const Dates = () => {
           </div>
         </div>
         <div className="space-y-3 place-content-evenly"> 
-          <h3 className="text-2xl text-[#d83616]">New-to-ISMIR Mentoring Program</h3>
+          <h3 className="text-2xl font-bold  text-[#d83616]">New-to-ISMIR Mentoring Program</h3>
           <div className="flex flex-col space-y-5">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword line-through">Deadline for applying to mentorship program</p>

@@ -4,7 +4,7 @@ import React from "react";
 const Keynote = () => {
   return (
     <div className="space-y-20">
-      <h1 className="text-[#d83616] font-bold md:text-5xl text-4xl mt-5">
+      <h1 className="text-[#d83616] font-bold md:text-5xl text-3xl mt-5">
         Keynote Speakers
       </h1>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
@@ -20,7 +20,7 @@ const Keynote = () => {
         <div className="col-start-3 col-end-5 space-y-5">
           <p className="text-[#d83616] text-3xl font-bold">TM Krishna</p>
           <p className="text-2xl font-bold italic">Karnatik Musician, Author & Activist</p>
-          <p className="text-2xl">
+          <p className="text-xl md:text-2xl text-left">
             TM Krishna is one of the pre-eminent vocalists in the rigorous
             Karnatik tradition of India’s classical music. As a public
             intellectual, Krishna speaks and writes about issues affecting the
@@ -41,7 +41,7 @@ const Keynote = () => {
             collaborations that are unique and unusual aesthetic conversations
             between art forms and communities across social spectrums.
           </p>
-          <p className="text-2xl">The title and an abstract of the keynote will be added soon.</p>
+          <p className="text-xl md:text-2xl text-left">The title and an abstract of the keynote will be added soon.</p>
         </div>
       </div>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
@@ -56,7 +56,7 @@ const Keynote = () => {
             Professor and Head, Dept. of Computer Science and Engineering Indian
             Institute of Technology Jodhpur
           </p>
-          <p className="text-2xl">
+          <p className="text-xl md:text-2xl text-left">
             Richa Singh received her Ph.D. degree in computer science from West
             Virginia University, Morgantown, USA, in 2008. She is currently a
             Professor and Head at Department of CSE, IIT-Jodhpur, and an Adjunct
@@ -77,7 +77,7 @@ const Keynote = () => {
             Council and an Associate Editor-in-Chief of Pattern Recognition, and
             Area/Associate Editor of several journals.
           </p>
-          <p className="text-2xl">The title and an abstract of the keynote will be added soon.</p>
+          <p className="text-xl md:text-2xl text-left">The title and an abstract of the keynote will be added soon.</p>
         </div>
       </div>
     </div>
