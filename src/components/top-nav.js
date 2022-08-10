@@ -28,31 +28,47 @@ const TopNav = () => {
               tabindex="0"
               class="dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
             >
-              <li tabindex="0" className="collapse collapse-arrow">
+              <li tabindex="0" className="collapse collapse-arrow focus:text-black">
                 <input type="checkbox" />
-                <div class="collapse-title text-xl font-medium">Calls</div>
+                <div class="collapse-title text-xl font-medium ">Calls</div>
                 <div class="collapse-content pr-0">
-                  <ul class="bg-white ">
+                  <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <a className="active:bg-none  text-xl">Call for Papers</a>
+                      <Link
+                        to="/calls/papers"
+                        className="active:bg-none text-xl"
+                      >
+                        Call for Papers
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none  text-xl">
+                      <Link
+                        to="/calls/tutorials"
+                        className="active:bg-none text-xl"
+                      >
                         Call for Tutorials
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none  text-xl">
+                      <Link
+                        to="/calls/sponsorships"
+                        className="active:bg-none text-xl"
+                      >
                         Call for Sponsorships
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none  text-xl">
+                      <Link to="/calls/lbd" className="active:bg-none text-xl">
                         Call for Late-Breaking Demo
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none  text-xl">Call for Music</a>
+                      <Link
+                        to="/calls/music"
+                        className="active:bg-none text-xl"
+                      >
+                        Call for Music
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -61,7 +77,7 @@ const TopNav = () => {
                 <input type="checkbox" />
                 <div class="collapse-title text-xl font-medium">Program</div>
                 <div className="collapse-content">
-                  <ul class="bg-white">
+                  <ul class="bg-white text-[#ff7a7a]">
                     <li>
                       <Link
                         to="/programs/keynotes"
@@ -71,10 +87,20 @@ const TopNav = () => {
                       </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none text-xl">Tutorials</a>
+                      <Link
+                        to="/programs/tutorials"
+                        className="active:bg-none text-xl"
+                      >
+                        Tutorials
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none text-xl">Satellite Events</a>
+                      <Link
+                        to="/programs/satellites"
+                        className="active:bg-none text-xl"
+                      >
+                        Satellite Events
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -83,36 +109,65 @@ const TopNav = () => {
                 <input type="checkbox" />
                 <div class="collapse-title text-xl font-medium">Attend</div>
                 <div className="collapse-content">
-                  <ul class="bg-white">
+                  <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">
+                      <Link
+                        to="/attend/registration"
+                        className="active:bg-none text-xl"
+                      >
                         Registration
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">
+                      <Link
+                        to="/attend/financialsupport"
+                        className="active:bg-none text-xl"
+                      >
                         Financial Support
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">Venue</a>
+                      <Link
+                        to="/attend/venue"
+                        className="active:bg-none text-xl"
+                      >
+                        Venue
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">Travel</a>
+                      <Link
+                        to="/attend/travel"
+                        className="active:bg-none text-xl"
+                      >
+                        Travel
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">Explore</a>
+                      <Link
+                        to="/attend/explore"
+                        className="active:bg-none text-xl"
+                      >
+                        Explore
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-[#d83616] text-xl">
+                      <Link
+                        to="/attend/codeofconduct"
+                        className="active:bg-none text-xl"
+                      >
                         Code of Conduct
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
               </li>
               <li tabindex="0" className="collapse">
-                <a className=" text-xl collapse-title font-medium">Sponsors</a>
+                <Link
+                  to="/attend/codeofconduct"
+                  className="text-xl collapse-title font-medium"
+                >
+                  Sponsors
+                </Link>
               </li>
               <li tabindex="0" className="collapse collapse-arrow">
                 <input type="checkbox" />
@@ -120,14 +175,22 @@ const TopNav = () => {
                   Diversity & Inclusion
                 </div>
                 <div className="collapse-content">
-                  <ul class="bg-white">
+                  <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <a className="active:bg-none text-xl">
+                      <Link
+                        to="/diversity/mentoring"
+                        className="active:bg-none text-xl"
+                      >
                         New-to-ISMIR Mentoring
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="active:bg-none text-xl">WiMIR</a>
+                      <Link
+                        to="/diversity/wimir"
+                        className="active:bg-none text-xl"
+                      >
+                        WiMIR
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -136,20 +199,22 @@ const TopNav = () => {
                 <input type="checkbox" />
                 <div class="collapse-title text-xl font-medium">About</div>
                 <div className="collapse-content">
-                  <ul class="bg-white">
+                  <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <a className="active:bg-none text-xl">Organizing Team</a>
+                      <Link to="/about/team" className="active:bg-none text-xl">
+                        Organizing Team
+                      </Link>
                     </li>
                   </ul>
                 </div>
               </li>
               <li tabindex="0" className="collapse">
                 <Link
-                        to="/contact"
-                        className="text-xl collapse-title font-medium"
-                      >
-                        Contact
-                      </Link>
+                  to="/contact"
+                  className="text-xl collapse-title font-medium"
+                >
+                  Contact
+                </Link>
               </li>
             </ul>
           </div>
@@ -178,29 +243,34 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg z-10">
+              <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link to="/calls/papers" className="active:bg-none text-2xl">
                     Call for Papers
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link to="/calls/papers" className="active:bg-none text-2xl">
                     Call for Tutorials
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/calls/sponsorships"
+                    className="active:bg-none text-2xl"
+                  >
                     Call for Sponsorships
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link to="/calls/lbd" className="active:bg-none text-2xl">
                     Call for Late-Breaking Demo
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Call for Music</a>
+                  <Link to="/calls/music" className="active:bg-none text-2xl">
+                    Call for for Music
+                  </Link>
                 </li>
               </ul>
             </li>
@@ -217,7 +287,7 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg z-10">
+              <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
                   <Link
                     to="/programs/keynotes"
@@ -227,12 +297,20 @@ const TopNav = () => {
                   </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Tutorials</a>
+                  <Link
+                    to="/programs/tutorials"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
+                    Tutorials
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/programs/satellites"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Satellite Events
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </li>
@@ -249,33 +327,58 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg z-10">
+              <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Registration</a>
+                  <Link
+                    to="/attend/registration"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
+                    Registration
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/attend/financialsupport"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Financial Support
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Venue</a>
+                  <Link to="/attend/venue" className="active:bg-[#d83616] text-2xl">
+                    Venue
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Travel</a>
+                  <Link to="/attend/travel" className="active:bg-[#d83616] text-2xl">
+                    Travel
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Explore</a>
+                  <Link
+                    to="/attend/explore"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
+                    Explore
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/attend/codeofconduct"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Code of Conduct
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </li>
             <li>
-              <a className="active:bg-[#d83616] text-2xl">Sponsors</a>
+              <Link
+                to="/attend/codeofconduct"
+                className="text-2xl active:bg-[#d83616] text-2xl collapse-title"
+              >
+                Sponsors
+              </Link>
             </li>
             <li tabindex="0">
               <a className="active:bg-[#d83616] text-2xl">
@@ -290,14 +393,22 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg z-10">
+              <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/diversity/mentoring"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     New-to-ISMIR Mentoring
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">WiMIR</a>
+                  <Link
+                    to="/diversity/wimir"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
+                    WiMIR
+                  </Link>
                 </li>
               </ul>
             </li>
@@ -314,21 +425,18 @@ const TopNav = () => {
                   <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
                 </svg>
               </a>
-              <ul class="p-2 bg-white shadow-lg z-10">
+              <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">
+                  <Link to="/about/team" className="active:bg-[#d83616] text-2xl">
                     Organizing Team
-                  </a>
-                </li>
-                <li>
-                  <Link to="/contact" className="active:bg-[#d83616] text-2xl">
-                    Contact
                   </Link>
                 </li>
               </ul>
             </li>
             <li>
-              <a className="active:bg-[#d83616] text-2xl">Contact</a>
+              <Link to="/contact" className="active:bg-[#d83616] text-2xl">
+                Contact
+              </Link>
             </li>
           </ul>
         </div>
