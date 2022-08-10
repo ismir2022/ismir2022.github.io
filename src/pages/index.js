@@ -16,7 +16,6 @@ const IndexPage = () => {
         <Highlights />
         <h3 className="font-bold text-2xl md:text-3xl md:text-left text-center">Important Dates (AoE)</h3>
         <div className="md:flex md:flex-row place-content-evenly gap-x-5 lg:gap-y-0 gap-y-5">
-          
           <Dates />
           <Twitter />
         </div>

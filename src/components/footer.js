@@ -49,13 +49,13 @@ const Footer = () => {
           />
         </div>
       </div>
-      <div className="flex flex-row place-content-evenly">
+      <div className="flex flex-row space-x-5 md:space-x-20 justify-center">
         <a
           target="_blank"
           href="https://www.facebook.com/ISMIRConf"
           rel="noreferrer"
         >
-          <FaFacebook style={{ color: "#d83616" }} size="35px" />
+          <FaFacebook style={{ color: "#d83616" }} size="30px" />
         </a>
 
         <a
@@ -63,7 +63,7 @@ const Footer = () => {
           href="https://www.instagram.com/ismir_conference"
           rel="noreferrer"
         >
-          <FaInstagram style={{ color: "#d83616" }} size="35px" />
+          <FaInstagram style={{ color: "#d83616" }} size="30px" />
         </a>
 
         <a
@@ -71,7 +71,7 @@ const Footer = () => {
           href="https://twitter.com/ISMIRConf"
           rel="noreferrer"
         >
-          <FaTwitter style={{ color: "#d83616" }} size="35px" />
+          <FaTwitter style={{ color: "#d83616" }} size="30px" />
         </a>
 
         <a
@@ -79,7 +79,7 @@ const Footer = () => {
           href="https://www.linkedin.com/company/ismir-conference"
           rel="noreferrer"
         >
-          <FaLinkedin style={{ color: "#d83616" }} size="35px" />
+          <FaLinkedin style={{ color: "#d83616" }} size="30px" />
         </a>
       </div>
       <div className="flex flex-col items-center justify-center px-5 break-word text-center">

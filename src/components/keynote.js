@@ -13,12 +13,12 @@ const Keynote = () => {
             src="../images/TMKrishna.jpg"
             alt="TMKRISHNA"
             objectFit="contain"
-            height={192}
-            width={192}
+            height={200}
+            width={200}
           />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-3xl font-bold">TM Krishna</p>
+          <p className="text-[#d83616] text-3xl font-bold"><span><a href="https://www.tmkrishna.com/">TM Krishna</a></span></p>
           <p className="text-2xl font-bold italic">Karnatik Musician, Author & Activist</p>
           <p className="text-xl md:text-2xl text-left">
             TM Krishna is one of the pre-eminent vocalists in the rigorous
@@ -47,11 +47,12 @@ const Keynote = () => {
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center">
           <StaticImage src="../images/richa_singh.jpg" 
-            height={192}
-            width={192}/>
+            height={200}
+            width={200}/>
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-3xl font-bold">Richa Singh</p>
+          <p className="text-[#d83616] text-3xl font-bold">
+            <span><a href="http://home.iitj.ac.in/~richa/">Richa Singh</a></span></p>
           <p className="text-2xl font-bold italic">
             Professor and Head, Dept. of Computer Science and Engineering Indian
             Institute of Technology Jodhpur

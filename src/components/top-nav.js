@@ -34,9 +34,7 @@ const TopNav = () => {
                 <div class="collapse-content pr-0">
                   <ul class="bg-white ">
                     <li>
-                      <a className="active:bg-none  text-xl">
-                        Call for Papers
-                      </a>
+                      <a className="active:bg-none  text-xl">Call for Papers</a>
                     </li>
                     <li>
                       <a className="active:bg-none  text-xl">
@@ -54,9 +52,7 @@ const TopNav = () => {
                       </a>
                     </li>
                     <li>
-                      <a className="active:bg-none  text-xl">
-                        Call for Music
-                      </a>
+                      <a className="active:bg-none  text-xl">Call for Music</a>
                     </li>
                   </ul>
                 </div>
@@ -78,9 +74,7 @@ const TopNav = () => {
                       <a className="active:bg-none text-xl">Tutorials</a>
                     </li>
                     <li>
-                      <a className="active:bg-none text-xl">
-                        Satellite Events
-                      </a>
+                      <a className="active:bg-none text-xl">Satellite Events</a>
                     </li>
                   </ul>
                 </div>
@@ -144,15 +138,18 @@ const TopNav = () => {
                 <div className="collapse-content">
                   <ul class="bg-white">
                     <li>
-                      <a className="active:bg-none text-xl">
-                        Organizing Team
-                      </a>
+                      <a className="active:bg-none text-xl">Organizing Team</a>
                     </li>
                   </ul>
                 </div>
               </li>
               <li tabindex="0" className="collapse">
-                <a className="text-xl collapse-title font-medium">Contact</a>
+                <Link
+                        to="/contact"
+                        className="text-xl collapse-title font-medium"
+                      >
+                        Contact
+                      </Link>
               </li>
             </ul>
           </div>
@@ -162,6 +159,7 @@ const TopNav = () => {
               alt="ismirlogo"
               objectFit="contain"
               width={120}
+              placeholder="blurred"
             />
           </Link>
         </div>
@@ -323,7 +321,9 @@ const TopNav = () => {
                   </a>
                 </li>
                 <li>
-                  <a className="active:bg-[#d83616] text-2xl">Contact</a>
+                  <Link to="/contact" className="active:bg-[#d83616] text-2xl">
+                    Contact
+                  </Link>
                 </li>
               </ul>
             </li>
