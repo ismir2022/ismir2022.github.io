@@ -28,45 +28,39 @@ const TopNav = () => {
               tabindex="0"
               class="dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
             >
-              <li tabindex="0" className="collapse collapse-arrow focus:text-black">
+              <li
+                tabindex="0"
+                className="collapse collapse-arrow focus:text-black"
+              >
                 <input type="checkbox" />
                 <div class="collapse-title text-xl font-medium ">Calls</div>
                 <div class="collapse-content pr-0">
                   <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <Link
-                        to="/calls/papers"
-                        className="active:bg-none text-xl"
-                      >
+                      <Link to="/calls/cfp" className="active:bg-none text-xl">
                         Call for Papers
                       </Link>
                     </li>
                     <li>
-                      <Link
-                        to="/calls/tutorials"
-                        className="active:bg-none text-xl"
-                      >
+                      <Link to="/calls/cft" className="active:bg-none text-xl">
                         Call for Tutorials
                       </Link>
                     </li>
                     <li>
-                      <Link
-                        to="/calls/sponsorships"
-                        className="active:bg-none text-xl"
-                      >
+                      <Link to="/calls/cfs" className="active:bg-none text-xl">
                         Call for Sponsorships
                       </Link>
                     </li>
                     <li>
-                      <Link to="/calls/lbd" className="active:bg-none text-xl">
+                      <Link
+                        to="/calls/cflbd"
+                        className="active:bg-none text-xl"
+                      >
                         Call for Late-Breaking Demo
                       </Link>
                     </li>
                     <li>
-                      <Link
-                        to="/calls/music"
-                        className="active:bg-none text-xl"
-                      >
+                      <Link to="/calls/cfm" className="active:bg-none text-xl">
                         Call for Music
                       </Link>
                     </li>
@@ -120,7 +114,7 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
-                        to="/attend/financialsupport"
+                        to="/attend/support"
                         className="active:bg-none text-xl"
                       >
                         Financial Support
@@ -152,7 +146,7 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
-                        to="/attend/codeofconduct"
+                        to="/codeofconduct"
                         className="active:bg-none text-xl"
                       >
                         Code of Conduct
@@ -163,7 +157,7 @@ const TopNav = () => {
               </li>
               <li tabindex="0" className="collapse">
                 <Link
-                  to="/attend/codeofconduct"
+                  to="/sponsors"
                   className="text-xl collapse-title font-medium"
                 >
                   Sponsors
@@ -201,7 +195,7 @@ const TopNav = () => {
                 <div className="collapse-content">
                   <ul class="bg-white text-[#ff7a7a]">
                     <li>
-                      <Link to="/about/team" className="active:bg-none text-xl">
+                      <Link to="/team" className="active:bg-none text-xl">
                         Organizing Team
                       </Link>
                     </li>
@@ -245,30 +239,42 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <Link to="/calls/papers" className="active:bg-none text-2xl">
+                  <Link
+                    to="/calls/cfp"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Call for Papers
                   </Link>
                 </li>
                 <li>
-                  <Link to="/calls/papers" className="active:bg-none text-2xl">
+                  <Link
+                    to="/calls/cft"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Call for Tutorials
                   </Link>
                 </li>
                 <li>
                   <Link
-                    to="/calls/sponsorships"
-                    className="active:bg-none text-2xl"
+                    to="/calls/cfs"
+                    className="active:bg-[#d83616] text-2xl"
                   >
                     Call for Sponsorships
                   </Link>
                 </li>
                 <li>
-                  <Link to="/calls/lbd" className="active:bg-none text-2xl">
+                  <Link
+                    to="/calls/cflbd"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Call for Late-Breaking Demo
                   </Link>
                 </li>
                 <li>
-                  <Link to="/calls/music" className="active:bg-none text-2xl">
+                  <Link
+                    to="/calls/cfm"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Call for for Music
                   </Link>
                 </li>
@@ -338,19 +344,25 @@ const TopNav = () => {
                 </li>
                 <li>
                   <Link
-                    to="/attend/financialsupport"
+                    to="/attend/support"
                     className="active:bg-[#d83616] text-2xl"
                   >
                     Financial Support
                   </Link>
                 </li>
                 <li>
-                  <Link to="/attend/venue" className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/attend/venue"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Venue
                   </Link>
                 </li>
                 <li>
-                  <Link to="/attend/travel" className="active:bg-[#d83616] text-2xl">
+                  <Link
+                    to="/attend/travel"
+                    className="active:bg-[#d83616] text-2xl"
+                  >
                     Travel
                   </Link>
                 </li>
@@ -364,7 +376,7 @@ const TopNav = () => {
                 </li>
                 <li>
                   <Link
-                    to="/attend/codeofconduct"
+                    to="/codeofconduct"
                     className="active:bg-[#d83616] text-2xl"
                   >
                     Code of Conduct
@@ -374,8 +386,8 @@ const TopNav = () => {
             </li>
             <li>
               <Link
-                to="/attend/codeofconduct"
-                className="text-2xl active:bg-[#d83616] text-2xl collapse-title"
+                to="/sponsors"
+                className="text-2xl active:bg-[#d83616]  collapse-title"
               >
                 Sponsors
               </Link>
@@ -427,7 +439,7 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <Link to="/about/team" className="active:bg-[#d83616] text-2xl">
+                  <Link to="/team" className="active:bg-[#d83616] text-2xl">
                     Organizing Team
                   </Link>
                 </li>

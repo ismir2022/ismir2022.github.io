@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 
 const Satellites = () => {
   return (
@@ -14,7 +15,9 @@ const Satellites = () => {
           conference.
         </p>
         <p className="text-2xl text-[#d83616] font-bold">
-          Music, Mind, Movement and Technology (MMMT) Workshop
+          <Link to="/satellites/mmmt">
+            Music, Mind, Movement and Technology (MMMT) Workshop
+          </Link>
         </p>
         <p className="text-xl font-bold">
           Dec 2-3, 2022 in IISc, Bengaluru, India
@@ -36,7 +39,9 @@ const Satellites = () => {
           </span>
         </p>
         <p className="text-2xl text-[#d83616] font-bold">
-          Indian Music Experience (IME) Workshop
+          <Link to="/satellites/ime">
+            Indian Music Experience (IME) Workshop
+          </Link>
         </p>
         <p className="text-xl font-bold">
           Dec 9, 2022 at the Indian Music Experience Museum, Bengaluru, India
@@ -105,7 +110,9 @@ const Satellites = () => {
           event will be available soon!
         </p>
         <p className="text-2xl text-[#d83616] font-bold">
-          CompMusic Workshop 2022
+          <a href="https://compmusic.upf.edu/node/365">
+            CompMusic Workshop 2022
+          </a>
         </p>
         <p className="text-2xl font-bold">
           December 12-16, 2022 at IIT Madras, Chennai, India
