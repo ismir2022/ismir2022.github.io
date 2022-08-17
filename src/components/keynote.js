@@ -18,8 +18,16 @@ const Keynote = () => {
           />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-3xl font-bold"><span><a href="https://www.tmkrishna.com/">TM Krishna</a></span></p>
-          <p className="text-2xl font-bold italic">Karnatik Musician, Author & Activist</p>
+          <p className="text-[#d83616] text-3xl font-bold">
+            <span>
+              <a href="https://www.tmkrishna.com/" target="_blank">
+                TM Krishna
+              </a>
+            </span>
+          </p>
+          <p className="text-2xl font-bold italic">
+            Karnatik Musician, Author & Activist
+          </p>
           <p className="text-xl md:text-2xl text-left">
             TM Krishna is one of the pre-eminent vocalists in the rigorous
             Karnatik tradition of India’s classical music. As a public
@@ -41,18 +49,27 @@ const Keynote = () => {
             collaborations that are unique and unusual aesthetic conversations
             between art forms and communities across social spectrums.
           </p>
-          <p className="text-xl md:text-2xl text-left">The title and an abstract of the keynote will be added soon.</p>
+          <p className="text-xl md:text-2xl text-left">
+            The title and an abstract of the keynote will be added soon.
+          </p>
         </div>
       </div>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center">
-          <StaticImage src="../images/richa_singh.jpg" 
+          <StaticImage
+            src="../images/richa_singh.jpg"
             height={200}
-            width={200}/>
+            width={200}
+          />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
           <p className="text-[#d83616] text-3xl font-bold">
-            <span><a href="http://home.iitj.ac.in/~richa/">Richa Singh</a></span></p>
+            <span>
+              <a href="http://home.iitj.ac.in/~richa/" target="_blank">
+                Richa Singh
+              </a>
+            </span>
+          </p>
           <p className="text-2xl font-bold italic">
             Professor and Head, Dept. of Computer Science and Engineering Indian
             Institute of Technology Jodhpur
@@ -78,7 +95,9 @@ const Keynote = () => {
             Council and an Associate Editor-in-Chief of Pattern Recognition, and
             Area/Associate Editor of several journals.
           </p>
-          <p className="text-xl md:text-2xl text-left">The title and an abstract of the keynote will be added soon.</p>
+          <p className="text-xl md:text-2xl text-left">
+            The title and an abstract of the keynote will be added soon.
+          </p>
         </div>
       </div>
     </div>

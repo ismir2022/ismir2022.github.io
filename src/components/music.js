@@ -41,7 +41,7 @@ const Music = () => {
         <p className="text-xl">
           For detailed information on grants, please refer to:{" "}
           <span className="text-[#d83616]">
-            <a href="https://ismir2022.ismir.net/attend/support">
+            <a href="https://ismir2022.ismir.net/attend/support" target="_blank">
               https://ismir2022.ismir.net/attend/support
             </a>
           </span>
@@ -144,7 +144,7 @@ const Music = () => {
         <p className="text-xl">
           Submission site:{" "}
           <span className="text-[#d83616]">
-            <a href="https://cmt3.research.microsoft.com/ISMIR2022">
+            <a href="https://cmt3.research.microsoft.com/ISMIR2022" target="_blank">
               https://cmt3.research.microsoft.com/ISMIR2022
             </a>
           </span>
@@ -162,7 +162,7 @@ const Music = () => {
         <p className="text-xl">
           Questions can be directed via{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:ismir2022-music@ismir.net">email</a>
+            <a href="mailto:ismir2022-music@ismir.net" target="_blank">email</a>
           </span>{" "}
           to ismir2022-music@ismir.net
         </p>

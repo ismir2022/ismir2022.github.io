@@ -15,7 +15,7 @@ const Ime = () => {
           experience workshop for the participants of ISMIR 2022. The event will
           be hosted at the{" "}
           <span className="text-[#d83616]">
-            <a href="https://indianmusicexperience.org/">
+            <a href="https://indianmusicexperience.org/" target="_blank">
               Indian Music Experience Museum
             </a>
           </span>{" "}

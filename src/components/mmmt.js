@@ -18,7 +18,7 @@ const Mmmt = () => {
         <p className="text-xl font-bold">
           Workshop Chair:{" "}
           <span className="text-[#d83616]">
-            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/">
+            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/" target="_blank">
               Vinoo Alluri
             </a>
           </span>
@@ -26,7 +26,7 @@ const Mmmt = () => {
         </p>
         <p className="text-xl font-bold">
           <span className="text-[#d83616]">
-            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/">
+            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/" target="_blank">
               Download Poster
             </a>
           </span>
@@ -48,14 +48,14 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Opening Keynote</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://github.com/jjau">Jean-Julien Aucouturier</a>
+            <a href="https://github.com/jjau" target="_blank">Jean-Julien Aucouturier</a>
           </span>
           , <span className="text-gray-500">FEMTO-ST Institute</span>
         </p>
         <p className="text-xl font-bold">Music and Health</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="http://www.katagres.com/">Kat Agres</a>
+            <a href="http://www.katagres.com/" target="_blank">Kat Agres</a>
           </span>
           ,{" "}
           <span className="text-gray-500">
@@ -64,7 +64,7 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en">
+            <a href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en" target="_blank">
               Suvi Saarikallio
             </a>
           </span>
@@ -73,7 +73,7 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Culture</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://www.norijacoby.com/">Nori Jacoby</a>
+            <a href="https://www.norijacoby.com/" target="_blank">Nori Jacoby</a>
           </span>
           ,{" "}
           <span className="text-gray-500">
@@ -83,20 +83,20 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://tuomaseerola.github.io/">Tuomas Eerola</a>
+            <a href="https://tuomaseerola.github.io/" target="_blank">Tuomas Eerola</a>
           </span>
           , <span className="text-gray-500">Durham University</span>
         </p>
         <p className="text-xl font-bold">Music Perception</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://webspace.science.uu.nl/~fleis102/">Janja Volk</a>
+            <a href="https://webspace.science.uu.nl/~fleis102/" target="_blank">Anja Volk</a>
           </span>
           , <span className="text-gray-500">Utrecht University</span>
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/">
+            <a href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/" target="_blank">
               Petri Toiviainen
             </a>
           </span>
@@ -105,7 +105,7 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Gestures</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ">
+            <a href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ" target="_blank">
               Martin Clayton{" "}
             </a>
           </span>
@@ -113,7 +113,7 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en">
+            <a href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en" target="_blank">
               Marcelo Wanderley
             </a>
           </span>
@@ -122,13 +122,13 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Neuroscience</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://ccrma.stanford.edu/~blairbo">Blair Kaneshiro</a>
+            <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">Blair Kaneshiro</a>
           </span>
           , <span className="text-gray-500">Stanford University</span>
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en">
+            <a href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en" target="_blank">
               Peter Keller
             </a>
           </span>
@@ -212,7 +212,7 @@ const Mmmt = () => {
         </p>
         {/* Will contain button */}
         <button class="btn btn-md  btn-outline text-[#d83616]">
-          <a href="https://www.townscript.com/e/mmmt-workshop-register">
+          <a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank">
             Register for MMMT
           </a>
         </button>
@@ -273,7 +273,7 @@ const Mmmt = () => {
           <li>
             Kindly send the cancellation requests to{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-registration@ismir.net">
+              <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
                 ismir2022-registration@ismir.net
               </a>
             </span>
@@ -292,7 +292,7 @@ const Mmmt = () => {
         <p className="text-xl">
           Please write to us at{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:vinoo.alluri@iiit.ac.in">vinoo.alluri@iiit.ac.in</a>
+            <a href="mailto:vinoo.alluri@iiit.ac.in" target="_blank">vinoo.alluri@iiit.ac.in</a>
           </span>
           if you have any questions about registering and attending MMMT
           workshop.

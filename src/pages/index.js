@@ -10,7 +10,6 @@ import Layout from "../components/layout";
 const IndexPage = () => {
   return (
     <Layout>
-      
       <div className="flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-5">
         <MainContent />
         <Highlights />

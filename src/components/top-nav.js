@@ -212,12 +212,11 @@ const TopNav = () => {
               </li>
             </ul>
           </div>
-          <Link to="/" class="btn btn-ghost h-max items-center lg:ml-5">
+          <Link to="/" class="btn btn-ghost h-max items-center lg:ml-5 lg:max-w-[240px] max-w-[170px]">
             <StaticImage
               src="../images/ismir2022logo.png"
               alt="ismirlogo"
               objectFit="contain"
-              width={120}
               placeholder="blurred"
             />
           </Link>

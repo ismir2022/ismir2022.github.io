@@ -3,14 +3,17 @@ import React from "react";
 const Papers = () => {
   return (
     <div className="space-y-10">
-      <div >
+      <div>
         <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
           Call for Papers
         </h1>
       </div>
       <div className="space-y-5">
         <p className="text-[#d83616] text-xl">
-          <a href="https://ismir2022.ismir.net/assets/ISMIR2022_Info_Sheet.pdf">
+          <a
+            href="https://ismir2022.ismir.net/assets/ISMIR2022_Info_Sheet.pdf"
+            target="_blank"
+          >
             Download PDF
           </a>
         </p>
@@ -38,7 +41,9 @@ const Papers = () => {
             Conference (ISMIR 2022) will be held in Bangalore, India, from
             December 4th to 8th, 2022.{" "}
             <span className="text-[#d83616]">
-              <a>https://ismir2022.ismir.net</a>
+              <a href="https://ismir2022.ismir.net" target="_blank">
+                https://ismir2022.ismir.net
+              </a>
             </span>
           </p>
           <p className="text-xl">
@@ -120,20 +125,29 @@ const Papers = () => {
             paper organization, potential to generate discourse, and relevance
             of the topic to ISMIR. Papers which propose brave new ideas are
             valued. It is helpful to read the reviewer guidelines at{" "}
-            <span className="text-[#d83616]">
-              <a>https://ismir.net/reviewer-guidelines</a>
+            <span className="text-[#d83616] break-all">
+              <a href="https://ismir.net/reviewer-guidelines" target="_blank">
+                https://ismir.net/reviewer-guidelines
+              </a>
             </span>
             , as well as the review form at{" "}
-            <span className="text-[#d83616]">
-              <a>https://ismir2022.ismir.net/reviewform</a>
+            <span className="text-[#d83616] break-all">
+              <a href="https://ismir2022.ismir.net/reviewform" target="_blank">
+                https://ismir2022.ismir.net/reviewform
+              </a>
             </span>
             , before the paper submission.
           </p>
           <p className="font-bold text-2xl">Submission Process</p>
           <p className="text-xl italic">
             Submission site:
-            <span className="text-[#d83616]">
-              <a>https://cmt3.research.microsoft.com/ISMIR2022/</a>
+            <span className="text-[#d83616] break-all">
+              <a
+                href="https://cmt3.research.microsoft.com/ISMIR2022/"
+                target="_blank"
+              >
+                https://cmt3.research.microsoft.com/ISMIR2022/
+              </a>
             </span>
           </p>
           <p className="text-xl">
@@ -181,19 +195,28 @@ const Papers = () => {
             <span className="italic">Paper format: </span>Papers must be
             formatted using the ISMIR 2022 templates (
             <span className="text-[#d83616]">
-              <a href="https://github.com/ismir/paper_templates/tree/master/2022/latex">
+              <a
+                href="https://github.com/ismir/paper_templates/tree/master/2022/latex"
+                target="_blank"
+              >
                 LaTeX
               </a>
             </span>
             /
             <span className="text-[#d83616]">
-              <a href="https://www.overleaf.com/latex/templates/paper-template-for-ismir-2022/zqcwpbqntdsh">
+              <a
+                href="https://www.overleaf.com/latex/templates/paper-template-for-ismir-2022/zqcwpbqntdsh"
+                target="_blank"
+              >
                 Overleaf
               </a>
             </span>{" "}
             or{" "}
             <span className="text-[#d83616]">
-              <a href="https://github.com/ismir/paper_templates/tree/master/2022/word">
+              <a
+                href="https://github.com/ismir/paper_templates/tree/master/2022/word"
+                target="_blank"
+              >
                 Word
               </a>
             </span>
@@ -302,7 +325,9 @@ const Papers = () => {
           <p className="text-xl">
             For additional information, you can reach the program chairs via{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-papers@ismir.net">email</a>
+              <a href="mailto:ismir2022-papers@ismir.net" target="_blank">
+                email
+              </a>
             </span>
           </p>
           <p className="text-xl">Best regards,</p>

@@ -28,13 +28,15 @@ const Coc = () => {
             ISMIR 2022 General Chairs (Preeti Rao, Hema Murthy, Ajay
             Srinivasamurthy):{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022@ismir.net">ismir2022@ismir.net</a>
+              <a href="mailto:ismir2022@ismir.net" target="_blank">
+                ismir2022@ismir.net
+              </a>
             </span>
           </li>
           <li>
             ISMIR 2022 Diversity & Inclusion Chairs (Xiao Hu, Ranjani H G):
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-diversity@ismir.net">
+              <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">
                 ismir2022-diversity@ismir.net
               </a>
             </span>
@@ -42,17 +44,21 @@ const Coc = () => {
           <li>
             ISMIR Board (roster{" "}
             <span className="text-[#d83616]">
-              <a href="https://www.ismir.net/about/">here</a>
+              <a href="https://www.ismir.net/about/" target="_blank">
+                here
+              </a>
             </span>
             ):{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:codeofconduct@ismir.net">
+              <a href="mailto:codeofconduct@ismir.net" target="_blank">
                 codeofconduct@ismir.net
               </a>
             </span>
             or{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:board@ismir.net">board@ismir.net</a>
+              <a href="mailto:board@ismir.net" target="_blank">
+                board@ismir.net
+              </a>
             </span>
           </li>
           <li>
@@ -173,26 +179,35 @@ const Coc = () => {
           </span>
           by{" "}
           <span className="text-[#d83616]">
-            <a href="https://github.com/confcodeofconduct">
+            <a href="https://github.com/confcodeofconduct" target="_blank">
               Conference Code of Conduct
             </a>
           </span>
           , licensed under a{" "}
           <span className="text-[#d83616]">
-            <a href="https://creativecommons.org/licenses/by/3.0/deed.en_US">
+            <a
+              href="https://creativecommons.org/licenses/by/3.0/deed.en_US"
+              target="_blank"
+            >
               Creative Commons Attribution 3.0 Unported License
             </a>
           </span>
           . We also adapt content from the{" "}
           <span className="text-[#d83616]">
-            <a href="https://www.4spe.org/i4a/pages/index.cfm?pageID=5720">
+            <a
+              href="https://www.4spe.org/i4a/pages/index.cfm?pageID=5720"
+              target="_blank"
+            >
               SPE-Inspiring Plastics Professionals Virtual Meetings Conduct
               Policy.
             </a>
           </span>
           “ISMIR 2022 Code of Conduct” is licensed under a{" "}
           <span className="text-[#d83616]">
-            <a href="https://creativecommons.org/licenses/by/3.0/deed.en_US">
+            <a
+              href="https://creativecommons.org/licenses/by/3.0/deed.en_US"
+              target="_blank"
+            >
               Creative Commons Attribution 3.0 Unported License
             </a>
           </span>

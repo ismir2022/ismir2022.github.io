@@ -173,7 +173,7 @@ const Mentoring = () => {
           If you are interested in the program and eligible for it, please apply
           using this form:{" "}
           <span className="text-[#d83616]">
-            <a href="https://forms.gle/aLuFtxg6Fe8KatEL8">
+            <a href="https://forms.gle/aLuFtxg6Fe8KatEL8" target="_blank">
               https://forms.gle/aLuFtxg6Fe8KatEL8
             </a>
           </span>
@@ -218,9 +218,9 @@ const Mentoring = () => {
           </li>
         </ul>
         <p className="text-xl">
-          For any further questions, please write to us at {" "}
+          For any further questions, please write to us at{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:ismir2022-diversity@ismir.net">
+            <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">
               ismir2022-diversity@ismir.net
             </a>
           </span>

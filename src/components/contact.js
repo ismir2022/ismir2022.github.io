@@ -14,40 +14,40 @@ const Contact = () => {
           <li>
             General inquiries:{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022@ismir.net">ismir2022@ismir.net</a>
+              <a href="mailto:ismir2022@ismir.net" target="_blank">ismir2022@ismir.net</a>
             </span>
           </li>
           <li>
             Scientific program:{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-papers@ismir.net">ismir2022-papers@ismir.net</a>
+              <a href="mailto:ismir2022-papers@ismir.net" target="_blank">ismir2022-papers@ismir.net</a>
             </span>{" "}
           </li>
           <li>
             Tutorials:{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-tutorials@ismir.net">ismir2022-tutorials@ismir.net</a>
+              <a href="mailto:ismir2022-tutorials@ismir.net" target="_blank">ismir2022-tutorials@ismir.net</a>
             </span>
           </li>
           <li>
             Music program:{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-music@ismir.net">ismir2022-music@ismir.net</a>
+              <a href="mailto:ismir2022-music@ismir.net" target="_blank">ismir2022-music@ismir.net</a>
             </span>
           </li>
           <li>
             Diversity, Inclusion, Grants and Financial Support:{" "}
-            <span className="text-[#d83616]">
+            <span className="text-[#d83616]" target="_blank">
               <a href="ismir2022-diversity@ismir.net">ismir2022-diversity@ismir.net</a>
             </span>
           </li>
           <li>Registration/Travel/Visa related queries:{" "}
-            <span className="text-[#d83616]">
+            <span className="text-[#d83616]" target="_blank">
               <a href="mailto:ismir2022-registration@ismir.ne">ismir2022-registration@ismir.net</a>
             </span> </li>
           <li>
             Late breaking/Demo related queries:{" "}
-            <span className="text-[#d83616]">
+            <span className="text-[#d83616]" target="_blank">
               <a href="mailto:ismir2022-lbd@ismir.net">ismir2022-lbd@ismir.net</a>
             </span>
           </li>

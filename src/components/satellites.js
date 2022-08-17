@@ -33,7 +33,10 @@ const Satellites = () => {
           interaction and exchange of ideas around various themes. More
           information:
           <span className="text-[#d83616]">
-            <a href="https://ismir2022.ismir.net/satellites/mmmt">
+            <a
+              href="https://ismir2022.ismir.net/satellites/mmmt"
+              target="_blank"
+            >
               https://ismir2022.ismir.net/satellites/mmmt
             </a>
           </span>
@@ -51,7 +54,7 @@ const Satellites = () => {
           experience workshop on the 9th Dec, 2022. The day-long physical-only
           workshop will be hosted in the{" "}
           <span className="text-[#d83616]">
-            <a href="https://indianmusicexperience.org/">
+            <a href="https://indianmusicexperience.org/" target="_blank">
               Indian Music Experience Museum (IME)
             </a>
           </span>{" "}
@@ -59,14 +62,19 @@ const Satellites = () => {
           museum visit, workshops on Indian art music and a music exhibition.
           More information:{" "}
           <span className="text-[#d83616]">
-            <a href="">https://ismir2022.ismir.net/satellites/ime</a>
+            <a
+              href="https://ismir2022.ismir.net/satellites/ime"
+              target="_blank"
+            >
+              https://ismir2022.ismir.net/satellites/ime
+            </a>
           </span>
         </p>
         <p className="text-2xl font-bold">MusicHackDay India 2022</p>
         <p className="text-xl font-bold">Dec 10-11, 2022 in Bengaluru, India</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://musictechcommunity.org/">
+            <a href="https://musictechcommunity.org/" target="_blank">
               The Music Tech Community India
             </a>
           </span>{" "}
@@ -110,7 +118,7 @@ const Satellites = () => {
           event will be available soon!
         </p>
         <p className="text-2xl text-[#d83616] font-bold">
-          <a href="https://compmusic.upf.edu/node/365">
+          <a href="https://compmusic.upf.edu/node/365" target="_blank">
             CompMusic Workshop 2022
           </a>
         </p>
@@ -130,13 +138,16 @@ const Satellites = () => {
           computational and musicological competencies needed to study music, in
           particular Carnatic Music. The workshop will take place at the{" "}
           <span className="text-[#d83616]">
-            <a href="https://www.iitm.ac.in/">
+            <a href="https://www.iitm.ac.in/" target="_blank">
               Indian Institute of Technology Madras
             </a>
           </span>
           , Chennai during the{" "}
           <span className="text-[#d83616]">
-            <a href="https://en.wikipedia.org/wiki/Madras_Music_Season">
+            <a
+              href="https://en.wikipedia.org/wiki/Madras_Music_Season"
+              target="_blank"
+            >
               Madras Music Season
             </a>
           </span>
@@ -144,7 +155,7 @@ const Satellites = () => {
           evenings, the participants will be able to attend a wide variety of
           Carnatic Music concerts. More information:
           <span className="text-[#d83616]">
-            <a href="https://compmusic.upf.edu/node/365">
+            <a href="https://compmusic.upf.edu/node/365" target="_blank">
               https://compmusic.upf.edu/node/365
             </a>
           </span>

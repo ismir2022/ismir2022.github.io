@@ -13,10 +13,10 @@ const FS = () => {
           As a part of the commitments to foster diversity and inclusion, and to
           support early-career members of the ISMIR community,the{" "}
           <span className="text-[#d83616]">
-            <a href="http://ismir.net/">ISMIR Society</a>
+            <a href="http://ismir.net/" target="_blank">ISMIR Society</a>
           </span>
           <span className="text-[#d83616]">
-            <a href="http://www.ismir.net/wimir.html">Women in MIR</a>
+            <a href="http://www.ismir.net/wimir.html" target="_blank">Women in MIR</a>
           </span>
           , and the local organizers offer several financial support
           opportunities for those who wish to attend ISMIR 2022, and those who
@@ -132,7 +132,7 @@ const FS = () => {
             Low- or middle-income country: Applicants whose professional
             affiliation is based in a country listed here:{" "}
             <span className="text-[#d83616]">
-              <a href="http://bitly.ws/sANU">http://bitly.ws/sANU</a>
+              <a href="http://bitly.ws/sANU" target="_blank">http://bitly.ws/sANU</a>
             </span>{" "}
           </li>
           <li>Queer in MIR: Applicants identifying as LGBTQIA</li>
@@ -174,7 +174,7 @@ const FS = () => {
         <p className="text-xl">
           Please apply for grants using this google form:{" "}
           <span className="text-[#d83616]">
-            <a href="https://forms.gle/McTMivAHNVK1WD5E9">
+            <a href="https://forms.gle/McTMivAHNVK1WD5E9" target="_blank">
               https://forms.gle/McTMivAHNVK1WD5E9
             </a>
           </span>
@@ -197,7 +197,7 @@ const FS = () => {
         <p className="text-xl">
           Email:{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:ismir2022-diversity@ismir.net">
+            <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">
               ismir2022-diversity@ismir.net
             </a>
           </span>

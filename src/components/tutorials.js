@@ -68,7 +68,7 @@ const Tutorials = () => {
         <p className="text-xl font-bold">Biographies of Presenters</p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="http://www.carloscancinochacon.com/">
+            <a href="http://www.carloscancinochacon.com/" target="_blank">
               Carlos Cancino-Chacón
             </a>
           </span>{" "}
@@ -87,7 +87,10 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/franceso-foscarin/">
+            <a
+              href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/franceso-foscarin/"
+              target="_blank"
+            >
               Francesco Foscarin
             </a>
           </span>{" "}
@@ -102,7 +105,10 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/emmanouil-karystinaios/">
+            <a
+              href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/emmanouil-karystinaios/"
+              target="_blank"
+            >
               Emmanouil Karystinaios
             </a>
           </span>{" "}
@@ -116,7 +122,10 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/silvan-david-peter/">
+            <a
+              href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/silvan-david-peter/"
+              target="_blank"
+            >
               Silvan David Peter
             </a>
           </span>{" "}
@@ -320,7 +329,9 @@ const Tutorials = () => {
         <p className="text-xl font-bold">Biographies of Presenters</p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://y-wang.weebly.com/">Yu Wang Yu</a>
+            <a href="https://y-wang.weebly.com/" target="_blank">
+              Yu Wang Yu
+            </a>
           </span>{" "}
           is a Ph.D. candidate in Music Technology at the Music and Audio
           Research Laboratory at New York University, working under Prof. Juan
@@ -401,7 +412,7 @@ const Tutorials = () => {
         <p className="text-xl font-bold">Biographies of Presenters</p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://www.christiansteinmetz.com/">
+            <a href="https://www.christiansteinmetz.com/" target="_blank">
               Christian J. Steinmetz
             </a>
           </span>{" "}
@@ -420,7 +431,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://www.saisoumya.com/">Soumya Sai Vanka</a>
+            <a href="https://www.saisoumya.com/" target="_blank">
+              Soumya Sai Vanka
+            </a>
           </span>{" "}
           is a first year PhD researcher at the Centre for Digital Music, Queen
           Mary University of London. She is part of the AI and Music, Centre for
@@ -456,7 +469,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://m-marco.com/">Marco A. Martínez Ramírez</a>
+            <a href="https://m-marco.com/" target="_blank">
+              Marco A. Martínez Ramírez
+            </a>
           </span>{" "}
           is music technology researcher at Sony in the Tokyo R&D center, where
           he is part of the Creative AI Lab. His research interests lie at the
@@ -482,7 +497,10 @@ const Tutorials = () => {
           the world, e.g., how we listen to music, compose songs, or learn to
           play an instrument. As it was introduced in the{" "}
           <span className="text-[#d83616]">
-            <a href="https://ismir2019.ewi.tudelft.nl/?q=node/41">
+            <a
+              href="https://ismir2019.ewi.tudelft.nl/?q=node/41"
+              target="_blank"
+            >
               FAT-MIR tutorial
             </a>
           </span>
@@ -513,7 +531,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://christinebauer.eu/">Christine Bauer</a>
+            <a href="https://christinebauer.eu/" target="_blank">
+              Christine Bauer
+            </a>
           </span>{" "}
           is an assistant professor at the Department of Information and
           Computing Sciences at Utrecht University, The Netherlands. Her
@@ -538,7 +558,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://andrebola.github.io/about/">Andrés Ferraro </a>
+            <a href="https://andrebola.github.io/about/" target="_blank">
+              Andrés Ferraro{" "}
+            </a>
           </span>{" "}
           (BSc/MSc in Software Engineering) is a Postdoctoral Fellow at McGill
           University and Mila (Quebec AI Institute), Canada. He completed his
@@ -556,7 +578,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://emiliagomez.com/">Emilia Gómez</a>
+            <a href="https://emiliagomez.com/" target="_blank">
+              Emilia Gómez
+            </a>
           </span>{" "}
           (BSc/MSc in Electrical Engineering, PhD in Computer Science) is
           Principal Investigator on Human and Machine Intelligence (HUMAINT)
@@ -572,7 +596,9 @@ const Tutorials = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616] font-bold">
-            <a href="https://lorenzoporcaro.com/">Lorenzo Porcaro</a>
+            <a href="https://lorenzoporcaro.com/" target="_blank">
+              Lorenzo Porcaro
+            </a>
           </span>{" "}
           (MSc Sound and Music Computing and Intelligent Interactive Systems) is
           a PhD candidate at the Music Technology Group, Universitat Pompeu

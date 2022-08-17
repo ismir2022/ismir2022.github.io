@@ -40,7 +40,7 @@ const Wimir = () => {
             <div className="flex flex-row justify-center">
               <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-5 place-items-evenly md:space-y-0 lg:space-y-0 justify-center items-center">
                 <div>
-                  <a href="https://research.atspotify.com/">
+                  <a href="https://research.atspotify.com/" target="_blank">
                     <StaticImage
                       src="../images/sponsors/Spotify-logo.png"
                       alt="spotify"
@@ -50,7 +50,7 @@ const Wimir = () => {
                   </a>
                 </div>
                 <div>
-                  <a href="https://deezer.com/">
+                  <a href="https://deezer.com/" target="_blank">
                     <StaticImage
                       src="../images/sponsors/deezer_logo.png"
                       alt="spotify"
@@ -70,7 +70,7 @@ const Wimir = () => {
             <div className="flex justify-center">
               <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-10 place-items-evenly space-y-10 lg:space-y-0 justify-center items-center">
                 <div>
-                  <a href="https://www.adobe.com/">
+                  <a href="https://www.adobe.com/" target="_blank">
                     <StaticImage
                       src="../images/sponsors/Adobe-logo.png"
                       alt="spotify"
@@ -81,7 +81,7 @@ const Wimir = () => {
                 </div>
 
                 <div>
-                  <a href="https://www.izotope.com/">
+                  <a href="https://www.izotope.com/" target="_blank">
                     <StaticImage
                       src="../images/sponsors/Soundwide-logo.png"
                       alt="spotify"
@@ -91,7 +91,7 @@ const Wimir = () => {
                   </a>
                 </div>
                 <div>
-                  <a href="https://www.siriusxm.com/pandora">
+                  <a href="https://www.siriusxm.com/pandora" target="_blank">
                     <StaticImage
                       src="../images/sponsors/SiriusPandora_logo.png"
                       alt="spotify"
@@ -111,7 +111,7 @@ const Wimir = () => {
             <div className="flex flex-row justify-center">
               <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-10 place-items-evenly md:space-y-0 lg:space-y-0 justify-center items-center">
                 <div>
-                  <a href="https://www.steinberg.net/">
+                  <a href="https://www.steinberg.net/" target="_blank">
                     <StaticImage
                       src="../images/sponsors/Steinberg-logo.png"
                       alt="spotify"

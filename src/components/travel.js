@@ -24,7 +24,10 @@ const Travel = () => {
           <li>
             Website:{" "}
             <span className="text-[#d83616] ">
-              <a href="https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D">
+              <a
+                href="https://www.marriott.com/en-us/hotels/blrgs-sheraton-grand-bangalore-hotel-at-brigade-gateway/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_Mjc4MjAwOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+                target="_blank"
+              >
                 Link
               </a>
             </span>
@@ -36,7 +39,12 @@ const Travel = () => {
           <li>
             Location:{" "}
             <span className="text-[#d83616] ">
-              <a href="https://g.page/sheratongrandbangalore?share">Link</a>
+              <a
+                href="https://g.page/sheratongrandbangalore?share"
+                target="_blank"
+              >
+                Link
+              </a>
             </span>
           </li>
         </ul>
@@ -58,7 +66,10 @@ const Travel = () => {
           <li>
             Website:{" "}
             <span className="text-[#d83616] ">
-              <a href="https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local">
+              <a
+                href="https://www.tajhotels.com/en-in/taj/taj-yeshwantpur-bengaluru/?utm_source=Google&utm_campaign=Taj-Yeshwantpur-Bangalore&utm_medium=Local"
+                target="_blank"
+              >
                 Link
               </a>
             </span>
@@ -70,7 +81,9 @@ const Travel = () => {
           <li>
             Location:{" "}
             <span className="text-[#d83616]">
-              <a href="https://goo.gl/maps/tEVYiQS3V1BgK1nt5">Link</a>
+              <a href="https://goo.gl/maps/tEVYiQS3V1BgK1nt5" target="_blank">
+                Link
+              </a>
             </span>
           </li>
         </ul>
@@ -92,7 +105,9 @@ const Travel = () => {
           <li>
             Website:{" "}
             <span className="text-[#d83616] ">
-              <a href="http://www.vividushotels.com/">Link</a>
+              <a href="http://www.vividushotels.com/" target="_blank">
+                Link
+              </a>
             </span>
           </li>
           <li>
@@ -102,7 +117,9 @@ const Travel = () => {
           <li>
             Location:{" "}
             <span className="text-[#d83616]">
-              <a href="https://g.page/vividushotels?share">Link</a>
+              <a href="https://g.page/vividushotels?share" target="_blank">
+                Link
+              </a>
             </span>
           </li>
         </ul>
@@ -126,7 +143,10 @@ const Travel = () => {
           <li>
             Website:{" "}
             <span className="text-[#d83616] ">
-              <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail">
+              <a
+                href="https://www.ihg.com/holidayinnexpress/hotels/us/en/bengaluru/blrby/hoteldetail"
+                target="_blank"
+              >
                 Link
               </a>
             </span>
@@ -138,7 +158,9 @@ const Travel = () => {
           <li>
             Location:{" "}
             <span className="text-[#d83616]">
-              <a href="https://goo.gl/maps/HohbKcjowoacDeh36">Link</a>
+              <a href="https://goo.gl/maps/HohbKcjowoacDeh36" target="_blank">
+                Link
+              </a>
             </span>
           </li>
         </ul>
@@ -160,7 +182,9 @@ const Travel = () => {
           <li>
             Website:{" "}
             <span className="text-[#d83616] ">
-              <a href="https://www.thecitrinehotel.com/">Link</a>
+              <a href="https://www.thecitrinehotel.com/" target="_blank">
+                Link
+              </a>
             </span>
           </li>
           <li>
@@ -170,7 +194,9 @@ const Travel = () => {
           <li>
             Location:{" "}
             <span className="text-[#d83616]">
-              <a href="https://goo.gl/maps/9fs8TETWijAyYtcdA">Link</a>
+              <a href="https://goo.gl/maps/9fs8TETWijAyYtcdA" target="_blank">
+                Link
+              </a>
             </span>
           </li>
         </ul>
@@ -233,7 +259,7 @@ const Travel = () => {
           Indian Embassies, Consulates and High Commissions now require visa
           applications to be made online from the Indian Government website:{" "}
           <span className="text-[#d83616] ">
-            <a href=" https://indianvisaonline.gov.in/ ">
+            <a href="https://indianvisaonline.gov.in/" target="_blank">
               https://indianvisaonline.gov.in/
             </a>
           </span>
@@ -319,7 +345,10 @@ const Travel = () => {
           Embassy in your country under the heading ‘Conference Visa’. The list
           of Indian diplomatic missions overseas can be consulted at:
           <span className="text-[#d83616] ">
-            <a href="http://passportindia.gov.in/AppOnlineProject/mission/mission">
+            <a
+              href="http://passportindia.gov.in/AppOnlineProject/mission/mission"
+              target="_blank"
+            >
               http://passportindia.gov.in/AppOnlineProject/mission/mission
             </a>
           </span>
@@ -334,7 +363,10 @@ const Travel = () => {
           required. Accompanying persons can use the e-Tourist visa facility at
           the website:
           <span className="text-[#d83616] ">
-            <a href="https://indianvisaonline.gov.in/visa/tvoa.html">
+            <a
+              href="https://indianvisaonline.gov.in/visa/tvoa.html"
+              target="_blank"
+            >
               https://indianvisaonline.gov.in/visa/tvoa.
             </a>
           </span>
@@ -343,7 +375,7 @@ const Travel = () => {
         <p className="text-xl">
           Enquiries can be sent to the conference secretariat at{" "}
           <span className="text-[#d83616] ">
-            <a href="mailto:ismir2022-registration@ismir.net">
+            <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
               ismir2022-registration@ismir.net
             </a>
           </span>
@@ -371,11 +403,16 @@ const Travel = () => {
         </p>
         <p className="text-xl">Prepared by,</p>
         <p className="text-xl">Elisyan India Pvt Ltd</p>
-        <p className="text-xl"><span className="text-[#d83616] ">
-            <a href="https://ismir2022.ismir.net/attend/www.elisyan.in">
+        <p className="text-xl">
+          <span className="text-[#d83616] ">
+            <a
+              href="https://ismir2022.ismir.net/attend/www.elisyan.in"
+              target="_blank"
+            >
               www.elisyan.in
             </a>
-          </span></p>
+          </span>
+        </p>
       </div>
     </div>
   );

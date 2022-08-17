@@ -23,7 +23,7 @@ const Registration = () => {
           sufficient time to obtain a visa and make appropriate travel plans.
         </p>
         <button class="btn btn-md  btn-outline text-[#d83616]">
-          <a href="https://www.townscript.com/v2/e/ismir2022-register/booking/tickets">
+          <a href="https://www.townscript.com/v2/e/ismir2022-register/booking/tickets" target="_blank">
             Register for ISMIR 2022
           </a>
         </button>
@@ -395,7 +395,7 @@ const Registration = () => {
           <li>
             Kindly send the cancellation requests to{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-registration@ismir.net">
+              <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
                 ismir2022-registration@ismir.net
               </a>
             </span>
@@ -414,7 +414,7 @@ const Registration = () => {
         <p className="text-xl">
           Please write to us at{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:ismir2022-registration@ismir.net">
+            <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
               ismir2022-registration@ismir.net
             </a>
           </span>

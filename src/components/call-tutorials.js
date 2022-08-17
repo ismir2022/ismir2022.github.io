@@ -99,14 +99,14 @@ const Tutorials = () => {
         <p className="text-xl">
           You may refer to the tutorials offered last year,{" "}
           <span className="text-[#d83616]">
-            <a href="https://ismir2021.ismir.net/tutorials/">
+            <a href="https://ismir2021.ismir.net/tutorials/" target="_blank">
               https://ismir2021.ismir.net/tutorials/
             </a>
           </span>
           . For additional information, you can reach the tutorial program
           chairs via{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:ismir2022-tutorials@ismir.net">
+            <a href="mailto:ismir2022-tutorials@ismir.net" target="_blank">
               ismir2022-tutorials@ismir.net
             </a>
           </span>
