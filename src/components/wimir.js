@@ -75,7 +75,7 @@ const Wimir = () => {
                       src="../images/sponsors/Adobe-logo.png"
                       alt="spotify"
                       objectFit="contain"
-                      width={300}
+                      width={200}
                     />
                   </a>
                 </div>
@@ -86,7 +86,7 @@ const Wimir = () => {
                       src="../images/sponsors/Soundwide-logo.png"
                       alt="spotify"
                       objectFit="contain"
-                      width={300}
+                      width={200}
                     />
                   </a>
                 </div>
@@ -96,7 +96,7 @@ const Wimir = () => {
                       src="../images/sponsors/SiriusPandora_logo.png"
                       alt="spotify"
                       objectFit="contain"
-                      width={300}
+                      width={200}
                     />
                   </a>
                 </div>
@@ -116,7 +116,7 @@ const Wimir = () => {
                       src="../images/sponsors/Steinberg-logo.png"
                       alt="spotify"
                       objectFit="contain"
-                      width={400}
+                      width={150}
                     />
                   </a>
                 </div>

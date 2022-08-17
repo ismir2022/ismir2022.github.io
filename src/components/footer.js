@@ -11,7 +11,7 @@ const Footer = () => {
             src="../images/footer/iitb.png"
             alt="iitb"
             objectFit="contain"
-            width={120}
+            width={100}
           />
         </div>
         <div>
@@ -19,8 +19,8 @@ const Footer = () => {
             src="../images/footer/iitm.png"
             alt="iitb"
             objectFit="contain"
-            width={120}
-            height={120}
+            width={100}
+            height={100}
           />
         </div>
         <div>
@@ -28,8 +28,8 @@ const Footer = () => {
             src="../images/footer/iisc.png"
             alt="iitb"
             objectFit="contain"
-            width={128}
-            height={128}
+            width={100}
+            height={100}
           />
         </div>
         <div>
@@ -37,7 +37,7 @@ const Footer = () => {
             src="../images/footer/ime.png"
             alt="iitb"
             objectFit="contain"
-            width={128}
+            width={100}
           />
         </div>
         <div className="items-center justify-center">
@@ -45,7 +45,7 @@ const Footer = () => {
             src="../images/footer/ismir.png"
             alt="iitb"
             objectFit="contain"
-            width={128}
+            width={100}
           />
         </div>
       </div>

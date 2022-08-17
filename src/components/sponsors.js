@@ -20,7 +20,7 @@ const Sponsors = () => {
                     src="../images/sponsors/Spotify-logo.png"
                     alt="spotify"
                     objectFit="contain"
-                    width={400}
+                    width={500}
                   />
                 </a>
               </div>
@@ -110,7 +110,7 @@ const Sponsors = () => {
                     src="../images/sponsors/Steinberg-logo.png"
                     alt="spotify"
                     objectFit="contain"
-                    width={200}
+                    width={150}
                   />
                 </a>
               </div>
@@ -120,7 +120,7 @@ const Sponsors = () => {
                     src="../images/sponsors/Soundwide-logo.png"
                     alt="spotify"
                     objectFit="contain"
-                    width={200}
+                    width={150}
                   />
                 </a>
               </div>
@@ -140,7 +140,7 @@ const Sponsors = () => {
                     src="../images/sponsors/ACRCloud-logo.png"
                     alt="spotify"
                     objectFit="contain"
-                    width={200}
+                    width={100}
                   />
                 </a>
               </div>
@@ -150,7 +150,7 @@ const Sponsors = () => {
                     src="../images/sponsors/cochl_logo.png"
                     alt="spotify"
                     objectFit="contain"
-                    width={200}
+                    width={100}
                   />
                 </a>
               </div>

@@ -5,7 +5,7 @@ import { Link } from "gatsby";
 const TopNav = () => {
   return (
     <div>
-      <div class="navbar bg-[#E9ECEF]">
+      <div class="navbar bg-[#E9ECEF] py-0">
         <div class="navbar-start text-[#d83616]">
           <div class="dropdown text-[#d83616]">
             <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -26,7 +26,7 @@ const TopNav = () => {
             </label>
             <ul
               tabindex="0"
-              class="dropdown-content mt-3 p-2 bg-white shadow-lg bg-white rounded-box w-72 "
+              class="dropdown-content mt-3 p-2 bg-white shadow-lg rounded-box w-72 "
             >
               <li
                 tabindex="0"
@@ -212,7 +212,10 @@ const TopNav = () => {
               </li>
             </ul>
           </div>
-          <Link to="/" class="btn btn-ghost h-max items-center lg:ml-5 lg:max-w-[240px] max-w-[170px]">
+          <Link
+            to="/"
+            class="btn btn-ghost h-fit items-center lg:ml-5 w-[190px] md:w-[230px]"
+          >
             <StaticImage
               src="../images/ismir2022logo.png"
               alt="ismirlogo"
@@ -238,42 +241,30 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <Link
-                    to="/calls/cfp"
-                    className="active:bg-[#d83616] text-2xl"
-                  >
+                  <Link to="/calls/cfp" className="active:bg-[#d83616] text-xl">
                     Call for Papers
                   </Link>
                 </li>
                 <li>
-                  <Link
-                    to="/calls/cft"
-                    className="active:bg-[#d83616] text-2xl"
-                  >
+                  <Link to="/calls/cft" className="active:bg-[#d83616] text-xl">
                     Call for Tutorials
                   </Link>
                 </li>
                 <li>
-                  <Link
-                    to="/calls/cfs"
-                    className="active:bg-[#d83616] text-2xl"
-                  >
+                  <Link to="/calls/cfs" className="active:bg-[#d83616] text-xl">
                     Call for Sponsorships
                   </Link>
                 </li>
                 <li>
                   <Link
                     to="/calls/cflbd"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Call for Late-Breaking Demo
                   </Link>
                 </li>
                 <li>
-                  <Link
-                    to="/calls/cfm"
-                    className="active:bg-[#d83616] text-2xl"
-                  >
+                  <Link to="/calls/cfm" className="active:bg-[#d83616] text-xl">
                     Call for for Music
                   </Link>
                 </li>
@@ -296,7 +287,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/programs/keynotes"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Keynote Speakers
                   </Link>
@@ -304,7 +295,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/programs/tutorials"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Tutorials
                   </Link>
@@ -312,7 +303,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/programs/satellites"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Satellite Events
                   </Link>
@@ -336,7 +327,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/attend/registration"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Registration
                   </Link>
@@ -344,7 +335,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/attend/support"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Financial Support
                   </Link>
@@ -352,7 +343,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/attend/venue"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Venue
                   </Link>
@@ -360,7 +351,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/attend/travel"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Travel
                   </Link>
@@ -368,7 +359,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/attend/explore"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Explore
                   </Link>
@@ -376,7 +367,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/codeofconduct"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     Code of Conduct
                   </Link>
@@ -408,7 +399,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/diversity/mentoring"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     New-to-ISMIR Mentoring
                   </Link>
@@ -416,7 +407,7 @@ const TopNav = () => {
                 <li>
                   <Link
                     to="/diversity/wimir"
-                    className="active:bg-[#d83616] text-2xl"
+                    className="active:bg-[#d83616] text-xl"
                   >
                     WiMIR
                   </Link>
@@ -438,7 +429,7 @@ const TopNav = () => {
               </a>
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
-                  <Link to="/team" className="active:bg-[#d83616] text-2xl">
+                  <Link to="/team" className="active:bg-[#d83616] text-xl">
                     Organizing Team
                   </Link>
                 </li>
