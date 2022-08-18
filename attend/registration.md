@@ -7,7 +7,7 @@ title: International Society for Music Information Retrieval
 
 Registration is now open for ISMIR 2022! Please be aware that by registering, you agree to abide by the [ISMIR 2022 Code of Conduct](https://ismir2022.ismir.net/codeofconduct). ISMIR 2022 will be a hybrid conference allowing all registrants to choose to attend the event virtually or in-person in Bengaluru. We encourage participants to register for the conference early, especially if you plan to attend ISMIR 2022 in-person to allow sufficient time to obtain a visa and make appropriate travel plans. 
 
-<a href="https://www.townscript.com/e/ismir2022-register" target="_blank"><button class="reg">Register for ISMIR 2022</button></a>
+<a href="https://www.townscript.com/v2/e/ismir2022-register/booking/tickets" target="_blank"><button class="reg">Register for ISMIR 2022</button></a>
 <br>
 
 <table class="reg">
@@ -249,6 +249,15 @@ Registration is now open for ISMIR 2022! Please be aware that by registering, yo
 ### Cancellation Policy:							
 * Kindly send the cancellation requests to [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net), on or before September 30, 2022 (18.00 hrs IST). Cancellations or changes will not be accepted over the phone. Upon cancellation, registration fee will be refunded after deducting 20% of the fees paid (and associated taxes) as administration fees, within 30 business days. 
 * No refunds will be made for cancellation requests received after September 30, 2022 (18.00 hrs IST). 	
+
+### FAQ
+#### Q. My payment through a credit/debit card has been declined while paying in INR. Do I have any alternatives modes of payment?
+
+A. We have been seeing some payment issues with credit cards that do not support second factor authentication and those from certain banks some of the times. In case you see any payment issues during registration with the INR denominated tickets, we suggest you to please register using the equivalent USD denominated ticket that are available on the registration portal, e.g. "Student (Virtual Participant) - Early Bird (USD)" instead of "Student (Virtual Participant) - Early Bird". The USD tickets are equivalent to the INR tickets and let you choose the same add-ons and options, except that they use a different payment processor and are expected to solve the issue with payment declines. 
+
+#### Q. I have been provided with a discount code to register. How do I use the code and complete registration? 
+
+A. Discount code you've been provided is personalized to you and is applicable to only specific categories of tickets. To register with this code, please visit the registration portal and enter the provided discount code in the "APPLY ACCESS/DISCOUNT CODE" box that you will see at the top right of the page. Once the code is applied, the waiver/grant is applied automatically to all eligible tickets. Please choose the category appropriate to you and continue with registration filling in all needed details. 
 
 ### Enquiries:
 Please write to us at [ismir2022-registration@ismir.net](mailto:ismir2022-registration@ismir.net) if you have any questions about registering and attending ISMIR 2022. 
