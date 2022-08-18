@@ -7,7 +7,7 @@ const Sponsors = () => {
       <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
         Sponsors
       </h1>
-      <div className="space-y-3">
+      <div className="space-y-20">
         <div className="text-center text-3xl font-bold space-y-5">
           <div className="bg-gradient-to-r from-transparent via-gray-400 p-3">
             <p>Platinum</p>

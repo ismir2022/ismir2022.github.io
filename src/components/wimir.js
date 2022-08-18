@@ -32,13 +32,13 @@ const Wimir = () => {
             Sponsors
           </h1>
         </div>
-        <div className="space-y-3">
+        <div className="space-y-20">
           <div className="text-center text-3xl font-bold space-y-5">
             <div className="bg-gradient-to-r from-transparent via-gray-400 p-3">
               <p>Patron</p>
             </div>
             <div className="flex flex-row justify-center">
-              <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-5 place-items-evenly md:space-y-0 lg:space-y-0 justify-center items-center">
+              <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-5 place-items-evenly md:space-y-0 lg:space-y-0  items-center">
                 <div>
                   <a href="https://research.atspotify.com/" target="_blank">
                     <StaticImage
