@@ -13,6 +13,9 @@ title: International Society for Music Information Retrieval
         <td class="sponsorsection" colspan="2">
             <a href="https://research.atspotify.com/" target="_blank"><img src="/assets/sponsors/Spotify-logo.png" alt="Avatar" class="platinum-wrapper"></a>
         </td>
+        <td class="sponsorsection" colspan="2">
+            <a href="https://moises.ai/" target="_blank"><img src="/assets/sponsors/Moises_logo.png" alt="Avatar" class="platinum-wrapper"></a>
+        </td>
     </tr>
     <tr>
        <td>&nbsp;</td>
