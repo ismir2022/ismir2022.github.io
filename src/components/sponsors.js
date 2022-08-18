@@ -24,6 +24,16 @@ const Sponsors = () => {
                   />
                 </a>
               </div>
+              <div>
+                <a href="https://moises.ai/" target="_blank">
+                  <StaticImage
+                    src="../images/sponsors/Moises_logo.png"
+                    alt="spotify"
+                    objectFit="contain"
+                    width={500}
+                  />
+                </a>
+              </div>
             </div>
           </div>
         </div>
