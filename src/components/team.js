@@ -17,6 +17,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/preeti-rao.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -30,6 +31,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/hema-murthy.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -43,6 +45,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/ajay-srinivasamurthy.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -61,6 +64,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/masataka-goto.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -74,6 +78,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/rafael-caro-repetto.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -87,6 +92,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/xavier-serra.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -100,6 +106,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/rachel-bittner.jpeg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -118,6 +125,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/vipul-arora.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -131,6 +139,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/keunwoo-choi.jpeg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -144,6 +153,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/sri-rama-murthy.jpeg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -162,6 +172,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/siddharth-gururani.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -175,6 +186,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/sanjeel-parekh.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -193,6 +205,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/kaustuv-kanti-ganguli.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -206,6 +219,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/sumitra-ranganathan.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -224,6 +238,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/marius-miron.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -242,6 +257,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/joe-cheri.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -255,6 +271,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/pratibha-moogi.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -268,6 +285,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/rishikesh-daoo.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -286,6 +304,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/ranjani.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -299,6 +318,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/xiao-hu.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -312,6 +332,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/makarand-velankar.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -330,6 +351,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/vinoo-alluri.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -348,6 +370,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/chandrasekhar.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -363,6 +386,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/sharath.jpeg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -381,6 +405,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/chitralekha-gupta.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -394,6 +419,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/ashvala-vinay.jpeg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -412,6 +438,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/albin.png"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -425,6 +452,7 @@ const Team = () => {
                   <StaticImage
                     src="../images/team/vishnu-srinivasa-murthy.jpg"
                     objectFit="contain"
+                    placeholder="blurred"
                     height={130}
                     width={130}
                   />
@@ -444,6 +472,7 @@ const Team = () => {
                     <StaticImage
                       src="../images/volunteers/sangsaptak-pal.jpg"
                       objectFit="contain"
+                      placeholder="blurred"
                       height={150}
                       width={150}
                     />
@@ -470,6 +499,7 @@ const Team = () => {
                     <StaticImage
                       src="../images/volunteers/gowriprasad-r.jpg"
                       objectFit="contain"
+                      placeholder="blurred"
                       height={120}
                       width={120}
                     />

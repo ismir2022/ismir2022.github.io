@@ -11,6 +11,7 @@ const Footer = () => {
             src="../images/footer/iitb.png"
             alt="iitb"
             objectFit="contain"
+            placeholder="blurred"
             width={100}
           />
         </div>
@@ -19,6 +20,7 @@ const Footer = () => {
             src="../images/footer/iitm.png"
             alt="iitb"
             objectFit="contain"
+            placeholder="blurred"
             width={100}
             height={100}
           />
@@ -28,6 +30,7 @@ const Footer = () => {
             src="../images/footer/iisc.png"
             alt="iitb"
             objectFit="contain"
+            placeholder="blurred"
             width={100}
             height={100}
           />
@@ -37,6 +40,7 @@ const Footer = () => {
             src="../images/footer/ime.png"
             alt="iitb"
             objectFit="contain"
+            placeholder="blurred"
             width={100}
           />
         </div>
@@ -45,6 +49,7 @@ const Footer = () => {
             src="../images/footer/ismir.png"
             alt="iitb"
             objectFit="contain"
+            placeholder="blurred"
             width={100}
           />
         </div>
@@ -85,7 +90,9 @@ const Footer = () => {
       <div className="flex flex-col items-center justify-center px-5 break-word text-center">
         <p>© 2022 ISMIR 2022.</p>
         <p> All rights reserved.</p>
-        <p>ISMIR 2022 logo designed by Mrinali Kamath and graphics designed by Vivek Vasudev
+        <p>
+          ISMIR 2022 logo designed by Mrinali Kamath and graphics designed by
+          Vivek Vasudev
         </p>
       </div>
     </div>

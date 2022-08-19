@@ -45,6 +45,7 @@ const Wimir = () => {
                       src="../images/sponsors/Spotify-logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={400}
                     />
                   </a>
@@ -55,6 +56,7 @@ const Wimir = () => {
                       src="../images/sponsors/deezer_logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={400}
                     />
                   </a>
@@ -75,6 +77,7 @@ const Wimir = () => {
                       src="../images/sponsors/Adobe-logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={200}
                     />
                   </a>
@@ -86,6 +89,7 @@ const Wimir = () => {
                       src="../images/sponsors/Soundwide-logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={200}
                     />
                   </a>
@@ -96,6 +100,7 @@ const Wimir = () => {
                       src="../images/sponsors/SiriusPandora_logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={200}
                     />
                   </a>
@@ -116,6 +121,7 @@ const Wimir = () => {
                       src="../images/sponsors/Steinberg-logo.png"
                       alt="spotify"
                       objectFit="contain"
+                      placeholder="blurred"
                       width={150}
                     />
                   </a>

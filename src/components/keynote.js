@@ -13,6 +13,7 @@ const Keynote = () => {
             src="../images/TMKrishna.jpg"
             alt="TMKRISHNA"
             objectFit="contain"
+            placeholder="blurred"
             height={200}
             width={200}
           />
@@ -60,6 +61,7 @@ const Keynote = () => {
             src="../images/richa_singh.jpg"
             height={200}
             width={200}
+            placeholder="blurred"
           />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">

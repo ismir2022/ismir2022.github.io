@@ -212,17 +212,19 @@ const TopNav = () => {
               </li>
             </ul>
           </div>
-          <Link
-            to="/"
-            class="btn btn-ghost h-fit items-center lg:ml-5 w-[190px] md:max-w-[230px]"
-          >
-            <StaticImage
-              src="../images/ismir2022logo.png"
-              alt="ismirlogo"
-              objectFit="contain"
-              placeholder="blurred"
-            />
-          </Link>
+          <div className="w-[190px] lg:w-[230px] lg:ml-5 items-center">
+            <Link
+              to="/"
+              class="btn btn-ghost h-fit"
+            >
+              <StaticImage
+                src="../images/ismir2022logo.png"
+                alt="ismirlogo"
+                objectFit="contain"
+                placeholder="blurred"
+              />
+            </Link>
+          </div>
         </div>
         <div class="navbar-center hidden lg:flex text-[#d83616]">
           <ul class="menu menu-horizontal p-0">

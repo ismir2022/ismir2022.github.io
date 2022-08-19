@@ -18,7 +18,7 @@ const Sponsors = () => {
                 <a href="https://research.atspotify.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Spotify-logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={500}
                   />
@@ -28,7 +28,7 @@ const Sponsors = () => {
                 <a href="https://moises.ai/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Moises_logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={500}
                   />
@@ -48,7 +48,7 @@ const Sponsors = () => {
                 <a href="https://indsca.web.app/about" target="_blank">
                   <StaticImage
                     src="../images/sponsors/IndSCA-logo.png"
-                    alt="IndSCA-logo"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -58,7 +58,7 @@ const Sponsors = () => {
                 <a href="https://www.adobe.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Adobe-logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -68,7 +68,7 @@ const Sponsors = () => {
                 <a href="https://deezer.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/deezer_logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -78,7 +78,7 @@ const Sponsors = () => {
                 <a href="https://utopiamusic.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Utopia-Logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -88,7 +88,7 @@ const Sponsors = () => {
                 <a href="https://www.siriusxm.com/pandora" target="_blank">
                   <StaticImage
                     src="../images/sponsors/SiriusPandora_logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -98,7 +98,7 @@ const Sponsors = () => {
                 <a href="https://www.smule.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/smule_logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={200}
                   />
@@ -118,7 +118,7 @@ const Sponsors = () => {
                 <a href="https://www.steinberg.net/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Steinberg-logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={150}
                   />
@@ -128,7 +128,7 @@ const Sponsors = () => {
                 <a href="https://www.izotope.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/Soundwide-logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={150}
                   />
@@ -148,7 +148,7 @@ const Sponsors = () => {
                 <a href="https://www.acrcloud.com/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/ACRCloud-logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={100}
                   />
@@ -158,7 +158,7 @@ const Sponsors = () => {
                 <a href="https://www.cochl.ai/" target="_blank">
                   <StaticImage
                     src="../images/sponsors/cochl_logo.png"
-                    alt="spotify"
+                    placeholder="blurred"
                     objectFit="contain"
                     width={100}
                   />
