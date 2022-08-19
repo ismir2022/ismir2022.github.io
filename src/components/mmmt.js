@@ -18,7 +18,10 @@ const Mmmt = () => {
         <p className="text-xl font-bold">
           Workshop Chair:{" "}
           <span className="text-[#d83616]">
-            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/" target="_blank">
+            <a
+              href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/"
+              target="_blank"
+            >
               Vinoo Alluri
             </a>
           </span>
@@ -26,7 +29,10 @@ const Mmmt = () => {
         </p>
         <p className="text-xl font-bold">
           <span className="text-[#d83616]">
-            <a href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/" target="_blank">
+            <a
+              href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/"
+              target="_blank"
+            >
               Download Poster
             </a>
           </span>
@@ -48,14 +54,18 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Opening Keynote</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://github.com/jjau" target="_blank">Jean-Julien Aucouturier</a>
+            <a href="https://github.com/jjau" target="_blank">
+              Jean-Julien Aucouturier
+            </a>
           </span>
           , <span className="text-gray-500">FEMTO-ST Institute</span>
         </p>
         <p className="text-xl font-bold">Music and Health</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="http://www.katagres.com/" target="_blank">Kat Agres</a>
+            <a href="http://www.katagres.com/" target="_blank">
+              Kat Agres
+            </a>
           </span>
           ,{" "}
           <span className="text-gray-500">
@@ -64,7 +74,10 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en" target="_blank">
+            <a
+              href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en"
+              target="_blank"
+            >
               Suvi Saarikallio
             </a>
           </span>
@@ -73,7 +86,9 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Culture</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://www.norijacoby.com/" target="_blank">Nori Jacoby</a>
+            <a href="https://www.norijacoby.com/" target="_blank">
+              Nori Jacoby
+            </a>
           </span>
           ,{" "}
           <span className="text-gray-500">
@@ -83,20 +98,27 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://tuomaseerola.github.io/" target="_blank">Tuomas Eerola</a>
+            <a href="https://tuomaseerola.github.io/" target="_blank">
+              Tuomas Eerola
+            </a>
           </span>
           , <span className="text-gray-500">Durham University</span>
         </p>
         <p className="text-xl font-bold">Music Perception</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://webspace.science.uu.nl/~fleis102/" target="_blank">Anja Volk</a>
+            <a href="https://webspace.science.uu.nl/~fleis102/" target="_blank">
+              Anja Volk
+            </a>
           </span>
           , <span className="text-gray-500">Utrecht University</span>
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/" target="_blank">
+            <a
+              href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/"
+              target="_blank"
+            >
               Petri Toiviainen
             </a>
           </span>
@@ -105,7 +127,10 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Gestures</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ" target="_blank">
+            <a
+              href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ"
+              target="_blank"
+            >
               Martin Clayton{" "}
             </a>
           </span>
@@ -113,7 +138,10 @@ const Mmmt = () => {
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en" target="_blank">
+            <a
+              href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en"
+              target="_blank"
+            >
               Marcelo Wanderley
             </a>
           </span>
@@ -122,13 +150,18 @@ const Mmmt = () => {
         <p className="text-xl font-bold">Music and Neuroscience</p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">Blair Kaneshiro</a>
+            <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">
+              Blair Kaneshiro
+            </a>
           </span>
           , <span className="text-gray-500">Stanford University</span>
         </p>
         <p className="text-xl">
           <span className="text-[#d83616]">
-            <a href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en" target="_blank">
+            <a
+              href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en"
+              target="_blank"
+            >
               Peter Keller
             </a>
           </span>
@@ -150,55 +183,57 @@ const Mmmt = () => {
           The registration fee for the workshop are as follows:
         </p>
         {/* Will contain table */}
-        <table className="table w-full">
-          <tbody>
-            <tr className="">
-              <th className="bg-gray-400">CATEGORY</th>
-              <th className="bg-gray-400" colSpan={3}>
-                Prices in INR, exclusive of 18% GST
-              </th>
-              {/* <td bgcolor="#f2f3f4" rowspan="27" width="0.1"></td> */}
-              <th className="bg-gray-400" colSpan={3}>
-                Prices in INR, inclusive of 18% GST
-              </th>
-            </tr>
-            <tr className="">
-              <th className="bg-gray-300" rowSpan={2} />
-              <th className="bg-gray-300">Early Bird</th>
-              <th className="bg-gray-300">Regular</th>
-              <th className="bg-gray-300">On-site</th>
-              <th className="bg-gray-300">Early Bird</th>
-              <th className="bg-gray-300">Regular</th>
-              <th className="bg-gray-300">On-site</th>
-            </tr>
-            <tr className="">
-              <th className="bg-gray-300">Until Aug 31</th>
-              <th className="bg-gray-300">Sep 1 - Nov 25</th>
-              <th className="bg-gray-300">Dec 02 - 03</th>
-              <th className="bg-gray-300">Until Aug 31</th>
-              <th className="bg-gray-300">Sep 1 - Nov 25</th>
-              <th className="bg-gray-300">Dec 02 - 03</th>
-            </tr>
-            <tr className="">
-              <td className="bg-white">Student (In-person or virtual)</td>
-              <td className="bg-white">₹1,000</td>
-              <td className="bg-white">₹1,200</td>
-              <td className="bg-white">₹1,200</td>
-              <td className="bg-white">₹1,180</td>
-              <td className="bg-white">₹1,416</td>
-              <td className="bg-white">₹1,416</td>
-            </tr>
-            <tr className="">
-              <td className="bg-white">Full (In-person or virtual)</td>
-              <td className="bg-white">₹2,200</td>
-              <td className="bg-white">₹2,500</td>
-              <td className="bg-white">₹2,500</td>
-              <td className="bg-white">₹2,596</td>
-              <td className="bg-white">₹2,950</td>
-              <td className="bg-white">₹2,950</td>
-            </tr>
-          </tbody>
-        </table>
+        <div className="overflow-x-scroll">
+          <table className="table w-full">
+            <tbody>
+              <tr className="">
+                <th className="bg-gray-400">CATEGORY</th>
+                <th className="bg-gray-400" colSpan={3}>
+                  Prices in INR, exclusive of 18% GST
+                </th>
+                {/* <td bgcolor="#f2f3f4" rowspan="27" width="0.1"></td> */}
+                <th className="bg-gray-400" colSpan={3}>
+                  Prices in INR, inclusive of 18% GST
+                </th>
+              </tr>
+              <tr className="">
+                <th className="bg-gray-300" rowSpan={2} />
+                <th className="bg-gray-300">Early Bird</th>
+                <th className="bg-gray-300">Regular</th>
+                <th className="bg-gray-300">On-site</th>
+                <th className="bg-gray-300">Early Bird</th>
+                <th className="bg-gray-300">Regular</th>
+                <th className="bg-gray-300">On-site</th>
+              </tr>
+              <tr className="">
+                <th className="bg-gray-300">Until Aug 31</th>
+                <th className="bg-gray-300">Sep 1 - Nov 25</th>
+                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-gray-300">Until Aug 31</th>
+                <th className="bg-gray-300">Sep 1 - Nov 25</th>
+                <th className="bg-gray-300">Dec 02 - 03</th>
+              </tr>
+              <tr className="">
+                <td className="bg-white">Student (In-person or virtual)</td>
+                <td className="bg-white">₹1,000</td>
+                <td className="bg-white">₹1,200</td>
+                <td className="bg-white">₹1,200</td>
+                <td className="bg-white">₹1,180</td>
+                <td className="bg-white">₹1,416</td>
+                <td className="bg-white">₹1,416</td>
+              </tr>
+              <tr className="">
+                <td className="bg-white">Full (In-person or virtual)</td>
+                <td className="bg-white">₹2,200</td>
+                <td className="bg-white">₹2,500</td>
+                <td className="bg-white">₹2,500</td>
+                <td className="bg-white">₹2,596</td>
+                <td className="bg-white">₹2,950</td>
+                <td className="bg-white">₹2,950</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         <p className="text-xl">
           The registration fee for the workshop is the same for in-person or
           virtual attendance at the workshop. The convenient way to register for
@@ -212,7 +247,10 @@ const Mmmt = () => {
         </p>
         {/* Will contain button */}
         <button class="btn btn-md  btn-outline text-[#d83616]">
-          <a href="https://www.townscript.com/e/mmmt-workshop-register" target="_blank">
+          <a
+            href="https://www.townscript.com/e/mmmt-workshop-register"
+            target="_blank"
+          >
             Register for MMMT
           </a>
         </button>
@@ -292,7 +330,9 @@ const Mmmt = () => {
         <p className="text-xl">
           Please write to us at{" "}
           <span className="text-[#d83616]">
-            <a href="mailto:vinoo.alluri@iiit.ac.in" target="_blank">vinoo.alluri@iiit.ac.in</a>
+            <a href="mailto:vinoo.alluri@iiit.ac.in" target="_blank">
+              vinoo.alluri@iiit.ac.in
+            </a>
           </span>
           if you have any questions about registering and attending MMMT
           workshop.

@@ -56,8 +56,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-2xl">
               <p>Platinum</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 750,000</p>
+            <p className="text-xl font-bold">INR 400,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>
                 Large sized logo and company name on the conference website and
                 proceedings
@@ -94,8 +94,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-2xl">
               <p>Gold</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 400,000</p>
+            <p className="text-xl font-bold">INR 400,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>
                 Medium sized logo and company name on the conference website and
                 proceedings
@@ -129,8 +129,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-2xl">
               <p>Silver</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 200,000</p>
+            <p className="font-bold text-xl">INR 200,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>
                 Small sized logo and company name on the conference website and
                 proceedings
@@ -163,17 +163,17 @@ const Sponsorships = () => {
             </div>
           </div>
         </div>
-        <p className="text-xl">
+        <p className="text-xl font-medium">
           In addition to Platinum, Gold and Silver tiers, we also offer
           sponsorship to ISMIR 2022 as a Supporter with the following limited
           benefits:
         </p>
-        <div className="text-center gap-y-5 space-y-5">
+        <div className="text-center gap-y-5 space-y-5 w-1/3">
           <div className="bg-gradient-to-r from-transparent via-orange-400 font-bold text-2xl">
             <p>Supporter</p>
           </div>
-          <div className="gap-y-3 text-xl">
-            <p className="font-bold">INR 100,000</p>
+            <p className="font-bold text-xl">INR 100,000</p>
+          <div className="space-y-3 text-xl text-left">
             <p>
               Small sized logo and company name on the conference website and
               proceedings
@@ -195,8 +195,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-2xl">
               <p>Patron</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 350,000</p>
+            <p className="text-xl font-bold">INR 350,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Large logo acknowledgment in dedicated WiMIR program elements*
@@ -208,8 +208,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-2xl">
               <p>Contributor</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 150,000</p>
+            <p className="font-bold text-xl">INR 150,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Medium logo acknowledgment in dedicated WiMIR program elements*
@@ -220,8 +220,8 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-2xl">
               <p>Supporter</p>
             </div>
-            <div className="gap-y-3 text-xl">
-              <p className="font-bold">INR 75,000</p>
+            <p className="font-bold text-xl">INR 75,000</p>
+            <div className="space-y-3 text-xl text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Small logo acknowledgment in dedicated WiMIR program elements*
@@ -229,7 +229,7 @@ const Sponsorships = () => {
             </div>
           </div>
         </div>
-        <p className="text-xl">
+        <p className="text-xl font-medium">
           * Dedicated WiMIR program elements may include any of the following:
           WiMIR/D&I page of ISMIR2022 conference website; official WiMIR/D&I
           presentations during the ISMIR2022 conference; WiMIR/D&I blog post
