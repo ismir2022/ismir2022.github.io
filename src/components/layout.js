@@ -15,6 +15,7 @@ export default function Layout({ children }) {
         />
       </div>
       {children}
+      <div className="border-solid border-t-slate-400 border-2"></div>
       <Footer />
     </div>
   );

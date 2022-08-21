@@ -256,7 +256,6 @@ const Registration = () => {
             </tbody>
           </table>
         </div>
-        {/* Will contain registration table */}
         <p className="text-2xl font-bold">
           Registration benefits (Virtual participation)
         </p>
@@ -415,6 +414,38 @@ const Registration = () => {
             September 30, 2022 (18.00 hrs IST).
           </li>
         </ul>
+        <p className="text-2xl font-bold">FAQ</p>
+        <p className="text-xl font-bold">
+          Q. My payment through a credit/debit card has been declined while
+          paying in INR. Do I have any alternatives modes of payment?
+        </p>
+        <p className="text-xl ">
+          A. We have been seeing some payment issues with credit cards that do
+          not support second factor authentication and those from certain banks
+          some of the times. In case you see any payment issues during
+          registration with the INR denominated tickets, we suggest you to
+          please register using the equivalent USD denominated ticket that are
+          available on the registration portal, e.g. “Student (Virtual
+          Participant) - Early Bird (USD)” instead of “Student (Virtual
+          Participant) - Early Bird”. The USD tickets are equivalent to the INR
+          tickets and let you choose the same add-ons and options, except that
+          they use a different payment processor and are expected to solve the
+          issue with payment declines.
+        </p>
+        <p className="text-xl font-bold">
+          Q. I have been provided with a discount code to register. How do I use
+          the code and complete registration?
+        </p>
+        <p className="text-xl ">
+          A. Discount code you’ve been provided is personalized to you and is
+          applicable to only specific categories of tickets. To register with
+          this code, please visit the registration portal and enter the provided
+          discount code in the “APPLY ACCESS/DISCOUNT CODE” box that you will
+          see at the top right of the page. Once the code is applied, the
+          waiver/grant is applied automatically to all eligible tickets. Please
+          choose the category appropriate to you and continue with registration
+          filling in all needed details.
+        </p>
         <p className="text-2xl font-bold">Enquiries:</p>
         <p className="text-xl">
           Please write to us at{" "}
