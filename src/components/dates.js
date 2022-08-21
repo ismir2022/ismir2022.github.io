@@ -168,7 +168,7 @@ const Dates = () => {
           <div className="flex flex-col space-y-5 md:text-xl">
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">LBD Submission Deadline</p>
-              <p className="breakword">TBD</p>
+              <p className="breakword">December 2, 2022</p>
             </div>
           </div>
         </div>
