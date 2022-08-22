@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: "/gatsby-github-pages",
+  pathPrefix: "/ismir2022.ismir.net",
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://ismir2022.ismir.net`,
   },
   plugins: [
     "gatsby-plugin-postcss",
