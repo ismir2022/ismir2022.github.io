@@ -43,11 +43,11 @@ const Team = () => {
               <div class="avatar">
                 <div class="w-25 rounded-full">
                   <StaticImage
-                    src="../images/team/ajay.png"
+                    src="../images/team/ajay-srinivasamurthy.jpg"
                     objectFit="contain"
                     placeholder="blurred"
-                    height={130}
-                    width={130}
+                    height={129}
+                    width={129}
                   />
                 </div>
               </div>
@@ -236,11 +236,11 @@ const Team = () => {
               <div class="avatar">
                 <div class="w-25 rounded-full">
                   <StaticImage
-                    src="../images/team/marius-miron.png"
+                    src="../images/team/marius.png"
                     objectFit="contain"
                     placeholder="blurred"
-                    height={130}
-                    width={130}
+                    height={125}
+                    width={125}
                   />
                 </div>
               </div>
@@ -349,7 +349,7 @@ const Team = () => {
               <div class="avatar">
                 <div class="w-25 rounded-full">
                   <StaticImage
-                    src="../images/team/vinoo-alluri.jpg"
+                    src="../images/team/vinoo.jpg"
                     objectFit="contain"
                     placeholder="blurred"
                     height={130}
