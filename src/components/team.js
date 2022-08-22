@@ -43,7 +43,7 @@ const Team = () => {
               <div class="avatar">
                 <div class="w-25 rounded-full">
                   <StaticImage
-                    src="../images/team/ajay-srinivasamurthy.png"
+                    src="../images/team/ajay.png"
                     objectFit="contain"
                     placeholder="blurred"
                     height={130}
