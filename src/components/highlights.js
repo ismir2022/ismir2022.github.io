@@ -26,7 +26,7 @@ const Highlights = () => {
               >
                 Tutorials
               </a>
-            </span>
+            </span>{" "}
             and{" "}
             <span className="text-[#d83616]">
               <a
