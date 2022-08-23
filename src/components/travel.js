@@ -212,7 +212,7 @@ const Travel = () => {
             ></iframe>
           </p>
         </div>
-        <p className="text-2xl font-bold">Travel</p>
+        <p className="text-2xl font-bold">Visa Guidelines</p>
         <p className="text-xl">
           The information on this page is provided as general guidance for
           securing a visa to travel to India to attend the ISMIR 2022
