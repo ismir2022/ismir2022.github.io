@@ -63,12 +63,14 @@ const LBD = () => {
             for bibliography only.
           </li>
           <li>
-            Templates: make sure to use the latest templates for LBD (available
+            Templates: make sure to use the latest templates for LBD (<a href="https://github.com/ismir/paper_templates/releases/tag/2022LBD">available</a>
             for Latex and Word). Submissions must be in PDF format.
           </li>
           <li>
             Submission system: please submit the paper to
-            https://cmt3.research.microsoft.com/ISMIR2022/ (Author console -
+            
+            <a href="https://cmt3.research.microsoft.com/ISMIR2022/">https://cmt3.research.microsoft.com/ISMIR2022/</a>
+             (Author console -
             {">"}
             Create new submission -{">"} Late-Breaking/Demo)
           </li>
