@@ -478,7 +478,9 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium">Sangsaptak Pal</p>
+                <p className="text-md font-medium text-center">
+                  Sangsaptak Pal
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
@@ -505,7 +507,7 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium">Gowriprasad R</p>
+                <p className="text-md font-medium text-center">Gowriprasad R</p>
               </div>
               <div>
                 <p className="text-md break-word">
@@ -513,6 +515,32 @@ const Team = () => {
                   Technology, Madras, India. He is interested in MIR tasks in
                   Indian rhythm. He plays the Indian percussion instrument
                   Tabla.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-row gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/milind-barman.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Milind Barman</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am currently pursuing my B.Tech in Electronics and
+                  Instrumentation in National Institute of Technology, Silchar.
+                  I have been deeply involved with music since my childhood and
+                  have been playing the guitar since 2010. I am very passionate
+                  about everything related to music and technology, so being a
+                  part of this project is truly an honour.
                 </p>
               </div>
             </div>

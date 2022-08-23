@@ -453,9 +453,8 @@ const Registration = () => {
             <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
               ismir2022-registration@ismir.net
             </a>
-          </span>
-          .net if you have any questions about registering and attending ISMIR
-          2022.
+          </span>{" "}
+          if you have any questions about registering and attending ISMIR 2022.
         </p>
       </div>
     </div>

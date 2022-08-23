@@ -35,7 +35,7 @@ const Highlights = () => {
               >
                 Satellite Events
               </a>
-            </span>
+            </span>{" "}
             at ISMIR 2022 is now available
           </li>
           <li>
