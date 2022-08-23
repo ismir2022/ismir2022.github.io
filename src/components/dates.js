@@ -47,10 +47,10 @@ const Dates = () => {
           <h3 className="text-2xl font-bold  text-[#d83616]">Grants</h3>
           <div className="flex flex-col space-y-5 md:text-xl">
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Grant applications for registration waivers open
               </p>
-              <p className="breakword">July 14, 2022</p>
+              <p className="breakword line-through">July 14, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword line-through">
