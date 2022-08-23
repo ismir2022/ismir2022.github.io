@@ -14,8 +14,8 @@ const Dates = () => {
               <p className="breakword line-through">July 14, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">Author registration deadline</p>
-              <p className="breakword">August 12, 2022</p>
+              <p className="w-1/2 breakword line-through">Author registration deadline</p>
+              <p className="breakword line-through">August 12, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">
@@ -53,26 +53,26 @@ const Dates = () => {
               <p className="breakword">July 14, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Application deadline for Author grants
               </p>
-              <p className="breakword">July 25, 2022</p>
+              <p className="breakword line-through">July 25, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">Author grant notifications</p>
-              <p className="breakword">Aug 3, 2022</p>
+              <p className="w-1/2 breakword line-through">Author grant notifications</p>
+              <p className="breakword line-through">Aug 3, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Application deadline for Music Author grants and WiMIR grants
               </p>
-              <p className="breakword">Aug 19, 2022</p>
+              <p className="breakword line-through">Aug 19, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Grant notifications for Music Author grants and WiMIR grants
               </p>
-              <p className="breakword">Aug 19, 2022</p>
+              <p className="breakword line-through">Aug 24, 2022</p>
             </div>
           </div>
         </div>
@@ -125,12 +125,12 @@ const Dates = () => {
               <p className="breakword line-through">July 10, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">Music submission deadline</p>
-              <p className="breakword">July 31, 2022</p>
+              <p className="w-1/2 breakword line-through">Music submission deadline</p>
+              <p className="breakword line-through">July 31, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">Notification of acceptance</p>
-              <p className="breakword">Aug 15, 2022</p>
+              <p className="w-1/2 breakword line-through">Notification of acceptance</p>
+              <p className="breakword line-through">Aug 15, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">
