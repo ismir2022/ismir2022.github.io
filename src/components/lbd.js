@@ -65,8 +65,13 @@ const LBD = () => {
             for bibliography only.
           </li>
           <li>
-            Templates: make sure to use the latest templates for LBD (<a href="https://github.com/ismir/paper_templates/releases/tag/2022LBD">available for Latex and Word</a>
-            ). Submissions must be in PDF format.
+            Templates: make sure to use the latest templates for LBD {" "} 
+            <span className="text-[#d83616]">
+              (<a href="https://github.com/ismir/paper_templates/releases/tag/2022LBD">
+                available for Latex and Word
+              </a>)
+            </span> 
+            . Submissions must be in PDF format.
           </li>
           <li>
             Submission system: please submit the LBD extended abstract to {" "}
