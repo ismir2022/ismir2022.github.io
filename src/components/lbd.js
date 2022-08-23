@@ -96,8 +96,8 @@ const LBD = () => {
           <li>Formatting</li>
         </ul>
         <p className="text-xl">
-          For additional information, you can reach the session chairs via email
-          at ismir2022-lbd@ismir.net.
+          For additional information, you can reach the LBD session chairs via email
+          at <a href="mailto:ismir2022-lbd@ismir.net">ismir2022-lbd@ismir.net</a> 
         </p>
       </div>
     </div>
