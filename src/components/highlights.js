@@ -49,17 +49,6 @@ const Highlights = () => {
               </a>
             </span>
           </li>
-          <li>
-            Several author and WiMIR grants for ISMIR 2022 are available -{" "}
-            <span className="text-[#d83616]">
-              <a
-                href="https://ismir2022.ismir.net/attend/support"
-                target="_blank"
-              >
-                Apply for grants
-              </a>
-            </span>
-          </li>
         </ul>
       </div>
     </div>
