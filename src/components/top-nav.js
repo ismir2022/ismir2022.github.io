@@ -74,7 +74,7 @@ const TopNav = () => {
                   <ul class="bg-white text-[#ff7a7a]">
                     <li>
                       <Link
-                        to="/programs/keynotes"
+                        to="/program/keynotes"
                         className="active:bg-none text-xl"
                       >
                         Keynote Speakers
@@ -82,7 +82,7 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
-                        to="/programs/tutorials"
+                        to="/program/tutorials"
                         className="active:bg-none text-xl"
                       >
                         Tutorials
@@ -90,7 +90,7 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
-                        to="/programs/satellites"
+                        to="/program/satellites"
                         className="active:bg-none text-xl"
                       >
                         Satellite Events
@@ -213,10 +213,7 @@ const TopNav = () => {
             </ul>
           </div>
           <div className="w-[190px] lg:w-[230px] lg:ml-5 items-center">
-            <Link
-              to="/"
-              class="btn btn-ghost h-fit"
-            >
+            <Link to="/" class="btn btn-ghost h-fit">
               <StaticImage
                 src="../images/ismir2022logo.png"
                 alt="ismirlogo"
@@ -288,7 +285,7 @@ const TopNav = () => {
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
                 <li>
                   <Link
-                    to="/programs/keynotes"
+                    to="/program/keynotes"
                     className="active:bg-[#d83616] text-xl"
                   >
                     Keynote Speakers
@@ -296,7 +293,7 @@ const TopNav = () => {
                 </li>
                 <li>
                   <Link
-                    to="/programs/tutorials"
+                    to="/program/tutorials"
                     className="active:bg-[#d83616] text-xl"
                   >
                     Tutorials
@@ -304,7 +301,7 @@ const TopNav = () => {
                 </li>
                 <li>
                   <Link
-                    to="/programs/satellites"
+                    to="/program/satellites"
                     className="active:bg-[#d83616] text-xl"
                   >
                     Satellite Events
