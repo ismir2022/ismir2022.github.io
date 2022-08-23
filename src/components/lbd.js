@@ -21,7 +21,7 @@ const LBD = () => {
           and submit extended abstracts through the system. The accepted
           abstracts must be presented by at least one author as a poster during
           the LBD session. Authors’ registration to the conference is mandatory
-          but can be completed after the notification of acceptance.
+          but can be completed after the notification of acceptance. 
           <span className="break-word font-medium">
             Note that the LBD abstract is not a conference paper and will not be
             part of the official ISMIR 2022 proceedings.
@@ -67,7 +67,7 @@ const LBD = () => {
             ). Submissions must be in PDF format.
           </li>
           <li>
-            Submission system: please submit the paper to
+            Submission system: please submit the LBD extended abstract to
             
             <a href="https://cmt3.research.microsoft.com/ISMIR2022/">https://cmt3.research.microsoft.com/ISMIR2022/</a>
              (Author console -
