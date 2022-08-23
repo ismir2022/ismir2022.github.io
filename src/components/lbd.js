@@ -69,10 +69,14 @@ const LBD = () => {
             ). Submissions must be in PDF format.
           </li>
           <li>
-            Submission system: please submit the LBD extended abstract to
+            Submission system: please submit the LBD extended abstract to {" "}
             
-            <a href="https://cmt3.research.microsoft.com/ISMIR2022/">https://cmt3.research.microsoft.com/ISMIR2022/</a>
-             (Author console -
+            <span className="text-[#d83616]">
+              <a href="https://cmt3.research.microsoft.com/ISMIR2022/">
+                https://cmt3.research.microsoft.com/ISMIR2022
+              </a>
+          </span>
+          {" "} (Author console -
             {">"}
             Create new submission -{">"} Late-Breaking/Demo)
           </li>
@@ -97,7 +101,12 @@ const LBD = () => {
         </ul>
         <p className="text-xl">
           For additional information, you can reach the LBD session chairs via email
-          at <a href="mailto:ismir2022-lbd@ismir.net">ismir2022-lbd@ismir.net</a> 
+          at{" "} 
+          <span className="text-[#d83616]">
+              <a href="mailto:ismir2022-lbd@ismir.net" target="_blank">
+                ismir2022-lbd@ismir.net
+              </a>
+          </span>
         </p>
       </div>
     </div>
