@@ -43,8 +43,10 @@ const LBD = () => {
         <p className="text-xl">Time zone: Anywhere On Earth (AOE)</p>
         <p className="text-xl">Submission open: August 15 (Mon), 2022</p>
         <p className="text-xl">
-          Submission deadline: December 2 (Fri), 2022 For people needing visas
-          we strongly recommend submitting before October 14 (Mon), 2022.
+          Submission deadline: December 2 (Fri), 2022
+        </p>
+        <p className="text-xl">
+          (For people needing visas we strongly recommend submitting before October 14 (Mon), 2022)
         </p>
         <p className="text-xl">
           Notification of acceptance: Rolling. We will close submissions once we
