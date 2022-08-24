@@ -28,6 +28,7 @@ const Satellites = () => {
          conference. The Workshop is, as ever, free and open to all members of the MIR community. 
          Full program of speakers coming soon. Registration will open in late October.
         </p>
+        <br></br>
         <p className="text-2xl text-[#d83616] font-bold">
           <Link to="/satellites/mmmt">
             Music, Mind, Movement and Technology (MMMT) Workshop
@@ -55,6 +56,7 @@ const Satellites = () => {
             </a>
           </span>
         </p>
+        <br></br>
         <p className="text-2xl text-[#d83616] font-bold">
           <Link to="/satellites/ime">
             Indian Music Experience (IME) Workshop
@@ -84,6 +86,7 @@ const Satellites = () => {
             </a>
           </span>
         </p>
+        <br></br>
         <p className="text-2xl font-bold">MusicHackDay India 2022</p>
         <p className="text-xl font-bold">Dec 10-11, 2022 in Bengaluru, India</p>
         <p className="text-xl">
@@ -131,6 +134,7 @@ const Satellites = () => {
           Additional information on the event and a link to register for the
           event will be available soon!
         </p>
+        <br></br>
         <p className="text-2xl text-[#d83616] font-bold">
           <a href="https://compmusic.upf.edu/node/365" target="_blank">
             CompMusic Workshop 2022
