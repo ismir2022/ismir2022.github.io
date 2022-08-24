@@ -160,6 +160,23 @@ const Satellites = () => {
             </a>
           </span>
         </p>
+        <p className="text-2xl text-[#d83616] font-bold">
+          <a href="https://wimir.wordpress.com/" target="_blank">
+            WiMIR Workshop
+          </a>
+        </p>
+        <p className="text-2xl font-bold">
+          November 28-29, 2022 online (virtual)
+        </p>
+        <p className="text-xl">
+        The WiMIR Workshop will be two days of talks by eminent researchers in the WiMIR community, 
+        and an opportunity to network, socialize, and have discussions with peers ahead of the ISMIR
+         conference. The Workshop is, as ever, free and open to ALL members of the MIR community. 
+         Full program of speakers coming soon. Registration will be free and will open in late 
+         October.
+        </p>
+
+
       </div>
     </div>
   );
