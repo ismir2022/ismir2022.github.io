@@ -18,7 +18,7 @@ const Wimir = () => {
           <li>New-to-ISMIR paper mentoring program</li>
           <li>WiMIR keynote</li>
           <li>WiMIR plenary session (TBA)</li>
-          <li>WiMIR workshops (TBA)</li>
+          <li><a href="https://wimir.wordpress.com/" target="_blank">WiMIR workshops</a></li>
           <li>D&I waivers & grants (TBA)</li>
         </ul>
         <p className="text-xl">
