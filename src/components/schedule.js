@@ -11,7 +11,7 @@ const Schedule = () => {
       </div>
       <div className="space-y-3">
       <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
-      <p>December 2022</p>
+      <p>This is a tentative schedule of the ISMIR program this year in December 2022, and it may change in the future. Please watch this space for updates! </p>
         </div></div>
       <div className="space-y-3">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
