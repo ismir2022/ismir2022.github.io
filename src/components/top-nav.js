@@ -74,6 +74,14 @@ const TopNav = () => {
                   <ul class="bg-white text-[#ff7a7a]">
                     <li>
                       <Link
+                        to="/program/schedule"
+                        className="active:bg-none text-xl"
+                      >
+                        Schedule
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
                         to="/program/keynotes"
                         className="active:bg-none text-xl"
                       >
@@ -283,6 +291,14 @@ const TopNav = () => {
                 </svg>
               </a>
               <ul class="p-2 bg-white text-[#ff7a7a] shadow-lg z-10">
+                <li>
+                  <Link
+                    to="/program/schedule"
+                    className="active:bg-[#d83616] text-xl"
+                  >
+                    Schedule
+                  </Link>
+                </li>
                 <li>
                   <Link
                     to="/program/keynotes"
