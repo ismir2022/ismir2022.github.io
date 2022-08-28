@@ -104,6 +104,22 @@ const TopNav = () => {
                         Satellite Events
                       </Link>
                     </li>
+                    <li>
+                      <Link
+                        to="/program/papers"
+                        className="active:bg-[#d83616] text-xl"
+                      >
+                        Accepted Papers
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/program/music"
+                        className="active:bg-[#d83616] text-xl"
+                      >
+                        Accepted Music Submissions
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </li>
@@ -321,6 +337,22 @@ const TopNav = () => {
                     className="active:bg-[#d83616] text-xl"
                   >
                     Satellite Events
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/program/papers"
+                    className="active:bg-[#d83616] text-xl"
+                  >
+                    Accepted Papers
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/program/music"
+                    className="active:bg-[#d83616] text-xl"
+                  >
+                    Accepted Music Submissions
                   </Link>
                 </li>
               </ul>
