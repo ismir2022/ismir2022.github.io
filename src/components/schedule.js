@@ -8,6 +8,7 @@ const Schedule = () => {
         <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
           Tentative Schedule
         </h1>
+        <h3>December 2022</h3>
       </div>
       <div className="space-y-3">
       <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
