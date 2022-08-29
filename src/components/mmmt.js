@@ -12,9 +12,9 @@ import Marcelo_Wanderley from '../images/mmmt/Marcelo_Wanderley.jpeg';
 import Blair_Kaneshiro from '../images/mmmt/Blair_Kaneshiro.jpeg';
 import Peter_Keller from '../images/mmmt/Peter_Keller.jpeg';
 
+import poster from '../images/MMMT_poster.pdf';
 
 export const Modal = ({ src, onClose }) => {
-  console.log("Vacha2");
 
   return (
     <div className="modalcss">
@@ -68,7 +68,7 @@ const Mmmt = () =>
         <p className="text-xl font-bold">
           <span className="text-[#d83616]">
             <a
-              href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/"
+              href={poster}
               target="_blank"
             >
               Download Poster
