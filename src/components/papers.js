@@ -27,7 +27,7 @@ const Papers = () => {
             <li>Camera ready deadline: August 9, 2022</li>
           </ul>
           <p className="text-xl">
-            <span className="italic">Note:</span>
+            <span className="italic">Note: </span>
             <span className="font-bold ">
               All deadlines are Anywhere on Earth (AoE) UTC -12
             </span>
@@ -105,7 +105,7 @@ const Papers = () => {
           </p>
           <p className="font-bold text-2xl">Selection Process</p>
           <p className="text-xl">
-            <span className="italic">Full paper review:</span>
+            <span className="italic">Full paper review: </span>
             Each paper will be reviewed by at least three reviewers and a
             program committee member (meta-reviewer) who will overview the
             process and write a meta-review with a recommendation. The
@@ -113,13 +113,13 @@ const Papers = () => {
             recommendation.
           </p>
           <p className="text-xl">
-            <span className="italic">Double blind review:</span>
+            <span className="italic">Double blind review: </span>
             ISMIR follows a double-blind review process. Authors should not know
             the names of the reviewers of their papers, and reviewers should not
             know the name(s) of the author(s).
           </p>
           <p className="text-xl">
-            <span className="italic">Evaluation criteria:</span>
+            <span className="italic">Evaluation criteria: </span>
             Evaluation criteria include scholarly/scientific quality, novelty of
             the paper, reusable insights, pioneering proposals, readability and
             paper organization, potential to generate discourse, and relevance
@@ -140,7 +140,7 @@ const Papers = () => {
           </p>
           <p className="font-bold text-2xl">Submission Process</p>
           <p className="text-xl italic">
-            Submission site:
+            Submission site: 
             <span className="text-[#d83616] break-all">
               <a
                 href="https://cmt3.research.microsoft.com/ISMIR2022/"
@@ -178,7 +178,7 @@ const Papers = () => {
             be available on the submission site.
           </p>
           <p className="text-xl">
-            <span className="italic">Presenting authors:</span>At least one
+            <span className="italic">Presenting authors: </span>At least one
             author of each accepted paper must register to the conference,
             before the deadline given for author registration [TBD]. Failure to
             register before the deadline will result in automatic withdrawal of
@@ -226,7 +226,7 @@ const Papers = () => {
             need to be embedded within the PDF.
           </p>
           <p className="text-xl">
-            <span className="italic">Paper length:</span>Papers must contain at
+            <span className="italic">Paper length: </span>Papers must contain at
             most 6 pages of scientific content (including figures and tables),
             with additional optional pages that contain only references and
             acknowledgments. Overlength papers will be rejected without review.
@@ -327,7 +327,7 @@ const Papers = () => {
             <span className="text-[#d83616]">
               <a href="mailto:ismir2022-papers@ismir.net" target="_blank">
                 email
-              </a>
+              </a>.
             </span>
           </p>
           <p className="text-xl">Best regards,</p>
