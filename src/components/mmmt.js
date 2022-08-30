@@ -1,7 +1,39 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
+
+import Coming_soon from "../images/mmmt/Coming_soon.jpg";
+import Kat_Agres from "../images/mmmt/Kat_Agres.jpeg";
+import Nori_Jacoby from "../images/mmmt/Nori_Jacoby.jpeg";
+import Tuomas_Eerola from "../images/mmmt/Tuomas_Eerola.jpeg";
+import Anja_Volk from "../images/mmmt/Anja_Volk.jpeg";
+import Petri_Toiviainen from "../images/mmmt/Petri_Toiviainen.jpeg";
+import Marcelo_Wanderley from "../images/mmmt/Marcelo_Wanderley.jpeg";
+import Blair_Kaneshiro from "../images/mmmt/Blair_Kaneshiro.jpeg";
+import Peter_Keller from "../images/mmmt/Peter_Keller.jpeg";
+
+import poster from "../images/MMMT_poster.pdf";
+
+export const Modal = ({ src, onClose }) => {
+  return (
+    <div className="modalcss">
+      <span className="close" onClick={onClose}>
+        &times;
+      </span>
+      <img className="modal-content" src={src} alt="" />
+    </div>
+  );
+};
 
 const Mmmt = () => {
+  const [isOpen, setIsOpen] = useState(false);
+  var [src_path, setsrcpath] = useState(Coming_soon);
+
+  const showModal = (event, src) => {
+    setIsOpen(true);
+    setsrcpath(src);
+  };
+
   return (
     <div className="space-y-5">
       <div className="space-y-3">
@@ -29,10 +61,7 @@ const Mmmt = () => {
         </p>
         <p className="text-xl font-bold">
           <span className="text-[#d83616]">
-            <a
-              href="https://www.iiit.ac.in/people/faculty/vinoo-alluri/"
-              target="_blank"
-            >
+            <a href={poster} target="_blank">
               Download Poster
             </a>
           </span>
@@ -50,123 +79,361 @@ const Mmmt = () => {
           computing, information science, and electrical engineering, amongst
           others.
         </p>
-        <p className="text-2xl font-bold">Themes and Speakers</p>
-        <p className="text-xl font-bold">Opening Keynote</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="https://github.com/jjau" target="_blank">
-              Jean-Julien Aucouturier
-            </a>
-          </span>
-          , <span className="text-gray-500">FEMTO-ST Institute</span>
-        </p>
-        <p className="text-xl font-bold">Music and Health</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="http://www.katagres.com/" target="_blank">
-              Kat Agres
-            </a>
-          </span>
-          ,{" "}
-          <span className="text-gray-500">
-            National University of Singapore
-          </span>
-        </p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a
-              href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en"
-              target="_blank"
-            >
-              Suvi Saarikallio
-            </a>
-          </span>
-          , <span className="text-gray-500"> University of Jyvaskyla</span>
-        </p>
-        <p className="text-xl font-bold">Music and Culture</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="https://www.norijacoby.com/" target="_blank">
-              Nori Jacoby
-            </a>
-          </span>
-          ,{" "}
-          <span className="text-gray-500">
-            {" "}
-            Max Planck Institute for Empirical Aesthetics
-          </span>
-        </p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="https://tuomaseerola.github.io/" target="_blank">
-              Tuomas Eerola
-            </a>
-          </span>
-          , <span className="text-gray-500">Durham University</span>
-        </p>
-        <p className="text-xl font-bold">Music Perception</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="https://webspace.science.uu.nl/~fleis102/" target="_blank">
-              Anja Volk
-            </a>
-          </span>
-          , <span className="text-gray-500">Utrecht University</span>
-        </p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a
-              href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/"
-              target="_blank"
-            >
-              Petri Toiviainen
-            </a>
-          </span>
-          , <span className="text-gray-500">University of Jyvaskyla</span>
-        </p>
-        <p className="text-xl font-bold">Music and Gestures</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a
-              href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ"
-              target="_blank"
-            >
-              Martin Clayton{" "}
-            </a>
-          </span>
-          , <span className="text-gray-500">Durham University</span>
-        </p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a
-              href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en"
-              target="_blank"
-            >
-              Marcelo Wanderley
-            </a>
-          </span>
-          , <span className="text-gray-500">Mc Gill University</span>
-        </p>
-        <p className="text-xl font-bold">Music and Neuroscience</p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">
-              Blair Kaneshiro
-            </a>
-          </span>
-          , <span className="text-gray-500">Stanford University</span>
-        </p>
-        <p className="text-xl">
-          <span className="text-[#d83616]">
-            <a
-              href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en"
-              target="_blank"
-            >
-              Peter Keller
-            </a>
-          </span>
-          , <span className="text-gray-500"> Aarhus University</span>
-        </p>
+        {isOpen && <Modal src={src_path} onClose={() => setIsOpen(false)} />}
+        <p className="text-3xl font-bold">Themes and Speakers</p>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <p className="text-2xl font-bold">Opening Keynote</p> <br />
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <p className="text-xl">
+            <span className="text-[#d83616]">
+              <a href="https://github.com/jjau" target="_blank">
+                Jean-Julien Aucouturier <br />
+              </a>
+            </span>
+            <span className="text-gray-500">FEMTO-ST Institute </span>
+          </p>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex-col flex items-center justify-center space-y-3">
+            <div class="avatar">
+              <img
+                class="myImg"
+                src={Coming_soon}
+                style={{ width: 200, hegiht: 200 }}
+                onClick={(event) => showModal(event, Coming_soon)}
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <h1 className="text-2xl font-bold">Music and Health</h1>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-64 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a href="http://www.katagres.com/" target="_blank">
+                    Kat Agres <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">
+                  National University of Singapore{" "}
+                </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Kat_Agres}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Kat_Agres)}
+                />
+              </div>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en"
+                    target="_blank"
+                  >
+                    Suvi Saarikallio <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">University of Jyvaskyla </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Coming_soon}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Coming_soon)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <h1 className="text-2xl font-bold">Music and Culture</h1>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a href="https://www.norijacoby.com/" target="_blank">
+                    {" "}
+                    Nori Jacoby <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">
+                  Max Planck Institute{" "}
+                </span>{" "}
+                <br />
+                <span className="text-gray-500">
+                  {" "}
+                  for Empirical Aesthetics{" "}
+                </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Nori_Jacoby}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Nori_Jacoby)}
+                />
+              </div>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a href="https://tuomaseerola.github" target="_blank">
+                    Tuomas Eeorla <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Durham University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Tuomas_Eerola}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Tuomas_Eerola)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <h1 className="text-2xl font-bold">Music Perception</h1>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://webspace.science.uu.nl/~fleis102/"
+                    target="_blank"
+                  >
+                    {" "}
+                    Anja Volk <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Utrecht University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Anja_Volk}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Anja_Volk)}
+                />
+              </div>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/"
+                    target="_blank"
+                  >
+                    Petri Toiviainen <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">University of Jyvaskyla </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Petri_Toiviainen}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Petri_Toiviainen)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <h1 className="text-2xl font-bold">Music and Gestures</h1>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ"
+                    target="_blank"
+                  >
+                    {" "}
+                    Martin Clayton <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Durham University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Coming_soon}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Coming_soon)}
+                />
+              </div>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en/"
+                    target="_blank"
+                  >
+                    Marcelo Wanderley <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Mc Gill University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Marcelo_Wanderley}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Marcelo_Wanderley)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <h1 className="text-2xl font-bold">Music and Neuroscience</h1>
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">
+                    {" "}
+                    Blair Kaneshiro <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Stanford University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Blair_Kaneshiro}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Blair_Kaneshiro)}
+                />
+              </div>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-xl">
+                <span className="text-[#d83616]">
+                  <a
+                    href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en/"
+                    target="_blank"
+                  >
+                    Peter Keller <br />
+                  </a>
+                </span>
+                <span className="text-gray-500">Aarhus University </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={Peter_Keller}
+                  style={{ width: 200, hegiht: 200 }}
+                  onClick={(event) => showModal(event, Peter_Keller)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
         <p className="text-2xl font-bold">Schedule</p>
         <p className="text-xl">
           All the talks will take place between 9:30am - 5:00pm IST and can be
@@ -259,7 +526,7 @@ const Mmmt = () => {
           <li>
             By registering to this satellite event, you agree to abide by the
             <span className="text-[#d83616]">
-              <Link to="/codeofconduct">ISMIR 2022 Code of Conduct</Link>
+              <Link to="/codeofconduct"> ISMIR 2022 Code of Conduct</Link>
             </span>
           </li>
           <li>
@@ -333,7 +600,7 @@ const Mmmt = () => {
             <a href="mailto:vinoo.alluri@iiit.ac.in" target="_blank">
               vinoo.alluri@iiit.ac.in
             </a>
-          </span>
+          </span>{" "}
           if you have any questions about registering and attending MMMT
           workshop.
         </p>
