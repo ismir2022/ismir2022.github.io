@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../../../components/layout";
+import Layout from "../../../components/mmmtlayout";
 import Mmmt from "../../../components/mmmt";
 
 const Index = () => {

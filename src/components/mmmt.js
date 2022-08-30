@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 import { Link } from "gatsby";
-import { StaticImage } from "gatsby-plugin-image";
 
 import Coming_soon from '../images/mmmt/Coming_soon.jpg'; 
 import Kat_Agres from '../images/mmmt/Kat_Agres.jpeg'; 
