@@ -233,20 +233,20 @@ const Registration = () => {
               <tr className="">
                 <th className="bg-white">Student (In-person or virtual)</th>
                 <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,200</td>
-                <td className="bg-white">₹1,200</td>
+                <td className="bg-white">₹1,000</td>
+                <td className="bg-white">₹1,000</td>
                 <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,416</td>
-                <td className="bg-white">₹1,416</td>
+                <td className="bg-white">₹1,180</td>
+                <td className="bg-white">₹1,180</td>
               </tr>
               <tr className="">
                 <th className="bg-white">Full (In-person or virtual)</th>
                 <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,500</td>
-                <td className="bg-white">₹2,500</td>
+                <td className="bg-white">₹2,200</td>
+                <td className="bg-white">₹2,200</td>
                 <td className="bg-white">₹2,596</td>
-                <td className="bg-white">₹2,950</td>
-                <td className="bg-white">₹2,950</td>
+                <td className="bg-white">₹2,596</td>
+                <td className="bg-white">₹2,596</td>
               </tr>
               <tr>
                 <td className="bg-white" colSpan={8}>
