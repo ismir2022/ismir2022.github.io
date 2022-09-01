@@ -114,6 +114,8 @@ const Mmmt = () =>
               </div>
             </div>
         </div>
+        <br/>
+        <br/>
         <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}> 
           <h1 className="text-2xl font-bold">Music and Health</h1>
         </div>
@@ -126,12 +128,14 @@ const Mmmt = () =>
               Kat Agres <br/>
             </a>
           </span>           
-          <span  className="text-gray-500">National University of Singapore </span>
+          <span  className="text-gray-500">National University </span> <br/>
+          <span className="text-gray-500"> of Singapore </span>
           </p>
               <div class="avatar">
               <img class="myImg" src={Kat_Agres} style={{width: 200, hegiht: 200}} onClick={(event) => showModal(event, Kat_Agres)}/>
               </div>
             </div>
+            <br/>
             <div className="flex-col flex items-center justify-center space-y-3">
             <p className="text-xl">
           <span className="text-[#d83616]">
@@ -147,7 +151,8 @@ const Mmmt = () =>
             </div>
           </div>
         </div>
-
+        <br/>
+        <br/>
         <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
           <h1 className="text-2xl font-bold">Music and Culture</h1>
         </div>
@@ -166,6 +171,7 @@ const Mmmt = () =>
               <img class="myImg" src={Nori_Jacoby} style={{width: 200, hegiht: 200}} onClick={(event) => showModal(event, Nori_Jacoby)}/>
               </div>
             </div>
+            <br/>
             <div className="flex-col flex items-center justify-center space-y-3">
             <p className="text-xl">
           <span className="text-[#d83616]">
@@ -181,7 +187,8 @@ const Mmmt = () =>
             </div>
           </div>
         </div>
-
+        <br/>
+        <br/>
         <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
           <h1 className="text-2xl font-bold">Music Perception</h1>
         </div>
@@ -199,6 +206,7 @@ const Mmmt = () =>
               <img class="myImg" src={Anja_Volk} style={{width: 200, hegiht: 200}} onClick={(event) => showModal(event, Anja_Volk)}/>
               </div>
             </div>
+            <br/>
             <div className="flex-col flex items-center justify-center space-y-3">
             <p className="text-xl">
           <span className="text-[#d83616]">
@@ -214,7 +222,8 @@ const Mmmt = () =>
             </div>
           </div>
         </div>
-
+        <br/>
+        <br/>
         <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
           <h1 className="text-2xl font-bold">Music and Gestures</h1>
         </div>
@@ -232,6 +241,7 @@ const Mmmt = () =>
               <img class="myImg" src={Coming_soon} style={{width: 200, hegiht: 200}} onClick={(event) => showModal(event, Coming_soon)}/>
               </div>
             </div>
+            <br/>
             <div className="flex-col flex items-center justify-center space-y-3">
             <p className="text-xl">
           <span className="text-[#d83616]">
@@ -247,7 +257,8 @@ const Mmmt = () =>
             </div>
           </div>
         </div>
-
+        <br/>
+        <br/>
         <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
           <h1 className="text-2xl font-bold">Music and Neuroscience</h1>
         </div>
@@ -265,6 +276,7 @@ const Mmmt = () =>
               <img class="myImg" src={Blair_Kaneshiro} style={{width: 200, hegiht: 200}} onClick={(event) => showModal(event, Blair_Kaneshiro)}/>
               </div>
             </div>
+            <br/>
             <div className="flex-col flex items-center justify-center space-y-3">
             <p className="text-xl">
           <span className="text-[#d83616]">
@@ -280,6 +292,8 @@ const Mmmt = () =>
             </div>
           </div>
         </div>
+        <br/>
+        <br/>
         <p className="text-2xl font-bold">Schedule</p>
         <p className="text-xl">
           All the talks will take place between 9:30am - 5:00pm IST and can be
