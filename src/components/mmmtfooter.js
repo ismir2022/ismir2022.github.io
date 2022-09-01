@@ -10,7 +10,7 @@ const Footer = () => {
           <a href="https://iiit.ac.in/" target="_blank">
             <StaticImage
               src="../images/footer/iiith.png"
-              alt="iitm"
+              alt="iiith"
               objectFit="contain"
               placeholder="blurred"
               width={125}
