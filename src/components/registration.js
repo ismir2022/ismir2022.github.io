@@ -15,8 +15,7 @@ const Registration = () => {
           registering, you agree to abide by the{" "}
           <span className="text-[#d83616]">
             <Link to="/codeofconduct">ISMIR 2022 Code of Conduct</Link>
-          </span>{" "}
-          . ISMIR 2022 will be a hybrid conference allowing all registrants to
+          </span>{" "}. ISMIR 2022 will be a hybrid conference allowing all registrants to
           choose to attend the event virtually or in-person in Bengaluru. We
           encourage participants to register for the conference early,
           especially if you plan to attend ISMIR 2022 in-person to allow

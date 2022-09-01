@@ -16,7 +16,7 @@ const FS = () => {
             <a href="http://ismir.net/" target="_blank">ISMIR Society</a>
           </span>
           <span className="text-[#d83616]">
-            <a href="http://www.ismir.net/wimir.html" target="_blank">Women in MIR</a>
+            <a href="http://www.ismir.net/wimir.html" target="_blank"> Women in MIR</a>
           </span>
           , and the local organizers offer several financial support
           opportunities for those who wish to attend ISMIR 2022, and those who
@@ -180,7 +180,7 @@ const FS = () => {
           </span>
           .
           <span className="font-bold">
-            We request grant applicants to wait until the notification deadlines
+             We request grant applicants to wait until the notification deadlines
             before registering for the conference.
           </span>
         </p>
