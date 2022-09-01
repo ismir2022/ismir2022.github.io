@@ -34,7 +34,7 @@ const Coc = () => {
             </span>
           </li>
           <li>
-            ISMIR 2022 Diversity & Inclusion Chairs (Xiao Hu, Ranjani H G): 
+            ISMIR 2022 Diversity & Inclusion Chairs (Xiao Hu, Ranjani H G):{" "}
             <span className="text-[#d83616]">
               <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">
                 ismir2022-diversity@ismir.net
@@ -54,7 +54,7 @@ const Coc = () => {
                 codeofconduct@ismir.net
               </a>
             </span>
-             or{" "}
+            {" "}or{" "}
             <span className="text-[#d83616]">
               <a href="mailto:board@ismir.net" target="_blank">
                 board@ismir.net
@@ -177,7 +177,7 @@ const Coc = () => {
               “Conference Code of Conduct”
             </a>
           </span>
-           by{" "}
+          {" "}by{" "}
           <span className="text-[#d83616]">
             <a href="https://github.com/confcodeofconduct" target="_blank">
               Conference Code of Conduct
@@ -202,7 +202,7 @@ const Coc = () => {
               Policy.
             </a>
           </span>
-          “ISMIR 2022 Code of Conduct” is licensed under a{" "}
+          {" "}“ISMIR 2022 Code of Conduct” is licensed under a{" "}
           <span className="text-[#d83616]">
             <a
               href="https://creativecommons.org/licenses/by/3.0/deed.en_US"
@@ -211,7 +211,7 @@ const Coc = () => {
               Creative Commons Attribution 3.0 Unported License
             </a>
           </span>
-           by ISMIR 2022.
+          {" "}by ISMIR 2022.
         </p>
       </div>
     </div>

@@ -22,7 +22,7 @@ const Venue = () => {
             >
               National Science Seminar Complex
             </a>
-          </span>{" "}
+          </span>
           , Indian Institute of Science, Sir C V Raman Avenue, Bengaluru -
           560012, India
         </p>

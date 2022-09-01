@@ -178,9 +178,9 @@ const FS = () => {
               https://forms.gle/McTMivAHNVK1WD5E9
             </a>
           </span>
-          .
+          .{" "}
           <span className="font-bold">
-             We request grant applicants to wait until the notification deadlines
+            We request grant applicants to wait until the notification deadlines
             before registering for the conference.
           </span>
         </p>

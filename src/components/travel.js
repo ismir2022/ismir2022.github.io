@@ -343,7 +343,7 @@ const Travel = () => {
           In addition to the documents described above, some embassies may
           require additional information. Please check the website of the Indian
           Embassy in your country under the heading ‘Conference Visa’. The list
-          of Indian diplomatic missions overseas can be consulted at: 
+          of Indian diplomatic missions overseas can be consulted at:{" "}
           <span className="text-[#d83616] ">
             <a
               href="http://passportindia.gov.in/AppOnlineProject/mission/mission"
@@ -361,7 +361,7 @@ const Travel = () => {
           social events of the Conference. The application process for Tourist
           Visa is much simpler than Conference Visa. No letter of invitation is
           required. Accompanying persons can use the e-Tourist visa facility at
-          the website: 
+          the website:{" "}
           <span className="text-[#d83616] ">
             <a
               href="https://indianvisaonline.gov.in/visa/tvoa.html"
