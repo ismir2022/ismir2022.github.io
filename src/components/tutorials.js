@@ -504,7 +504,7 @@ const Tutorials = () => {
               FAT-MIR tutorial
             </a>
           </span>
-          held at ISMIR 2019, a great discussion has aroused around the ethical,
+          {" "}held at ISMIR 2019, a great discussion has aroused around the ethical,
           social, economic, legal, and cultural implications that the use of MIR
           systems have in our life.
         </p>

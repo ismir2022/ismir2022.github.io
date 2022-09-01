@@ -46,7 +46,7 @@ const Satellites = () => {
           brings together leading International researchers for a series of
           talks highlighting interdisciplinary research and facilitating
           interaction and exchange of ideas around various themes. More
-          information:
+          information:{" "}
           <span className="text-[#d83616]">
             <a
               href="https://ismir2022.ismir.net/satellites/mmmt"
@@ -73,9 +73,9 @@ const Satellites = () => {
             <a href="https://indianmusicexperience.org/" target="_blank">
               Indian Music Experience Museum (IME)
             </a>
-          </span>{" "}, which is India’s first interactive music museum and will involve the
+          </span>, which is India’s first interactive music museum and will involve the
           museum visit, workshops on Indian art music and a music exhibition.
-          More information: {" "}
+          More information:{" "}
           <span className="text-[#d83616]">
             <a
               href="https://ismir2022.ismir.net/satellites/ime"
@@ -170,7 +170,7 @@ const Satellites = () => {
           </span>
           , which is the largest music festival of Carnatic Music. In the
           evenings, the participants will be able to attend a wide variety of
-          Carnatic Music concerts. More information: 
+          Carnatic Music concerts. More information:{" "}
           <span className="text-[#d83616]">
             <a href="https://compmusic.upf.edu/node/365" target="_blank">
               https://compmusic.upf.edu/node/365
