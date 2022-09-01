@@ -171,7 +171,7 @@ const Mmmt = () => {
                     Suvi Saarikallio <br />
                   </a>
                 </span>
-                <span className="text-gray-500">University of Jyvaskyla </span>
+                <span className="text-gray-500">University of Jyväskylä </span>
               </p>
               <div class="avatar">
                 <img
