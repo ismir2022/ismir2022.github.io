@@ -5,7 +5,7 @@ const Stay = () => {
     <div className="space-y-5">
       <div className="space-y-3">
         <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
-          Travel
+          Stay
         </h1>
         <p className="text-xl">
           This page contains information to help you plan your stay at Bengaluru, India to attend ISMIR 2022. We will periodically update the
