@@ -20,7 +20,7 @@ const Schedule = () => {
             alt="schedule"
             objectFit="contain"
             placeholder="blurred"
-            width={1000}
+            width={1200}
           />
         </div>
       </div>
