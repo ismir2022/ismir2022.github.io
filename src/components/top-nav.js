@@ -162,6 +162,14 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
+                        to="/attend/stay"
+                        className="active:bg-none text-xl"
+                      >
+                        Stay
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
                         to="/attend/explore"
                         className="active:bg-none text-xl"
                       >
