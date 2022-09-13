@@ -18,10 +18,10 @@ const Dates = () => {
               <p className="breakword line-through">August 12, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Early Bird registration deadline
               </p>
-              <p className="breakword">August 31, 2022</p>
+              <p className="breakword line-through">August 31, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">
@@ -104,8 +104,8 @@ const Dates = () => {
               <p className="breakword line-through">July 14, 2022</p>
             </div>
             <div className="flex flex-row space-x-5 ">
-              <p className="w-1/2 breakword">Camera ready deadline</p>
-              <p className="breakword">August 31, 2022</p>
+              <p className="w-1/2 breakword line-through">Camera ready deadline</p>
+              <p className="breakword line-through">August 31, 2022</p>
             </div>
           </div>
         </div>
