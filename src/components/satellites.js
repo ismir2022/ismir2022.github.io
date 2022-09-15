@@ -170,11 +170,12 @@ const Satellites = () => {
           </span>
           , which is the largest music festival of Carnatic Music. In the
           evenings, the participants will be able to attend a wide variety of
-          Carnatic Music concerts. More information:{" "}
+          Carnatic Music concerts. 
+          More information:{" "}
           <span className="text-[#d83616]">
-            <a href="https://compmusic.upf.edu/node/365" target="_blank">
-              https://compmusic.upf.edu/node/365
-            </a>
+            <a href="https://compmusic.upf.edu/workshop-ismir-2022" target="_blank">
+              https://compmusic.upf.edu/workshop-ismir-2022
+            </a> (Registrations for the workshop are now open. The workshop has a limited capacity of 30 participants)
           </span>
         </p>
       </div>
