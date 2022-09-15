@@ -175,8 +175,9 @@ const Satellites = () => {
           <span className="text-[#d83616]">
             <a href="https://compmusic.upf.edu/workshop-ismir-2022" target="_blank">
               https://compmusic.upf.edu/workshop-ismir-2022
-            </a> (Registrations for the workshop are now open. The workshop has a limited capacity of 30 participants)
+            </a>
           </span>
+           (Registrations for the workshop are now open. The workshop has a limited capacity of 30 participants).
         </p>
       </div>
     </div>
