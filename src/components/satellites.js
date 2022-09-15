@@ -177,7 +177,7 @@ const Satellites = () => {
               https://compmusic.upf.edu/workshop-ismir-2022
             </a>
           </span>
-           (Registrations for the workshop are now open. The workshop has a limited capacity of 30 participants).
+          {" "}(Registrations for the workshop are now open. The workshop has a limited capacity of 30 participants).
         </p>
       </div>
     </div>
