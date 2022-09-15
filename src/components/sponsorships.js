@@ -56,7 +56,7 @@ const Sponsorships = () => {
             <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-2xl">
               <p>Platinum</p>
             </div>
-            <p className="text-xl font-bold">INR 400,000</p>
+            <p className="text-xl font-bold">INR 700,000</p>
             <div className="space-y-3 text-xl text-left">
               <p>
                 Large sized logo and company name on the conference website and
