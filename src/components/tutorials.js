@@ -178,7 +178,12 @@ const Tutorials = () => {
         </p>
         <p className="text-xl font-bold">Biographies of Presenters</p>
         <p className="text-xl">
-          <span className="font-bold">Thomas Nuttall </span>is a Research
+          <span className="text-[#d83616] font-bold">
+            <a href="https://thomasgnuttall.github.io/about" target="_blank">
+            Thomas Nuttall
+            </a>
+          </span>{" "}
+          is a Research
           Engineer in the Music Technology Group (MTG) of Universitat Pompeu
           Fabra in Barcelona, Spain. His research focus is on melodic pattern
           analysis in musical traditions under-represented in the music
