@@ -4,20 +4,20 @@ const Stay = () => {
   return (
     <div className="space-y-5">
       <div className="space-y-3">
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Stay
         </h1>
-        <p className="text-xl">
+        <p className="text-lg">
           This page contains information to help you plan your stay at Bengaluru, India to attend ISMIR 2022. We will periodically update the
           information on connectivity, and accommodation. Please watch this space for more information.
         </p>
       </div>
       <div className="space-y-3">
-        <p className="text-2xl font-bold">Accommodation</p>
-        <p className="text-xl font-bold">
+        <p className="text-xl font-bold">Accommodation</p>
+        <p className="text-lg font-bold">
           Sheraton Grand Bangalore Hotel at Brigade Gateway
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>Category: 05 Star</li>
           <li>
             Website:{" "}
@@ -58,8 +58,8 @@ const Stay = () => {
             ></iframe>
           </p>
         </div>
-        <p className="text-xl font-bold">Taj Yeshwanthpur</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-lg font-bold">Taj Yeshwanthpur</p>
+        <ul className="text-lg list-disc list-inside">
           <li>Category: 05 Star</li>
           <li>
             Website:{" "}
@@ -97,8 +97,8 @@ const Stay = () => {
             ></iframe>
           </p>
         </div>
-        <p className="text-xl font-bold">Vividus Hotel</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-lg font-bold">Vividus Hotel</p>
+        <ul className="text-lg list-disc list-inside">
           <li>Category: 04 Star</li>
           <li>
             Website:{" "}
@@ -133,10 +133,10 @@ const Stay = () => {
             ></iframe>
           </p>
         </div>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           Holiday Inn Express Bengaluru Yeshwantpur
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>Category: 03 Star</li>
           <li>
             Website:{" "}
@@ -174,8 +174,8 @@ const Stay = () => {
             ></iframe>
           </p>
         </div>
-        <p className="text-xl font-bold">Citrine Hotel</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-lg font-bold">Citrine Hotel</p>
+        <ul className="text-lg list-disc list-inside">
           <li>Category: 03 Star</li>
           <li>
             Website:{" "}

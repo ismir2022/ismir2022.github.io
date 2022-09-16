@@ -4,16 +4,16 @@ const Venue = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Venue
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           ISMIR 2022 will be organized in a hybrid format hosted at Bengaluru,
           India.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The venue for the conference is the{" "}
           <span className="text-[#d83616]">
             <a
@@ -26,7 +26,7 @@ const Venue = () => {
           , Indian Institute of Science, Sir C V Raman Avenue, Bengaluru -
           560012, India
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           More details on the venue and travel will be available soon!
         </p>
         <div className="justify-center items-center">

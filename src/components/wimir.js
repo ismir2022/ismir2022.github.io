@@ -5,35 +5,35 @@ const Wimir = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           WiMIR
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           The following are the various Diversity & Inclusion (D&I) initiatives
           of ISMIR 2022:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>New-to-ISMIR paper mentoring program</li>
           <li>WiMIR keynote</li>
           <li>WiMIR plenary session (TBA)</li>
           <li><span className="text-[#d83616]"><a href="https://wimir.wordpress.com/" target="_blank">WiMIR workshops</a></span></li>
           <li>D&I waivers & grants (TBA)</li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           We thank our 2022 sponsors for their generous and vital continuation
           of support of these important initiatives. These sponsorships will
           make possible the financial support to ISMIR attendees, including
           grants to cover registration fees, paper publication fees, etc.
         </p>
         <div>
-          <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+          <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
             Sponsors
           </h1>
         </div>
         <div className="space-y-20">
-          <div className="text-center text-3xl font-bold space-y-5">
+          <div className="text-center text-2xl font-bold space-y-5">
             <div className="bg-gradient-to-r from-transparent via-gray-400 p-3">
               <p>Patron</p>
             </div>
@@ -64,7 +64,7 @@ const Wimir = () => {
               </div>
             </div>
           </div>
-          <div className="text-center text-3xl font-bold space-y-5">
+          <div className="text-center text-2xl font-bold space-y-5">
             <div className="bg-gradient-to-r from-transparent via-amber-300 p-3">
               <p>Contributor</p>
             </div>
@@ -109,7 +109,7 @@ const Wimir = () => {
             </div>
             <div className="flex flex-row flex-wrap"></div>
           </div>
-          <div className="text-center text-3xl font-bold space-y-5">
+          <div className="text-center text-2xl font-bold space-y-5">
             <div className="bg-gradient-to-r from-transparent via-gray-300 p-3">
               <p>Supporter</p>
             </div>

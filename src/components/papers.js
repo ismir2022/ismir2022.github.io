@@ -4,12 +4,12 @@ const Papers = () => {
   return (
     <div className="space-y-10">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Call for Papers
         </h1>
       </div>
       <div className="space-y-5">
-        <p className="text-[#d83616] text-xl">
+        <p className="text-[#d83616] text-lg">
           <a
             href="https://ismir2022.ismir.net/assets/ISMIR2022_Info_Sheet.pdf"
             target="_blank"
@@ -18,15 +18,15 @@ const Papers = () => {
           </a>
         </p>
         <div className="space-y-3">
-          <p className="font-bold text-2xl">Important Dates:</p>
-          <ul className="list-disc text-xl list-inside">
+          <p className="font-bold text-xl">Important Dates:</p>
+          <ul className="list-disc text-lg list-inside">
             <li>Submission site opening: April 22, 2022</li>
             <li>Abstract submission deadline: May 13, 2022</li>
             <li>Full paper submission deadline: May 20, 2022</li>
             <li>Notification of acceptance: July 14, 2022</li>
             <li>Camera ready deadline: August 9, 2022</li>
           </ul>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Note: </span>
             <span className="font-bold ">
               All deadlines are Anywhere on Earth (AoE) UTC -12
@@ -35,8 +35,8 @@ const Papers = () => {
             However, authors of registered papers on or before May 13th will be
             allowed to upload new versions of their papers until May 20th.
           </p>
-          <p className="font-bold text-2xl">Overview</p>
-          <p className="text-xl">
+          <p className="font-bold text-xl">Overview</p>
+          <p className="text-lg">
             The 23rd International Society for Music Information Retrieval
             Conference (ISMIR 2022) will be held in Bangalore, India, from
             December 4th to 8th, 2022.{" "}
@@ -46,7 +46,7 @@ const Papers = () => {
               </a>
             </span>
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             The annual conference of the International Society for Music
             Information Retrieval (ISMIR) is the world’s leading research forum
             on processing, analyzing, searching, organizing and accessing
@@ -55,7 +55,7 @@ const Papers = () => {
             foundations and theories for music processing, analysis, algorithms,
             evaluation, and applications.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             ISMIR is a truly interdisciplinary research community, involving
             researchers, developers, educators, librarians, students, and
             professionals from various disciplines such as computer science,
@@ -65,7 +65,7 @@ const Papers = () => {
             different profiles of people working with music and computing in a
             broad sense.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             In addition to established research topics and tasks, ISMIR always
             welcomes brave new ideas and challenges. Submissions of novel
             music-related topics, tasks, and applications are highly encouraged
@@ -76,14 +76,14 @@ const Papers = () => {
             ISMIR thus respects the diversity of academic disciplines,
             backgrounds, and approaches.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             The accepted papers will be presented at the conference in a format
             to be decided.
           </p>
-          <p className="font-bold text-2xl">
+          <p className="font-bold text-xl">
             Special Call for Papers: Cultural and Social Diversity in MIR
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             The research carried out in MIR nowadays does not reflect the rich
             variety of the world’s music traditions. MIR studies are mostly
             focused on international mainstream popular music, Western art music
@@ -103,8 +103,8 @@ const Papers = () => {
             meta-reviewers will be selected to oversee their review. An award
             will be given to the best paper accepted within this special call.
           </p>
-          <p className="font-bold text-2xl">Selection Process</p>
-          <p className="text-xl">
+          <p className="font-bold text-xl">Selection Process</p>
+          <p className="text-lg">
             <span className="italic">Full paper review: </span>
             Each paper will be reviewed by at least three reviewers and a
             program committee member (meta-reviewer) who will overview the
@@ -112,13 +112,13 @@ const Papers = () => {
             Scientific Program Chairs will make the final decision based on that
             recommendation.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Double blind review: </span>
             ISMIR follows a double-blind review process. Authors should not know
             the names of the reviewers of their papers, and reviewers should not
             know the name(s) of the author(s).
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Evaluation criteria: </span>
             Evaluation criteria include scholarly/scientific quality, novelty of
             the paper, reusable insights, pioneering proposals, readability and
@@ -138,8 +138,8 @@ const Papers = () => {
             </span>
             , before the paper submission.
           </p>
-          <p className="font-bold text-2xl">Submission Process</p>
-          <p className="text-xl italic">
+          <p className="font-bold text-xl">Submission Process</p>
+          <p className="text-lg italic">
             Submission site: 
             <span className="text-[#d83616] break-all">
               <a
@@ -150,7 +150,7 @@ const Papers = () => {
               </a>
             </span>
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Abstract submission:</span>The paper title,
             author names, contact details, and abstract must be submitted by the
             abstract submission deadline. The title and abstract, together with
@@ -159,11 +159,11 @@ const Papers = () => {
             complete summary of your paper with sufficient information to let
             someone who has not read the full paper know what it is about.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Full paper submission: </span>The full
             paper must be submitted by the full paper submission deadline.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Supplementary material: </span>For the
             anonymous review process, in addition to the PDF file of the
             manuscript, authors may upload supplementary files for their
@@ -171,27 +171,27 @@ const Papers = () => {
             These supplementary materials should comply with the requirements
             for the double-blind review process.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Subject area: </span>When submitting the
             abstracts, authors will be required to choose from the subject areas
             given. The list of subject areas is the one listed below and it will
             be available on the submission site.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Presenting authors: </span>At least one
             author of each accepted paper must register to the conference,
             before the deadline given for author registration [TBD]. Failure to
             register before the deadline will result in automatic withdrawal of
             the paper from the conference proceedings and program.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Publication: </span>Accepted papers will be
             published on the conference website and on an open access repository
             [TBD] using a Creative Commons Attribution 4.0 International License
             (CC BY 4.0).
           </p>
-          <p className="font-bold text-2xl">Submission Requirements</p>
-          <p className="text-xl">
+          <p className="font-bold text-xl">Submission Requirements</p>
+          <p className="text-lg">
             <span className="italic">Paper format: </span>Papers must be
             formatted using the ISMIR 2022 templates (
             <span className="text-[#d83616]">
@@ -225,13 +225,13 @@ const Papers = () => {
             margins or font sizes) may be rejected without review. All fonts
             need to be embedded within the PDF.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Paper length: </span>Papers must contain at
             most 6 pages of scientific content (including figures and tables),
             with additional optional pages that contain only references and
             acknowledgments. Overlength papers will be rejected without review.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Anonymity of authors: </span>Do not put
             your names under the title. Avoid using phrases such as “our
             previous work” when referring to earlier publications by the
@@ -242,7 +242,7 @@ const Papers = () => {
             authors. Anonymized materials may be uploaded as “Supplementary
             material”.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">Preprints: </span>To maintain the
             legitimacy for our double-blind review process, we strongly
             discourage authors from posting near duplicate manuscripts on public
@@ -252,17 +252,17 @@ const Papers = () => {
             (social media, blog, mailing-list, etc.), since this may prevent
             preserving anonymity.
           </p>
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="italic">External Materials: </span>If the paper
             promises to make the code, dataset, or other materials available
             after the acceptance, our research community relies on the research
             ethics of the authors to fulfill their promise.
           </p>
-          <p className="font-bold text-2xl">Topics of Interest</p>
-          <p className="text-xl">
+          <p className="font-bold text-xl">Topics of Interest</p>
+          <p className="text-lg">
             Relevant topics for ISMIR 2022 include, but are not limited to:
           </p>
-          <ul className="list-disc text-xl list-inside">
+          <ul className="list-disc text-lg list-inside">
             <li>
               <span className="italic">MIR fundamentals and methodology: </span>
               music signal processing; symbolic music processing; metadata,
@@ -322,7 +322,7 @@ const Papers = () => {
               and sustainability; business and marketing.
             </li>
           </ul>
-          <p className="text-xl">
+          <p className="text-lg">
             For additional information, you can reach the program chairs via{" "}
             <span className="text-[#d83616]">
               <a href="mailto:ismir2022-papers@ismir.net" target="_blank">
@@ -330,8 +330,8 @@ const Papers = () => {
               </a>.
             </span>
           </p>
-          <p className="text-xl">Best regards,</p>
-          <p className="text-xl">
+          <p className="text-lg">Best regards,</p>
+          <p className="text-lg">
             Scientific Program Chairs (Masataka Goto, Rachel Bittner, Rafael
             Caro Repetto, Xavier Serra)
           </p>

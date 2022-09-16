@@ -4,12 +4,12 @@ const Mentoring = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           New-to-ISMIR mentoring program
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           The New-to-ISMIR paper mentoring program is designed for members new
           to ISMIR (early stage researchers in MIR or researchers from allied
           fields who wish to consider submitting their work to an ISMIR
@@ -19,8 +19,8 @@ const Mentoring = () => {
           generic submission guidelines. The program is being run as a pilot in
           2022, closely aligned with the ISMIR 2022 paper submissions deadlines.
         </p>
-        <p className="text-2xl font-bold">Important features of the Program</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-xl font-bold">Important features of the Program</p>
+        <ul className="text-lg list-disc list-inside">
           <li>
             The mentorship program encourages early stage researchers or
             researchers from other allied fields who wish to submit their work
@@ -70,12 +70,12 @@ const Mentoring = () => {
             call for papers.
           </li>
         </ul>
-        <p className="text-2xl font-bold">Eligibility</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Eligibility</p>
+        <p className="text-lg">
           The proposed authors of the papers submitted to the mentoring program
           must satisfy all the following criteria:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             The authors are planning for a submission to an ISMIR conference on
             a topic aligned with the ISMIR conference.
@@ -89,8 +89,8 @@ const Mentoring = () => {
             meta-reviewers for ISMIR conferences.
           </li>
         </ul>
-        <p className="text-2xl font-bold">Important Dates</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-xl font-bold">Important Dates</p>
+        <ul className="text-lg list-disc list-inside">
           <li>
             [Feb 28] Deadline for applying to mentorship program with a
             tentative abstract and topics of the paper
@@ -108,13 +108,13 @@ const Mentoring = () => {
           </li>
           <li>[May 13] ISMIR 2022 submission deadline</li>
         </ul>
-        <p className="text-2xl font-bold">Topics</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Topics</p>
+        <p className="text-lg">
           The topics of papers to be submitted to the program should be closely
           aligned with those of ISMIR 2022, including but not limited to the
           following topics:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>Special Call for Papers: Cultural and Social Diversity in MIR</li>
           <li>
             MIR fundamentals and methodology: music signal processing; symbolic
@@ -168,8 +168,8 @@ const Mentoring = () => {
             sustainability; business and marketing.
           </li>
         </ul>
-        <p className="text-2xl font-bold">How do I apply?</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">How do I apply?</p>
+        <p className="text-lg">
           If you are interested in the program and eligible for it, please apply
           using this form:{" "}
           <span className="text-[#d83616]">
@@ -178,8 +178,8 @@ const Mentoring = () => {
             </a>
           </span>
         </p>
-        <p className="text-2xl font-bold">FAQ</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-xl font-bold">FAQ</p>
+        <ul className="text-lg list-disc list-inside">
           <li className="space-x-3">
             Q. How many papers are supported in the pilot program in 2022? Is
             there a chance that my application for mentorship might not be
@@ -217,7 +217,7 @@ const Mentoring = () => {
             </span>
           </li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           For any further questions, please write to us at{" "}
           <span className="text-[#d83616]">
             <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">

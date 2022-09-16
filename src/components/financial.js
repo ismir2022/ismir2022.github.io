@@ -4,12 +4,12 @@ const FS = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Financial Support
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           As a part of the commitments to foster diversity and inclusion, and to
           support early-career members of the ISMIR community,the{" "}
           <span className="text-[#d83616]">
@@ -22,13 +22,13 @@ const FS = () => {
           opportunities for those who wish to attend ISMIR 2022, and those who
           may need extra support in order to be able to do this.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           A major part of our capacity to hand out grants will be enabled
           through the generous support of industry partners, whom we thank in
           advance for supporting our community.
         </p>
         <p className="text-2xl font-bold">Important Dates</p>
-        <ul className=" text-xl list-disc list-inside">
+        <ul className=" text-lg list-disc list-inside">
           <li>
             July 14, 2022: ISMIR 2022 registration portal and grant applications
             open
@@ -55,12 +55,12 @@ const FS = () => {
             August 31, 2022: Early bird registrations for ISMIR 2022 close
           </li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           All the deadlines above are the end of the calendar day (23:59), in
           AoE time zone (UTC-12:00)
         </p>
         <p className="text-2xl font-bold">Forms of Support</p>
-        <p className="text-xl">
+        <p className="text-lg">
           Eligible parties may apply for registration waivers for scientific
           programs (main conference). To maximize the number of grants we can
           support, we will provide 100% or 50% waivers to registration fee.
@@ -68,12 +68,12 @@ const FS = () => {
           consideration and will be announced later.
         </p>
         <p className="text-2xl font-bold">Grant categories</p>
-        <p className="text-xl">
+        <p className="text-lg">
           This year, we will have 100% or 50% registration waivers offered under
           the following grant categories:
         </p>
-        <p className="text-xl font-bold">Student Author Grants</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Student Author Grants</p>
+        <p className="text-lg">
           Student Author Grants are available for first or supporting authors of
           an accepted paper who were students at the time of paper submission.
           The grants include 100% or 50% registration fee waivers and are
@@ -81,8 +81,8 @@ const FS = () => {
           financial need, the applicant’s newness to ISMIR, and the applicant’s
           geographical diversity.
         </p>
-        <p className="text-xl font-bold">Music Author Grants</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Music Author Grants</p>
+        <p className="text-lg">
           Music Author Grants are available for the authors of accepted
           submissions to the ISMIR 2022 music program. The grants include 100%
           or 50% registration fee waivers and are awarded based on quality of
@@ -90,15 +90,15 @@ const FS = () => {
           applicant’s newness to ISMIR, and the applicant’s geographical
           diversity.
         </p>
-        <p className="text-xl font-bold">Women in MIR (WiMIR) Grants</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Women in MIR (WiMIR) Grants</p>
+        <p className="text-lg">
           WiMIR Grants (100% or 50% registration fee waivers) are enabled by
           dedicated generous support of our industry partners, and will be
           available to women, trans, or non-binary people, people identifying as
           black, ethnic/racial minorities of the region, queer, unaffiliated
           researchers, and those from low- and middle-income countries.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Applicants do NOT need to be students to apply for the WiMIR Grants,
           though priority will be given to first or supporting authors of
           accepted papers. Registration waivers under this category are
@@ -106,19 +106,19 @@ const FS = () => {
           conference. WiMIR grants for authors of Late breaking/Demo submissions
           are under consideration and will be announced in due course.
         </p>
-        <p className="text-xl font-bold">Other Grants</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Other Grants</p>
+        <p className="text-lg">
           Childcare grants and accommodation grants are under consideration and
           details regarding applications for that will be announced later.
         </p>
         <p className="text-2xl font-bold">Eligibility</p>
-        <p className="text-xl">
+        <p className="text-lg">
           Grants are awarded on the basis of financial need, student and
           Diversity & Inclusion eligibility, and availability of funds. For
           registration waiver grants, the following funding categories will be
           prioritised, though anyone may apply:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             Student: Applicants enrolled in a degree-granting academic program
             in the 2021-2022 and/or 2022-2023 academic year(s)
@@ -147,22 +147,22 @@ const FS = () => {
           </li>
         </ul>
         <p className="text-2xl font-bold">Procedure</p>
-        <p className="text-xl">
+        <p className="text-lg">
           Grant applications for ISMIR 2022 will open on July 14, 2022.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           If you are an author (student or not) of an accepted paper applying
           for a grant, please apply by July 25, 2022 (AoE). Grant notifications
           for authors will be sent out no later than August 3, 2022 in time for
           the author registration deadline.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Candidates for Music Author Grants should apply by August 19, 2022.
           Notifications for Music Author Grants category will be sent out no
           later than August 24, 2022, owing to the staggered timelines of music
           submissions.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Applications for WiMIR Grants are accepted until August 19, 2022 (or
           until grants are available) though we strongly recommend candidates to
           apply early for immediate consideration. WiMIR Grant notifications for
@@ -171,7 +171,7 @@ const FS = () => {
           will be announced no later than August 24, 2022, in time for ISMIR
           2022 early bird registration deadline.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Please apply for grants using this google form:{" "}
           <span className="text-[#d83616]">
             <a href="https://forms.gle/McTMivAHNVK1WD5E9" target="_blank">
@@ -184,7 +184,7 @@ const FS = () => {
             before registering for the conference.
           </span>
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           You will be considered for all the grants that you qualify for, based
           on the information you provide in the application. All grant
           applications shall be processed with utmost confidentiality and any
@@ -194,7 +194,7 @@ const FS = () => {
           grants committee.
         </p>
         <p className="text-2xl font-bold">Questions?</p>
-        <p className="text-xl">
+        <p className="text-lg">
           Email:{" "}
           <span className="text-[#d83616]">
             <a href="mailto:ismir2022-diversity@ismir.net" target="_blank">

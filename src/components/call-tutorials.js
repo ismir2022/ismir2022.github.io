@@ -4,18 +4,18 @@ const Tutorials = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Call for Tutorials
         </h1>
       </div>
       <div className="space-y-5">
-        <p className="text-xl">
+        <p className="text-lg">
           The 23rd International Society for Music Information Retrieval
           Conference (ISMIR 2022) will be held in Bengaluru, India, from
           December 4th to 8th, 2022. It is currently planned to be in a hybrid
           format with the details to be finalized later.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The annual conference of the International Society for Music
           Information Retrieval (ISMIR) is the world’s leading research forum on
           processing, analyzing, searching, organizing and accessing
@@ -26,7 +26,7 @@ const Tutorials = () => {
           allocated 3 hours to concentrate on a single topic; tutorials take
           place in parallel sessions.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           To make the conference more accessible and inclusive, in addition to
           the standard tutorial suggestions, we welcome tutorial proposals which
           either cover fundamental and introductory topics in MIR, or present an
@@ -36,26 +36,26 @@ const Tutorials = () => {
           creation, copyright practices, towards cultural diversity and
           adaptation, multimodal learning, etc.
         </p>
-        <p className="text-2xl font-bold">Important Dates</p>
-        <p className="text-xl">Time zone: Anywhere On Earth (AOE)</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-xl font-bold">Important Dates</p>
+        <p className="text-lg">Time zone: Anywhere On Earth (AOE)</p>
+        <ul className="text-lg list-disc list-inside">
           <li>Proposal Submission: April 17, 2022</li>
           <li>Revision: April 24, 2022</li>
           <li>Notification of Acceptance: June 5, 2022</li>
         </ul>
-        <p className="text-2xl font-bold">Submissions</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Submissions</p>
+        <p className="text-lg">
           Initial proposals should be submitted as a PDF attachment via email to
           ismir2022-tutorials@ismir.net by April 17, 2022. After that, authors
           are welcome to submit revised submissions (but not initiate new
           submissions) by April 24, 2022.
         </p>
-        <p className="text-2xl font-bold">Submission Guidelines</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Submission Guidelines</p>
+        <p className="text-lg">
           Tutorial proposals should consist of a 2–4 page abstract including the
           following:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>Title</li>
           <li>Presenter names, affiliations, and email addresses</li>
           <li>Motivation and relevance of the tutorial</li>
@@ -68,13 +68,13 @@ const Tutorials = () => {
           </li>
           <li>Any other special requirements</li>
         </ul>
-        <p className="text-2xl font-bold">Review Process</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Review Process</p>
+        <p className="text-lg">
           Acceptance/rejection decisions will be made by the ISMIR2022 Tutorial
           Chairs, and notifications will be made by June 5, 2022. The decision
           will depend on the following criteria:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             Relevance (i.e., of interest to the whole community or only a
             segment thereof)
@@ -96,7 +96,7 @@ const Tutorials = () => {
             research
           </li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           You may refer to the tutorials offered last year,{" "}
           <span className="text-[#d83616]">
             <a href="https://ismir2021.ismir.net/tutorials/" target="_blank">
@@ -111,8 +111,8 @@ const Tutorials = () => {
             </a>
           </span>
         </p>
-        <p className="text-xl">Best regards,</p>
-        <p className="text-xl">
+        <p className="text-lg">Best regards,</p>
+        <p className="text-lg">
           Tutorial Program Chairs (Vipul Arora, Keunwoo Choi, Sri Rama Murty
           Kodukula)
         </p>

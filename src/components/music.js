@@ -4,12 +4,12 @@ const Music = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Call for Music
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           ISMIR 2022 invites submissions of music/sound art works for the
           concert program during the conference week. Like the conference, the
           concert will be held in a hybrid format. The call is open to all
@@ -20,8 +20,8 @@ const Music = () => {
           hacking, cultural diversity in non-Eurogenetic music are highly
           encouraged.
         </p>
-        <p className="text-2xl font-bold">Important dates</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-xl font-bold">Important dates</p>
+        <ul className="text-lg list-disc list-inside">
           <li>Submission portal opening: Jul 10, 2022</li>
           <li>Submission deadline: Jul 31, 2022 Aug 9, 2022</li>
           <li>Notification of acceptance: Aug 15, 2022</li>
@@ -29,8 +29,8 @@ const Music = () => {
           <li>Notification of Music author grant: Aug 24, 2022</li>
           <li>Performance-ready submission deadline: Oct 31, 2022</li>
         </ul>
-        <p className="text-2xl font-bold">Music author grants</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Music author grants</p>
+        <p className="text-lg">
           Music Author Grants are available for the authors of accepted
           submissions to the ISMIR 2022 music program. The grants include 100%
           or 50% registration fee waivers and are awarded based on quality of
@@ -38,7 +38,7 @@ const Music = () => {
           applicant’s newness to ISMIR, and the applicant’s geographical
           diversity.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           For detailed information on grants, please refer to:{" "}
           <span className="text-[#d83616]">
             <a href="https://ismir2022.ismir.net/attend/support" target="_blank">
@@ -46,14 +46,14 @@ const Music = () => {
             </a>
           </span>
         </p>
-        <p className="text-2xl font-bold">Themes</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Themes</p>
+        <p className="text-lg">
           This year, music from any genre and in any formats is invited for
           submission. However, to make it a good fit for a hybrid format and
           make it more interesting, we propose the following themes that
           participants are encouraged to explore, but of course not limit to:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             <span className="font-bold">Recorded Ensemble:</span> Participants
             form teams to record ensemble performances to submit. (i) Networked
@@ -88,8 +88,8 @@ const Music = () => {
             setups with limited resources.
           </li>
         </ul>
-        <p className="text-2xl font-bold">Concert</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Concert</p>
+        <p className="text-lg">
           The concert program will be held in a hybrid format consisting of live
           performance for the on-site attendees and a live online streaming for
           the virtual attendees. Live comments will be enabled to encourage
@@ -97,11 +97,11 @@ const Music = () => {
           expected to be present to interact with audiences in the live chat
           window.
         </p>
-        <p className="text-2xl font-bold">Submission guidelines</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Submission guidelines</p>
+        <p className="text-lg">
           The submission of music works should consist of:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             A submission proposal with description of the performance in the
             form of program notes (text) and technical rider (pdf)
@@ -123,7 +123,7 @@ const Music = () => {
             </ul>
           </li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           After notification of acceptance, all participants have a chance to
           further edit the uploaded material to make a performance-ready
           submission. The video should be self-explanatory with some
@@ -131,7 +131,7 @@ const Music = () => {
           during the broadcast. Original audio submissions should be converted
           to video format with a meaningful visual component.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Only one submission per participant will be accepted. Pieces have to
           be shorter than 10 minutes. The submission is not anonymous. The
           proposals and video performances will be submitted through the CMT
@@ -141,7 +141,7 @@ const Music = () => {
           in the conference proceedings. The artist must hold the copyright of
           submitted materials to be used in ISMIR 2022.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Submission site:{" "}
           <span className="text-[#d83616]">
             <a href="https://cmt3.research.microsoft.com/ISMIR2022" target="_blank">
@@ -149,7 +149,7 @@ const Music = () => {
             </a>
           </span>
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Each accepted music submission needs to be covered by an in-person
           registration (student or full, as appropriate) by the early bird
           deadline(Aug 31, 2022). If the authors of the music submission are
@@ -158,16 +158,16 @@ const Music = () => {
           Kindly indicate in the submission form if the first author of a
           submission is a student author.
         </p>
-        <p className="text-2xl font-bold">Questions</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Questions</p>
+        <p className="text-lg">
           Questions can be directed via{" "}
           <span className="text-[#d83616]">
             <a href="mailto:ismir2022-music@ismir.net" target="_blank">email</a>
           </span>{" "}
           to ismir2022-music@ismir.net
         </p>
-        <p className="text-xl">Best Regards,</p>
-        <p className="text-xl">
+        <p className="text-lg">Best Regards,</p>
+        <p className="text-lg">
           Music Program Chairs (Kaustuv Kanti Ganguli, Sumitra Ranganathan)
         </p>
       </div>

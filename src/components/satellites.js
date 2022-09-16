@@ -5,39 +5,39 @@ const Satellites = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Satellite Events
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           ISMIR 2022 will be accompanied by several satellite events around the
           conference.
         </p>
-        <p className="text-2xl text-[#d83616] font-bold">
+        <p className="text-xl text-[#d83616] font-bold">
           <a href="https://wimir.wordpress.com/" target="_blank">
             WiMIR Workshop
           </a>
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           November 28-29, 2022 online (virtual)
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
         The WiMIR Workshop will be two days of talks by eminent researchers in the WiMIR community, 
         and an opportunity to network, socialize, and have discussions with peers ahead of the ISMIR
          conference. The Workshop is, as ever, free and open to all members of the MIR community. 
          Full program of speakers coming soon. Registration will open in late October.
         </p>
         <br></br>
-        <p className="text-2xl text-[#d83616] font-bold">
+        <p className="text-xl text-[#d83616] font-bold">
           <Link to="/satellites/mmmt">
             Music, Mind, Movement and Technology (MMMT) Workshop
           </Link>
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           Dec 2-3, 2022 in IISc, Bengaluru, India
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The Music, Mind, Movement and Technology (MMMT) Workshop is a hybrid
           satellite workshop around the 23rd International Society for Music
           Information Retrieval Conference (ISMIR 2022). MMMT is an attempt to
@@ -57,15 +57,15 @@ const Satellites = () => {
           </span>
         </p>
         <br></br>
-        <p className="text-2xl text-[#d83616] font-bold">
+        <p className="text-xl text-[#d83616] font-bold">
           <Link to="/satellites/ime">
             Indian Music Experience (IME) Workshop
           </Link>
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           Dec 9, 2022 at the Indian Music Experience Museum, Bengaluru, India
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           As a satellite event for ISMIR 2022, we are organizing an Indian music
           experience workshop on the 9th Dec, 2022. The day-long physical-only
           workshop will be hosted in the{" "}
@@ -86,9 +86,9 @@ const Satellites = () => {
           </span>
         </p>
         <br></br>
-        <p className="text-2xl font-bold">MusicHackDay India 2022</p>
-        <p className="text-xl font-bold">Dec 10-11, 2022 in Bengaluru, India</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">MusicHackDay India 2022</p>
+        <p className="text-lg font-bold">Dec 10-11, 2022 in Bengaluru, India</p>
+        <p className="text-lg">
           <span className="text-[#d83616]">
             <a href="https://musictechcommunity.org/" target="_blank">
               The Music Tech Community India
@@ -129,20 +129,20 @@ const Satellites = () => {
             </li>
           </ul>
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Additional information on the event and a link to register for the
           event will be available soon!
         </p>
         <br></br>
-        <p className="text-2xl text-[#d83616] font-bold">
+        <p className="text-xl text-[#d83616] font-bold">
           <a href="https://compmusic.upf.edu/node/365" target="_blank">
             CompMusic Workshop 2022
           </a>
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           December 12-16, 2022 at IIT Madras, Chennai, India
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           CompMusic Workshop 2022 is a 5-day workshop and a satellite event of
           ISMIR 2022 to introduce the field of Computational Musicology while
           focusing on the study of Carnatic Music. By combining theoretical

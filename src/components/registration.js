@@ -10,7 +10,7 @@ const Registration = () => {
         </h1>
       </div>
       <div className="space-y-5">
-        <p className="text-xl">
+        <p className="text-lg">
           Registration is now open for ISMIR 2022! Please be aware that by
           registering, you agree to abide by the{" "}
           <span className="text-[#d83616]">
@@ -255,10 +255,10 @@ const Registration = () => {
             </tbody>
           </table>
         </div>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           Registration benefits (Virtual participation)
         </p>
-        <ul className="list-disc list-inside text-xl">
+        <ul className="list-disc list-inside text-lg">
           <li>
             E-version of all conference material - abstract book, program book,
             etc.
@@ -273,10 +273,10 @@ const Registration = () => {
             Retrieval.
           </li>
         </ul>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           Registration benefits (In-Person participation)
         </p>
-        <ul className="list-disc list-inside text-xl">
+        <ul className="list-disc list-inside text-lg">
           <li>Everything included for virtual participants</li>
           <li>Conference kit/ bag with all the conference material</li>
           <li>Access to all physical sessions and exhibitions at the venue</li>
@@ -290,8 +290,8 @@ const Registration = () => {
             registration
           </li>
         </ul>
-        <p className="text-2xl font-bold">Important Note for Authors</p>
-        <ul className="list-disc list-inside text-xl">
+        <p className="text-xl font-bold">Important Note for Authors</p>
+        <ul className="list-disc list-inside text-lg">
           <li>
             Each accepted paper needs to be covered by at least one author
             registration of the appropriate category (student or full) by the
@@ -307,10 +307,10 @@ const Registration = () => {
             (in-person or virtually).
           </li>
         </ul>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           Important Note for in-person participants
         </p>
-        <ul className="list-disc list-inside text-xl">
+        <ul className="list-disc list-inside text-lg">
           <li>
             All non-Indian nationals registering for in-person participation
             will need to submit their passport details which will be used solely
@@ -339,8 +339,8 @@ const Registration = () => {
             by Sep 5, 2022.
           </li>
         </ul>
-        <p className="text-2xl font-bold">General Terms & Conditions:</p>
-        <ul className="list-disc list-inside text-xl">
+        <p className="text-xl font-bold">General Terms & Conditions:</p>
+        <ul className="list-disc list-inside text-lg">
           <li>
             All prices mentioned above are quoted in Indian Rupee (INR). Goods
             and Services Tax (GST) of 18% is applicable on the fees (as
@@ -393,8 +393,8 @@ const Registration = () => {
             organisers will be adhered by you during the conference.
           </li>
         </ul>
-        <p className="text-2xl font-bold">Cancellation Policy:</p>
-        <ul className="list-disc list-inside text-xl">
+        <p className="text-xl font-bold">Cancellation Policy:</p>
+        <ul className="list-disc list-inside text-lg">
           <li>
             Kindly send the cancellation requests to{" "}
             <span className="text-[#d83616]">
@@ -413,12 +413,12 @@ const Registration = () => {
             September 30, 2022 (18.00 hrs IST).
           </li>
         </ul>
-        <p className="text-2xl font-bold">FAQ</p>
-        <p className="text-xl font-bold">
+        <p className="text-xl font-bold">FAQ</p>
+        <p className="text-lg font-bold">
           Q. My payment through a credit/debit card has been declined while
           paying in INR. Do I have any alternatives modes of payment?
         </p>
-        <p className="text-xl ">
+        <p className="text-lg ">
           A. We have been seeing some payment issues with credit cards that do
           not support second factor authentication and those from certain banks
           some of the times. In case you see any payment issues during
@@ -431,11 +431,11 @@ const Registration = () => {
           they use a different payment processor and are expected to solve the
           issue with payment declines.
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           Q. I have been provided with a discount code to register. How do I use
           the code and complete registration?
         </p>
-        <p className="text-xl ">
+        <p className="text-lg ">
           A. Discount code you’ve been provided is personalized to you and is
           applicable to only specific categories of tickets. To register with
           this code, please visit the registration portal and enter the provided
@@ -445,8 +445,8 @@ const Registration = () => {
           choose the category appropriate to you and continue with registration
           filling in all needed details.
         </p>
-        <p className="text-2xl font-bold">Enquiries:</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Enquiries:</p>
+        <p className="text-lg">
           Please write to us at{" "}
           <span className="text-[#d83616]">
             <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
