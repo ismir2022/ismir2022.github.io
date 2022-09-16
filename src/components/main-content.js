@@ -3,8 +3,8 @@ import React from 'react'
 const MainContent = () => {
   return (
     <div>
-      <h1 className="text-[#d83616] font-bold text-3xl md:text-4xl mt-5 text-center md:text-left">Welcome to ISMIR 2022!</h1>
-      <p className="text-lg md:text-2xl mt-8 ">
+      <h1 className="text-[#d83616] font-bold text-2xl md:text-3xl mt-5 text-center md:text-left">Welcome to ISMIR 2022!</h1>
+      <p className="text-lg md:text-xl mt-8 ">
         The 23rd International Society for Music Information Retrieval
         Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8,
         2022 and will be hosted in Bengaluru, India. The International Society
@@ -18,7 +18,7 @@ const MainContent = () => {
         world's leading research forum on processing, searching, organising and
         accessing music-related data.
       </p>
-      <p className="text-lg md:text-2xl mt-5">
+      <p className="text-lg md:text-xl mt-5">
         ISMIR 2022 will comprise a technical program of submitted research
         papers, keynote and plenary talks by eminent speakers in MIR and related
         areas such as musicology and music cognition. A number of special

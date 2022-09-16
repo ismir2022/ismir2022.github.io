@@ -42,17 +42,17 @@ const Mmmt = () =>
   return (
     <div className="space-y-5">
       <div className="space-y-3">
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Music, Mind, Movement and Technology Workshop
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-2xl text-[#d83616] font-bold">December 2-3, 2022</p>
-        <p className="text-2xl font-bold">
+        <p className="text-xl text-[#d83616] font-bold">December 2-3, 2022</p>
+        <p className="text-xl font-bold">
           Venue: Online/Indian Institute of Science (IISc), Bengaluru
         </p>
-        <p className="text-xl font-bold">Time: 9:30am - 5:00pm IST</p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">Time: 9:30am - 5:00pm IST</p>
+        <p className="text-lg font-bold">
           Workshop Chair:{" "}
           <span className="text-[#d83616]">
             <a
@@ -64,14 +64,14 @@ const Mmmt = () =>
           </span>
           , IIIT Hyderabad
         </p>
-        <p className="text-xl font-bold">
+        <p className="text-lg font-bold">
           <span className="text-[#d83616]">
             <a href={poster} target="_blank">
               Download Poster
             </a>
           </span>
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The Music, Mind, Movement and Technology (MMMT) workshop is a hybrid
           satellite workshop around the 23rd International Society for Music
           Information Retrieval Conference (ISMIR 2022). MMMT workshop is an
@@ -85,7 +85,7 @@ const Mmmt = () =>
           others.
         </p>
         {isOpen && <Modal src={src_path} onClose={() => setIsOpen(false)} />}
-        <p className="text-3xl font-bold">Themes and Speakers</p>
+        <p className="text-2xl font-bold">Themes and Speakers</p>
         <div
           style={{
             display: "flex",
@@ -93,7 +93,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <p className="text-2xl font-bold">Opening Keynote</p> <br />
+          <p className="text-xl font-bold">Opening Keynote</p> <br />
         </div>
         <div
           style={{
@@ -102,7 +102,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <p className="text-xl">
+          <p className="text-lg">
             <span className="text-[#d83616]">
               <a href="https://github.com/jjau" target="_blank">
                 Jean-Julien Aucouturier <br />
@@ -138,7 +138,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <h1 className="text-2xl font-bold">Music and Health</h1>
+          <h1 className="text-xl font-bold">Music and Health</h1>
         </div>
         <div
           style={{
@@ -149,7 +149,7 @@ const Mmmt = () =>
         >
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-64 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a href="http://www.katagres.com/" target="_blank">
                     Kat Agres <br />
@@ -170,7 +170,7 @@ const Mmmt = () =>
             </div>
             <br />
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://scholar.google.com/citations?user=KapV5VIAAAAJ&hl=en"
@@ -201,7 +201,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <h1 className="text-2xl font-bold">Music and Culture</h1>
+          <h1 className="text-xl font-bold">Music and Culture</h1>
         </div>
         <div
           style={{
@@ -212,7 +212,7 @@ const Mmmt = () =>
         >
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a href="https://www.norijacoby.com/" target="_blank">
                     {" "}
@@ -239,7 +239,7 @@ const Mmmt = () =>
             </div>
             <br />
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a href="https://tuomaseerola.github" target="_blank">
                     Tuomas Eeorla <br />
@@ -267,7 +267,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <h1 className="text-2xl font-bold">Music Perception</h1>
+          <h1 className="text-xl font-bold">Music Perception</h1>
         </div>
         <div
           style={{
@@ -278,7 +278,7 @@ const Mmmt = () =>
         >
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://webspace.science.uu.nl/~fleis102/"
@@ -301,7 +301,7 @@ const Mmmt = () =>
             </div>
             <br />
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://scholar.google.fi/citations?user=L0c3kWEAAAAJ&hl=th/"
@@ -332,7 +332,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <h1 className="text-2xl font-bold">Music and Gestures</h1>
+          <h1 className="text-xl font-bold">Music and Gestures</h1>
         </div>
         <div
           style={{
@@ -343,7 +343,7 @@ const Mmmt = () =>
         >
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://scholar.google.com/citations?hl=en&user=3Z6wUYIAAAAJ"
@@ -366,7 +366,7 @@ const Mmmt = () =>
             </div>
             <br />
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://scholar.google.com/citations?user=ati0WrYAAAAJ&hl=en/"
@@ -397,7 +397,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <h1 className="text-2xl font-bold">Music and Neuroscience</h1>
+          <h1 className="text-xl font-bold">Music and Neuroscience</h1>
         </div>
         <div
           style={{
@@ -408,7 +408,7 @@ const Mmmt = () =>
         >
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a href="https://ccrma.stanford.edu/~blairbo" target="_blank">
                     {" "}
@@ -428,7 +428,7 @@ const Mmmt = () =>
             </div>
             <br />
             <div className="flex-col flex items-center justify-center space-y-3">
-              <p className="text-xl">
+              <p className="text-lg">
                 <span className="text-[#d83616]">
                   <a
                     href="https://scholar.google.com/citations?user=6AOv3DIAAAAJ&hl=en/"
@@ -452,8 +452,8 @@ const Mmmt = () =>
         </div>
         <br />
         <br />
-        <p className="text-2xl font-bold">Schedule</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Schedule</p>
+        <p className="text-lg">
           All the talks will take place between 9:30am - 5:00pm IST and can be
           attended virtually. The speakers who will be present physically will
           also present via an online platform. Each talk will last for 40
@@ -463,8 +463,8 @@ const Mmmt = () =>
           lunch. At the end of the workshop we hope to have an informal get
           together to ring in ISMIR 2022! We look forward to seeing you there!
         </p>
-        <p className="text-2xl font-bold">Registration</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">Registration</p>
+        <p className="text-lg">
           The registration fee for the workshop are as follows:
         </p>
         {/* Will contain table */}
@@ -519,14 +519,14 @@ const Mmmt = () =>
             </tbody>
           </table>
         </div>
-        <p className="text-xl">
+        <p className="text-lg">
           The registration fee for the workshop is the same for in-person or
           virtual attendance at the workshop. The convenient way to register for
           the MMMT workshop is to select it as an add-on during ISMIR 2022
           registration. This is the recommended way to register for the
           workshop.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           If you wish to register only for the MMMT workshop (and not ISMIR
           2022), you would be able to do it through the link below:
         </p>
@@ -539,8 +539,8 @@ const Mmmt = () =>
             Register for MMMT
           </a>
         </button>
-        <p className="text-xl font-bold">General Terms & Conditions:</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-lg font-bold">General Terms & Conditions:</p>
+        <ul className="text-lg list-disc list-inside">
           <li>
             By registering to this satellite event, you agree to abide by the
             <span className="text-[#d83616]">
@@ -591,8 +591,8 @@ const Mmmt = () =>
             organisers will be adhered by you during the workshop.
           </li>
         </ul>
-        <p className="text-xl font-bold">Cancellation Policy:</p>
-        <ul className="text-xl list-disc list-inside">
+        <p className="text-lg font-bold">Cancellation Policy:</p>
+        <ul className="text-lg list-disc list-inside">
           <li>
             Kindly send the cancellation requests to{" "}
             <span className="text-[#d83616]">
@@ -611,8 +611,8 @@ const Mmmt = () =>
             September 30, 2022 (18.00 hrs IST).
           </li>
         </ul>
-        <p className="text-xl font-bold">Enquiries:</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Enquiries:</p>
+        <p className="text-lg">
           Please write to us at{" "}
           <span className="text-[#d83616]">
             <a href="mailto:vinoo.alluri@iiit.ac.in" target="_blank">

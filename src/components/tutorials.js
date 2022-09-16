@@ -4,33 +4,33 @@ const Tutorials = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Tutorials
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl">
+        <p className="text-lg">
           All the tutorials at ISMIR 2022 will take place on 04 December, 2022
           in a hybrid format. There will be three parallel tutorials each in the
           morning and the afternoon sessions, with a total of six tutorials.
         </p>
-        <p className="text-3xl font-bold">Morning Session</p>
-        <p className="text-2xl font-bold">
+        <p className="text-2xl font-bold">Morning Session</p>
+        <p className="text-xl font-bold">
           T1(M): An Introduction to Symbolic Music Processing in Python with
           Partitura
         </p>
-        <p className="text-xl italic">
+        <p className="text-lg italic">
           Carlos Cancino-Chacón, Francesco Foscarin, Emmanouil Karystinaios,
           Silvan David Peter
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Symbolic music formats (e.g., MIDI, MusicXML/MEI) can provide a
           variety of high-level musical information like note pitch and
           duration, key/time signature, beat/downbeat position, etc. Such data
           can be used as both input/training data and as ground truth for MIR
           systems.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           This tutorial aims to provide an introduction to symbolic music
           processing for a broad MIR audience, with a particular focus on
           showing how to extract relevant MIR features from symbolic musical
@@ -40,7 +40,7 @@ const Tutorials = () => {
           multi-modal dataset that contains MusicXML scores, MIDI performances,
           audio performances, and score-to-performance alignments.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The tutorial will be structured in four parts: The first part provides
           an introduction to the topic of symbolic music processing. The second,
           third, and fourth parts are hands-on tutorials that showcase the
@@ -49,7 +49,7 @@ const Tutorials = () => {
           common MIR features, and how to work with symbolic multimodal
           datasets, respectively.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The motivation behind this tutorial is to promote research on symbolic
           music processing in the MIR community. Therefore, we target a broad
           audience of researchers without requiring prior knowledge of this
@@ -60,13 +60,13 @@ const Tutorials = () => {
           the tutorial. Furthermore, some familiarity with the basic concepts of
           statistics and machine learning is useful.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           This work receives funding from the European Research Council (ERC)
           under the European Union’s Horizon 2020 research and innovation
           programme, grant agreement No 101019375 (Whither Music?).
         </p>
-        <p className="text-xl font-bold">Biographies of Presenters</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Biographies of Presenters</p>
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="http://www.carloscancinochacon.com/" target="_blank">
               Carlos Cancino-Chacón
@@ -85,7 +85,7 @@ const Tutorials = () => {
           University of Mexico, and a degree in Piano Performance from the
           National Conservatory of Music of Mexico.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a
               href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/franceso-foscarin/"
@@ -103,7 +103,7 @@ const Tutorials = () => {
           grammar-based parsing of hierarchical chord structures, piano comping
           generation for jazz music, and voice separation in symbolic music.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a
               href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/emmanouil-karystinaios/"
@@ -120,7 +120,7 @@ const Tutorials = () => {
           Vincennes University, and an integrated M.A. in Musicology from the
           Aristotle University of Thessaloniki.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a
               href="https://www.jku.at/en/institute-of-computational-perception/about-us/people/silvan-david-peter/"
@@ -135,15 +135,15 @@ const Tutorials = () => {
           models of musical skills. He holds an M.Sc. degree in Mathematics from
           the Humboldt University of Berlin.
         </p>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           T2(M): Computational Methods For Supporting Corpus-Based Research On
           Indian Art Music
         </p>
-        <p className="text-xl italic">
+        <p className="text-lg italic">
           Thomas Nuttall, Genís Plaja-Roglans, Lara Pearson, Brindha
           Manickavasakan
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Culture-aware approaches to computational musicology and music
           information research (MIR) have been shown to be effective for a
           musically relevant analysis of a music culture. Projects such as
@@ -156,7 +156,7 @@ const Tutorials = () => {
           collective body of bespoke computational methods for analyzing these
           traditions.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Through this tutorial we aim to compile and present such works, making
           openly available a number of software tools and materials developed by
           MIR researchers working on the two main IAM traditions, Carnatic and
@@ -167,7 +167,7 @@ const Tutorials = () => {
           understand its constituent tasks, followed by a practical presentation
           of the materials and software tools compiled.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           This tutorial is the result of an ongoing collaborative effort
           involving many contributors. The software will be available in Python
           through a single Github repository, containing clear and reproducible
@@ -176,8 +176,8 @@ const Tutorials = () => {
           materials, contextualize the software tools, and include Jupyter
           Notebook examples for most of the research tasks covered.
         </p>
-        <p className="text-xl font-bold">Biographies of Presenters</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Biographies of Presenters</p>
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://thomasgnuttall.github.io/about" target="_blank">
             Thomas Nuttall
@@ -192,7 +192,7 @@ const Tutorials = () => {
           the gap between the music information retrieval and musicology
           research communities.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Genís Plaja-Roglans </span>is a Ph.D
           student in the Music Technology Group (MTG) of Universitat Pompeu
           Fabra in Barcelona, Spain. His research focus is on creation of
@@ -202,7 +202,7 @@ const Tutorials = () => {
           melody estimation, singing voice source separation and repeated
           pattern discovery.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Lara Pearson </span>is a musicologist at
           the Max Planck Institute for Empirical Aesthetics (MPIEA), Frankfurt
           am Main, Germany. Her work explores bodily and movement dimensions of
@@ -212,7 +212,7 @@ const Tutorials = () => {
           aesthetics, cultural heritage, music notation and the concept of
           improvisation.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Brindha Manickavasakan </span>is a
           Carnatic Music vocalist, and is among the foremost, popular young
           performing Carnatic musicians in India. She has been performing for
@@ -224,18 +224,18 @@ const Tutorials = () => {
           Tañjāvūr K Poṉṉayyā Piḷḷai. She is a constant feature in all the major
           sabhas in Chennai, and performs regularly across India and abroad.
         </p>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           T3(M): Designing Controllable Synthesis System for Musical Signals
         </p>
-        <p className="text-xl italic">Hyeong-Seok Choi, Yusong Wu</p>
-        <p className="text-xl">
+        <p className="text-lg italic">Hyeong-Seok Choi, Yusong Wu</p>
+        <p className="text-lg">
           Advances in deep learning and signal processing research have made it
           possible to generate signals that at times can be difficult to
           distinguish from real samples. Despite the realistic output the models
           can produce, however, the controllability of the models is still
           constrained because of the black-box-like nature of many models.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           In this tutorial, we aim to introduce considerations researchers can
           take into account for a better end-user experience. We would like to
           focus in particular on how to design deep generative models with
@@ -250,15 +250,15 @@ const Tutorials = () => {
           MIDI-DDSP models via Jupyter (Colab) Notebook with Python and
           Tensorflow.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The target audience for this tutorial is researchers who are
           interested in deep generative models for monophonic signals,
           especially for singing voice and musical instruments. We expect the
           audience to have a basic understanding of machine learning concepts
           for audio signal processing.
         </p>
-        <p className="text-xl font-bold">Biographies of Presenters</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Biographies of Presenters</p>
+        <p className="text-lg">
           <span className="font-bold">Hyeong-Seok Choi </span> received his PhD
           from Seoul National University, South Korea, in 2022, with a thesis
           titled, “A Controllable Generation of Signals from Self-Supervised
@@ -270,7 +270,7 @@ const Tutorials = () => {
           the CES 2022 Innovation Awards Honoree: Software & Mobile Apps by
           proposing a real-time voice conversion technology.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Yusong Wu </span> is a final-year research
           master at the University of Montreal and Mila in Montreal, Canada. He
           is co-advised by Prof. Aaron Courville and Prof. Cheng-Zhi Anna Huang
@@ -280,14 +280,14 @@ const Tutorials = () => {
           Performance via Hierarchical Modeling”, collaborating with Google
           Magenta, was accepted by ICLR 2022 for oral presentation.
         </p>
-        <p className="text-3xl font-bold">Afternoon Session</p>
-        <p className="text-2xl font-bold">
+        <p className="text-2xl font-bold">Afternoon Session</p>
+        <p className="text-xl font-bold">
           T4(A): Few-Shot and Zero-Shot Learning for Musical Audio
         </p>
-        <p className="text-xl italic">
+        <p className="text-lg italic">
           Yu Wang, Hugo Flores García, Jeong Choi
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           While deep neural networks achieved promising results in many MIR
           tasks, they typically require a large amount of labeled data for
           training. Rare, fine-grained, or newly emerged classes (e.g. a rare
@@ -305,7 +305,7 @@ const Tutorials = () => {
           significant effort, making them useful tools when developing MIR
           systems that can be customized by individual users.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           In this tutorial, we will go over{" "}
           <ul className="list-decimal list-inside">
             <li>
@@ -323,7 +323,7 @@ const Tutorials = () => {
             </li>
           </ul>
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           We aim for this tutorial to be useful to researchers and practitioners
           in the ISMIR community who are facing labeled data scarcity issues,
           looking for new interaction paradigms between users and MIR systems,
@@ -331,8 +331,8 @@ const Tutorials = () => {
           ZSL. We assume the audience is familiar with the basic machine
           learning concepts.
         </p>
-        <p className="text-xl font-bold">Biographies of Presenters</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Biographies of Presenters</p>
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://y-wang.weebly.com/" target="_blank">
               Yu Wang Yu
@@ -352,7 +352,7 @@ const Tutorials = () => {
           sound engineering. Japanese math rock is her current favorite music
           genre.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Hugo Flores García</span> is a Ph.D.
           student in Computer Science at Northwestern University, working under
           Prof. Bryan Pardo in the Interactive Audio Lab. Hugo’s research
@@ -367,7 +367,7 @@ const Tutorials = () => {
           technology, as well as making interactive music and art in
           SuperCollider and Max/MSP.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Jeong Choi</span> is a machine learning
           researcher at Naver, where he leads NOW AI team that’s working on a
           multi-modal recommendation system for a video streaming service, Naver
@@ -383,14 +383,14 @@ const Tutorials = () => {
           Media at Ajou University, and majored in French at Daewon Foreign
           Language High School.
         </p>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           T5(A): Deep learning for automatic mixing
         </p>
-        <p className="text-xl italic">
+        <p className="text-lg italic">
           Christian J. Steinmetz, Soumya Sai Vanka, Gary Bromham, Marco A.
           Martínez Ramírez
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Mixing is a central task within audio post-production where expert
           knowledge is required to deliver professional quality content,
           encompassing both technical and creative considerations. Recently,
@@ -414,8 +414,8 @@ const Tutorials = () => {
           background in audio engineering or signal processing, who are
           interested in gaining exposure to current approaches in deep learning.
         </p>
-        <p className="text-xl font-bold">Biographies of Presenters</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Biographies of Presenters</p>
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://www.christiansteinmetz.com/" target="_blank">
               Christian J. Steinmetz
@@ -434,7 +434,7 @@ const Tutorials = () => {
           Sound and Music Computing from the Music Technology Group at
           Universitat Pompeu Fabra.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://www.saisoumya.com/" target="_blank">
               Soumya Sai Vanka
@@ -449,7 +449,7 @@ const Tutorials = () => {
           and plays saxophone. Her educational background is a mixture of
           Masters in Physics and Courses in Music Production.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold">Gary Bromham</span> is a part-time PhD
           researcher at Queen Mary University of London, researching the role
           that traditional studio paradigms and retro aesthetics play in
@@ -472,7 +472,7 @@ const Tutorials = () => {
           his extensive knowledge and experience to both Undergraduate and
           Master’s degree level programs.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://m-marco.com/" target="_blank">
               Marco A. Martínez Ramírez
@@ -490,13 +490,13 @@ const Tutorials = () => {
           Colombia. Marco also has a background in music production and mixing
           engineering.
         </p>
-        <p className="text-2xl font-bold">
+        <p className="text-xl font-bold">
           T6(A): Trustworthy MIR: Creating MIR applications with values
         </p>
-        <p className="text-xl italic">
+        <p className="text-lg italic">
           Christine Bauer, Andrés Ferraro, Emilia Gómez, Lorenzo Porcaro
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The MIR community shows an increasing interest in understanding how
           current technologies affect the everyday experience of people all over
           the world, e.g., how we listen to music, compose songs, or learn to
@@ -513,7 +513,7 @@ const Tutorials = () => {
           social, economic, legal, and cultural implications that the use of MIR
           systems have in our life.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           In this tutorial, we aim at building upon and expanding the
           aforementioned debate, discussing the more recent results obtained by
           the MIR community and beyond. The goal of the tutorial is to show how
@@ -524,7 +524,7 @@ const Tutorials = () => {
           bias, algorithmic bias, music styles underrepresentation, and
           diversity-related phenomena (e.g. filter bubbles).
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           This tutorial is suitable for researchers and students in MIR working
           in any domain, as these issues are relevant for all MIR tasks. The
           examples will mostly focus on music information retrieval and
@@ -534,7 +534,7 @@ const Tutorials = () => {
           participants in reflecting on the design of evaluation methods that
           take into account values for which MIR systems should be accountable.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://christinebauer.eu/" target="_blank">
               Christine Bauer
@@ -561,7 +561,7 @@ const Tutorials = () => {
           tutorial on Multi-Method Evaluation of Adaptive Systems. Furthermore,
           she was a co-chair for the Doctoral Symposium at RecSys 2021.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://andrebola.github.io/about/" target="_blank">
               Andrés Ferraro{" "}
@@ -581,7 +581,7 @@ const Tutorials = () => {
           events that connect engineers, researchers, and students working on
           music and audio signal processing.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://emiliagomez.com/" target="_blank">
               Emilia Gómez
@@ -599,7 +599,7 @@ const Tutorials = () => {
           include fairness and transparency in AI, the impact of AI on jobs, and
           how it affects children development.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://lorenzoporcaro.com/" target="_blank">
               Lorenzo Porcaro

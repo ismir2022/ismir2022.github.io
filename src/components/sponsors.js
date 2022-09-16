@@ -4,11 +4,11 @@ import { StaticImage } from "gatsby-plugin-image";
 const Sponsors = () => {
   return (
     <div className="space-y-5">
-      <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+      <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
         Sponsors
       </h1>
       <div className="space-y-20">
-        <div className="text-center text-3xl font-bold space-y-5">
+        <div className="text-center text-2xl font-bold space-y-5">
           <div className="bg-gradient-to-r from-transparent via-gray-400 p-3">
             <p>Platinum</p>
           </div>
@@ -37,7 +37,7 @@ const Sponsors = () => {
             </div>
           </div>
         </div>
-        <div className="text-center text-3xl font-bold space-y-5">
+        <div className="text-center text-2xl font-bold space-y-5">
           <div className="bg-gradient-to-r from-transparent via-amber-300 p-3">
             <p>Gold</p>
           </div>
@@ -118,7 +118,7 @@ const Sponsors = () => {
           </div>
           <div className="flex flex-row flex-wrap"></div>
         </div>
-        <div className="text-center text-3xl font-bold space-y-5">
+        <div className="text-center text-2xl font-bold space-y-5">
           <div className="bg-gradient-to-r from-transparent via-gray-300 p-3">
             <p>Silver</p>
           </div>
@@ -148,7 +148,7 @@ const Sponsors = () => {
           </div>
           <div className="flex flex-row flex-wrap"></div>
         </div>
-        <div className="text-center text-3xl font-bold space-y-5">
+        <div className="text-center text-2xl font-bold space-y-5">
           <div className="bg-gradient-to-r from-transparent via-orange-400 p-3">
             <p>Supporter</p>
           </div>

@@ -3,11 +3,11 @@ import React from "react";
 const Highlights = () => {
   return (
     <div className="flex flex-col gap-5">
-      <h3 className="font-bold text-2xl md:text-3xl md:text-left text-center">
+      <h3 className="font-bold text-xl md:text-2xl md:text-left text-center">
         Highlights
       </h3>
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">
-        <ul className="text-xl md:text-2xl list-disc list-outside mt-2 mx-10 space-y-3">
+        <ul className="text-lg md:text-xl list-disc list-outside mt-2 mx-10 space-y-3">
           <li>
             Information on{" "}
             <span className="text-[#d83616]">

@@ -4,13 +4,13 @@ const Ime = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Indian Music Experience (IME) Workshop
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-2xl font-bold">December 9, 2022 (Friday)</p>
-        <p className="text-xl">
+        <p className="text-xl font-bold">December 9, 2022 (Friday)</p>
+        <p className="text-lg">
           As a satellite event for ISMIR 2022, we are organizing an Indian music
           experience workshop for the participants of ISMIR 2022. The event will
           be hosted at the{" "}
@@ -31,24 +31,24 @@ const Ime = () => {
           initiate discussions and foster future collaborations on MIR for
           Indian music.
         </p>
-        <p className="text-xl">A tentative program for the day:</p>
-        <p className="text-xl">
+        <p className="text-lg">A tentative program for the day:</p>
+        <p className="text-lg">
           <span className="font-bold"> 8.00 am</span>: Travel to the museum from
           the ISMIR conference venue (60-90 min travel time)
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold"> 10.00 am - 1.00 pm</span>: Workshop,
           exhibition and museum guided tours (morning session)
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold"> 2.00 pm - 5.00 pm</span>: Workshop,
           exhibition and museum guided tours (afternoon session)
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           <span className="font-bold"> 5.00 pm</span>: Travel from the museum
           back to ISMIR conference venue (60-90 min travel time)
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The workshop is available only to in-person registrants and not
           available for virtual participation. We will however make an effort to
           record some of the sessions and make it available later to all
@@ -57,14 +57,14 @@ const Ime = () => {
           museum and the ISMIR conference venue), lunch and coffee-breaks are
           included with your registration.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           To register for the satellite workshop, please make sure you select
           “Yes” on the corresponding question while registering as an in-person
           attendee for the ISMIR 2022 conference. You are welcome to bring
           accompanying guests at a nominal additional fee using the add-on
           tickets available during registration.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           The detailed program will be available soon. Please watch this space
           for additional information!
         </p>

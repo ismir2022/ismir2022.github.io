@@ -4,13 +4,13 @@ const Sponsorships = () => {
   return (
     <div className="space-y-10">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-xl mt-5">
           Call for Sponsorships
         </h1>
       </div>
       <div className="space-y-3">
-        <p className="text-xl font-bold">About ISMIR 2022</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">About ISMIR 2022</p>
+        <p className="text-lg">
           The annual conference of the International Society for Music
           Information Retrieval (ISMIR) will be held in Bengaluru, India from
           December 4-8, 2022. ISMIR represents the largest body of scholars,
@@ -23,8 +23,8 @@ const Sponsorships = () => {
           leanings, the ISMIR conference has traditionally been supported by
           prominent names in the music industry across the world.
         </p>
-        <p className="text-xl font-bold">Sponsorship Opportunities</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Sponsorship Opportunities</p>
+        <p className="text-lg">
           ISMIR 2022 will be organized in a hybrid mode where we expect around
           150 participants attending physically and over 800 participants
           virtually from around the world. ISMIR 2022 offers sponsorship
@@ -32,7 +32,7 @@ const Sponsorships = () => {
           tiers, and as a Supporter. Taking this opportunity to become a valued
           sponsor of the conference provides you a platform to:
         </p>
-        <ul className="text-xl list-disc list-inside">
+        <ul className="text-lg list-disc list-inside">
           <li>
             Showcase your organization’s latest research and products to an
             International community of MIR researchers and practitioners
@@ -43,21 +43,22 @@ const Sponsorships = () => {
             technologies
           </li>
         </ul>
-        <p className="text-xl">
+        <p className="text-lg">
           In addition to the main conference sponsorship, you may support Women
           in Music Information Retrieval (WiMIR) and Diversity & Inclusion
           initiatives that are an integral part of ISMIR 2022. The benefits for
           conference sponsorship and WiMIR sponsorship are described below:
         </p>
-        <p className="text-xl font-bold">ISMIR 2022 Sponsorship Packages</p>
+        <p className="text-lg font-bold">ISMIR 2022 Sponsorship Packages</p>
 
         <div className="flex md:flex-row flex-col gap-y-10 md:gap-y-0 gap-x-10">
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-xl">
               <p>Platinum</p>
             </div>
-            <p className="text-xl font-bold">INR 700,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="text-lg font-bold">INR 700,000</p>
+            <div className="space-y-3 text-lg text-left">
+
               <p>
                 Large sized logo and company name on the conference website and
                 proceedings
@@ -91,11 +92,11 @@ const Sponsorships = () => {
             </div>
           </div>
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-xl">
               <p>Gold</p>
             </div>
-            <p className="text-xl font-bold">INR 400,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="text-lg font-bold">INR 400,000</p>
+            <div className="space-y-3 text-lg text-left">
               <p>
                 Medium sized logo and company name on the conference website and
                 proceedings
@@ -126,11 +127,11 @@ const Sponsorships = () => {
             </div>
           </div>
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-xl">
               <p>Silver</p>
             </div>
-            <p className="font-bold text-xl">INR 200,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="font-bold text-lg">INR 200,000</p>
+            <div className="space-y-3 text-lg text-left">
               <p>
                 Small sized logo and company name on the conference website and
                 proceedings
@@ -163,17 +164,17 @@ const Sponsorships = () => {
             </div>
           </div>
         </div>
-        <p className="text-xl font-medium">
+        <p className="text-lg font-medium">
           In addition to Platinum, Gold and Silver tiers, we also offer
           sponsorship to ISMIR 2022 as a Supporter with the following limited
           benefits:
         </p>
         <div className="text-center gap-y-5 space-y-5 w-1/3">
-          <div className="bg-gradient-to-r from-transparent via-orange-400 font-bold text-2xl">
+          <div className="bg-gradient-to-r from-transparent via-orange-400 font-bold text-xl">
             <p>Supporter</p>
           </div>
-            <p className="font-bold text-xl">INR 100,000</p>
-          <div className="space-y-3 text-xl text-left">
+            <p className="font-bold text-lg">INR 100,000</p>
+          <div className="space-y-3 text-lg text-left">
             <p>
               Small sized logo and company name on the conference website and
               proceedings
@@ -189,14 +190,14 @@ const Sponsorships = () => {
             </p>
           </div>
         </div>
-        <p className="text-xl font-bold">WiMIR Sponsorship Packages</p>
+        <p className="text-lg font-bold">WiMIR Sponsorship Packages</p>
         <div className="flex md:flex-row flex-col gap-y-10 md:gap-y-0 gap-x-10">
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-gray-400 font-bold text-xl">
               <p>Patron</p>
             </div>
-            <p className="text-xl font-bold">INR 350,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="text-lg font-bold">INR 350,000</p>
+            <div className="space-y-3 text-lg text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Large logo acknowledgment in dedicated WiMIR program elements*
@@ -205,11 +206,11 @@ const Sponsorships = () => {
             </div>
           </div>
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-amber-300 font-bold text-xl">
               <p>Contributor</p>
             </div>
-            <p className="font-bold text-xl">INR 150,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="font-bold text-lg">INR 150,000</p>
+            <div className="space-y-3 text-lg text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Medium logo acknowledgment in dedicated WiMIR program elements*
@@ -217,11 +218,11 @@ const Sponsorships = () => {
             </div>
           </div>
           <div className="text-center">
-            <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-2xl">
+            <div className="bg-gradient-to-r from-transparent via-gray-300 font-bold text-xl">
               <p>Supporter</p>
             </div>
-            <p className="font-bold text-xl">INR 75,000</p>
-            <div className="space-y-3 text-xl text-left">
+            <p className="font-bold text-lg">INR 75,000</p>
+            <div className="space-y-3 text-lg text-left">
               <p>Social media acknowledgment through WiMIR’s Twitter account</p>
               <p>
                 Small logo acknowledgment in dedicated WiMIR program elements*
@@ -229,19 +230,19 @@ const Sponsorships = () => {
             </div>
           </div>
         </div>
-        <p className="text-xl font-medium">
+        <p className="text-lg font-medium">
           * Dedicated WiMIR program elements may include any of the following:
           WiMIR/D&I page of ISMIR2022 conference website; official WiMIR/D&I
           presentations during the ISMIR2022 conference; WiMIR/D&I blog post
           following the conclusion of the conference.
         </p>
-        <p className="text-xl font-bold">Contact</p>
-        <p className="text-xl">
+        <p className="text-lg font-bold">Contact</p>
+        <p className="text-lg">
           Please contact us at ismir2022-sponsorship@ismir.net if you wish to
           discuss further on the sponsorship opportunities available, have any
           further questions or need additional information about ISMIR 2022.
         </p>
-        <p className="text-xl">
+        <p className="text-lg">
           Joe Cheri Ross, Pratibha Moogi, Rishikesh Daoo
           <br></br> Sponsorship Chairs, ISMIR 2022
         </p>
