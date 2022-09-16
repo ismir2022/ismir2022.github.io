@@ -107,7 +107,7 @@ const Sponsors = () => {
               <div>
                 <a href="https://www.yamaha.com" target="_blank">
                   <StaticImage
-                    src="../images/sponsors/yamaha.png"
+                    src="../images/sponsors/yamaha-logo.png"
                     placeholder="blurred"
                     objectFit="contain"
                     width={200}
