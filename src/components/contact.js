@@ -54,8 +54,16 @@ const Contact = () => {
           <li>
             Registration/Travel/Visa related queries:{" "}
             <span className="text-[#d83616]">
-              <a href="mailto:ismir2022-registration@ismir.ne" target="_blank">
+              <a href="mailto:ismir2022-registration@ismir.net" target="_blank">
                 ismir2022-registration@ismir.net
+              </a>
+            </span>{" "}
+          </li>
+          <li>
+            Virtual Platform/Technical Support with Video/Poster:{" "}
+            <span className="text-[#d83616]">
+              <a href="mailto:ismir2022-tech@ismir.net" target="_blank">
+                ismir2022-tech@ismir.net
               </a>
             </span>{" "}
           </li>
