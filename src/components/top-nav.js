@@ -404,6 +404,22 @@ const TopNav = () => {
                   </Link>
                 </li>
                 <li>
+                      <Link
+                        to="/attend/presenters"
+                        className="active:bg-none text-xl"
+                      >
+                        Instructions for Presenters
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to="/attend/participants"
+                        className="active:bg-none text-xl"
+                      >
+                        Instructions for Participants
+                      </Link>
+                    </li>
+                <li>
                   <Link
                     to="/attend/support"
                     className="active:bg-[#d83616] text-xl"
