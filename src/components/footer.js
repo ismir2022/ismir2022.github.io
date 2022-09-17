@@ -36,7 +36,7 @@ const Footer = () => {
               alt="iisc"
               objectFit="contain"
               placeholder="blurred"
-              width={70}
+              // width={70}
               height={70}
             />
           </a>
