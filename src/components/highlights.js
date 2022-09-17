@@ -7,7 +7,7 @@ const Highlights = () => {
         Highlights
       </h3>
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">
-        <ul className="text-lg md:text-xl list-disc list-outside mt-2 mx-10 space-y-3">
+        <ul className="text-lg list-disc list-outside mt-2 mx-10 space-y-3">
           <li>
             Information on{" "}
             <span className="text-[#d83616]">

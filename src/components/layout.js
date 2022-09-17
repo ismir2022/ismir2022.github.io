@@ -5,9 +5,9 @@ import { StaticImage } from "gatsby-plugin-image";
 
 export default function Layout({ children }) {
   return (
-    <div className="bg-[#E9ECEF] space-y-10 text-black ">
+    <div className="bg-[#E9ECEF] text-black ">
       <TopNav />
-      <div className="active:none flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-5 text-center ">
+      <div className="active:none flex flex-col md:mx-30 lg:mx-52 mx-5 text-center ">
         <StaticImage
           src="../images/ismir_banner.png"
           alt="banner_img"
@@ -15,7 +15,6 @@ export default function Layout({ children }) {
         />
       </div>
       {children}
-      <div className="border-solid border-t-slate-400 border-2"></div>
       <Footer />
     </div>
   );

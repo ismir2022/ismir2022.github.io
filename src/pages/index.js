@@ -13,7 +13,7 @@ const IndexPage = () => {
       <div className="flex flex-col space-y-5 md:mx-30 lg:mx-52 mx-5">
         <MainContent />
         <Highlights />
-        <h3 className="font-bold text-2xl md:text-3xl md:text-left text-center">Important Dates (AoE)</h3>
+        <h3 className="font-bold text-xl md:text-2xl md:text-left text-center">Important Dates (AoE)</h3>
         <div className="md:flex md:flex-row place-content-between gap-x-5 lg:gap-y-0 gap-y-5">
           <Dates />
           <Twitter />
