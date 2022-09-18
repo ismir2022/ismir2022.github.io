@@ -11,7 +11,7 @@ const Papers = () => {
       <div className="space-y-5">
         <p className="text-[#d83616] text-lg">
           <a
-            href="../assets/ISMIR2022_Info_Sheet.pdf"
+            href="src/assets/ISMIR2022-ReviewForm.pdf"
             target="_blank"
           >
             Download PDF
@@ -132,7 +132,7 @@ const Papers = () => {
             </span>
             , as well as the review form {" "}
             <span className="text-[#d83616] break-all">
-              <a href="../assets/ISMIR2022-ReviewForm.pdf" target="_blank">
+              <a href="src/assets/ISMIR2022-ReviewForm.pdf" target="_blank">
                 (download PDF)
               </a>
             </span>
