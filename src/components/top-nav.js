@@ -406,7 +406,7 @@ const TopNav = () => {
                 <li>
                       <Link
                         to="/attend/presenters"
-                        className="active:bg-none text-xl"
+                        className="active:bg-[#d83616] text-xl"
                       >
                         Instructions for Presenters
                       </Link>
@@ -414,7 +414,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/attend/participants"
-                        className="active:bg-none text-xl"
+                        className="active:bg-[#d83616] text-xl"
                       >
                         Instructions for Participants
                       </Link>
