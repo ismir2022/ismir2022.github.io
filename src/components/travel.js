@@ -96,7 +96,7 @@ const Travel = () => {
             Letter of Invitation from the conference organisers (will be
             provided by ISMIR 2022 organizers). If you have provided your passport details during registration for ISMIR 2022, you can obtain your invitation letter using this portal {" "} 
             <span className="text-[#d83616] "><a href="https://ismir2022.virtualmnc.com/" target="_blank"> https://ismir2022.virtualmnc.com/ </a> </span> 
-            {" "} by entering your passport number. 
+            {" "} by entering your passport number. Please contact us if you have difficulty obtaining the invitation letter. 
           </li>
          </ul>
          <p className="text-lg"> Letters of permission from Indian Government Ministries for holding
@@ -138,16 +138,16 @@ const Travel = () => {
           kindly reconfirm before applying for the VISA with the consulate or
           your travel agent. The invitation letter will be issued ONLY after you
           have registered and full payment has been received. To obtain an
-          invitation letter, please share the following details (these details
-          are collected while registering to the conference);
+          invitation letter, please write to us with the following details (these details
+          are also collected while registering to the conference);
         </p>
         <ul className="list-disc text-lg list-inside">
-          <li>Name (as mentioned on the Passport)</li>
+          <li>Full Name (as mentioned on the Passport)</li>
           <li>Passport Number</li>
           <li>Place of Issue (Passport)</li>
-          <li>Gender</li>
-          <li>Affiliation</li>
-          <li>Country</li>
+          <li>Date of Issue (Passport)</li>
+          <li>Affiliation with city and country</li>
+          <li>Nationality</li>
         </ul>
         <p className="text-lg">
           The above listed details should be exactly as it appears on your
@@ -215,21 +215,8 @@ const Travel = () => {
         <p className="text-lg">
           The registration fee cannot be refunded for the reason of VISA being
           denied – cancellation policy mentioned on the website will be
-          followed. It takes around one month for the Embassy to process the
-          VISA application, please register and apply for VISA as early as you
+          followed. We request you to please register and apply for VISA as early as you
           can to make sure you have enough time to plan your trip.
-        </p>
-        <p className="text-lg">Prepared by,</p>
-        <p className="text-lg">Elisyan India Pvt Ltd</p>
-        <p className="text-lg">
-          <span className="text-[#d83616] ">
-            <a
-              href="https://ismir2022.ismir.net/attend/www.elisyan.in"
-              target="_blank"
-            >
-              www.elisyan.in
-            </a>
-          </span>
         </p>
       </div>
     </div>
