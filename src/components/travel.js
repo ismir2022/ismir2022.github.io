@@ -102,8 +102,8 @@ const Travel = () => {
          <p className="text-lg"> Letters of permission from Indian Government Ministries for holding
             the conference (will be provided by ISMIR 2022 organizers). These letters will include: </p>
             <ul className="list-disc text-lg list-inside">
-              <li> Approval letter from Ministry of Education (MoE), Government of India, which is the nodal ministry for the conference 
-              (<span className="text-[#d83616] "> <a href= {moe_approval} target="_blank">Download MoE approval letter PDF</a></span>).
+              <li> Approval letter from Ministry of Education (MoE), Government of India, which is the nodal ministry for the conference: {" "}
+                   <span className="text-[#d83616] "> <a href= {moe_approval} target="_blank">Download MoE approval letter PDF</a></span>
               </li>
               <li> Approval letter from the Ministry of External Affairs, Government of India (under process, a link to download it will be added soon) 
               </li>
@@ -111,8 +111,8 @@ const Travel = () => {
         <p className="text-lg"> Please note that an approval letter from Ministry of Home Affairs (MHA), 
           Government of India is not necessary for the conference. If your visa application requires it 
           and asks for it, please submit this circular from the ministry (that explains the conditions 
-          in which MHA approval is needed) along with your application 
-          (<span className="text-[#d83616] "> <a href= {mha_circular} target="_blank">Download MHA circular PDF</a></span>). 
+          in which MHA approval is needed) along with your application: {" "} 
+          <span className="text-[#d83616] "> <a href= {mha_circular} target="_blank">Download MHA circular PDF</a></span> 
         </p>
         <p className="text-lg font-bold">Photographs</p>
         <p className="text-lg">
