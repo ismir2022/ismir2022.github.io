@@ -131,13 +131,13 @@ const Papers = () => {
                 https://ismir.net/reviewer-guidelines
               </a>
             </span>
-            , as well as the review form {" "}
+            , as well as the review form (
             <span className="text-[#d83616] break-all">
               <a href={reviewform} target="_blank">
-                (download PDF)
+                download PDF
               </a>
             </span>
-            , before the paper submission.
+            ), before the paper submission.
           </p>
           <p className="font-bold text-xl">Submission Process</p>
           <p className="text-lg italic">
