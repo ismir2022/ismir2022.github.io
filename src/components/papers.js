@@ -11,7 +11,7 @@ const Papers = () => {
       <div className="space-y-5">
         <p className="text-[#d83616] text-lg">
           <a
-            href="https://ismir2022.ismir.net/assets/ISMIR2022_Info_Sheet.pdf"
+            href="../assets/ISMIR2022_Info_Sheet.pdf"
             target="_blank"
           >
             Download PDF
