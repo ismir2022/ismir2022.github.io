@@ -1,4 +1,6 @@
 import React from "react";
+import infosheet from '../assets/ISMIR2022_Info_Sheet.pdf';
+import reviewform from '../assets/ISMIR2022-ReviewForm.pdf';
 
 const Papers = () => {
   return (
@@ -11,8 +13,7 @@ const Papers = () => {
       <div className="space-y-5">
         <p className="text-[#d83616] text-lg">
           <a
-            href="../../src/assets/ISMIR2022_Info_Sheet.pdf"
-            target="_blank"
+            href={infosheet} target="_blank"
           >
             Download PDF
           </a>
@@ -132,7 +133,7 @@ const Papers = () => {
             </span>
             , as well as the review form {" "}
             <span className="text-[#d83616] break-all">
-              <a href="../../src/assets/ISMIR2022-ReviewForm.pdf" target="_blank">
+              <a href={reviewform} target="_blank">
                 (download PDF)
               </a>
             </span>
