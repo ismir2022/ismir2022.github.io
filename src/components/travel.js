@@ -1,4 +1,6 @@
 import React from "react";
+import moe_approval from '../assets/MoE_approval_ISMIR2022.pdf';
+import mha_circular from '../assets/MHA_circular_2018.pdf';
 
 const Travel = () => {
   return (
@@ -91,14 +93,32 @@ const Travel = () => {
           <li>Letter of identification from your institution or employer</li>
           <li>Confirmed onward & return tickets (if applicable)</li>
           <li>
-            Letters of permission from Indian Government Ministries for holding
-            the conference (will be provided by ISMIR 2022 organizers)
-          </li>
-          <li>
             Letter of Invitation from the conference organisers (will be
-            provided by ISMIR 2022 organizers)
+            provided by ISMIR 2022 organizers). If you have provided your passport details during registration for ISMIR 2022, you can obtain your invitation letter using this portal {" "} 
+            <span className="text-[#d83616] "><a href="https://ismir2022.virtualmnc.com/" target="_blank"> https://ismir2022.virtualmnc.com/ </a> </span> 
+            {" "} by entering your passport number. 
           </li>
-        </ul>
+  
+          <li>
+            Letters of permission from Indian Government Ministries for holding
+            the conference (will be provided by ISMIR 2022 organizers). These letters will include: 
+            <ul className="list-disc text-lg list-inside">
+              <li> Approval letter from Ministry of Education (MoE), Government of India, which is the nodal ministry for the conference {" "} 
+              <span className="text-[#d83616] "> <a href= {moe_approval} target="_blank">
+              Download MoE approval letter PDF </a> </span>
+              </li>
+              <li> Approval letter from the Ministry of External Affairs, Government of India (under process, a link to download it will be added soon) 
+              </li>
+            </ul>
+           </li>
+         </ul>
+        <p className="text-lg"> Please note that an approval letter from Ministry of Home Affairs (MHA), 
+          Government of India is not necessary for the conference. If your visa application requires it 
+          and asks for it, please submit this circular from the ministry (that explains the conditions 
+          in which MHA approval is needed) along with your application (
+          <span className="text-[#d83616] "> <a href= {mha_circular} target="_blank">
+          Dowmload MHA circular PDF</a> </span>). 
+        </p>
         <p className="text-lg font-bold">Photographs</p>
         <p className="text-lg">
           You will need to provide two 50 mm x 50 mm photos. Please ensure they
