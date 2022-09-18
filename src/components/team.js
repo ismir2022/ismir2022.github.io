@@ -463,6 +463,25 @@ const Team = () => {
           </div>
         </div>
         <div>
+          <h1 className="text-2xl font-bold">Technology Chair</h1>
+          <div className="flex  md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32  p-10 ">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <div class="avatar">
+                <div class="w-25 rounded-full">
+                  <StaticImage
+                    src="../images/team/swapnil-gupta.jpeg"
+                    objectFit="contain"
+                    placeholder="blurred"
+                    height={130}
+                    width={130}
+                  />
+                </div>
+              </div>
+              <p className="text-md font-medium">Swapnil Gupta</p>
+            </div>
+        </div>
+        </div>
+        <div>
           <h1 className="text-2xl font-bold">Volunteers</h1>
           <div className="flex flex-col flex-wrap md:px-20 py-10 gap-y-5">
             <div className="flex flex-col md:flex-row md:gap-x-20 items-center justify-between">
