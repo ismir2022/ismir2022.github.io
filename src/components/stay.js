@@ -15,6 +15,31 @@ const Stay = () => {
       <div className="space-y-3">
         <p className="text-xl font-bold">Accommodation</p>
       </div>
+        <div className=" overflow-x-scroll">
+          <table className="table w-full">
+            <tbody>
+              <tr className="">
+                <th className="bg-gray-300">Hotel Name</th>
+                <th className="bg-gray-300">Category</th>
+                <th className="bg-gray-300">Price Range</th>
+                <th className="bg-gray-300">Distance from NSSC</th>
+                <th className="bg-gray-300">Neighborhood</th>
+                <th className="bg-gray-300">Map Link</th>
+                <th className="bg-gray-300">Neighborhood</th>
+                <th className="bg-gray-300">Website</th>
+              </tr>
+              <tr className="">
+                <td className="bg-white">Citrine Hotel</td>
+                <td className="bg-white">***</td>
+                <td className="bg-white">₹</td>
+                <td className="bg-white">3 km</td>
+                <td className="bg-white">Seshadripuram</td>
+                <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/w1W9VCfQfhzzqhaD6" target="_blank">Map Link</a></span></td>
+                <td className="bg-white"><span className="text-[#d83616] "><a href="https://www.thecitrinehotel.com/" target="_blank">Website Link</a></span></td>
+              </tr>
+            </tbody>
+          </table>
+      </div>
     </div>
   );
 };
