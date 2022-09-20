@@ -21,7 +21,7 @@ const Highlights = () => {
             {" "} and {" "} 
             <span className="text-[#d83616]">
               <a
-                href="https://ismir2022.ismir.net/attend/travel"
+                href="https://ismir2022.ismir.net/attend/stay"
                 target="_blank"
               >
                 accommodation
