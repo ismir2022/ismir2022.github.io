@@ -22,6 +22,21 @@ const Travel = () => {
         </p>
       </div>
       <div className="space-y-3">
+        <p className="text-2xl font-bold">COVID-19 related travel guidelines</p>
+        <p className="text-lg">
+          We request you to periodically check COVID-19 related travel guidelines, restrictions and rules 
+          for your travel to India and to Bengaluru. There might be COVID-19 testing, vaccination and self-registration 
+          requiremenrs for your travel. We request you to refer to latest guidelines for International and Domestic
+          travellers at {" "}
+            <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/faq#latest-guidelines" target="_blank"> 
+              https://www.newdelhiairport.in/faq#latest-guidelines 
+            </a></span> and register before traveling on the 
+            <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/airsuvidha/apho-registration" target="_blank"> 
+              Air Suvidha 
+            </a></span> portal. 
+        </p>
+      </div>
+      <div className="space-y-3">
         <p className="text-2xl font-bold">Visa Guidelines</p>
         <p className="text-lg">
           The information on this page is provided as general guidance for
