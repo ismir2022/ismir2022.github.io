@@ -26,7 +26,7 @@ const Keynote = () => {
               </a>
             </span>
           </p>
-          <p className="text-2xl font-bold italic">
+          <p className="text-xl font-bold italic">
             Karnatik Musician, Author & Activist
           </p>
           <p className="text-lg md:text-xl text-left">
@@ -73,7 +73,7 @@ const Keynote = () => {
             </span>
           </p>
           <p className="text-xl font-bold italic">
-            Professor and Head, Dept. of Computer Science and Engineering Indian
+            Professor and Head, Dept. of Computer Science and Engineering, Indian
             Institute of Technology Jodhpur
           </p>
           <p className="text-lg md:text-xl text-left">
