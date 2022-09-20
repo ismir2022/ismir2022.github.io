@@ -1,6 +1,8 @@
 import React from "react";
 import moe_approval from '../assets/MoE_approval_ISMIR2022.pdf';
 import mha_circular from '../assets/MHA_circular_2018.pdf';
+import mea_clearance from '../assets/MEA_clearance_ISMIR2022.pdf';
+
 
 const Travel = () => {
   return (
@@ -105,7 +107,8 @@ const Travel = () => {
               <li> Approval letter from Ministry of Education (MoE), Government of India, which is the nodal ministry for the conference: {" "}
                    <span className="text-[#d83616] "> <a href= {moe_approval} target="_blank">Download MoE approval letter PDF</a></span>
               </li>
-              <li> Approval letter from the Ministry of External Affairs, Government of India (under process, a link to download it will be added soon) 
+              <li> Approval and political clearance letter from the Ministry of External Affairs (MEA), Government of India, which is needed for all non-Indian nationals to travel to the conference: {" "}
+                   <span className="text-[#d83616] "> <a href= {mea_clearance} target="_blank">Download MEA clearance letter PDF</a></span>
               </li>
             </ul>
         <p className="text-lg"> Please note that an approval letter from Ministry of Home Affairs (MHA), 
