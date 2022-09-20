@@ -17,7 +17,7 @@ const Stay = () => {
       </div>
         <p className="text-lg">
           We have curated a list of hotels near the conference venue below. For the convenience of participants, 
-          we plan to arrange for a shuttle to/from the National Science Seminar Complex, IISc (the conference venue) 
+          we plan to arrange for a shuttle to/from the National Science Seminar Complex (NSSC), IISc (the conference venue) 
           and the hotels in the list below to help commute to the conference venue during the conference days. 
         </p>
         <p className="text-lg font-bold">Legend:</p>
