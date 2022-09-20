@@ -158,6 +158,15 @@ const Travel = () => {
           visa.
         </p>
         <p className="text-lg font-bold">
+          Local Contact Details
+        </p>
+        <p className="text-lg">
+        If you need to enter the details of a local contact in your visa application, please add the contact details of the general chairs 
+        Prof. Preeti Rao, IIT Bombay (<span className="text-[#d83616] "><a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao" target="_blank">Homepage</a></span>) 
+        or Prof. Hema Murthy, IIT Madras (<span className="text-[#d83616] "><a href="http://www.cse.iitm.ac.in/~hema/" target="_blank">Homepage</a></span>). 
+        You can find the address, telephone number and e-mail from their homepages if needed. 
+        </p>  
+        <p className="text-lg font-bold">
           Any Other documents required by Indian Embassies for Conference Visa
         </p>
         <p className="text-lg">
