@@ -9,7 +9,7 @@ const Highlights = () => {
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">
         <ul className="text-lg list-disc list-outside mt-2 mx-10 space-y-3">
          <li>
-            Additional Information about 
+            Additional Information about {" "}
             <span className="text-[#d83616]">
               <a
                 href="https://ismir2022.ismir.net/attend/travel"
@@ -18,7 +18,7 @@ const Highlights = () => {
                 travel (visa)
               </a>
             </span>
-            and 
+            {" "} and {" "} 
             <span className="text-[#d83616]">
               <a
                 href="https://ismir2022.ismir.net/attend/travel"
@@ -27,7 +27,7 @@ const Highlights = () => {
                 accommodation
               </a>
             </span>
-            are now available. 
+            {" "} are now available. 
           </li> 
          <li>
             Information on{" "}
