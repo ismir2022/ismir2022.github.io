@@ -65,7 +65,7 @@ const Keynote = () => {
           />
         </div>
         <div className="col-start-3 col-end-5 space-y-5">
-          <p className="text-[#d83616] text-xl font-bold">
+          <p className="text-[#d83616] text-2xl font-bold">
             <span>
               <a href="http://home.iitj.ac.in/~richa/" target="_blank">
                 Richa Singh
