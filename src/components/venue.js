@@ -14,7 +14,7 @@ const Venue = () => {
           India.
         </p>
         <p className="text-lg">
-          The venue for the conference is the{" "}
+          The primary venue for the conference is the{" "}
           <span className="text-[#d83616]">
             <a
               href="https://iisc.ac.in/auditoria-and-seminar-halls/"
@@ -23,11 +23,11 @@ const Venue = () => {
               National Science Seminar Complex
             </a>
           </span>
-          , Indian Institute of Science, Sir C V Raman Avenue, Bengaluru -
+          (NSSC), Indian Institute of Science (IISc), Sir C V Raman Avenue, Bengaluru -
           560012, India
         </p>
         <p className="text-lg">
-          More details on the venue and travel will be available soon!
+          More details on the venues for different events of the conference will be available soon!
         </p>
         <div className="justify-center items-center">
           <p className="justify-center">
@@ -40,6 +40,8 @@ const Venue = () => {
               referrerpolicy="no-referrer-when-downgrade"
             ></iframe>
           </p>
+          <p></p>
+          <p></p>
           <p className="justify-center">
             <iframe
               width="300em"
