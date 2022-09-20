@@ -11,10 +11,13 @@ const Travel = () => {
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Travel
         </h1>
+        <p className="text-lg font-italic">
+        (Page last updated on 20 Sep, 2022)
+        </p>
         <p className="text-lg">
           This page contains information to help you plan your travel to
           Bengaluru, India to attend ISMIR 2022. We will periodically update the
-          information on connectivity, visas, accommodation and more as it
+          information on travel and visas as it
           becomes available. Please watch this space for additional information.
         </p>
       </div>
