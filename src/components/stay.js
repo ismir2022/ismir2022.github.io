@@ -20,13 +20,6 @@ const Stay = () => {
           we plan to arrange for a shuttle to/from the National Science Seminar Complex (NSSC), IISc (the conference venue) 
           and the hotels in the list below to help commute to the conference venue during the conference days. 
         </p>
-        <p className="text-lg font-bold">Legend:</p>
-        <ul className="list-disc text-lg list-inside">
-          <li>₹: &lt;₹6000 per night</li>
-          <li>₹₹: ₹6000 - ₹10000 per night</li>
-          <li>₹₹₹: ₹10000 - ₹15000 per night</li>
-          <li>₹₹₹₹: &gt;₹15000 per night</li>
-         </ul>
        <div className=" overflow-x-scroll">
           <table className="table w-full">
             <tbody>
@@ -132,6 +125,13 @@ const Stay = () => {
             </tbody>
           </table>
        </div>
+       <p className="text-lg font-bold">Legend:</p>
+        <ul className="list-disc text-lg list-inside">
+          <li>₹: &lt;₹6000 per night</li>
+          <li>₹₹: ₹6000 - ₹10000 per night</li>
+          <li>₹₹₹: ₹10000 - ₹15000 per night</li>
+          <li>₹₹₹₹: &gt;₹15000 per night</li>
+         </ul>
       <div className="space-y-3">
         <p className="text-xl font-bold">Airport Transfers</p>
         <p className="text-lg"> Coming soon . . . </p>
