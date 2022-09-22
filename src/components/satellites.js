@@ -130,8 +130,8 @@ const Satellites = () => {
           </ul>
         </p>
         <p className="text-lg">
-          Additional information on the event and a link to register for the
-          event will be available soon!
+        More information: {" "}
+          <span className="text-[#d83616]"><a href="https://musichackdayindia.github.io/" target="_blank">https://musichackdayindia.github.io/</a></span>
         </p>
         <br></br>
         <p className="text-xl text-[#d83616] font-bold">
