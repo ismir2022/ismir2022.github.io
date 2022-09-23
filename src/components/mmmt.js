@@ -10,6 +10,7 @@ import Petri_Toiviainen from '../images/mmmt/Petri_Toiviainen.jpeg';
 import Marcelo_Wanderley from '../images/mmmt/Marcelo_Wanderley.jpeg';
 import Blair_Kaneshiro from '../images/mmmt/Blair_Kaneshiro.jpeg';
 import Peter_Keller from '../images/mmmt/Peter_Keller.jpeg';
+import Martin_Clayton from '../images/mmmt/Martin_Clayton.png';
 
 import poster from '../images/MMMT_poster.pdf';
 
@@ -358,9 +359,9 @@ const Mmmt = () =>
               <div class="avatar">
                 <img
                   class="myImg"
-                  src={Coming_soon}
+                  src={Martin_Clayton}
                   style={{ width: 200, hegiht: 200 }}
-                  onClick={(event) => showModal(event, Coming_soon)}
+                  onClick={(event) => showModal(event, Martin_Clayton)}
                 />
               </div>
             </div>
