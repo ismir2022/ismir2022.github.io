@@ -51,13 +51,13 @@ const Presenters = () => {
         <p className="text-lg">We recommend recording voice overs to a slide show or slides with embedded video of the presenter. One way to do this is record the presentation on a virtual meeting platform such as <span className="text-[#d83616]"><a href="https://ieeetv.ieee.org/mobile/video/recording-your-presentation-with-zoom" target="_blank">Zoom</a></span>, <span className="text-[#d83616]"><a href="https://support.google.com/meet/answer/9308681?hl=en" target="_blank">Google Meet</a></span>, <span className="text-[#d83616]"><a href="https://support.microsoft.com/en-us/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24?ui=en-us&rs=en-us&ad=us" target="_blank">Microsoft Teams</a></span>. Presentation programs such as <span className="text-[#d83616]"><a href="https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c?ui=en-us&rs=en-us&ad=us" target="_blank">Powerpoint</a></span> and screen capture programs such as <span className="text-[#d83616]"><a href="https://screencast-o-matic.com/" target="_blank">Screencast-o-matic</a></span> can be used to record slide presentations with voiceover.</p>
 
         <p className="font-bold text-lg">Format</p>
-        <p className="text-lg">Duration: up to 4 minutes (strict)</p>
-        <p className="text-lg">File size: 300 MB max</p>
-        <p className="text-lg">Video format: mp4</p>
-        <p className="text-lg">Video codec: H.264</p>
-        <p className="text-lg">Dimension: minimum height 720px, aspect ratio 16:9</p>
-        <p className="text-lg">Resolution: 1080p (1920px x 1080px) or 720p (1280px x 720px)</p>
-        <p className="text-lg">Filename: Please name the file as video_&lt;submission_id&gt;_&lt;lastname&gt;.mp4. &lt;submission_id&gt; is the paper submission number and &lt;lastname&gt; is the presenting author’s family name (ex: video_118_Goto.mp4)</p>
+        <p className="text-lg">Duration: up to 4 minutes (strict)<br></br>
+        File size: 300 MB max<br></br>
+        Video format: mp4<br></br>
+        Video codec: H.264<br></br>
+        Dimension: minimum height 720px, aspect ratio 16:9<br></br>
+        Resolution: 1080p (1920px x 1080px) or 720p (1280px x 720px)<br></br>
+        Filename: Please name the file as video_&lt;submission_id&gt;_&lt;lastname&gt;.mp4. &lt;submission_id&gt; is the paper submission number and &lt;lastname&gt; is the presenting author’s family name (ex: video_118_Goto.mp4)</p>
 
         <p className="font-bold text-xl">Slides for in-person presenters</p>
         <p className="text-lg">In person presenters will need to upload the slides they will present ahead of time in either PDF or as a link to a google slides presentation. For upload instructions see the uploading section below.</p>
