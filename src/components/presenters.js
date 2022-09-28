@@ -7,12 +7,12 @@ const Presenters = () => {
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Instructions for Presenters
         </h1>
-        <h2 className="font-bold">Hybrid Presentation Format</h2>
-        <p className="text-lg">This year’s ISMIR will take place in a hybrid format, with a mix of in-person and virtual presenters and attendees. The format presented below is intended to give all attendees an opportunity to interact with all presenting authors. Note however that because of time zone differences, not all interactions will be synchronous.</p>
+        <h2 className="text-[#d83616] font-bold md:text-2xl text-xl mt-5">Hybrid Presentation Format</h2>
+        <p className="text-lg">This year's ISMIR will take place in a hybrid format, with a mix of in-person and virtual presenters and attendees. The format presented below is intended to give all attendees an opportunity to interact with all presenting authors. Note however that because of time zone differences, not all interactions will be synchronous.</p>
         <p className="font-bold text-lg">All papers will have both a short (4 minute) oral presentation, accompanied by a poster presentation.</p>
 
-        <p className="font-bold text-xl">Before the conference</p>
-        <p className="font-bold text-lg">All</p><p className="text-lg"> presenting authors are asked to upload* the following materials by </p><p className="font-bold text-lg">October 21st, 2022 AOE:</p>
+        <p className="font-bold text-xl">Before the conference:</p>
+        <p><span className="font-bold text-lg">All</span><span className="text-lg"> presenting authors are asked to upload* the following materials by </span><span className="font-bold text-lg">October 21st, 2022 AOE:</span></p>
         <ul className="list-disc text-lg list-inside">
             <li>A pre-recorded video presenting of their paper (see instructions below)</li>
             <li>A poster presentation pdf (see instructions below)</li>
@@ -43,7 +43,7 @@ const Presenters = () => {
         <li>Virtual attendees will have access to all online poster pdfs via MiniConf, and will be able to asynchronously ask questions using the paper’s slack channel. We, once again, strongly encourage sending questions by recording a short video! When possible, we also encourage virtual attendees to post questions before the physical poster sessions to allow authors to respond (by recording a short video) during their session.</li>
         </ul>
 
-        <h2 className="font-bold">Instructions for preparing materials</h2>
+        <h2 className="text-[#d83616] font-bold md:text-2xl text-xl mt-5">Instructions for preparing materials</h2>
 
         <p className="font-bold text-xl">Video Presentations</p>
         <p className="text-lg">Similar to the 4 minute presentations of past ISMIRs, these prerecorded short videos should introduce the topic of your paper, inform of some insights from the work, and entice watchers to read the paper and visit your poster sessions.</p>
@@ -57,7 +57,7 @@ const Presenters = () => {
         <p className="text-lg">Video codec: H.264</p>
         <p className="text-lg">Dimension: minimum height 720px, aspect ratio 16:9</p>
         <p className="text-lg">Resolution: 1080p (1920px x 1080px) or 720p (1280px x 720px)</p>
-        <p className="text-lg">Filename: Please name the file as video_&lt;submission_id&rt;_&lt;lastname&rt;.mp4. &lt;submission_id&rt; is the paper submission number and &lt;lastname&rt; is the presenting author’s family name (ex: video_118_Goto.mp4)</p>
+        <p className="text-lg">Filename: Please name the file as video_&lt;submission_id&gt;_&lt;lastname&gt;.mp4. &lt;submission_id&gt; is the paper submission number and &lt;lastname&gt; is the presenting author’s family name (ex: video_118_Goto.mp4)</p>
 
         <p className="font-bold text-xl">Slides for in-person presenters</p>
         <p className="text-lg">In person presenters will need to upload the slides they will present ahead of time in either PDF or as a link to a google slides presentation. For upload instructions see the uploading section below.</p>
@@ -67,12 +67,16 @@ const Presenters = () => {
         <p className="text-lg">Poster pdfs should be in A0 portrait (vertical) format. All posters will be available on MiniConf. Physical posters will be printed and displayed in the conference venue. More information about local poster printing services will be provided soon.</p>
 
         <p className="font-bold text-xl">Thumbnail Image</p>
-        <p className="text-lg">An image that best represents your paper is to be provided by authors to be used as a thumbnail for the paper on the online platform. It could simply be a figure from your paper or you can get creative. The thumbnail image should be a PNG file less than 1 MB and less than 1920x1080 in dimension. Please name the file as thumbnail_&lt;submission_id&rt;_&lt;lastname&rt;.png </p>
+        <p className="text-lg">An image that best represents your paper is to be provided by authors to be used as a thumbnail for the paper on the online platform. It could simply be a figure from your paper or you can get creative. The thumbnail image should be a PNG file less than 1 MB and less than 1920px x 1080px in dimension. Please name the file as thumbnail_&lt;submission_id&gt;_&lt;lastname&gt;.png </p>
 
-        <h2 className="font-bold">Uploading Materials</h2>
-        <p className="text-lg">The materials must be uploaded following the instructions below by <p className="font-bold text-lg">October 21st, 2022 AOE</p>, Anywhere On Earth (AOE). </p>
+        <h2 className="text-[#d83616] font-bold md:text-2xl text-xl mt-5">Uploading Materials</h2>
+        <p className="text-lg">The materials must be uploaded following the instructions below by <span className="font-bold text-lg">October 21st, 2022 AOE</span>, Anywhere On Earth (AOE).</p>
 
-        <p className="text-lg">Authors will receive an email with a link to upload their materials. In case of access restrictions or complications, participants may also share URL links to uploads of their material with ismir2022-tech@ismir.net using their own dropbox service or weTransfer.</p>
+        <p className="text-lg">Authors will receive an email with a link to upload their materials. In case of access restrictions or complications, participants may also share URL links to uploads of their material with <span className="text-[#d83616]">
+              <a href="mailto:ismir2022-tech@ismir.net" target="_blank">
+              ismir2022-tech@ismir.net
+              </a>
+            </span> using their own dropbox service or weTransfer.</p>
 
         <p className="text-lg">If you have any questions concerning uploading materials please contact <span className="text-[#d83616]">
               <a href="mailto:ismir2022-tech@ismir.net" target="_blank">
