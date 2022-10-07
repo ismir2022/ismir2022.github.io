@@ -488,7 +488,7 @@ const Team = () => {
               <div class="avatar">
                 <div class="w-25 rounded-full">
                   <StaticImage
-                    src="../images/team/oriel-nieto.png"
+                    src="../images/team/oriol-nieto.png"
                     objectFit="contain"
                     placeholder="blurred"
                     height={130}
@@ -496,7 +496,7 @@ const Team = () => {
                   />
                 </div>
               </div>
-              <p className="text-md font-medium">Oriel Nieto</p>
+              <p className="text-md font-medium">Oriol Nieto</p>
             </div>
             <div className="flex-col flex items-center justify-center space-y-3">
               <div class="avatar">
