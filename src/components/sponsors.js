@@ -43,7 +43,7 @@ const Sponsors = () => {
           </div>
 
           <div className="flex justify-center">
-            <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center space-x-10 place-items-evenly space-y-10 lg:space-y-0 justify-center items-center">
+            <div className="flex flex-row flex-wrap lg:space-x-20 place-self-center gap-x-10 place-items-evenly space-y-10 md:gap-y-10 lg:space-y-0 justify-center items-center">
               <div>
                 <a href="https://indsca.web.app/about" target="_blank">
                   <StaticImage
