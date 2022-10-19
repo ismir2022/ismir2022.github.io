@@ -125,7 +125,7 @@ const Mmmt = () =>
               <img
                 class="myImg"
                 src={JJ_Aucouturier}
-                style={{ width: 200, hegiht: 200 }}
+                style={{ width: 250 }}
                 onClick={(event) => showModal(event, JJ_Aucouturier)}
               />
             </div>
@@ -149,7 +149,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-64 p-5">
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-32 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
               <p className="text-lg">
                 <span className="text-[#d83616]">
@@ -165,7 +165,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Kat_Agres}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Kat_Agres)}
                 />
               </div>
@@ -187,7 +187,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Coming_soon}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Coming_soon)}
                 />
               </div>
@@ -212,7 +212,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
               <p className="text-lg">
                 <span className="text-[#d83616]">
@@ -234,7 +234,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Nori_Jacoby}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Nori_Jacoby)}
                 />
               </div>
@@ -253,7 +253,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Tuomas_Eerola}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Tuomas_Eerola)}
                 />
               </div>
@@ -278,7 +278,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
               <p className="text-lg">
                 <span className="text-[#d83616]">
@@ -296,7 +296,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Anja_Volk}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Anja_Volk)}
                 />
               </div>
@@ -318,7 +318,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Petri_Toiviainen}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Petri_Toiviainen)}
                 />
               </div>
@@ -343,7 +343,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
               <p className="text-lg">
                 <span className="text-[#d83616]">
@@ -361,7 +361,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Martin_Clayton}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Martin_Clayton)}
                 />
               </div>
@@ -383,7 +383,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Marcelo_Wanderley}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{ width: 250 }}
                   onClick={(event) => showModal(event, Marcelo_Wanderley)}
                 />
               </div>
@@ -408,7 +408,7 @@ const Mmmt = () =>
             alignItems: "center",
           }}
         >
-          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-64 p-5">
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-5">
             <div className="flex-col flex items-center justify-center space-y-3">
               <p className="text-lg">
                 <span className="text-[#d83616]">
@@ -423,7 +423,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Blair_Kaneshiro}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{width: 250}}
                   onClick={(event) => showModal(event, Blair_Kaneshiro)}
                 />
               </div>
@@ -445,7 +445,7 @@ const Mmmt = () =>
                 <img
                   class="myImg"
                   src={Peter_Keller}
-                  style={{ width: 200, hegiht: 200 }}
+                  style={{width: 250}}
                   onClick={(event) => showModal(event, Peter_Keller)}
                 />
               </div>
@@ -474,7 +474,7 @@ const Mmmt = () =>
           <table className="table w-full">
             <tbody>
               <tr className="">
-                <th className="bg-gray-400">CATEGORY</th>
+                <th className="bg-gray-400" >CATEGORY</th>
                 <th className="bg-gray-400" colSpan={3}>
                   Prices in INR, exclusive of 18% GST
                 </th>

@@ -14,8 +14,8 @@
 }
 
 .myImg:hover {
-  transform: scale(2.5);
-  overflow: hidden;
+  transform: scale(2);
+  /* overflow: hidden; */
 }
 .NewImg {
   width: 100vw;
@@ -52,13 +52,14 @@ html {
 
 .modalcss {
   position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  z-index: 100; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
+  
   background-color: rgb(0, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
 }
@@ -66,7 +67,7 @@ html {
 /* Modal Content (image) */
 .modal-content {
   margin: auto;
-  display: block;
+  display: block; 
   width: 80%;
   max-width: 700px;
 }
@@ -99,7 +100,7 @@ html {
 
 /* The Close Button */
 .close {
-  position: absolute;
+  position: fixed;
   top: 15px;
   right: 35px;
   color: #f1f1f1;
