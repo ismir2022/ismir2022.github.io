@@ -16,10 +16,12 @@ const Schedule = () => {
             In addition to the main conference program below between 04-08 December, there are also several {" "}
             <span className="text-[#d83616] "> <a href="https://ismir2022.ismir.net/program/satellites" target="_blank">satellite events</a></span>
              {" "}planned around ISMIR 2022 from 02-16 December, 2022. </p>
-
+        </div>
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
           <p>A draft schedule of different paper presentation sessions and the list of papers to be presented in each session is here: 
-            <span className="text-[#d83616] "> <a href= {draft_schedule} target="_blank">Download tentative session schedule (PDF)</a></span> </p>
-
+            <span className="text-[#d83616] "> <a href= {draft_schedule} target="_blank">Download tentative schedule (PDF)</a></span> </p>
+        </div>
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
           <p>Please watch this space for updates!</p> 
         </div>
       </div>
