@@ -8,7 +8,7 @@ const Keynote = () => {
         Keynote Speakers
       </h1>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
-        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-start ">
           <StaticImage
             src="../images/TMKrishna.jpg"
             alt="TMKRISHNA"
@@ -56,7 +56,7 @@ const Keynote = () => {
         </div>
       </div>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
-        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center">
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-start">
           <StaticImage
             src="../images/richa_singh.jpg"
             height={200}
