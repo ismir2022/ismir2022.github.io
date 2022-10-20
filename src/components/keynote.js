@@ -26,7 +26,7 @@ const Keynote = () => {
               </a>
             </span>
           </p>
-          <p className="text-xl font-bold italic">
+          <p className="font-bold italic">
             Karnatik Musician, Author & Activist
           </p>
           <p className="text-lg md:text-xl text-left">
@@ -72,11 +72,37 @@ const Keynote = () => {
               </a>
             </span>
           </p>
-          <p className="text-xl font-bold italic">
+          <p className="font-bold italic">
             Professor and Head, Dept. of Computer Science and Engineering, Indian
             Institute of Technology Jodhpur
           </p>
+          
+          <p className="text-xl font-bold">
+           Adventures of AI: Deepfake and Bias in Audio Processing
+          </p>
+          
           <p className="text-lg md:text-xl text-left">
+            <span style="font-weight:bold;> Abstract: </span>
+            The increasing capabilities for machine learning algorithms is enabling the 
+            usage of ML models for a variety of tasks including for creativity such as 
+            generating new music and modifying existing music. Similar applications are 
+            present in different kinds of audio signals such as voice biometrics, speaker 
+            and speech recognition. However, these technologies that support creativity 
+            can also be used for malicious purposes. Deepfake audios are one such technology 
+            which enable flawlessly altering existing audio signals or creating new signals 
+            from any given text. Audio can also be integrated with videos to provide a 
+            complete multimodal experience, which can be purely synthetic and fake. 
+            While there is significant research ongoing in image and video, the space of 
+            detecting these anomalies in audio processing is relatively unaddressed. We 
+            will discuss some of these possible adventures of machine learning in audio 
+            processing and the research efforts that we are undertaking to detect them. 
+            In addition, we will also discuss the bias and fairness issues in audio processing 
+            where we will highlight "out of distribution" behavior of popular approaches and 
+            some strategies to address them. 
+          </p>
+
+          <p className="text-lg md:text-xl text-left">
+            <span style="font-weight:bold;> Biography of the speaker: </span>
             Richa Singh received her Ph.D. degree in computer science from West
             Virginia University, Morgantown, USA, in 2008. She is currently a
             Professor and Head at Department of CSE, IIT-Jodhpur, and an Adjunct
@@ -97,9 +123,7 @@ const Keynote = () => {
             Council and an Associate Editor-in-Chief of Pattern Recognition, and
             Area/Associate Editor of several journals.
           </p>
-          <p className="text-lg md:text-xl text-left">
-            The title and an abstract of the keynote will be added soon.
-          </p>
+          
         </div>
       </div>
     </div>
