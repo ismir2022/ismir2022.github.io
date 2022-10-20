@@ -80,9 +80,11 @@ const Keynote = () => {
           <p className="text-xl font-bold">
            Adventures of AI: Deepfake and Bias in Audio Processing
           </p>
+          <p className="font-bold">
+           Abstract:
+          </p>
           
           <p className="text-lg md:text-xl text-left">
-            <span style="font-weight:bold;> Abstract: </span>
             The increasing capabilities for machine learning algorithms is enabling the 
             usage of ML models for a variety of tasks including for creativity such as 
             generating new music and modifying existing music. Similar applications are 
@@ -101,8 +103,11 @@ const Keynote = () => {
             some strategies to address them. 
           </p>
 
+          <p className="font-bold">
+           Biography of the speaker:
+          </p>
+
           <p className="text-lg md:text-xl text-left">
-            <span style="font-weight:bold;> Biography of the speaker: </span>
             Richa Singh received her Ph.D. degree in computer science from West
             Virginia University, Morgantown, USA, in 2008. She is currently a
             Professor and Head at Department of CSE, IIT-Jodhpur, and an Adjunct
