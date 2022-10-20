@@ -84,7 +84,7 @@ const Keynote = () => {
            Abstract:
           </p>
           
-          <p className="text-lg md:text-xl text-left">
+          <p className="text-left">
             The increasing capabilities for machine learning algorithms is enabling the 
             usage of ML models for a variety of tasks including for creativity such as 
             generating new music and modifying existing music. Similar applications are 
@@ -107,7 +107,7 @@ const Keynote = () => {
            Biography of the speaker:
           </p>
 
-          <p className="text-lg md:text-xl text-left">
+          <p className="text-left">
             Richa Singh received her Ph.D. degree in computer science from West
             Virginia University, Morgantown, USA, in 2008. She is currently a
             Professor and Head at Department of CSE, IIT-Jodhpur, and an Adjunct
