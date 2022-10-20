@@ -335,7 +335,7 @@ const Tutorials = () => {
         <p className="text-lg">
           <span className="text-[#d83616] font-bold">
             <a href="https://y-wang.weebly.com/" target="_blank">
-              Yu Wang Yu
+              Yu Wang
             </a>
           </span>{" "}
           is a Ph.D. candidate in Music Technology at the Music and Audio
