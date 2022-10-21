@@ -302,7 +302,7 @@ const PapersList = () => {
 
     <div style={{paddingBottom:"10px"}}>
     <dt><strong>A unified model for zero-shot singing voice conversion and synthesis</strong></dt>
-    <dd>睿得 吳, Jun-You Wang, Roger Jang, Li Su</dd>
+    <dd>Jui-Te Wu, Jun-You Wang, Roger Jang, Li Su</dd>
     </div>
 
     <div style={{paddingBottom:"10px"}}>

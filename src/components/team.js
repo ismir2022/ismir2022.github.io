@@ -597,6 +597,132 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/dolan-elena.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Elena Georgieva</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                Elena is a music technology PhD student at NYU's Music and Audio Research Lab (MARL). Her research is in human-centered MIR, and she works on projects related to vocals and sound recording/production. Elena has been involved with the ISMIR community since 2018, and is happy to be helping out this year.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/vibha-masti.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Vibha Masti</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a final-year BTech student of Computer Science and Engineering at PES University, Bangalore, India. My interests lie in machine learning and deep learning, especially at the intersection of artificial intelligence and creativity. I play the Saraswathi Veena, a South Indian classical instrument, and was previously trained as a Carnatic vocalist. I am really happy to be a part of this event as it combines my love for music and ML!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/suraj-jaiswal.jpeg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Suraj Jaiswal</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am currently a Research Associate in the Department of Electrical Engineering at the Indian Institute of Technology, Kanpur. I have been focusing my research and development efforts on technologies that lie at the confluence of Music Information Retrieval (MIR) and Music Hardware. I have a spiralling passion for Hindustani Classical Music.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/pratap-k.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Pratap Kygonahalli</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a final year undergrad of Electronics and Communication Engineering at PES University. My interests lie in the areas of Machine Learning at the Edge, Digital Signal Processing and Hardware Acceleration. I am glad to be a part of the event and looking forward to working with you all !!!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/utkarsh-gupta.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Utkarsh Gupta</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am currently a senior undergraduate pursuing Computer Science and Engineering at PES University, Bangalore. I found out about ISMIR this year while working on a project related to studying sentiment in music and its use based on the same and I was very excited to attend and interact with everyone participating and working in this field. I love thinking about how AI can support artists in their work! I also dabble in photography and video editing.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/vishruth-v.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Vishruth Veerendranath</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a final-year Computer Science and Engineering student at PES University, Bangalore. I am interested in applications of Deep Learning for creative applications and more specifically for music. I play the guitar and keyboard, and I have been trying my hand at music production as well recently. Looking forward to volunteering for this event!
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
