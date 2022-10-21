@@ -702,6 +702,27 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/vishruth-v.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Vishruth Veerendranath</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a final-year Computer Science and Engineering student at PES University, Bangalore. I am interested in applications of Deep Learning for creative applications and more specifically for music. I play the guitar and keyboard, and I have been trying my hand at music production as well recently. Looking forward to volunteering for this event!
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
