@@ -597,6 +597,27 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/dolan-elena.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Elena Georgieva</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                Elena is a music technology PhD student at NYU's Music and Audio Research Lab (MARL). Her research is in human-centered MIR, and she works on projects related to vocals and sound recording/production. Elena has been involved with the ISMIR community since 2018, and is happy to be helping out this year.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
