@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import { Link } from "gatsby";
 
-import Coming_soon from '../images/mmmt/Coming_soon.jpg'; 
 import Kat_Agres from '../images/mmmt/Kat_Agres.jpeg'; 
 import Nori_Jacoby from '../images/mmmt/Nori_Jacoby.jpeg'; 
 import Tuomas_Eerola from '../images/mmmt/Tuomas_Eerola.jpeg'; 
@@ -12,6 +11,7 @@ import Blair_Kaneshiro from '../images/mmmt/Blair_Kaneshiro.jpeg';
 import Peter_Keller from '../images/mmmt/Peter_Keller.jpeg';
 import Martin_Clayton from '../images/mmmt/Martin_Clayton.png';
 import JJ_Aucouturier from '../images/mmmt/Jean-Julien_Aucouturier.png';
+import Suvi_Saarikallio from '../images/mmmt/Suvi_Saarikallio.png'
 
 import poster from '../images/MMMT_poster.pdf';
 
@@ -32,7 +32,7 @@ const Mmmt = () =>
 {
   
   const [isOpen, setIsOpen] = useState(false);
-  var [src_path, setsrcpath] = useState(Coming_soon);
+  var [src_path, setsrcpath] = useState(JJ_Aucouturier);
 
   const showModal = (event, src) => {
 
@@ -186,9 +186,9 @@ const Mmmt = () =>
               <div class="avatar">
                 <img
                   class="myImg"
-                  src={Coming_soon}
+                  src={Suvi_Saarikallio}
                   style={{ width: 250 }}
-                  onClick={(event) => showModal(event, Coming_soon)}
+                  onClick={(event) => showModal(event, Suvi_Saarikallio)}
                 />
               </div>
             </div>
