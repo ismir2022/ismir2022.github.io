@@ -5,7 +5,7 @@ const Registration = () => {
   return (
     <div className="space-y-5">
       <div>
-        <h1 className="text-[#d83616] font-bold md:text-4xl text-3xl mt-5">
+        <h1 className="text-[#d83616] font-bold md:text-3xl text-3xl mt-5">
           Registration
         </h1>
       </div>

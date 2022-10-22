@@ -4,7 +4,7 @@ import React from "react";
 const Keynote = () => {
   return (
     <div className="space-y-20">
-      <h1 className="text-[#d83616] font-bold md:text-4xl text-2xl mt-5">
+      <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
         Keynote Speakers
       </h1>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
