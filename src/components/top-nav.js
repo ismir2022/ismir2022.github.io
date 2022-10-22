@@ -91,7 +91,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/program/papers"
-                        className="active:bg-[#d83616] text-lg"
+                        className="active:bg-none text-lg"
                       >
                         Papers
                       </Link>
@@ -100,7 +100,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/program/special"
-                        className="active:bg-[#d83616] text-lg"
+                        className="active:bg-none text-lg"
                       >
                         Special Sessions
                       </Link>
@@ -118,7 +118,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/program/music"
-                        className="active:bg-[#d83616] text-lg"
+                        className="active:bg-none text-lg"
                       >
                         Music Program
                       </Link>
@@ -127,7 +127,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/program/lbd"
-                        className="active:bg-[#d83616] text-lg"
+                        className="active:bg-none text-lg"
                       >
                         Late-breaking/Demo
                       </Link>
@@ -136,7 +136,7 @@ const TopNav = () => {
                     <li>
                       <Link
                         to="/program/social"
-                        className="active:bg-[#d83616] text-lg"
+                        className="active:bg-none text-lg"
                       >
                         Social Program
                       </Link>
@@ -376,37 +376,66 @@ const TopNav = () => {
                   >
                     Keynote Speakers
                   </Link>
+                <li>
+                  <Link
+                    to="/program/papers"
+                    className="active:bg-[#d83616] text-lg"
+                  >
+                    Papers
+                  </Link>
                 </li>
+
+                <li>
+                  <Link
+                    to="/program/special"
+                    className="active:bg-[#d83616] text-lg"
+                  >
+                    Special Sessions
+                  </Link>
+                </li>
+
                 <li>
                   <Link
                     to="/program/tutorials"
-                    className="active:bg-[#d83616] text-xl"
+                    className="active:bg-[#d83616] text-lg"
                   >
                     Tutorials
                   </Link>
                 </li>
-                <li>
-                  <Link
-                    to="/program/satellites"
-                    className="active:bg-[#d83616] text-xl"
-                  >
-                    Satellite Events
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    to="/program/papers"
-                    className="active:bg-[#d83616] text-xl"
-                  >
-                    Accepted Papers
-                  </Link>
-                </li>
+
                 <li>
                   <Link
                     to="/program/music"
-                    className="active:bg-[#d83616] text-xl"
+                    className="active:bg-[#d83616] text-lg"
                   >
-                    Accepted Music Submissions
+                    Music Program
+                  </Link>
+                </li>
+
+                <li>
+                  <Link
+                    to="/program/lbd"
+                    className="active:bg-[#d83616] text-lg"
+                  >
+                    Late-breaking/Demo
+                  </Link>
+                </li>
+
+                <li>
+                  <Link
+                    to="/program/social"
+                    className="active:bg-[#d83616] text-lg"
+                  >
+                    Social Program
+                  </Link>
+                </li>
+
+                <li>
+                  <Link
+                    to="/program/satellites"
+                    className="active:bg-[#d83616] text-lg"
+                  >
+                    Satellite Events
                   </Link>
                 </li>
               </ul>
