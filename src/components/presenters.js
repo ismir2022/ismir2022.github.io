@@ -87,7 +87,21 @@ const Presenters = () => {
               ismir2022-papers@ismir.net
               </a>
             </span>.</p>
-
+  
+  
+  <h2 className="text-[#d83616] font-bold md:text-2xl text-xl mt-5">Poster printing service</h2>
+        <p className="text-lg">For the convenience of physical participants, we are providing a poster printing service where the local 
+        organization team can print your poster and deliver it to you at the conference venue. 
+        Your poster will be printed in an A0 (portrait or vertical) size in color on premium photo glossy paper. 
+        The printed poster will be available to be collected at the venue from 4-8 Dec, 2022. The cost of the printed poster 
+        is ₹1500 and will need to paid while collecting the poster at the venue.</p>
+  
+        <p className="text-lg"> If you wish to use the poster printing service, please  
+             <span className="text-[#d83616]"><a href="https://forms.gle/YV1vPNkKrnjwcH4b9" target="_blank"> fill this google form</a></span></p>. 
+  
+       <p className="text-lg">The request to print your poster should be made by <span className="font-bold text-lg">Nov 20, 2022</span>, Anywhere On Earth (AOE). 
+        Requests already made cannot be cancelled after the deadline mentioned above. Please write to ismir2022-registration@ismir.net for any questions/queries about the poster printing service.</p>
+  
       </div>
     </div>
   );
