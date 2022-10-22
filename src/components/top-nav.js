@@ -90,34 +90,64 @@ const TopNav = () => {
                     </li>
                     <li>
                       <Link
+                        to="/program/papers"
+                        className="active:bg-[#d83616] text-lg"
+                      >
+                        Papers
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link
+                        to="/program/special"
+                        className="active:bg-[#d83616] text-lg"
+                      >
+                        Special Sessions
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link
                         to="/program/tutorials"
                         className="active:bg-none text-lg"
                       >
                         Tutorials
                       </Link>
                     </li>
+
+                    <li>
+                      <Link
+                        to="/program/music"
+                        className="active:bg-[#d83616] text-lg"
+                      >
+                        Music Program
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link
+                        to="/program/lbd"
+                        className="active:bg-[#d83616] text-lg"
+                      >
+                        Late-breaking/Demo
+                      </Link>
+                    </li>
+
+                    <li>
+                      <Link
+                        to="/program/social"
+                        className="active:bg-[#d83616] text-lg"
+                      >
+                        Social Program
+                      </Link>
+                    </li>
+
                     <li>
                       <Link
                         to="/program/satellites"
                         className="active:bg-none text-lg"
                       >
                         Satellite Events
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/program/papers"
-                        className="active:bg-[#d83616] text-lg"
-                      >
-                        Accepted Papers
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to="/program/music"
-                        className="active:bg-[#d83616] text-lg"
-                      >
-                        Accepted Music Submissions
                       </Link>
                     </li>
                   </ul>
