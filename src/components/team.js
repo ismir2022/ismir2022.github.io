@@ -4,7 +4,7 @@ import React from "react";
 const Team = () => {
   return (
     <div className="space-y-5">
-      <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
+      <h1 className="text-[#d83616] font-bold md:text-3xl text-3xl mt-5">
         Team
       </h1>
       <div className="space-y-3">
