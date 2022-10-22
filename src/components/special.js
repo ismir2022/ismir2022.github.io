@@ -45,11 +45,11 @@ const Special = () => {
         <br></br>
 
         <p className="text-lg">
-           For the benefit of the remote attendees, ISMIR 2022 will feature virtual-only special sessions 
-           hosted by senior members of the ISMIR community. The sessions are held at a time-zone suitable 
-           for virtual attendees from parts of the world who may not find the hybrid conference time-zone convenient. 
-            The sessions will be discussions on important topics in MIR and will be moderated by senior members of ISMIR community. 
-            The sessions will also be recorded and made available for all participants for watching them later. 
+           For the benefit of the remote attendees, ISMIR 2022 features virtual-only special sessions. 
+           The sessions will be held at a time-zone suitable for virtual attendees from parts of the world 
+           who may not find the hybrid conference time-zone (IST) convenient. The sessions will discuss 
+           important topics in MIR and will be moderated by senior members of ISMIR community. 
+            The sessions will be recorded and made available to all participants for watching them later. 
         </p>
 
         <p className="text-xl text-[#d83616] font-bold">Special Session-A (Virtual-only): Ethics/Code of Conduct for ISMIR</p>
