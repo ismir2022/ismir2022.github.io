@@ -9,10 +9,11 @@ const Latebreaking = () => {
         </h1>
       </div>
 
-    <div className="space-y-3">
+      <div className="space-y-3">
         <p className="text-lg">
           Accepted LBD submissions and detailed LBD program will be added shortly!
-    </p>
+        </p>
+      </div>
     </div>
   );
 };
