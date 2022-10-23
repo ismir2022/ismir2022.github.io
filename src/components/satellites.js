@@ -87,7 +87,7 @@ const Satellites = () => {
         </p>
         <br></br>
         <p className="text-xl text-[#d83616] font-bold">MusicHackDay India 2022</p>
-        <p className="text-lg font-bold">Dec 10-11, 2022 in Bengaluru, India</p>
+        <p className="text-lg font-bold">Dec 10-11, 2022 at 91 Springboard, Mahatma Gandhi Road, Bengaluru, India</p>
         <p className="text-lg">
           <span className="text-[#d83616]">
             <a href="https://musictechcommunity.org/" target="_blank">
