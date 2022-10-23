@@ -36,7 +36,7 @@ const Social = () => {
         </p>
         <br></br>
         
-        <p className="text-xl font-bold">ISMIR 2022 Banquet</p>
+        <p className="text-xl text-[#d83616] font-bold">ISMIR 2022 Banquet</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Wed), 5.00 pm - 9.00 pm at Rangoli Gardens, Bengaluru, India</p>
         <p className="text-lg">
           The conference banquet will be held in <span className="text-[#d83616]"><a href="https://rangoligardens.in/" target="_blank">Rangoli Gardens</a>
