@@ -723,6 +723,111 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/jyoti-narang.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Jyoti Narang</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am currently a PhD student at MTG, UPF. My research interests lie in the area of expression analysis of vocal performances. I also like to compose music on the side. I am happy to be part of the team, and looking forward to working with you all!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/sharvaree-s.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Sharvaree Sinkar</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a 4th year Electrical Engineering undergraduate student at IIT Bombay. I am currently working in the domain of Audio Source Separation which includes fields of signal processing and deep learning. I am interested in playing keyboard, trekking, travelling and reading books. Looking forward to work with you all!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/venkatakrishnan-vk.jpeg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Venkatakrishnan V K</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a final year Aerospace Engineering undergraduate student at IIT Bombay. My interests in technology is predominantly in ML and Deep Learning. To add to my tech interests, I am a pianist with skills in Music Production, Mixing, and have also been learning Hindustani and Carnatic vocals for the past couple of years. Good to connect with you all!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/thishiyan-raj.jpeg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Thishiyan Raj</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am currently pursuing my MS - Research degree in the Electrical Engineering department at IIT-Kanpur. My research area focuses on applications of Artificial Intelligence and Machine Learning on Audio and Speech Signal Processing. I am glad to be volunteering for ISMIR 2022 and am looking forward to working with the team.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/parampreet-singh.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Parampreet Singh</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a Ph.D. student in the department of Electrical Engineering at the Indian Institute of Technology, Kanpur. I have been learning Gurmat Sangeet for the past decade. I have a great interest in the field of machine learning/deep learning for music signal processing. I feel very happy to be a part of this team.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
