@@ -114,6 +114,16 @@ const Sponsors = () => {
                   />
                 </a>
               </div>
+              <div>
+                <a href="https://chordify.net/" target="_blank">
+                  <StaticImage
+                    src="../images/sponsors/chordify.png"
+                    placeholder="blurred"
+                    objectFit="contain"
+                    width={200}
+                  />
+                </a>
+              </div>
             </div>
           </div>
           <div className="flex flex-row flex-wrap"></div>

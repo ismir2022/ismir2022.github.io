@@ -828,6 +828,27 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/rajesh-r.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Rajesh R</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am an MS research graduate in the School of Computing and Electrical Engineering at IIT Mandi. I am currently working on music source separation, especially in Indian Carnatic music and am widely interested in Signal Processing & Deep Learning. Happy to volunteer for the ISMIR 2022 conference!
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
