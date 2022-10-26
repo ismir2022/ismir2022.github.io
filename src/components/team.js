@@ -791,7 +791,7 @@ const Team = () => {
                 <div class="avatar">
                   <div class="md:w-[90px] rounded-full">
                     <StaticImage
-                      src="../images/volunteers/thishiyan-raj.jpeg"
+                      src="../images/volunteers/thishyan-raj.jpeg"
                       objectFit="contain"
                       placeholder="blurred"
                       height={120}
@@ -799,7 +799,7 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Thishiyan Raj</p>
+                <p className="text-md font-medium text-center">Thishyan Raj T</p>
               </div>
               <div>
                 <p className="text-md break-word">
@@ -846,6 +846,48 @@ const Team = () => {
               <div>
                 <p className="text-md break-word">
                 I am an MS research graduate in the School of Computing and Electrical Engineering at IIT Mandi. I am currently working on music source separation, especially in Indian Carnatic music and am widely interested in Signal Processing & Deep Learning. Happy to volunteer for the ISMIR 2022 conference!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/vayyavuru-venkatesh.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Vayyavuru Venkatesh</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am working as a Research Scientist at Swiggy. My research interests are in the area of signal processing. I am happy to be a part of the ISMIR team and looking forward to working with you all!!!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/prashant-mishra.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Prashant Mishra</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                Prashant is an audiophile who has worked as an Audio Director for educational games and videos in collaboration with Disney to create IP-specific sonic experiences, during which he created voice based apps. He helped in setting up and scaling the sound department at the ed-tech unicorn, BYJU'S, since 2015 for their entire catalogue of projects. He is now building audio products with companies such as Soundly, and hosts games, spatial & interactive audio training sessions.
                 </p>
               </div>
             </div>
