@@ -210,6 +210,7 @@ const Tutorials = () => {
           Tañjāvūr K Poṉṉayyā Piḷḷai. She is a constant feature in all the major
           sabhas in Chennai, and performs regularly across India and abroad.
         </p>
+        <p className="text-lg">
         During section 1 of the tutorial, we will be joined by CompMusic contributors and Indian Art Music researchers, <span className="text-[#d83616] font-bold">
             <a href="https://www.ajaysrinivasamurthy.in/" target="_blank">
             Ajay Srinivasamurthy
@@ -220,7 +221,7 @@ const Tutorials = () => {
             Kaustuv Kanti Ganguli
             </a>
           </span>{" "}
-          , who will introduce some important musical concepts relevant to the tasks presented.
+          , who will introduce some important musical concepts relevant to the tasks presented.</p>
         <p className="text-xl font-bold">
           T3(M): Designing Controllable Synthesis System for Musical Signals
         </p>
