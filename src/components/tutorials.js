@@ -144,37 +144,13 @@ const Tutorials = () => {
           Manickavasakan
         </p>
         <p className="text-lg">
-          Culture-aware approaches to computational musicology and music
-          information research (MIR) have been shown to be effective for a
-          musically relevant analysis of a music culture. Projects such as
-          CompMusic (2011-2017), MusicalBridges (2018-2022) or the initiatives
-          funded by SPARC (2019-2022) have demonstrated the importance of
-          considering sociocultural specifics of a music tradition to
-          effectively define research problems, collect data and propose methods
-          for analysis. These projects have made particularly notable
-          contributions to the analysis of Indian Art Music (IAM), leading to a
-          collective body of bespoke computational methods for analyzing these
-          traditions.
+        Culture-aware approaches to computational musicology and music information research (MIR) have been shown to be effective for a musically relevant analysis of a music culture. Projects such as CompMusic (2011-2017), MusicalBridges (2018-2022) or the initiatives funded by SPARC (2019-2022) have demonstrated the importance of considering sociocultural specifics of a music tradition to effectively define research problems, collect data and propose methods for analysis. These projects have made particularly notable contributions to the analysis of Indian Art Music (IAM), leading to a collective body of bespoke computational methods for analyzing these traditions.
         </p>
         <p className="text-lg">
-          Through this tutorial we aim to compile and present such works, making
-          openly available a number of software tools and materials developed by
-          MIR researchers working on the two main IAM traditions, Carnatic and
-          Hindustani. The content will be organized into five sections: (1)
-          datasets and corpora, (2) melodic analysis, (3) rhythmic analysis, (4)
-          timbral analysis and (5) structural analysis. Each topic will include
-          an introduction covering the basic musical concepts required to
-          understand its constituent tasks, followed by a practical presentation
-          of the materials and software tools compiled.
+        Through this tutorial we aim to compile and present such works, making openly available a number of software tools and materials developed by MIR researchers working on the two main IAM traditions, Carnatic and Hindustani. The content will be organized into five sections: (1) datasets and corpora, (2) melodic analysis, (3) rhythmic analysis, (4) timbral analysis and (5) structural analysis. Each topic will include an introduction covering the basic musical concepts required to understand its constituent tasks, followed by a practical presentation of the materials and software tools compiled.
         </p>
         <p className="text-lg">
-          This tutorial is the result of an ongoing collaborative effort
-          involving many contributors. The software will be available in Python
-          through a single Github repository, containing clear and reproducible
-          implementations of the presented methodologies. A Jupyter WebBook will
-          be the main tutorial reference, in which we will introduce all the
-          materials, contextualize the software tools, and include Jupyter
-          Notebook examples for most of the research tasks covered.
+        This tutorial is the result of an ongoing collaborative effort involving many contributors. The software will be available in Python through a single Github repository, containing clear and reproducible implementations of the presented methodologies. A Jupyter WebBook will be the main tutorial reference, in which we will introduce all the materials, contextualize the software tools, and include Jupyter Notebook examples for most of the research tasks covered.
         </p>
         <p className="text-lg font-bold">Biographies of Presenters</p>
         <p className="text-lg">
@@ -193,7 +169,12 @@ const Tutorials = () => {
           research communities.
         </p>
         <p className="text-lg">
-          <span className="font-bold">Genís Plaja-Roglans </span>is a Ph.D
+        <span className="text-[#d83616] font-bold">
+            <a href="https://genisplaja.github.io/" target="_blank">
+            Genís Plaja-Roglans
+            </a>
+          </span>{" "}
+          is a Ph.D
           student in the Music Technology Group (MTG) of Universitat Pompeu
           Fabra in Barcelona, Spain. His research focus is on creation of
           bespoke machine learning models for the understanding of musical
@@ -203,7 +184,12 @@ const Tutorials = () => {
           pattern discovery.
         </p>
         <p className="text-lg">
-          <span className="font-bold">Lara Pearson </span>is a musicologist at
+        <span className="text-[#d83616] font-bold">
+            <a href="https://www.aesthetics.mpg.de/en/the-institute/people/lara-pearson.html" target="_blank">
+            Lara Pearson
+            </a>
+          </span>{" "}
+          is a musicologist at
           the Max Planck Institute for Empirical Aesthetics (MPIEA), Frankfurt
           am Main, Germany. Her work explores bodily and movement dimensions of
           music experience and meaning, often combining sonic and kinetic
@@ -224,6 +210,17 @@ const Tutorials = () => {
           Tañjāvūr K Poṉṉayyā Piḷḷai. She is a constant feature in all the major
           sabhas in Chennai, and performs regularly across India and abroad.
         </p>
+        During section 1 of the tutorial, we will be joined by CompMusic contributors and Indian Art Music researchers, <span className="text-[#d83616] font-bold">
+            <a href="https://www.ajaysrinivasamurthy.in/" target="_blank">
+            Ajay Srinivasamurthy
+            </a>
+          </span>{" "}
+          and <span className="text-[#d83616] font-bold">
+            <a href="https://nyuad.nyu.edu/en/research/postdoctoral-research/researchers/research-bios/kaustuv-kanti-ganguli.html" target="_blank">
+            Kaustuv Kanti Ganguli
+            </a>
+          </span>{" "}
+          , who will introduce some important musical concepts relevant to the tasks presented.
         <p className="text-xl font-bold">
           T3(M): Designing Controllable Synthesis System for Musical Signals
         </p>
