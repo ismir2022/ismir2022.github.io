@@ -33,9 +33,18 @@ const Stay = () => {
                 <th className="bg-gray-300">Website</th>
               </tr>
               <tr className="">
-                <td className="bg-white">Citrine Hotel</td>
+                <td className="bg-white">The Green Path Eco Hotel</td>
                 <td className="bg-white">***</td>
                 <td className="bg-white">₹</td>
+                <td className="bg-white">2 km</td>
+                <td className="bg-white">New BEL Road</td>
+                <td className="bg-white"><span className="text-[#d83616] "><a href="https://g.page/hotel-mint-green-path?share" target="_blank">Map Link</a></span></td>
+                <td className="bg-white"><span className="text-[#d83616] "><a href="https://www.google.com/travel/hotels/s/pbqJgbNFZA6ZWdqs6" target="_blank">Booking Link</a></span></td>
+              </tr>
+              <tr className="">
+                <td className="bg-white">Citrine Hotel</td>
+                <td className="bg-white">***</td>
+                <td className="bg-white">₹₹</td>
                 <td className="bg-white">3 km</td>
                 <td className="bg-white">Seshadripuram</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/w1W9VCfQfhzzqhaD6" target="_blank">Map Link</a></span></td>
@@ -44,7 +53,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Goldfinch Hotel</td>
                 <td className="bg-white">***</td>
-                <td className="bg-white">₹</td>
+                <td className="bg-white">₹₹</td>
                 <td className="bg-white">4 km</td>
                 <td className="bg-white">High Grounds</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/vaqafGsTJGgrAzUj9" target="_blank">Map Link</a></span></td>
@@ -53,7 +62,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Holiday Inn Express</td>
                 <td className="bg-white">***</td>
-                <td className="bg-white">₹</td>
+                <td className="bg-white">₹₹</td>
                 <td className="bg-white">3.5 km</td>
                 <td className="bg-white">Yeshwantpur</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/MXXWeAgjvU5KdnPZA" target="_blank">Map Link</a></span></td>
@@ -62,7 +71,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Parijatha Gateway</td>
                 <td className="bg-white">***</td>
-                <td className="bg-white">₹</td>
+                <td className="bg-white">₹₹</td>
                 <td className="bg-white">3 km</td>
                 <td className="bg-white">Rajajinagar</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/MJWrWUARrLQGmoTT6" target="_blank">Map Link</a></span></td>
@@ -71,7 +80,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Vividus Hotel</td>
                 <td className="bg-white">****</td>
-                <td className="bg-white">₹₹</td>
+                <td className="bg-white">₹₹₹</td>
                 <td className="bg-white">4 km</td>
                 <td className="bg-white">Gandhi Nagar</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://g.page/vividushotels?share" target="_blank">Map Link</a></span></td>
@@ -80,7 +89,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Taj Yeshwantpur</td>
                 <td className="bg-white">*****</td>
-                <td className="bg-white">₹₹₹</td>
+                <td className="bg-white">₹₹₹₹</td>
                 <td className="bg-white">4 km</td>
                 <td className="bg-white">Yeshwantpur</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/EFVNz7P6fftqntyHA" target="_blank">Map Link</a></span></td>
@@ -89,7 +98,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">The Lalit Ashok</td>
                 <td className="bg-white">*****</td>
-                <td className="bg-white">₹₹₹</td>
+                <td className="bg-white">₹₹₹₹</td>
                 <td className="bg-white">3.5 km</td>
                 <td className="bg-white">Kumara Krupa</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://g.page/TheLaLiTBangalore?share" target="_blank">Map Link</a></span></td>
@@ -98,7 +107,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Taj West End</td>
                 <td className="bg-white">*****</td>
-                <td className="bg-white">₹₹₹₹</td>
+                <td className="bg-white">₹₹₹₹₹</td>
                 <td className="bg-white">4.5 km</td>
                 <td className="bg-white">High Grounds</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://goo.gl/maps/LxFmjxxPmmRFJdH2A" target="_blank">Map Link</a></span></td>
@@ -107,7 +116,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">ITC Windsor</td>
                 <td className="bg-white">*****</td>
-                <td className="bg-white">₹₹₹₹</td>
+                <td className="bg-white">₹₹₹₹₹</td>
                 <td className="bg-white">3.5 km</td>
                 <td className="bg-white">Sankey Road</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://g.page/ITC-Windsor?share" target="_blank">Map Link</a></span></td>
@@ -116,7 +125,7 @@ const Stay = () => {
               <tr className="">
                 <td className="bg-white">Sheraton Grand Bangalore Hotel at Brigade Gateway</td>
                 <td className="bg-white">*****</td>
-                <td className="bg-white">₹₹₹₹</td>
+                <td className="bg-white">₹₹₹₹₹</td>
                 <td className="bg-white">3 km</td>
                 <td className="bg-white">Malleswaram</td>
                 <td className="bg-white"><span className="text-[#d83616] "><a href="https://g.page/sheratongrandbangalore?share" target="_blank">Map Link</a></span></td>
@@ -127,10 +136,11 @@ const Stay = () => {
        </div>
        <p className="text-lg font-bold">Legend:</p>
         <ul className="list-disc text-lg list-inside">
-          <li>₹: &lt;₹6000 per night</li>
-          <li>₹₹: ₹6000 - ₹10000 per night</li>
-          <li>₹₹₹: ₹10000 - ₹15000 per night</li>
-          <li>₹₹₹₹: &gt;₹15000 per night</li>
+          <li>₹: &lt;₹3500 per night</li>
+          <li>₹₹: &lt;₹6000 per night</li>
+          <li>₹₹₹: ₹6000 - ₹10000 per night</li>
+          <li>₹₹₹₹: ₹10000 - ₹15000 per night</li>
+          <li>₹₹₹₹₹: &gt;₹15000 per night</li>
          </ul>
       <div className="space-y-3">
         <p className="text-xl font-bold">Airport Transfers</p>
