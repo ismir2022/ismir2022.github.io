@@ -140,8 +140,7 @@ const Tutorials = () => {
           Indian Art Music
         </p>
         <p className="text-lg italic">
-          Thomas Nuttall, Genís Plaja-Roglans, Lara Pearson, Brindha
-          Manickavasakan
+        Thomas Nuttall, Genís Plaja-Roglans, Lara Pearson, Brindha Manickavasakan, Ajay Srinivasamurthy, Kaustuv Kanti Ganguli
         </p>
         <p className="text-lg">
         Culture-aware approaches to computational musicology and music information research (MIR) have been shown to be effective for a musically relevant analysis of a music culture. Projects such as CompMusic (2011-2017), MusicalBridges (2018-2022) or the initiatives funded by SPARC (2019-2022) have demonstrated the importance of considering sociocultural specifics of a music tradition to effectively define research problems, collect data and propose methods for analysis. These projects have made particularly notable contributions to the analysis of Indian Art Music (IAM), leading to a collective body of bespoke computational methods for analyzing these traditions.
