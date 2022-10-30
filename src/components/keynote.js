@@ -11,7 +11,7 @@ const Keynote = () => {
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-start ">
           <StaticImage
             src="../images/TMKrishna.jpg"
-            alt="TMKRISHNA"
+            alt="TM KRISHNA"
             objectFit="contain"
             placeholder="blurred"
             height={200}
@@ -22,7 +22,7 @@ const Keynote = () => {
           <p className="text-[#d83616] text-2xl font-bold">
             <span>
               <a href="https://www.tmkrishna.com/" target="_blank">
-                T M Krishna
+                TM Krishna
               </a>
             </span>
           </p>
@@ -30,25 +30,16 @@ const Keynote = () => {
             Karnatik Musician, Author & Activist
           </p>
           <p className="text-lg md:text-xl text-left">
-            TM Krishna is one of the pre-eminent vocalists in the rigorous
-            Karnatik tradition of India’s classical music. As a public
-            intellectual, Krishna speaks and writes about issues affecting the
-            human condition and about matters cultural. He is the Founder
-            Trustee of Sumanasa Foundation, established in 2005, with the
-            objective of engaging with the arts and the community. Sumanasa
-            enables communities to develop culturally vibrant spaces and also
-            creates platforms to present for artists and art forms from
-            marginalized backgrounds. It helps create different avenues for
-            artists to engage in social dialogue, and in building appreciation
-            and interest in the arts. In 2016, Krishna received the prestigious
-            Ramon Magsaysay Award in recognition of ‘his forceful commitment as
-            artist and advocate to art’s power to heal India’s deep social
-            divisions’. His path-breaking book A Southern Music – The Karnatik
-            Story, published by HarperCollins in 2013 was a first-of-its-kind
-            philosophical, aesthetic and socio-political exploration of Karnatik
-            music. He has been part of inspiring musical productions and
-            collaborations that are unique and unusual aesthetic conversations
-            between art forms and communities across social spectrums.
+            TM Krishna, is one of the pre-eminent vocalists in the rigorous Karnatik tradition 
+            of India's classical music. As a public intellectual, Krishna speaks and writes 
+about issues affecting the human condition and about matters cultural. As a vocalist, 
+  he has made path-breaking innovations in both the style and substance of his concerts. 
+  His award-winning book, A Southern Music – The Karnatik Story, published by Harper Collins 
+  in 2013 was a first-of-its-kind philosophical, aesthetic and socio-political exploration of 
+  Karnatik music. TM Krishna has partnered  with individuals and collectives working at the 
+  intersections of social change, a new politics for contemporary India, a fresh new imagining of 
+  the wider universe of the Arts. In 2016, TM Krishna received the prestigious Ramon Magsaysay Award 
+  in recognition of "his forceful commitment as artist and advocate to art’s power to heal India’s deep social divisions".
           </p>
           <p className="text-lg md:text-xl text-left">
             The title and an abstract of the keynote will be added soon.
