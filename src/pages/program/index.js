@@ -3,7 +3,7 @@ import TopNav from '../../components/top-nav'
 
 const Index = () => {
   return (
-    <div className="bg-[#E9ECEF] h-screen">
+    <div className="bg-[#FCFAF5] h-screen">
         <TopNav/>
     </div>
   )

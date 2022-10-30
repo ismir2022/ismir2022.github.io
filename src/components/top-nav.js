@@ -1,7 +1,7 @@
 import { StaticImage } from "gatsby-plugin-image"; import * as React from
 "react"; import { Link } from "gatsby"; const TopNav = () => { return (
 <div>
-  <div class="navbar bg-[#E9ECEF] py-0">
+  <div class="navbar bg-[#FCFAF5] py-0">
     <div class="navbar-start text-[#d83616]">
       <div class="dropdown text-[#d83616]">
         <label tabindex="0" class="btn btn-ghost lg:hidden">
