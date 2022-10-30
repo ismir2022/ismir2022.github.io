@@ -29,6 +29,20 @@ const Keynote = () => {
           <p className="font-bold italic">
             Karnatik Musician, Author & Activist
           </p>
+          <p className="text-xl font-bold">
+           Evolution of Performance and Aesthetics in Indian Art Music
+          </p>
+          <p className="font-bold">
+           Abstract:
+          </p>
+          <p className="text-lg md:text-xl text-left">
+            An abstract will be available soon. 
+          </p>
+          
+          <p className="font-bold">
+           Biography of the speaker:
+          </p>
+
           <p className="text-lg md:text-xl text-left">
             TM Krishna, is one of the pre-eminent vocalists in the rigorous Karnatik tradition 
             of India's classical music. As a public intellectual, Krishna speaks and writes 
@@ -40,10 +54,8 @@ about issues affecting the human condition and about matters cultural. As a voca
   intersections of social change, a new politics for contemporary India, a fresh new imagining of 
   the wider universe of the Arts. In 2016, TM Krishna received the prestigious Ramon Magsaysay Award 
   in recognition of "his forceful commitment as artist and advocate to art’s power to heal India’s deep social divisions".
-          </p>
-          <p className="text-lg md:text-xl text-left">
-            The title and an abstract of the keynote will be added soon.
-          </p>
+          </p>          
+
         </div>
       </div>
       <div className="md:grid md:grid-col-4 md:space-x-12 md:space-y-0 space-y-5">
