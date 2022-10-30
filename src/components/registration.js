@@ -33,222 +33,222 @@ const Registration = () => {
           <table className="table w-full">
             <tbody>
               <tr className=" ">
-                <th className="bg-gray-400">CATEGORY</th>
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-[#ABACB0]">CATEGORY</th>
+                <th className="bg-[#ABACB0]" colSpan={3}>
                   Prices in INR, exclusive of 18% GST
                 </th>
                 {/* <td bgcolor="#f2f3f4" rowspan="27" width="0.01"></td> */}
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-[#ABACB0]" colSpan={3}>
                   Prices in INR, inclusive of 18% GST
                 </th>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">AUTHOR</th>
-                <th className="bg-gray-300">Until Aug 12</th>
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300">Until Aug 12</th>
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
+                <th className="bg-[#DCDEE2]">AUTHOR</th>
+                <th className="bg-[#DCDEE2]">Until Aug 12</th>
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]">Until Aug 12</th>
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
               </tr>
               <tr className="">
-                <th className="bg-white">Student (In-person or virtual)</th>
-                <td className="bg-white">₹17,000</td>
-                <td className="bg-white" />
-                <td className="bg-white" />
-                <td className="bg-white">₹20,060</td>
-                <td className="bg-white" />
-                <td className="bg-white" />
+                <th className="bg-[#F5F7FC]">Student (In-person or virtual)</th>
+                <td className="bg-[#F5F7FC]">₹17,000</td>
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]">₹20,060</td>
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]" />
               </tr>
               <tr className="">
-                <th className="bg-white">Full (In-person or virtual)</th>
-                <td className="bg-white">₹34,000</td>
-                <td className="bg-white" />
-                <td className="bg-white" />
-                <td className="bg-white">₹40,120</td>
-                <td className="bg-white" />
-                <td className="bg-white" />
+                <th className="bg-[#F5F7FC]">Full (In-person or virtual)</th>
+                <td className="bg-[#F5F7FC]">₹34,000</td>
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]">₹40,120</td>
+                <td className="bg-[#F5F7FC]" />
+                <td className="bg-[#F5F7FC]" />
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">NON-AUTHOR</th>
-                <th className="bg-gray-300">Early Bird</th>
-                <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
-                <th className="bg-gray-300">Early Bird</th>
-                <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                <th className="bg-[#DCDEE2]">NON-AUTHOR</th>
+                <th className="bg-[#DCDEE2]">Early Bird</th>
+                <th className="bg-[#DCDEE2]">Regular</th>
+                <th className="bg-[#DCDEE2]">On-site</th>
+                <th className="bg-[#DCDEE2]">Early Bird</th>
+                <th className="bg-[#DCDEE2]">Regular</th>
+                <th className="bg-[#DCDEE2]">On-site</th>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">In-person Participation</th>
-                <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 01 - Nov 25</th>
-                <th className="bg-gray-300">Dec 04 - 08</th>
-                <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 01 - Nov 25</th>
-                <th className="bg-gray-300">Dec 04 - 08</th>
+                <th className="bg-[#DCDEE2]">In-person Participation</th>
+                <th className="bg-[#DCDEE2]">Until Aug 31</th>
+                <th className="bg-[#DCDEE2]">Sep 01 - Nov 25</th>
+                <th className="bg-[#DCDEE2]">Dec 04 - 08</th>
+                <th className="bg-[#DCDEE2]">Until Aug 31</th>
+                <th className="bg-[#DCDEE2]">Sep 01 - Nov 25</th>
+                <th className="bg-[#DCDEE2]">Dec 04 - 08</th>
               </tr>
               <tr className="">
-                <th className="bg-white">Student (In-person)</th>
-                <td className="bg-white">₹17,000</td>
-                <td className="bg-white">₹19,000</td>
-                <td className="bg-white">₹21,000</td>
-                <td className="bg-white">₹20,060</td>
-                <td className="bg-white">₹22,420</td>
-                <td className="bg-white">₹24,780</td>
+                <th className="bg-[#F5F7FC]">Student (In-person)</th>
+                <td className="bg-[#F5F7FC]">₹17,000</td>
+                <td className="bg-[#F5F7FC]">₹19,000</td>
+                <td className="bg-[#F5F7FC]">₹21,000</td>
+                <td className="bg-[#F5F7FC]">₹20,060</td>
+                <td className="bg-[#F5F7FC]">₹22,420</td>
+                <td className="bg-[#F5F7FC]">₹24,780</td>
               </tr>
               <tr className="">
-                <th className="bg-white">Full (In-person)</th>
-                <td className="bg-white">₹34,000</td>
-                <td className="bg-white">₹38,000</td>
-                <td className="bg-white">₹42,000</td>
-                <td className="bg-white">₹40,120</td>
-                <td className="bg-white">₹44,840</td>
-                <td className="bg-white">₹49,560</td>
+                <th className="bg-[#F5F7FC]">Full (In-person)</th>
+                <td className="bg-[#F5F7FC]">₹34,000</td>
+                <td className="bg-[#F5F7FC]">₹38,000</td>
+                <td className="bg-[#F5F7FC]">₹42,000</td>
+                <td className="bg-[#F5F7FC]">₹40,120</td>
+                <td className="bg-[#F5F7FC]">₹44,840</td>
+                <td className="bg-[#F5F7FC]">₹49,560</td>
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">Virtual Participation</th>
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
+                <th className="bg-[#DCDEE2]">Virtual Participation</th>
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
               </tr>
               <tr className="">
-                <th className="bg-white">Student (Virtual)</th>
-                <td className="bg-white">₹4,250</td>
-                <td className="bg-white">₹5,500</td>
-                <td className="bg-white">₹5,500</td>
-                <td className="bg-white">₹5,015</td>
-                <td className="bg-white">₹6,490</td>
-                <td className="bg-white">₹6,490</td>
+                <th className="bg-[#F5F7FC]">Student (Virtual)</th>
+                <td className="bg-[#F5F7FC]">₹4,250</td>
+                <td className="bg-[#F5F7FC]">₹5,500</td>
+                <td className="bg-[#F5F7FC]">₹5,500</td>
+                <td className="bg-[#F5F7FC]">₹5,015</td>
+                <td className="bg-[#F5F7FC]">₹6,490</td>
+                <td className="bg-[#F5F7FC]">₹6,490</td>
               </tr>
               <tr className="">
-                <th className="bg-white">Full (Virtual)</th>
-                <td className="bg-white">₹12,750</td>
-                <td className="bg-white">₹16,500</td>
-                <td className="bg-white">₹16,500</td>
-                <td className="bg-white">₹15,045</td>
-                <td className="bg-white">₹19,470</td>
-                <td className="bg-white">₹19,470</td>
+                <th className="bg-[#F5F7FC]">Full (Virtual)</th>
+                <td className="bg-[#F5F7FC]">₹12,750</td>
+                <td className="bg-[#F5F7FC]">₹16,500</td>
+                <td className="bg-[#F5F7FC]">₹16,500</td>
+                <td className="bg-[#F5F7FC]">₹15,045</td>
+                <td className="bg-[#F5F7FC]">₹19,470</td>
+                <td className="bg-[#F5F7FC]">₹19,470</td>
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">TUTORIALS</th>
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
+                <th className="bg-[#DCDEE2]">TUTORIALS</th>
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
               </tr>
               <tr className="">
-                <th className="bg-white">Student (Virtual)</th>
-                <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,200</td>
-                <td className="bg-white">₹1,200</td>
-                <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,416</td>
-                <td className="bg-white">₹1,416</td>
+                <th className="bg-[#F5F7FC]">Student (Virtual)</th>
+                <td className="bg-[#F5F7FC]">₹1,000</td>
+                <td className="bg-[#F5F7FC]">₹1,200</td>
+                <td className="bg-[#F5F7FC]">₹1,200</td>
+                <td className="bg-[#F5F7FC]">₹1,180</td>
+                <td className="bg-[#F5F7FC]">₹1,416</td>
+                <td className="bg-[#F5F7FC]">₹1,416</td>
               </tr>
               <tr className="">
-                <th className="bg-white">Full (Virtual)</th>
-                <td className="bg-white">₹2,500</td>
-                <td className="bg-white">₹3,000</td>
-                <td className="bg-white">₹3,000</td>
-                <td className="bg-white">₹2,950</td>
-                <td className="bg-white">₹3,540</td>
-                <td className="bg-white">₹3,540</td>
+                <th className="bg-[#F5F7FC]">Full (Virtual)</th>
+                <td className="bg-[#F5F7FC]">₹2,500</td>
+                <td className="bg-[#F5F7FC]">₹3,000</td>
+                <td className="bg-[#F5F7FC]">₹3,000</td>
+                <td className="bg-[#F5F7FC]">₹2,950</td>
+                <td className="bg-[#F5F7FC]">₹3,540</td>
+                <td className="bg-[#F5F7FC]">₹3,540</td>
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">ADD-ONS</th>
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
-                <th className="bg-gray-300" />
+                <th className="bg-[#DCDEE2]">ADD-ONS</th>
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
+                <th className="bg-[#DCDEE2]" />
               </tr>
               <tr className="">
-                <th className="bg-white">Banquet Extra person (+1)</th>
-                <td className="bg-white" colSpan={3}>
+                <th className="bg-[#F5F7FC]">Banquet Extra person (+1)</th>
+                <td className="bg-[#F5F7FC]" colSpan={3}>
                   ₹3,000
                 </td>
-                <td className="bg-white" colSpan={3}>
+                <td className="bg-[#F5F7FC]" colSpan={3}>
                   ₹3,540
                 </td>
               </tr>
-              <tr className="bg-white">
-                <th className="bg-white">IME Workshop Extra person(+1)</th>
-                <td className="bg-white" colSpan={3}>
+              <tr className="bg-[#F5F7FC]">
+                <th className="bg-[#F5F7FC]">IME Workshop Extra person(+1)</th>
+                <td className="bg-[#F5F7FC]" colSpan={3}>
                   ₹2,000
                 </td>
-                <td className="bg-white" colSpan={3}>
+                <td className="bg-[#F5F7FC]" colSpan={3}>
                   ₹2,360
                 </td>
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">SATELLITES</th>
-                <th className="bg-gray-300">Early Bird</th>
-                <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
-                <th className="bg-gray-300">Early Bird</th>
-                <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                <th className="bg-[#DCDEE2]">SATELLITES</th>
+                <th className="bg-[#DCDEE2]">Early Bird</th>
+                <th className="bg-[#DCDEE2]">Regular</th>
+                <th className="bg-[#DCDEE2]">On-site</th>
+                <th className="bg-[#DCDEE2]">Early Bird</th>
+                <th className="bg-[#DCDEE2]">Regular</th>
+                <th className="bg-[#DCDEE2]">On-site</th>
               </tr>
               <tr className="">
-                <th className="bg-gray-300">MMMT Workshop</th>
-                <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 01 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
-                <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 01 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-[#DCDEE2]">MMMT Workshop</th>
+                <th className="bg-[#DCDEE2]">Until Aug 31</th>
+                <th className="bg-[#DCDEE2]">Sep 01 - Nov 25</th>
+                <th className="bg-[#DCDEE2]">Dec 02 - 03</th>
+                <th className="bg-[#DCDEE2]">Until Aug 31</th>
+                <th className="bg-[#DCDEE2]">Sep 01 - Nov 25</th>
+                <th className="bg-[#DCDEE2]">Dec 02 - 03</th>
               </tr>
               <tr className="">
-                <th className="bg-white">Student (In-person or virtual)</th>
-                <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,180</td>
+                <th className="bg-[#F5F7FC]">Student (In-person or virtual)</th>
+                <td className="bg-[#F5F7FC]">₹1,000</td>
+                <td className="bg-[#F5F7FC]">₹1,000</td>
+                <td className="bg-[#F5F7FC]">₹1,000</td>
+                <td className="bg-[#F5F7FC]">₹1,180</td>
+                <td className="bg-[#F5F7FC]">₹1,180</td>
+                <td className="bg-[#F5F7FC]">₹1,180</td>
               </tr>
               <tr className="">
-                <th className="bg-white">Full (In-person or virtual)</th>
-                <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,596</td>
-                <td className="bg-white">₹2,596</td>
-                <td className="bg-white">₹2,596</td>
+                <th className="bg-[#F5F7FC]">Full (In-person or virtual)</th>
+                <td className="bg-[#F5F7FC]">₹2,200</td>
+                <td className="bg-[#F5F7FC]">₹2,200</td>
+                <td className="bg-[#F5F7FC]">₹2,200</td>
+                <td className="bg-[#F5F7FC]">₹2,596</td>
+                <td className="bg-[#F5F7FC]">₹2,596</td>
+                <td className="bg-[#F5F7FC]">₹2,596</td>
               </tr>
               <tr>
-                <td className="bg-white" colSpan={8}>
+                <td className="bg-[#F5F7FC]" colSpan={8}>
                   {" "}
                 </td>
               </tr>
