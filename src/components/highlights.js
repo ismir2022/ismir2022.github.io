@@ -3,7 +3,7 @@ import React from "react";
 const Highlights = () => {
   return (
     <div className="flex flex-col gap-5">
-      <h3 className="font-bold text-xl md:text-2xl md:text-left text-center">
+      <h3 className="bg-[#FCF0E1] font-bold text-xl md:text-2xl md:text-left text-center">
         Highlights
       </h3>
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">

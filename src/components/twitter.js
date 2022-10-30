@@ -13,7 +13,7 @@ const Twitter = () => {
   }, []);
 
   return (
-    <div id="widget" className="mt-5 md:mt-0 max-w-500 h-550">
+    <div id="widget" className="bg-[#FCF0E1] mt-5 md:mt-0 max-w-500 h-550">
       <a
         class="twitter-timeline"
         href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw"
