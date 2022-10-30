@@ -3,7 +3,7 @@ import React from "react";
 const Dates = () => {
   return (
     <div className="flex flex-col gap-5">
-      <div className="bg-[#FCF0E1] px-5 w-fit h-[550px] overflow-y-scroll md:px10 py-5 space-y-5">
+      <div className="bg-white px-5 w-fit h-[550px] overflow-y-scroll md:px10 py-5 space-y-5">
         <div className="space-y-3 place-content-evenly">
           <h3 className="text-xl font-bold  text-[#d83616]">Registration</h3>
           <div className="flex flex-col space-y-5 md:text-lg">
