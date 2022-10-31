@@ -36,7 +36,21 @@ const Keynote = () => {
            Abstract:
           </p>
           <p className="text-lg md:text-xl text-left">
-            An abstract will be available soon. 
+           Indian art music continues to evolve in current performance practice, while staying within the 
+           framework provided by some of the immutable axiomatic concepts that define the music culture. 
+           The changes that lead the evolution of the music culture are guided by practitioners and influenced 
+           by the evolving socio-cultural, socio-political or performance and aesthetic considerations. 
+           In this talk, we focus on the evolution of Indian art music from a performance and aesthetics 
+           perspective, highlighting some important milestones in evolution around the melodic and rhythmic 
+           systems in Indian art music. Focusing on recent developments and our own influences on performance 
+           practice and aesthetics, we discuss our effort and approaches to create more 
+           inclusive roles in music composition and performance. We further aim to provide concrete examples 
+           and formulations of the abstractions in current performance and aesthetics. The understanding of 
+           these abstractions and concepts as the music evolves can help MIR practitioners to design better 
+           tools for their research, in tune with developments in music. We propose thoughts and ideas that 
+           can help current MIR formulations and solutions to go beyond the limiting assumptions based on 
+           current music performance practices and (often rigid) structures, and focus on the music abstractions 
+           that are more fundamental to our understanding, appreciation and analysis of Indian art music. 
           </p>
           
           <p className="font-bold">
