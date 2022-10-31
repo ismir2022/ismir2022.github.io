@@ -40,8 +40,8 @@ const Keynote = () => {
            framework provided by some of the immutable axiomatic concepts that define the music culture. 
            The changes that lead the evolution of the music culture are guided by practitioners and influenced 
            by the evolving socio-cultural, socio-political or performance and aesthetic considerations. 
-           In this talk, we focus on the evolution of Indian art music from the perspective of performance and aesthetics 
-           , highlighting some important milestones around the melodic and rhythmic 
+           In this talk, we focus on the evolution of Indian art music from the perspective of performance and aesthetics, 
+             highlighting some important milestones around the melodic and rhythmic 
            systems in Indian art music. Focusing on recent developments and our own influences on performance 
            practice and aesthetics, we discuss our effort and approaches to create more 
            inclusive roles in music composition and performance. We further aim to provide concrete examples 
