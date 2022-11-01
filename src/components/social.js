@@ -21,13 +21,13 @@ const Social = () => {
         <p className="text-lg">
            Given that the conference has returned to a hybrid format after two virtual-only editions, the welcome reception on the Main Guest House lawns
            is planned to encourage in-person interactions among the seasoned and new ISMIR participants after a brief (long?) hiatus due to the pandemic. A 
-           performance of Kalidasa's play Mālavikāgnimitram by                                                                                                            
+           performance of Kalidasa's play Mālavikāgnimitram by{" "}                                                                                                            
            <span className="text-[#d83616]">
             <a href="https://www.dhaatupuppets.org/" target="_blank">
                Dhaatu Puppet Theater
             </a>
           </span> 
-          will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru.                                                                                                                                           
+          {" "}will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru.                                                                                                                                           
         </p>
         <br></br>
 
