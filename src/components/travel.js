@@ -36,39 +36,6 @@ const Travel = () => {
             </a></span> portal. 
         </p>
       </div>
-  
-      <div className="space-y-3">
-        <p className="text-2xl font-bold">Airport Transfers</p>
-        <p className="text-lg"> The <span className="text-[#d83616] "><a href="https://www.bengaluruairport.com/travellers/transport-parking" target="_blank">Kempegowda International Airport </a></span> that 
-  serves Bengaluru city is situated 35 km from the city centre and IISc. It is safe to arrive in the city at 
-  night and several International flights arrive in Bengaluru in the middle of the night. Passengers can take 
-  a bus or taxi to the city from the airport. The airport has metered taxis operated by 
-  KSTDC (Karnataka State Tourism Department), Meru or EasyCabs. These Airport Taxis are available 24/7 
-  on all days – just outside the arrival gate. A special pink taxi service driven by women is also 
-  available exclusively for women. The airport also has a dedicated zone to take ridesharing taxis by Ola and Uber. </p>
-   <p className="text-lg">
-  There are private taxi providers also available with whom a cab can be booked inside the airport, which will be 
-  slightly more expensive as compared to the radio/metered taxies. In addition, you could also arrange for airport 
-  transfers through your hotel, though it might be more expensive.
- </p>
-  <p className="text-lg"> How to reach IISc: <span className="text-[#d83616] "><a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/" target="_blank">https://iisc.ac.in/about/general-information/how-to-reach-iisc/ </a></span> </p>
-      </div>
-  
-      <div className="space-y-3">
-        <p className="text-2xl font-bold">Local Transport</p>
-        <p className="text-lg"> 
-          Taxis are easily available in Bengaluru with ride sharing apps Ola & Uber being the leading ones. 
-          Auto-rickshaws (called autos or 3-wheelers in local lingo) are a common mode of transport and are 
-          readily available at every corner of the city. Please fix a fare before you start the ride when hailing an auto. 
-          Autos are also available through the Ola ride sharing app. 
-          </p>
-       <p className="text-lg"> 
-         Bangalore Metro (<span className="text-[#d83616] "><a href="https://english.bmrc.co.in/#/>Namma Metro</a></span>) is 
-                          clearly, the quickest, affordable and one of the best ways to get around Bengaluru, though it serves limited area. 
-                          Hence, kindly confirm if the metro covers the place you want to visit. The nearest metro station to the venue 
-                          (NSSC, IISc) is Sandal Soap Factory on the Green Line (2 km). </p>
-      </div>
-  
       <div className="space-y-3">
         <p className="text-2xl font-bold">Visa Guidelines</p>
         <p className="text-lg">
