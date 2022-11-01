@@ -18,6 +18,7 @@ const Latebreaking = () => {
       </div>
       
         <p className="text-xl text-[#d83616] font-bold">Hybrid Conference</p>
+        <p className="text-lg">
           Similar to the main paper track, this year’s LBD will be held in a hybrid format, i.e., physical and remote. 
           There will be two back-to-back sessions:
             <ol>
@@ -27,6 +28,7 @@ const Latebreaking = () => {
         </p>
   
         <p className="text-xl text-[#d83616] font-bold">Open Session</p>
+        <p className="text-lg">
           This year’s local LBD session is also an open session for students and independent researchers of the local community. 
           The session will enable participants to attend the late-breaking/demo session of the conference and interact with students, experts and senior members of the ISMIR research community. 
           This open session is a free registration event.
