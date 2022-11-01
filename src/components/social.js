@@ -17,11 +17,17 @@ const Social = () => {
         </p>
         
         <p className="text-xl text-[#d83616] font-bold">ISMIR 2022 Welcome Reception</p>
-        <p className="text-lg font-bold">Dec 5, 2022 (Mon), 5.30 pm - 9.00 pm in  IISc, Bengaluru</p>
+        <p className="text-lg font-bold">Dec 5, 2022 (Mon), 5.30 pm - 7.00 pm at Satish Dhawan Auditorium, IISc; 7.00 pm - 9.00 pm, Main Guest House Lawns, IISc, Bengaluru</p>
         <p className="text-lg">
-           Given that the conference has returned to a hybrid format after two virtual-only editions, the welcome reception 
-           is planned to encourage in-person interactions among the seasoned and new ISMIR participants after a brief (long?) hiatus. 
-           A cultural event is planned as a part of the welcome reception - details coming soon!
+           Given that the conference has returned to a hybrid format after two virtual-only editions, the welcome reception on the Main Guest House lawns
+           is planned to encourage in-person interactions among the seasoned and new ISMIR participants after a brief (long?) hiatus due to the pandemic. A 
+           performance of Kalidasa's play Mālavikāgnimitram by                                                                                                            
+           <span className="text-[#d83616]">
+            <a href="https://www.dhaatupuppets.org/" target="_blank">
+               Dhaatu Puppet Theater
+            </a>
+          </span> 
+          will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru.                                                                                                                                           
         </p>
         <br></br>
 
@@ -30,9 +36,11 @@ const Social = () => {
         <p className="text-lg">
            ISMIR 2022 Music Concert will feature a Jugalbandi vocal Indian art music concert by Kaustuv Kanti Ganguli and Vignesh Ishwar. 
            The jugalbandi concert will aim to showcase the commonalities, differences and nuances of Hindustani and Carnatic music, the 
-           two predominant art music traditions of India. Kaustuv and Vignesh are seasoned professional musicians and MIR researchers 
+           two predominant art music traditions of India. Kaustuv Kanti Ganguli will be accompanied by Ravindra Katoti on the harmonium and Tejovrush Joshi on the tabla. 
+           Vignesh Ishwar will be accompanied by Sayee Rakshith on the violin and Sumesh Narayanan on the mridangam. 
+           Kaustuv and Vignesh are seasoned professional musicians and MIR researchers 
            who can bring their expertise and understanding to put together an enthralling performance interesting to the conference participants. 
-           They will be accompanied by local artists. A brief biography of the artists and additional details of the concert will be available soon. 
+           A brief biography of the artists and additional details of the concert will be available soon. 
         </p>
         <br></br>
         
