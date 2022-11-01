@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../../../components/layout'
-import Schedule from '../../../components/schedule'
+import Schedule from '../../../components/schedule_test'
 
 const Index = () => {
   return (
