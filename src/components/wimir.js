@@ -15,11 +15,10 @@ const Wimir = () => {
           of ISMIR 2022:
         </p>
         <ul className="text-lg list-disc list-inside">
-          <li>New-to-ISMIR paper mentoring program</li>
-          <li>WiMIR keynote</li>
+          <li><span className="text-[#d83616]"><a href="https://ismir2022.ismir.net/diversity/mentoring" target="_blank">New-to-ISMIR paper mentoring program</a></span></li>
           <li>WiMIR plenary session (TBA)</li>
           <li><span className="text-[#d83616]"><a href="https://wimir.wordpress.com/" target="_blank">WiMIR workshops</a></span></li>
-          <li>D&I waivers & grants (TBA)</li>
+          <li>D&I waivers & grants</li>
         </ul>
         <p className="text-lg">
           We thank our 2022 sponsors for their generous and vital continuation
