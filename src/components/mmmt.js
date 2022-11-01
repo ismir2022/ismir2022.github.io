@@ -12,6 +12,8 @@ import Peter_Keller from '../images/mmmt/Peter_Keller.jpeg';
 import Martin_Clayton from '../images/mmmt/Martin_Clayton.png';
 import JJ_Aucouturier from '../images/mmmt/Jean-Julien_Aucouturier.png';
 import Suvi_Saarikallio from '../images/mmmt/Suvi_Saarikallio.png'
+import RadhikaG_MaheshK from '../images/mmmt/RadhikaGosavi_MaheshKale.png'
+import twin_health from '../images/mmmt/sponsor.png'
 
 import poster from '../images/MMMT_poster.pdf';
 
@@ -454,6 +456,65 @@ const Mmmt = () =>
         </div>
         <br />
         <br />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <p className="text-xl font-bold">Music Education & Technology</p> <br />
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex-col flex items-center justify-center space-y-3">
+            <div class="avatar">
+              <img
+                class="myImg"
+                src={RadhikaG_MaheshK}
+                style={{ width: 250 }}
+                onClick={(event) => showModal(event, RadhikaG_MaheshK)}
+              />
+            </div>
+          </div>
+        </div>
+        <br/>
+        <br/>
+        
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+        <h1 className="text-xl font-bold font-size: 50px">Sponsor</h1>
+        </div>
+
+         <div className="flex-col flex items-center justify-center space-y-3">
+            <div class="avatar">
+                <a href="https://www.usa.twinhealth.com/" target="_blank">
+              <img
+                src={twin_health}
+                style={{ width: 250 }}
+              />
+              </a>
+            </div>
+          </div>
+
         <p className="text-xl font-bold">Schedule</p>
         <p className="text-lg">
           All the talks will take place between 9:30am - 5:00pm IST and can be
