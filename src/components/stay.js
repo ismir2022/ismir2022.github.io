@@ -142,14 +142,6 @@ const Stay = () => {
           <li>₹₹₹₹: ₹10000 - ₹15000 per night</li>
           <li>₹₹₹₹₹: &gt;₹15000 per night</li>
          </ul>
-      <div className="space-y-3">
-        <p className="text-xl font-bold">Airport Transfers</p>
-        <p className="text-lg"> Coming soon . . . </p>
-      </div>
-      <div className="space-y-3">
-        <p className="text-xl font-bold">Local Transport</p>
-        <p className="text-lg"> Coming soon . . . </p>
-      </div>
     </div>
   );
 };
