@@ -1,6 +1,6 @@
 import { StaticImage } from "gatsby-plugin-image";
 import React from "react";
-import AllPagesPDFViewer from "./components/pdf/all-pages";
+import AllPagesPDFViewer from "./pdf/all-pages";
 import draft_schedule from '../assets/Draft_Paper_Schedule_20Oct_2022.pdf';
 import schedule_calendar from '../assets/schedule.pdf';
 
