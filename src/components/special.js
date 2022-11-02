@@ -45,7 +45,9 @@ const Special = () => {
         <p className="text-xl text-[#d83616] font-bold">Industry Presentations</p>
         <p className="text-lg font-bold">Dec 8, 2022 (Thu), 9.00 am - 10.00 am</p>
         <p className="text-lg">
-           Industry presentation session will include short presentations from our industry sponsors. 
+           Industry presentation session will include short presentations from our industry sponsors. The session will have 
+           a 12 min talks by our Platinum sponsors Spotify and Moises, and 8 min talks by our Gold sponsors Adobe, 
+             Deezer, Utopia music, Pandora, Smule, Yamaha and Chordify. 
         </p>
         <br></br>
 
