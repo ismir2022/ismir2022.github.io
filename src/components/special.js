@@ -56,7 +56,24 @@ const Special = () => {
         <p className="text-lg font-bold">Dec 5, 2022 (Mon), 10.00 pm - 11.15 pm</p>
         <p className="text-lg font-bold">Moderators: Andre Holzapfel, Fabio Morreale, Bob Sturm</p>
         <p className="text-lg">
-           Details coming soon! 
+         This special session will discuss an action plan towards a code of ethics for the ISMIR community. 
+         A code of ethics represents a specific list of values and behaviors that a research community either 
+         endorses or objects to. Codes of ethics have been established on the general level of engineering 
+         associations (IEEE, ACM), but also more specifically by research communities such as{" "}                                                                                                      
+         <span className="text-[#d83616]">
+            <a href="https://www.nime.org/ethics/" target="_blank">
+               NIME
+            </a>
+          </span>
+          . Whereas ISMIR has seen a series of tutorials on ethics and values, and guidelines have been proposed ( 
+            <span className="text-[#d83616]">
+            <a href="https://ismir.net/resources/ethics/" target="_blank">
+               https://ismir.net/resources/ethics/
+            </a>
+          </span>
+            ), these attempts have not yet manifested into a official code of ethics.  Does ISMIR need such a code? 
+            What is the function of the code? How can we establish and maintain such a code? What are the main 
+          ethical concerns regarding ISMIR research and practice?
         </p>
         <br></br>
 
@@ -64,7 +81,14 @@ const Special = () => {
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 10.00 pm - 11.15 pm</p>
         <p className="text-lg font-bold">Moderators: Meinard Müller</p>
         <p className="text-lg">
-           Details coming soon! 
+           Music information retrieval (MIR) is an exciting research field related to different disciplines, 
+             including signal processing, machine learning, information retrieval, psychology, musicology, 
+               and the digital humanities. This diversity opens up many opportunities for challenging, 
+                 interdisciplinary, and fascinating research projects at the intersection of engineering and 
+                 humanities. However, younger researchers can also feel overwhelmed by the variety and complexity of 
+                 MIR research questions. In this session, we will have an informal exchange of ideas and experiences, 
+                   inviting doctoral candidates and more experienced MIR researchers. Responding to questions from the 
+                   audience, we hope this interactive session will be helpful for current PhD students and students considering a PhD in MIR.
         </p>
         <br></br>
 
