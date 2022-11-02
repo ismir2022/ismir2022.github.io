@@ -23,17 +23,22 @@ const Special = () => {
         </p>
         <br></br>
 
-        <p className="text-xl text-[#d83616] font-bold">Special Session-1</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-1: Enhancing music listening with MIR</p>
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 5.00 pm - 6.00 pm</p>
         <p className="text-lg">
-           Details coming soon! 
+         Prominent applications of Music Information Retrieval techniques have ranged from discovering new music 
+  via recommendation frameworks to obtaining informative descriptions about a given piece of music, all of 
+  which serve to enhance music listening experiences. The panel will discuss the huge potential of MIR research 
+  in the context of the relevant current and future commercial products.
         </p>
         <br></br>
-
-        <p className="text-xl text-[#d83616] font-bold">Special Session-2</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-2: Enhancing music creativity with MIR</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Wed), 5.00 pm - 6.00 pm</p>
         <p className="text-lg">
-           Details coming soon! 
+           While audio technology has always had an important role in music production, it is now recognised 
+           that MIR tools can provide for workflows that enhance music creativity at every stage of the 
+           journey. The panel will discuss the possibilities and challenges of this exciting partnership 
+           between music computing and creativity.
         </p>
         <br></br>
 
