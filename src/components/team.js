@@ -891,6 +891,27 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/kavya-saxena.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Kavya Ranjan Saxena</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                I am a Ph.D. student at Indian Institute of Technology (IIT) Kanpur. I am working in the field of music information retrieval (MIR). Looking forward to volunteering for this event!
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
