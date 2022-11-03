@@ -906,7 +906,7 @@ const Team = () => {
                 </div>
                 <p className="text-md font-medium text-center">Kavya Ranjan Saxena</p>
               </div>
-              <div>
+            <div>
                 <p className="text-md break-word">
                 I am a Ph.D. student at Indian Institute of Technology (IIT) Kanpur. I am working in the field of music information retrieval (MIR). Looking forward to volunteering for this event!
                 </p>
@@ -930,6 +930,27 @@ const Team = () => {
               <div>
                 <p className="text-md break-word">
                 I am a masters student at University of Montreal and Mila and I practice Hindustani vocal music. My research interests include deep learning models for music generation and improvisation, human-computer interaction in the context of music creation and machine learning to aid music learning.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/rhythm-jain.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Rhythm Jain</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                   Rhythm is a masters' student researcher at Georgia Tech Centre for Music Technology specializing in computational ethnomusicology, cross cultural music perception and music transcription. She has worked with audio, symbolic music and with human perception of music. She is a Hindustani vocalist, plays the guitar and enjoys building interactive music systems.
                 </p>
               </div>
             </div>
