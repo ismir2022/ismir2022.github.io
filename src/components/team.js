@@ -931,6 +931,7 @@ const Team = () => {
                 I am a masters student at University of Montreal and Mila and I practice Hindustani vocal music. My research interests include deep learning models for music generation and improvisation, human-computer interaction in the context of music creation and machine learning to aid music learning.
                 </p>
               </div>
+             </div>
             </div>
           </div>
         </div>
