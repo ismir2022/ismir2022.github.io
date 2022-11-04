@@ -99,13 +99,34 @@ const Special = () => {
         </p>
         <br></br>
 
-        <p className="text-xl text-[#d83616] font-bold">Special Session-C (Virtual-only)</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-C (Virtual-only): TISMIR: the open journal of the ISMIR society</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Tue), 10.00 pm - 11.15 pm</p>
         <p className="text-lg">
-           Details coming soon!
+           Transactions of the International Society for Music Information Retrieval(
+        <span className="text-[#d83616]">
+            <a href="https://transactions.ismir.net/" target="_blank">
+               TISMIR
+            </a>
+          </span>
+          ) was established in 2018 to complement the ISMIR conference proceedings and provide a vehicle for the 
+           dissemination of the highest quality and most substantial scientific research in MIR. TISMIR retains 
+           the Open Access model of the ISMIR Conference proceedings, encourages reproducibility of the published 
+           research papers, and maintains a low publication cost. 
         </p>
+        <p className="text-lg">
+           Almost 5 years later, this ISMIR 2022 is devoted to discuss and brainstorm on the current status and future 
+           perspectives of the journal with a series of TISMIR recent and potential authors, reviewers and editors. 
+           We will address the following questions, and others proposed by participants:
+        </p>
+        <ul className="list-disc text-lg list-inside">
+          <li>What do you appreciate more about TISMIR?</li>
+          <li>What is the link and complementarity to the ISMIR conference? </li>
+          <li>Which are the main challenges/limitations that need to be addressed? </li>
+          <li>How to make TISMIR competitive as a journal in the current publication landscape?</li>
+          <li>How to engage with more community members in order to make TISMIR a success? </li>
+          <li>Which are future avenues for conference vs journal outlets in the ISMIR field? </li>
+        </ul>
         <br></br>
-        
       </div>
     </div>
   );
