@@ -996,6 +996,27 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/tirna-ghosh.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Tirna Ghosh</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                   I am currently pursuing Master's of Data Analytics from Christ University, Bangalore. Since the age of of 5, when I first learnt to sing the first swar of sargam "Sa", I instantly experienced the feeling of ecstasy. And what could be better than to be able to combine both my fields of passion-music and AI and be able to create something phenomenal! ISMIR 2022 is a wonderful opportunity for me and I am more than happy to be a part of it. 
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
