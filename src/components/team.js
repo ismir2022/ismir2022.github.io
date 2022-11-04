@@ -954,6 +954,48 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/adbhut-vipin-bhardwaj.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Adbhut Vipin Bhardwaj</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                   Adbhut Vipin Bhardwaj is a final year undergraduate student at Indian Institute of Technology Bombay. He is interested in Machine Learning and Audio processing. 
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/rohit-ma.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Rohit M. A.</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                   Rohit is a PhD student in speech and hearing science at the University of Illinois Urbana-Champaign. He has a background in audio signal processing and obtained his master’s degree from the Indian Institute of Technology Bombay, developing algorithms in machine listening to solve music information retrieval tasks. His current research interests include speech perception and building computational models of human auditory perception.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
