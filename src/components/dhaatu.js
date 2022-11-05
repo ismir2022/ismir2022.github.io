@@ -7,25 +7,29 @@ const Dhaatu = () => {
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Mālavikāgnimitram by Dhaatu Puppet Theater
         </h1>
-        <h2>
-          Based on Mahakavi Kalidasa's Play
-        </h2>
       </div>
       <div className="space-y-3">
         <p className="text-xl font-bold">Dec 5, 2022 (Mon), 5.30 pm - 7.00 pm at Satish Dhawan Auditorium, IISc</p>
   
-        <p className="text-xl font-bold">About Mãlavikãgnimitram</p>
-  Mãlavikãgnimitram is a Sanskrit play by Mahakavi Kalidasa. Set in Sunga Period, it tells the story of Agnimitra, 
+        <p className="text-xl font-bold">About Mālavikāgnimitram</p>
+  <p className="text-lg">
+  Mālavikāgnimitram is a Sanskrit play by Mahakavi Kalidasa. Set in Sunga Period, it tells the story of Agnimitra, 
     the Shunga Emperor of the Vidisha Kingdom, who falls in love with a maiden named Malavika. Malavika is known 
     to be an extraordinary dancer and a sakhi of the chief queen Dhaarini. The plot unfolds when the king witnesses 
     her dance in the court. The sutradhara of the show is Gautama, the Vidushaka and the minister and close friend 
     of king Agnimitra. He hatches out all the plots for King Agnimitra to meet his love Malavika and escape the 
     wrath of queen Iravati and censure of queen Dharini. Poet Kalidasa beautifully portrays the characters and 
     unravels a plot full of fateful incidents with humorous angles.
+    </p>
     
     <p className="text-xl font-bold">About Dhaatu Puppet Theater</p>
         <p className="text-lg">
-        Dhaatu Puppet theater is a leading classical puppet theater of India. Research of over 15 
+        <span className="text-[#d83616]">
+            <a href="https://www.dhaatupuppets.org/" target="_blank">
+               Dhaatu Puppet theater
+            </a>
+          </span>
+  {" "}is a leading classical puppet theater of India. Research of over 15 
   years on the methodologies of construction and play of puppets has led to the puppet theater having over 
   15 puppet plays to its credit. Puppets at Dhaatu are crafted from wood and painted and finished with elaborate 
   costuming and accurate stringing. The stylization of puppets is in-keeping with the traditional Moodalapaya 
@@ -33,8 +37,14 @@ const Dhaatu = () => {
   Dhaatu has, over time, developed to become India’s first puppetry brand name that catapulted puppetry into being 
   recognized as a respected and classical art form of India.
         </p>
-        <p className="text-xl font-bold">Dhaatu Team: Anupama and Vidyashankar Hoskere</p>
-        <p className="text-lg">
+        <p className="text-xl font-bold">The Dhaatu Team: 
+           <span className="text-[#d83616]">
+            <a href="https://www.dhaatupuppets.org/dhaatuteam" target="_blank">
+               Anupama & Vidyashankar Hoskere
+            </a>
+          </span>
+        </p>
+        <p className="text-lg">  
         Anupama Hoskere is a master puppeteer and the Founder-Director of the Dhaatu Puppet Theater, Bengaluru, India. 
         She is the recipient of the prestigious Sangeet Natak Akademi Puraskar, the highest Indian recognition given 
         to practicing artists. She has wide experience in every facet of the composite art form of puppetry. 
