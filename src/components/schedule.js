@@ -28,7 +28,7 @@ const Schedule = () => {
       </div>
       <div className="space-y-3">
         <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
-        <iframe src={pdf_schedule} width="100%" height="800px">
+        <iframe src={pdf_schedule} width="100%" height="500px">
       </iframe>
         </div>
       </div>
