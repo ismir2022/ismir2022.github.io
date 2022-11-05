@@ -12,7 +12,7 @@ const Travel = () => {
           Travel
         </h1>
         <p className="text-lg font-italic">
-        (Page last updated on 20 Sep, 2022)
+        (Page last updated on 5 Nov, 2022)
         </p>
         <p className="text-lg">
           This page contains information to help you plan your travel to
@@ -21,6 +21,33 @@ const Travel = () => {
           becomes available. Please watch this space for additional information.
         </p>
       </div>
+      <div className="space-y-3">
+        <p className="text-2xl font-bold">Airport Transfers</p>
+        <p className="text-lg">
+        <span className="text-[#d83616] "><a href="https://www.bengaluruairport.com/travellers/transport-parking" target="_blank"> 
+        https://www.bengaluruairport.com/travellers/transport-parking 
+            </a></span> </p><p className="text-lg">The Kempegowda International Airport that serves Bengaluru city is situated 35 km from the city centre and IISc. It is safe to arrive in the city at night and several International flights arrive in Bengaluru in the middle of the night. Passengers can take a bus or taxi to the city from the airport. The airport has metered taxis operated by  KSTDC (Karnataka State Tourism Department), Meru or EasyCabs. These Airport Taxis are available 24/7 on all days – just outside the arrival gate. A special pink taxi service driven by women is also available exclusively for women. The airport also has a dedicated zone to take ridesharing taxis by Ola and Uber. 
+        </p>
+        <p className="text-lg">
+        There are private taxi providers also available with whom a cab can be booked inside the airport, which will be slightly more expensive as compared to the radio/metered taxies. In addition, you could also arrange for airport transfers through your hotel, though it might be more expensive. 
+        </p>
+        <p className="text-lg">
+        How to reach IISc:
+        <span className="text-[#d83616] "><a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/ " target="_blank"> 
+        https://iisc.ac.in/about/general-information/how-to-reach-iisc/ 
+            </a></span>
+        </p>
+      </div>
+      <div className="space-y-3">
+        <p className="text-2xl font-bold">Local Transport</p>
+        <p className="text-lg">Bengaluru is supported by a system of metro, buses, taxis and autos for public transport.</p> 
+        <p className="text-lg">Bangalore Metro (<span className="text-[#d83616]"><a href="https://english.bmrc.co.in/#/" target="_blank">Namma Metro</a></span>) is, clearly, the quickest, affordable and one of the best ways to get around Bengaluru. However, kindly confirm if the metro covers the place you want to visit. The nearest metro station to the venue (NSSC, IISc) is Sandal Soap Factory on the Green Line (2 km).</p>
+        <p className="text-lg">The buses in Bengaluru are run by the Bengaluru Metropolitan Transport Corporation (BMTC) with a fleet of ordinary buses (blue in color) and “Vajra”/”Vayu-Vajra'' air-conditioned buses. The buses have specific routes and no clear timetables are available. The bus fare is paid to the conductor upon boarding the bus and a ticket is collected. A day-pass that allows unlimited rides on the bus is available.</p>
+        <p className="text-lg">Taxis are easily available in Bangalore with ride sharing apps Ola & Uber being the leading players.</p>
+        <p className="text-lg">Auto-rickshaws (called autos or 3-wheelers in local lingo) are a common mode of transport and are readily available at every corner of the city. Please fix a fare before you start the ride when riding on autos. Autos are also available through the Ola ride sharing app.</p>
+        <p className="text-lg">IISc is known as the “Tata Institute” among the common populace of the city, and could be used to refer to the institute when taking a taxi/auto/bus. Within IISc, most of the places could be reached on foot.</p>
+      </div>
+
       <div className="space-y-3">
         <p className="text-2xl font-bold">COVID-19 related travel guidelines</p>
         <p className="text-lg">

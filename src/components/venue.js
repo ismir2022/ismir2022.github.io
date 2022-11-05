@@ -1,4 +1,5 @@
 import React from "react";
+import iisc_map from '../images/New-IISc-Map.pdf';
 
 const Venue = () => {
   return (
@@ -31,7 +32,7 @@ const Venue = () => {
         </p>
         <p className="text-lg">
           Official campus map of IISc:</p>
-          <iframe src="https://iisc.ac.in/wp-content/uploads/2016/02/New-IISc-Map.pdf" 
+          <iframe src={iisc_map} 
           width="100%">
           </iframe>
           
