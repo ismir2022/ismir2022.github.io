@@ -9,7 +9,7 @@ const LBD = () => {
           Explore
         </h1>
       </div>
-      <div className="space-y-8">
+      <div className="space-y-3">
         <p className="text-lg">
           <strong>Bengaluru (formerly, Bangalore)</strong>, the third largest
           city in India is located in the south of India and the capital of the
@@ -24,13 +24,13 @@ const LBD = () => {
           Bengaluru is a city of salubrious climate, and always bubbling with
           life and energy, representing a potpourri of people and culture. A
           cosmopolitan city that is home to over 10 million people from across
-          the country and the world, it has earned many names such as the
+          the country and the world, it has earned many names such as the{" "}
           <strong>
-            Silicon Valley of India, Pub Capital of India, Air-Conditioned City,
-            and the Garden City of India.
-          </strong>{" "}
+            Silicon Valley of India, Pub Capital of India, Air-Conditioned City, </strong>
+            and the <strong>Garden City of India.</strong>{" "}
           Bangalore was known as Pensioners' Paradise, prior to the IT
-          revolution. Now, the city is a wonderful blend of past and present.
+          revolution. Now, the city is a wonderful blend of the past and present, while 
+          it takes a pivotal role in building the future of our world!
         </p>
         <p className="font-bold text-2xl">Around the Venue</p>
         <p className="text-lg">
@@ -200,7 +200,7 @@ const LBD = () => {
         <p className="font-bold text-2xl">Day Trips from Bengaluru</p>
         <p className="text-lg">
           For those who have a full day to spare, we suggest the following day
-          trips around Bengaluru
+          trips around Bengaluru: 
         </p>
         <ul className="list-disc text-lg list-inside">
           <li>
@@ -212,13 +212,13 @@ const LBD = () => {
                 Belur
               </a>
             </span>
-            -{" "}
+            {" "}-{" "}
             <span className="text-[#d83616]">
               <a href="https://en.wikipedia.org/wiki/Halebidu" target="_blank">
                 Halebidu
               </a>
             </span>
-            -{" "}
+            {" "}-{" "}
             <span className="text-[#d83616]">
               <a
                 href="https://en.wikipedia.org/wiki/Shravanabelagola"
@@ -227,7 +227,7 @@ const LBD = () => {
                 Shravanabelagola
               </a>
             </span>
-            (long day trip!)
+           {" "}(long day trip!)
           </li>
           <li>
             <span className="text-[#d83616]">
@@ -238,7 +238,7 @@ const LBD = () => {
                 Chitradurga Fort
               </a>
             </span>
-            (long day trip!){" "}
+            {" "}(long day trip!){" "}
           </li>
           <li>
             <span className="text-[#d83616]">
@@ -259,7 +259,7 @@ const LBD = () => {
             </span>
           </li>
         </ul>
-        <p className="font-bold text-2xl">Day Trips from Bengaluru</p>
+        <p className="font-bold text-2xl">Weekend/Two-day Trips from Bengaluru</p>
 
         <ul className="list-disc text-lg list-inside">
           <li>
@@ -268,7 +268,7 @@ const LBD = () => {
                 Mysore
               </a>
             </span>
-            (formerly, Mysore)
+            {" "}(formerly, Mysore)
           </li>
           <li>
             <span className="text-[#d83616]">
