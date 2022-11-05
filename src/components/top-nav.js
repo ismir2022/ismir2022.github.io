@@ -186,6 +186,14 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
                   </Link>
                 </li>
                 <li>
+                  <Link
+                    to="/attend/generalinfo"
+                    className="active:bg-[#d83616] text-xl"
+                  >
+                    General Information
+                  </Link>
+                </li>
+                <li>
                   <Link to="/codeofconduct" className="active:bg-none text-lg">
                     Code of Conduct
                   </Link>
@@ -461,6 +469,14 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
                 className="active:bg-[#d83616] text-xl"
               >
                 Explore
+              </Link>
+            </li>
+            <li>
+              <Link
+                to="/attend/generalinfo"
+                className="active:bg-[#d83616] text-xl"
+              >
+                General Information
               </Link>
             </li>
             <li>

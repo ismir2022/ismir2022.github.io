@@ -32,9 +32,8 @@ const Travel = () => {
         There are private taxi providers also available with whom a cab can be booked inside the airport, which will be slightly more expensive as compared to the radio/metered taxies. In addition, you could also arrange for airport transfers through your hotel, though it might be more expensive. 
         </p>
         <p className="text-lg">
-        How to reach IISc:
-        <span className="text-[#d83616] "><a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/ " target="_blank"> 
-        https://iisc.ac.in/about/general-information/how-to-reach-iisc/ 
+        How to reach IISc:{" "}
+        <span className="text-[#d83616] "><a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/ " target="_blank">https://iisc.ac.in/about/general-information/how-to-reach-iisc/ 
             </a></span>
         </p>
       </div>

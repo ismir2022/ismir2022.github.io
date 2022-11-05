@@ -32,9 +32,11 @@ const Venue = () => {
         </p>
         <p className="text-lg">
           Official campus map of IISc:</p>
+          <p className="justify-center">
           <iframe src={iisc_map} 
-          width="100%">
+          width="50%" height="500px">
           </iframe>
+          </p>
           
           <p className="text-lg">The numbers next to the places described below refer to the serial
           number of the place in the map.{" "}
