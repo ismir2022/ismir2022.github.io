@@ -1,7 +1,8 @@
 import { StaticImage } from "gatsby-plugin-image";
 import React from "react";
 import draft_schedule from '../assets/Draft_Paper_Schedule_20Oct_2022.pdf';
-
+import pdf_schedule from '../images/schedule.pdf';
+ 
 const Schedule = () => {
   return (
     <div className="space-y-10">
