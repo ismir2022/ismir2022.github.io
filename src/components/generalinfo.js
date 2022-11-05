@@ -8,8 +8,6 @@ const GeneralInfo = () => {
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
         General Information for Visitors
         </h1>
-        <p className="font-bold text-xl">Climate in Bengaluru</p>
-        <p className="text-lg">Bengaluru in December is pleasantly cold. Those coming from hotter climes might find it quite chilly but for those who are used to colder climates might find it pleasant, with the temperature ranging between lows of 16°C (60°F) and highs up to 26°C (131°F). </p>
         <div>
             <StaticImage
               src="../images/climate.jpg"
@@ -19,6 +17,9 @@ const GeneralInfo = () => {
               width={500}
             />
         </div>
+        <p className="font-bold text-xl">Climate in Bengaluru</p>
+        <p className="text-lg">Bengaluru in December is pleasantly cold. Those coming from hotter climes might find it quite chilly but for those who are used to colder climates might find it pleasant, with the temperature ranging between lows of 16°C (60°F) and highs up to 26°C (131°F). </p>
+        
         <p className="font-bold text-xl">Clothing</p>
         <p className="text-lg">There is no particular dress code for the conference. However, pack a few layers which you may require in the mornings and evenings. There are no clothing restrictions in the city as well, however use your discretion and dress appropriately when visiting public places. Religious places in the city (temples, mosques, churches, gurudwaras) might have dress code restrictions.</p>
         <p className="font-bold text-xl">COVID-19 related norms</p>
