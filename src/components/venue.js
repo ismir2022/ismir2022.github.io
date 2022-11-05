@@ -34,7 +34,7 @@ const Venue = () => {
           Official campus map of IISc:</p>
           <p className="justify-center">
           <iframe src={iisc_map} 
-          width="50%" height="500px">
+          width="65%" height="500px">
           </iframe>
           </p>
           
