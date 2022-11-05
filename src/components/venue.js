@@ -1,4 +1,5 @@
 import React from "react";
+import iisc_map from "https://iisc.ac.in/wp-content/uploads/2016/02/New-IISc-Map.pdf";
 
 const Venue = () => {
   return (
@@ -31,12 +32,9 @@ const Venue = () => {
         </p>
         <p className="text-lg">
           Official campus map of IISc:</p>
-          <iframe src="https://iisc.ac.in/wp-content/uploads/2016/02/New-IISc-Map.pdf" 
+          <iframe src={iisc_map} 
           width="300vw"
-          height="300vh"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade">
+          height="300vh">
           </iframe>
           
           <p className="text-lg">The numbers next to the places described below refer to the serial
