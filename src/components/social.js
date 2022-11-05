@@ -27,7 +27,12 @@ const Social = () => {
                Dhaatu Puppet Theater
             </a>
           </span> 
-          {" "}will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru.                                                                                                                                           
+          {" "}will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru. Additional details about the performance can be found here: 
+          <span className="text-[#d83616]">
+            <a href="https://ismir2022.ismir.net/program/social/dhaatu/" target="_blank">
+               https://ismir2022.ismir.net/program/social/dhaatu/
+            </a>
+          </span>                                                                                                     
         </p>
         <br></br>
 
