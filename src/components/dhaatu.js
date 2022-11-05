@@ -37,7 +37,7 @@ const Dhaatu = () => {
   Dhaatu has, over time, developed to become India’s first puppetry brand name that catapulted puppetry into being 
   recognized as a respected and classical art form of India.
         </p>
-        <p className="text-xl font-bold">The Dhaatu Team: 
+        <p className="text-xl font-bold">The Dhaatu Team:{" "}
            <span className="text-[#d83616]">
             <a href="https://www.dhaatupuppets.org/dhaatuteam" target="_blank">
                Anupama & Vidyashankar Hoskere
@@ -88,7 +88,7 @@ const Dhaatu = () => {
     <p className="text-lg">
     In another incident, King Pushyamitra accompanied by Grandson Vasumitra is following the Ashwamedha horse of the Vidisha kingdom. The horse is captured by the Yavanas or the Greeks who are trying to invade Bharata.  Queen Dharini is very proud of her son Vasumitra’s victory and valour and feels generous.
     </p>
-    <p className="text-xl font-bold">Artist Credits and editorial metadata</p>
+    <p className="text-xl font-bold">Artist credits and editorial metadata</p>
     <ul className="list-disc text-lg list-inside">
           <li>Directed by Anupama Hoskere</li>
           <li>Dancer: Divya Hoskere as Malavika</li>
