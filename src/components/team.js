@@ -1092,6 +1092,31 @@ const Team = () => {
                 <div class="avatar">
                   <div class="md:w-[90px] rounded-full">
                     <StaticImage
+                      src="../images/volunteers/jom-kuriakose.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">
+                  Jom Kuriakose
+                </p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a research scholar in Indian Institute of Technology Madras, working on MIR 
+                  tasks on percussion instruments in Carnatic music. Really looking forward to 
+                  meetings and connecting with music researchers from across the globe in ISMIR this time.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
                       src="../images/volunteers/rohit-ma.png"
                       objectFit="contain"
                       placeholder="blurred"
