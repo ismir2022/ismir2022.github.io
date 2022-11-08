@@ -1168,6 +1168,30 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Shreyas-Nadkarni.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Shreyas Nadkarni</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a 4th Year Undergraduate (Dual degree) student at Indian Institute of Technology 
+                  Bombay, in the Department of Electrical Engineering and Centre for Machine Intelligence 
+                  and Data Science. I am interested in signal processing and machine learning. I am also 
+                  a music enthusiast and am interested in exploring the applications of signal and ML techniques to music.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
