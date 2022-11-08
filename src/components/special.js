@@ -52,14 +52,14 @@ const Special = () => {
         <br></br>
 
         <p className="text-lg">
-           For the benefit of the remote attendees, ISMIR 2022 features virtual-only special sessions. 
+           For the benefit of the remote attendees, ISMIR 2022 features online special sessions. 
            The sessions will be held at a time-zone suitable for virtual attendees from parts of the world 
            who may not find the hybrid conference time-zone (IST) convenient. The sessions will discuss 
            important topics in MIR and will be moderated by senior members of ISMIR community. 
-            The sessions will be recorded and made available to all participants for watching them later. 
+            The sessions are open to all participants, and will be recorded and made available for watching them later. 
         </p>
 
-        <p className="text-xl text-[#d83616] font-bold">Special Session-A (Virtual-only): Ethics/Code of Conduct for ISMIR</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-A (Online): Ethics/Code of Conduct for ISMIR</p>
         <p className="text-lg font-bold">Dec 5, 2022 (Mon), 10.00 pm - 11.15 pm</p>
         <p className="text-lg font-bold">Moderators: Andre Holzapfel, Fabio Morreale, Bob Sturm</p>
         <p className="text-lg">
@@ -84,7 +84,7 @@ const Special = () => {
         </p>
         <br></br>
 
-        <p className="text-xl text-[#d83616] font-bold">Special Session-B (Virtual-only): PhD in MIR: Challenges and Opportunities</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-B (Online): PhD in MIR: Challenges and Opportunities</p>
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 10.00 pm - 11.15 pm</p>
         <p className="text-lg font-bold">Moderators: Meinard Müller</p>
         <p className="text-lg">
@@ -99,7 +99,7 @@ const Special = () => {
         </p>
         <br></br>
 
-        <p className="text-xl text-[#d83616] font-bold">Special Session-C (Virtual-only): TISMIR: the open journal of the ISMIR society</p>
+        <p className="text-xl text-[#d83616] font-bold">Special Session-C (Online): TISMIR: the open journal of the ISMIR society</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Tue), 10.00 pm - 11.15 pm</p>
         <p className="text-lg">
            Transactions of the International Society for Music Information Retrieval(
