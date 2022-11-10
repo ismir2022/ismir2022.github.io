@@ -9,6 +9,19 @@ const Highlights = () => {
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">
         <ul className="text-lg list-disc list-outside mt-2 mx-10 space-y-3">
           <li>
+            For the benefit of our remote attendees, we are organizing three{" "}
+           
+            <span className="text-[#d83616]">
+              <a
+                href="https://ismir2022.ismir.net/program/special"
+                target="_blank"
+              >
+                special virtual-only sessions
+              </a>
+            </span>
+            {" "} during the conference. 
+          </li> 
+          <li>
             We have an exciting {" "}
            
             <span className="text-[#d83616]">

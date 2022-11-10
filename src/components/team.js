@@ -463,7 +463,9 @@ const Team = () => {
           </div>
         </div>
         <div>
-          <h1 className="text-2xl font-bold">Technology and Virtual Platform Chair</h1>
+          <h1 className="text-2xl font-bold">
+            Technology and Virtual Platform Chair
+          </h1>
           <div className="flex  md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32  p-10 ">
             <div className="flex-col flex items-center justify-center space-y-3">
               <div class="avatar">
@@ -479,7 +481,7 @@ const Team = () => {
               </div>
               <p className="text-md font-medium">Swapnil Gupta</p>
             </div>
-        </div>
+          </div>
         </div>
         <div>
           <h1 className="text-2xl font-bold">Social Program Chairs</h1>
@@ -547,7 +549,7 @@ const Team = () => {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+            <div className="flex flex-col md:flex-row md:gap-x-18 gap-x-20 items-center gap-y-5">
               <div className="flex-col flex items-left space-y-3">
                 <div class="avatar">
                   <div class="w-25 rounded-full">
@@ -610,11 +612,18 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Elena Georgieva</p>
+                <p className="text-md font-medium text-center">
+                  Elena Georgieva
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                Elena is a music technology PhD student at NYU's Music and Audio Research Lab (MARL). Her research is in human-centered MIR, and she works on projects related to vocals and sound recording/production. Elena has been involved with the ISMIR community since 2018, and is happy to be helping out this year.
+                  Elena is a music technology PhD student at NYU's Music and
+                  Audio Research Lab (MARL). Her research is in human-centered
+                  MIR, and she works on projects related to vocals and sound
+                  recording/production. Elena has been involved with the ISMIR
+                  community since 2018, and is happy to be helping out this
+                  year.
                 </p>
               </div>
             </div>
@@ -635,7 +644,14 @@ const Team = () => {
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a final-year BTech student of Computer Science and Engineering at PES University, Bangalore, India. My interests lie in machine learning and deep learning, especially at the intersection of artificial intelligence and creativity. I play the Saraswathi Veena, a South Indian classical instrument, and was previously trained as a Carnatic vocalist. I am really happy to be a part of this event as it combines my love for music and ML!
+                  I am a final-year BTech student of Computer Science and
+                  Engineering at PES University, Bangalore, India. My interests
+                  lie in machine learning and deep learning, especially at the
+                  intersection of artificial intelligence and creativity. I play
+                  the Saraswathi Veena, a South Indian classical instrument, and
+                  was previously trained as a Carnatic vocalist. I am really
+                  happy to be a part of this event as it combines my love for
+                  music and ML!
                 </p>
               </div>
             </div>
@@ -656,7 +672,12 @@ const Team = () => {
               </div>
               <div>
                 <p className="text-md break-word">
-                I am currently a Research Associate in the Department of Electrical Engineering at the Indian Institute of Technology, Kanpur. I have been focusing my research and development efforts on technologies that lie at the confluence of Music Information Retrieval (MIR) and Music Hardware. I have a spiralling passion for Hindustani Classical Music.
+                  I am currently a Research Associate in the Department of
+                  Electrical Engineering at the Indian Institute of Technology,
+                  Kanpur. I have been focusing my research and development
+                  efforts on technologies that lie at the confluence of Music
+                  Information Retrieval (MIR) and Music Hardware. I have a
+                  spiralling passion for Hindustani Classical Music.
                 </p>
               </div>
             </div>
@@ -673,11 +694,17 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Pratap Kygonahalli</p>
+                <p className="text-md font-medium text-center">
+                  Pratap Kygonahalli
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a final year undergrad of Electronics and Communication Engineering at PES University. My interests lie in the areas of Machine Learning at the Edge, Digital Signal Processing and Hardware Acceleration. I am glad to be a part of the event and looking forward to working with you all !!!
+                  I am a final year undergrad of Electronics and Communication
+                  Engineering at PES University. My interests lie in the areas
+                  of Machine Learning at the Edge, Digital Signal Processing and
+                  Hardware Acceleration. I am glad to be a part of the event and
+                  looking forward to working with you all !!!
                 </p>
               </div>
             </div>
@@ -698,11 +725,18 @@ const Team = () => {
               </div>
               <div>
                 <p className="text-md break-word">
-                I am currently a senior undergraduate pursuing Computer Science and Engineering at PES University, Bangalore. I found out about ISMIR this year while working on a project related to studying sentiment in music and its use based on the same and I was very excited to attend and interact with everyone participating and working in this field. I love thinking about how AI can support artists in their work! I also dabble in photography and video editing.
+                  I am currently a senior undergraduate pursuing Computer
+                  Science and Engineering at PES University, Bangalore. I found
+                  out about ISMIR this year while working on a project related
+                  to studying sentiment in music and its use based on the same
+                  and I was very excited to attend and interact with everyone
+                  participating and working in this field. I love thinking about
+                  how AI can support artists in their work! I also dabble in
+                  photography and video editing.
                 </p>
               </div>
             </div>
-            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+            <div className="flex flex-col md:flex-row md:gap-x-16 gap-x-20 items-center gap-y-5">
               <div className="flex-col flex items-left space-y-3">
                 <div class="avatar">
                   <div class="md:w-[90px] rounded-full">
@@ -715,11 +749,18 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Vishruth Veerendranath</p>
+                <p className="text-md font-medium text-center">
+                  Vishruth Veerendranath
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a final-year Computer Science and Engineering student at PES University, Bangalore. I am interested in applications of Deep Learning for creative applications and more specifically for music. I play the guitar and keyboard, and I have been trying my hand at music production as well recently. Looking forward to volunteering for this event!
+                  I am a final-year Computer Science and Engineering student at
+                  PES University, Bangalore. I am interested in applications of
+                  Deep Learning for creative applications and more specifically
+                  for music. I play the guitar and keyboard, and I have been
+                  trying my hand at music production as well recently. Looking
+                  forward to volunteering for this event!
                 </p>
               </div>
             </div>
@@ -740,7 +781,11 @@ const Team = () => {
               </div>
               <div>
                 <p className="text-md break-word">
-                I am currently a PhD student at MTG, UPF. My research interests lie in the area of expression analysis of vocal performances. I also like to compose music on the side. I am happy to be part of the team, and looking forward to working with you all!
+                  I am currently a PhD student at MTG, UPF. My research
+                  interests lie in the area of expression analysis of vocal
+                  performances. I also like to compose music on the side. I am
+                  happy to be part of the team, and looking forward to working
+                  with you all!
                 </p>
               </div>
             </div>
@@ -757,15 +802,22 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Sharvaree Sinkar</p>
+                <p className="text-md font-medium text-center">
+                  Sharvaree Sinkar
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a 4th year Electrical Engineering undergraduate student at IIT Bombay. I am currently working in the domain of Audio Source Separation which includes fields of signal processing and deep learning. I am interested in playing keyboard, trekking, travelling and reading books. Looking forward to work with you all!
+                  I am a 4th year Electrical Engineering undergraduate student
+                  at IIT Bombay. I am currently working in the domain of Audio
+                  Source Separation which includes fields of signal processing
+                  and deep learning. I am interested in playing keyboard,
+                  trekking, travelling and reading books. Looking forward to
+                  work with you all!
                 </p>
               </div>
             </div>
-            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+            <div className="flex flex-col md:flex-row md:gap-x-14 gap-x-20 items-center gap-y-5">
               <div className="flex-col flex items-left space-y-3">
                 <div class="avatar">
                   <div class="md:w-[90px] rounded-full">
@@ -778,11 +830,18 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Venkatakrishnan V K</p>
+                <p className="text-md font-medium text-center">
+                  Venkatakrishnan V K
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a final year Aerospace Engineering undergraduate student at IIT Bombay. My interests in technology is predominantly in ML and Deep Learning. To add to my tech interests, I am a pianist with skills in Music Production, Mixing, and have also been learning Hindustani and Carnatic vocals for the past couple of years. Good to connect with you all!
+                  I am a final year Aerospace Engineering undergraduate student
+                  at IIT Bombay. My interests in technology is predominantly in
+                  ML and Deep Learning. To add to my tech interests, I am a
+                  pianist with skills in Music Production, Mixing, and have also
+                  been learning Hindustani and Carnatic vocals for the past
+                  couple of years. Good to connect with you all!
                 </p>
               </div>
             </div>
@@ -799,11 +858,18 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Thishyan Raj T</p>
+                <p className="text-md font-medium text-center">
+                  Thishyan Raj T
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am currently pursuing my MS - Research degree in the Electrical Engineering department at IIT-Kanpur. My research area focuses on applications of Artificial Intelligence and Machine Learning on Audio and Speech Signal Processing. I am glad to be volunteering for ISMIR 2022 and am looking forward to working with the team.
+                  I am currently pursuing my MS - Research degree in the
+                  Electrical Engineering department at IIT-Kanpur. My research
+                  area focuses on applications of Artificial Intelligence and
+                  Machine Learning on Audio and Speech Signal Processing. I am
+                  glad to be volunteering for ISMIR 2022 and am looking forward
+                  to working with the team.
                 </p>
               </div>
             </div>
@@ -820,11 +886,18 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Parampreet Singh</p>
+                <p className="text-md font-medium text-center">
+                  Parampreet Singh
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am a Ph.D. student in the department of Electrical Engineering at the Indian Institute of Technology, Kanpur. I have been learning Gurmat Sangeet for the past decade. I have a great interest in the field of machine learning/deep learning for music signal processing. I feel very happy to be a part of this team.
+                  I am a Ph.D. student in the department of Electrical
+                  Engineering at the Indian Institute of Technology, Kanpur. I
+                  have been learning Gurmat Sangeet for the past decade. I have
+                  a great interest in the field of machine learning/deep
+                  learning for music signal processing. I feel very happy to be
+                  a part of this team.
                 </p>
               </div>
             </div>
@@ -845,7 +918,11 @@ const Team = () => {
               </div>
               <div>
                 <p className="text-md break-word">
-                I am an MS research graduate in the School of Computing and Electrical Engineering at IIT Mandi. I am currently working on music source separation, especially in Indian Carnatic music and am widely interested in Signal Processing & Deep Learning. Happy to volunteer for the ISMIR 2022 conference!
+                  I am an MS research graduate in the School of Computing and
+                  Electrical Engineering at IIT Mandi. I am currently working on
+                  music source separation, especially in Indian Carnatic music
+                  and am widely interested in Signal Processing & Deep Learning.
+                  Happy to volunteer for the ISMIR 2022 conference!
                 </p>
               </div>
             </div>
@@ -862,11 +939,16 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Vayyavuru Venkatesh</p>
+                <p className="text-md font-medium text-center">
+                  Vayyavuru Venkatesh
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                I am working as a Research Scientist at Swiggy. My research interests are in the area of signal processing. I am happy to be a part of the ISMIR team and looking forward to working with you all!!!
+                  I am working as a Research Scientist at Swiggy. My research
+                  interests are in the area of signal processing. I am happy to
+                  be a part of the ISMIR team and looking forward to working
+                  with you all!!!
                 </p>
               </div>
             </div>
@@ -883,11 +965,230 @@ const Team = () => {
                     />
                   </div>
                 </div>
-                <p className="text-md font-medium text-center">Prashant Mishra</p>
+                <p className="text-md font-medium text-center">
+                  Prashant Mishra
+                </p>
               </div>
               <div>
                 <p className="text-md break-word">
-                Prashant is an audiophile who has worked as an Audio Director for educational games and videos in collaboration with Disney to create IP-specific sonic experiences, during which he created voice based apps. He helped in setting up and scaling the sound department at the ed-tech unicorn, BYJU'S, since 2015 for their entire catalogue of projects. He is now building audio products with companies such as Soundly, and hosts games, spatial & interactive audio training sessions.
+                  Prashant is an audiophile who has worked as an Audio Director
+                  for educational games and videos in collaboration with Disney
+                  to create IP-specific sonic experiences, during which he
+                  created voice based apps. He helped in setting up and scaling
+                  the sound department at the ed-tech unicorn, BYJU'S, since
+                  2015 for their entire catalogue of projects. He is now
+                  building audio products with companies such as Soundly, and
+                  hosts games, spatial & interactive audio training sessions.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/kavya-saxena.jpg"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">
+                  Kavya Ranjan Saxena
+                </p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a Ph.D. student at Indian Institute of Technology (IIT)
+                  Kanpur. I am working in the field of music information
+                  retrieval (MIR). Looking forward to volunteering for this
+                  event!
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/nithya-shikarpur.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">
+                  Nithya Shikarpur
+                </p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a masters student at University of Montreal and Mila and
+                  I practice Hindustani vocal music. My research interests
+                  include deep learning models for music generation and
+                  improvisation, human-computer interaction in the context of
+                  music creation and machine learning to aid music learning.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/rhythm-jain.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Rhythm Jain</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  Rhythm is a masters' student researcher at Georgia Tech Centre
+                  for Music Technology specializing in computational
+                  ethnomusicology, cross cultural music perception and music
+                  transcription. She has worked with audio, symbolic music and
+                  with human perception of music. She is a Hindustani vocalist,
+                  plays the guitar and enjoys building interactive music
+                  systems.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/adbhut-vipin-bhardwaj.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">
+                  Adbhut Vipin Bhardwaj
+                </p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  Adbhut Vipin Bhardwaj is a final year undergraduate student at
+                  Indian Institute of Technology Bombay. He is interested in
+                  Machine Learning and Audio processing.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/jom-kuriakose.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">
+                  Jom Kuriakose
+                </p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a research scholar in Indian Institute of Technology Madras, working on MIR 
+                  tasks on percussion instruments in Carnatic music. Really looking forward to 
+                  meetings and connecting with music researchers from across the globe in ISMIR this time.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/rohit-ma.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Rohit M. A.</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  Rohit is a PhD student in speech and hearing science at the
+                  University of Illinois Urbana-Champaign. He has a background
+                  in audio signal processing and obtained his master’s degree
+                  from the Indian Institute of Technology Bombay, developing
+                  algorithms in machine listening to solve music information
+                  retrieval tasks. His current research interests include speech
+                  perception and building computational models of human auditory
+                  perception.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/tirna-ghosh.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Tirna Ghosh</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am currently pursuing Master's of Data Analytics from Christ
+                  University, Bangalore. Since the age of of 5, when I first
+                  learnt to sing the first swar of sargam "Sa", I instantly
+                  experienced the feeling of ecstasy. And what could be better
+                  than to be able to combine both my fields of passion-music and
+                  AI and be able to create something phenomenal! ISMIR 2022 is a
+                  wonderful opportunity for me and I am more than happy to be a
+                  part of it.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Shreyas-Nadkarni.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Shreyas Nadkarni</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a 4th Year Undergraduate (Dual degree) student at Indian Institute of Technology 
+                  Bombay, in the Department of Electrical Engineering and Centre for Machine Intelligence 
+                  and Data Science. I am interested in signal processing and machine learning. I am also 
+                  a music enthusiast and am interested in exploring the applications of signal and ML techniques to music.
                 </p>
               </div>
             </div>
