@@ -1,5 +1,7 @@
 import React, {useState} from "react";
 import { Link } from "gatsby";
+import { StaticImage } from "gatsby-plugin-image";
+import pdf_schedule from '../images/mmmt/mmmt_schedule.pdf';
 
 import Kat_Agres from '../images/mmmt/Kat_Agres.jpeg'; 
 import Nori_Jacoby from '../images/mmmt/Nori_Jacoby.jpeg'; 
@@ -526,7 +528,13 @@ const Mmmt = () =>
           lunch. At the end of the workshop we hope to have an informal get
           together to ring in ISMIR 2022! We look forward to seeing you there!
         </p>
-        <p className="text-xl font-bold">Registration</p>
+        <div className="space-y-3">
+        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
+        <iframe src={pdf_schedule} width="100%" height="900px">
+      </iframe>
+        </div>
+      </div>
+      <p className="text-xl font-bold">Registration</p>
         <p className="text-lg">
           The registration fee for the workshop are as follows:
         </p>
