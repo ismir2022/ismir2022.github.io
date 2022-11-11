@@ -7,6 +7,7 @@
 } */
 
 .myImg {
+  z-index:50;
   height: 100px;
   width: 100px;
   cursor: pointer;

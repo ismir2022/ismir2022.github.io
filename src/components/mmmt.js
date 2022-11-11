@@ -1,7 +1,5 @@
 import React, {useState} from "react";
 import { Link } from "gatsby";
-import { StaticImage } from "gatsby-plugin-image";
-import pdf_schedule from '../images/mmmt/mmmt_schedule.pdf';
 
 import Kat_Agres from '../images/mmmt/Kat_Agres.jpeg'; 
 import Nori_Jacoby from '../images/mmmt/Nori_Jacoby.jpeg'; 
@@ -16,6 +14,9 @@ import JJ_Aucouturier from '../images/mmmt/Jean-Julien_Aucouturier.png';
 import Suvi_Saarikallio from '../images/mmmt/Suvi_Saarikallio.png'
 import RadhikaG_MaheshK from '../images/mmmt/RadhikaGosavi_MaheshKale.png'
 import twin_health from '../images/mmmt/sponsor.png'
+
+import day_1 from '../images/mmmt/schedule_day1.jpg'
+import day_2 from '../images/mmmt/schedule_day2.jpg'
 
 import poster from '../images/MMMT_poster.pdf';
 
@@ -516,7 +517,6 @@ const Mmmt = () =>
               </a>
             </div>
           </div>
-
         <p className="text-xl font-bold">Schedule</p>
         <p className="text-lg">
           All the talks will take place between 9:30am - 5:00pm IST and can be
@@ -528,12 +528,45 @@ const Mmmt = () =>
           lunch. At the end of the workshop we hope to have an informal get
           together to ring in ISMIR 2022! We look forward to seeing you there!
         </p>
-        <div className="space-y-3">
-        <div className="flex justify-center md:col-start-1 md:col-end-2 md:place-self-center ">
-        <iframe src={pdf_schedule} width="100%" height="900px">
-      </iframe>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-32 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-lg">
+                <span className="text-gray-500">Day-1 </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={day_1}
+                  style={{ height: 450, width: 350 }}
+                  onClick={(event) => showModal(event, day_1)}
+                />
+              </div>
+            </div>
+            <br />
+            <br />
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-lg">
+                <span className="text-gray-500">Day-2 </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={day_2}
+                  style={{ height: 450, width: 350 }}
+                  onClick={(event) => showModal(event, day_2)}
+                />
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
+
       <p className="text-xl font-bold">Registration</p>
         <p className="text-lg">
           The registration fee for the workshop are as follows:
