@@ -86,7 +86,7 @@ const Special = () => {
 
         <p className="text-xl text-[#d83616] font-bold">Special Session-B (Online): PhD in MIR: Challenges and Opportunities</p>
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 10.00 pm - 11.15 pm</p>
-        <p className="text-lg font-bold">Moderators: Meinard Müller</p>
+        <p className="text-lg font-bold">Moderator: Meinard Müller</p>
         <p className="text-lg">
            Music information retrieval (MIR) is an exciting research field related to different disciplines, 
              including signal processing, machine learning, information retrieval, psychology, musicology, 
@@ -101,6 +101,7 @@ const Special = () => {
 
         <p className="text-xl text-[#d83616] font-bold">Special Session-C (Online): TISMIR: the open journal of the ISMIR society</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Tue), 10.00 pm - 11.15 pm</p>
+        <p className="text-lg font-bold">Moderator: Emilia Gómez</p>
         <p className="text-lg">
            Transactions of the International Society for Music Information Retrieval(
         <span className="text-[#d83616]">
