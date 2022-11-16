@@ -1192,6 +1192,48 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/YuxiQiao.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Yuxi Qiao</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a masters student at Music Technology Group (MTG) of the Universitat Pompeu Fabra, Barcelona. My research interests lie in music emotion recognition. I'm glad to be a part of the event, and very happy to be helping out.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Oguz_Araz.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Recep Oğuz Araz</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  His interests lie in the fields of Speech and Music, with a focus on the area spanned by Signal Processing, Machine Learning and DJing. He is a second year Sound and Music Computing Masters student at UPF, Barcelona.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
