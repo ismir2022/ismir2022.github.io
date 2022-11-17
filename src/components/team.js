@@ -1227,6 +1227,48 @@ const Team = () => {
                 </p>
               </div>
             </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Adithi-Shankar.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Adithi Shankar</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a Master's student at UPF Barcelona. I play the Saraswati Veena and my interests lie in the area of source separation and vocal pitch extraction for Carnatic Music. Really happy to be a part of this event.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Dilip-Harish.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Dilip Harish</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I’m currently pursuing my master’s at the University of Pompeu Fabra in Sound and music computing. I’m passionate out making music and audio technologies more accessible. I am a hobby guitarist and i’ve been learning vocals in Carnatic music for the past couple of years.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
