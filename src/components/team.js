@@ -362,7 +362,7 @@ const Team = () => {
           </div>
         </div>
         <div>
-          <h1 className="text-2xl font-bold">Local Organization</h1>
+          <h1 className="text-2xl font-bold">Local Organization, Technology and Virtual Platform</h1>
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-10">
             <div className="flex-col flex items-center justify-center space-y-3 md:w-[130px]">
               <div class="avatar">
@@ -393,6 +393,20 @@ const Team = () => {
                 </div>
               </div>
               <p className="text-md font-medium">Sharath Adavanne</p>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <div class="avatar">
+                <div class="w-25 rounded-full">
+                  <StaticImage
+                    src="../images/team/swapnil-gupta.jpeg"
+                    objectFit="contain"
+                    placeholder="blurred"
+                    height={130}
+                    width={130}
+                  />
+                </div>
+              </div>
+              <p className="text-md font-medium">Swapnil Gupta</p>
             </div>
           </div>
         </div>
@@ -459,27 +473,6 @@ const Team = () => {
                 </div>
               </div>
               <p className="text-md font-medium">Vishnu Srinivasa Murthy</p>
-            </div>
-          </div>
-        </div>
-        <div>
-          <h1 className="text-2xl font-bold">
-            Technology and Virtual Platform Chair
-          </h1>
-          <div className="flex  md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32  p-10 ">
-            <div className="flex-col flex items-center justify-center space-y-3">
-              <div class="avatar">
-                <div class="w-25 rounded-full">
-                  <StaticImage
-                    src="../images/team/swapnil-gupta.jpeg"
-                    objectFit="contain"
-                    placeholder="blurred"
-                    height={130}
-                    width={130}
-                  />
-                </div>
-              </div>
-              <p className="text-md font-medium">Swapnil Gupta</p>
             </div>
           </div>
         </div>
