@@ -34,9 +34,51 @@ const LBD = () => {
         </p>
         <p className="font-bold text-2xl">Around the Venue</p>
         <p className="text-lg">
-          We are curating a list of places around the venue to hangout and
-          socialize during the conference. More details coming soon!
+          Here is a curated list of places around the venue to hangout, get a drink and
+          socialize. 
         </p>
+        <ul className="list-disc text-lg list-inside">
+          <li>
+            <span className="text-[#d83616]">
+              <a href="https://g.page/ChapterOnebarmaiin?share" target="_blank">
+                CHAPTER ONE Bar | Maiin
+              </a>
+            </span>
+            {" "}, New BEL Road
+          </li>
+          <li>
+            <span className="text-[#d83616]">
+              <a href="https://goo.gl/maps/q16x1cdXuQDJUoGp8" target="_blank">
+                Geometry Gastropub
+              </a>
+            </span>
+            , New BEL Road
+          </li>
+          <li>
+            <span className="text-[#d83616]">
+              <a href="https://goo.gl/maps/ANaBJaACfvgvLBzo9" target="_blank">
+                Hammered
+              </a>
+            </span>
+            , New BEL Road
+          </li>
+          <li>
+            <span className="text-[#d83616]">
+              <a href="https://goo.gl/maps/QecpvYyAGxryVZ6c6" target="_blank">
+                Gillys Restobar
+              </a>
+            </span>
+            , New BEL Road
+          </li>
+          <li>
+            <span className="text-[#d83616]">
+              <a href="https://goo.gl/maps/rcxAJKV32cUDwvHL8" target="_blank">
+                Plan B
+              </a>
+            </span>
+            , New BEL Road
+          </li>
+        </ul>
         <p className="font-bold text-2xl">Top places to visit in the city</p>
         <p className="font-bold text-xl">Vidhana Soudha</p>
         <div>
@@ -51,7 +93,7 @@ const LBD = () => {
           </a>
         </div>
         <p className="text-lg">
-          Built in 1954, Vidana Soudha is a landmark of the city and is the seat
+          Built in 1954, Vidhana Soudha is a landmark of the city and is the seat
           of the Karnataka State Government. This enormous building is a massive
           example of neo-Dravidian architecture, with four domes on its four
           corners - it’s stunningly illuminated at night.{" "}
