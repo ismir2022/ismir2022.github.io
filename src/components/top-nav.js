@@ -24,11 +24,12 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           tabindex="0"
           class="dropdown-content mt-3 p-2 bg-white shadow-lg rounded-box w-72"
         >
-          <li>
-            <Link to="https://ismir2022program.ismir.net" className="active:bg-[#d83616] text-2xl">
+          <li tabindex="0" className="collapse">
+            <Link to="https://ismir2022program.ismir.net" className="text-lg collapse-title font-medium">
               Access Virtual Platform
             </Link>
           </li>
+  
           <li tabindex="0" className="collapse collapse-arrow focus:text-black">
             <input type="checkbox" />
             <div class="collapse-title text-lg font-medium">Calls</div>
