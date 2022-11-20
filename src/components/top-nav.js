@@ -271,6 +271,11 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
     </div>
     <div class="navbar-center hidden lg:flex text-[#d83616]">
       <ul class="menu menu-horizontal p-0">
+        <li tabindex="0">
+            <Link to="https://ismir2022program.ismir.net" className="active:bg-[#d83616] text-2xl">
+              Access Virtual Platform
+            </Link>
+        </li>
         <li tabindex="0 ">
           <a className="active:bg-[#d83616] text-2xl">
             Calls
