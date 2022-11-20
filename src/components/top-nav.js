@@ -25,7 +25,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           class="dropdown-content mt-3 p-2 bg-white shadow-lg rounded-box w-72"
         >
           <li tabindex="0" className="collapse">
-            <Link to="_blank" className="text-lg collapse-title font-medium">
+            <Link to="https://ismir2022program.ismir.net" className="text-lg collapse-title font-medium">
               Virtual Platform
             </Link>
           </li>
@@ -272,7 +272,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
     <div class="navbar-center hidden lg:flex text-[#d83616]">
       <ul class="menu menu-horizontal p-0">
         <li tabindex="0">
-            <Link to="_blank" className="active:bg-[#d83616] text-xl">
+            <Link to="https://ismir2022program.ismir.net" className="active:bg-[#d83616] text-xl">
               Virtual Platform
             </Link>
         </li>
