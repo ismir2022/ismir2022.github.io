@@ -36,7 +36,7 @@ const Participants = () => {
             <li>Participants are requested to follow state and local requirements and recommendations related to travel</li>
             <li>Participants agree to assume any health risks related to their attendance</li>
           </ul>
-          <p className="text-lg">Masks and necessary sanitizers for use by participants will be available at the conference venue. Should a participant needs to get tested for COVID-19, we will facilitate their RT-PCR or Rapid Antigen COVID-19 tests through trusted partners at the conference venue or the hotels where the participant is staying.</p>
+          <p className="text-lg">Masks and necessary sanitizers for use by participants will be available at the conference venue. Should a participant needs to get tested for COVID-19, we will facilitate their RT-PCR or Rapid Antigen COVID-19 tests through trusted partners at the conference venue or the hotel/guest house where the participant is staying.</p>
           <p className="text-lg">We seek your co-operation to comply with above guidelines to reduce the risk of incidence and spread of COVID-19 during ISMIR 2022 and maintain a safe and healthy environment for all participants of the conference.</p>
         </div>
         <div className="space-y-3">
