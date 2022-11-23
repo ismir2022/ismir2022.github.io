@@ -56,7 +56,7 @@ const Mmmt = () =>
       <div className="space-y-3">
         <p className="text-xl text-[#d83616] font-bold">December 2-3, 2022</p>
         <p className="text-xl font-bold">
-          Venue: Golden Jubilee Hall, Dept. of Electrical Communication Engineering, Indian Institute of Science (IISc), Bengaluru
+          Venue: Golden Jubilee Hall, Dept. of ECE, Indian Institute of Science (IISc), Bengaluru (Hybrid)
         </p>
         <p className="text-lg font-bold">Time: 9:30am - 5:00pm IST</p>
         <p className="text-lg font-bold">
