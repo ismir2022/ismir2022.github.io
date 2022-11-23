@@ -7,7 +7,14 @@ const Participants = () => {
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
           Instructions for Participants
         </h1>
-    
+        <div className="space-y-3">
+          <p className="text-2xl font-bold">General Instructions to Participants</p>
+          <p className="text-lg">Coming soon </p>          
+        </div>
+        <div className="space-y-3">
+          <p className="text-2xl font-bold">How to make the best use of "Hybrid" ISMIR 2022</p>
+          <p className="text-lg">Coming soon </p>          
+        </div>
         <div className="space-y-3">
           <p className="text-2xl font-bold">COVID-19 related guidelines for in-person participants</p>
           <p className="text-lg"> Though local government regulations have relaxed COVID-19 related restrictions 
@@ -29,13 +36,11 @@ const Participants = () => {
             <li>Participants are requested to follow state and local requirements and recommendations related to travel</li>
             <li>Participants agree to assume any health risks related to their attendance</li>
           </ul>
-          <p>Masks and necessary sanitizers for use by participants will be available at the conference venue. Should a participant needs to get tested for COVID-19, we will facilitate their RT-PCR or Rapid Antigen COVID-19 tests through trusted partners at the conference venue or the hotels where the participant is staying.</p>
-          <p>We seek your co-operation to comply with above guidelines to reduce the risk of incidence and spread of COVID-19 during ISMIR 2022 and maintain a safe and healthy environment for all participants of the conference.</p>
+          <p className="text-lg">Masks and necessary sanitizers for use by participants will be available at the conference venue. Should a participant needs to get tested for COVID-19, we will facilitate their RT-PCR or Rapid Antigen COVID-19 tests through trusted partners at the conference venue or the hotels where the participant is staying.</p>
+          <p className="text-lg">We seek your co-operation to comply with above guidelines to reduce the risk of incidence and spread of COVID-19 during ISMIR 2022 and maintain a safe and healthy environment for all participants of the conference.</p>
         </div>
         <div className="space-y-3">
-         <p className="text-lg">
-           More instructions coming Soon!
-         </p>
+         
         </div>
       </div>
     </div>
