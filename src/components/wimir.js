@@ -104,6 +104,17 @@ const Wimir = () => {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="https://www.bytedance.com/" target="_blank">
+                    <StaticImage
+                      src="../images/sponsors/TikTok_logo.png"
+                      alt="spotify"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      width={200}
+                    />
+                  </a>
+                </div>
               </div>
             </div>
             <div className="flex flex-row flex-wrap"></div>
