@@ -25,14 +25,14 @@ const Special = () => {
 
         <p className="text-xl text-[#d83616] font-bold">Special Session-1: Enhancing music listening with MIR</p>
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 5.00 pm - 6.00 pm</p>
-        <p className="text-lg font-bold">Moderator: </p><p className="text-lg">Xavier Serra</p>
-        <p className="text-lg font-bold">Panelists: </p><p className="text-lg">Anna Gatzioura, Fabien Gouyon, Thomas Lidy, Hugo Rodrigues</p>
+        <p className="text-lg font-bold">Moderator: Xavier Serra</p>
+        <p className="text-lg font-bold">Panelists: Anna Gatzioura, Fabien Gouyon, Thomas Lidy, Hugo Rodrigues</p>
         <p className="text-lg">In this panel we will discuss the research challenges and opportunities related to the development of new MIR technologies and services to support music listening.</p>
         <br></br>
         <p className="text-xl text-[#d83616] font-bold">Special Session-2: Enhancing music creativity with MIR</p>
         <p className="text-lg font-bold">Dec 7, 2022 (Wed), 5.00 pm - 6.00 pm</p>
-        <p className="text-lg font-bold">Moderator: </p><p className="text-lg">Jan Van Balen</p>
-        <p className="text-lg font-bold">Panelists: </p><p className="text-lg">Georgi Dzhambazov, Dorien Herremans, Oriol Nieto, Akira Maezawa, Igor Pereira</p>
+        <p className="text-lg font-bold">Moderator: Jan Van Balen</p>
+        <p className="text-lg font-bold">Panelists: Georgi Dzhambazov, Dorien Herremans, Oriol Nieto, Akira Maezawa, Igor Pereira</p>
         <p className="text-lg">While audio technology has always had an important role in music production, it is now recognised that MIR tools can provide for workflows that enhance music creativity at every stage of the journey. The panel will discuss the possibilities and challenges of this exciting partnership between music computing and creativity.</p>
         <br></br>
 
