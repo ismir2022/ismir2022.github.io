@@ -88,10 +88,14 @@ const Venue = () => {
           <strong>Entry/Exit Gates: </strong>
         </p>
         <p className="text-lg">
-          There are several entry/exit gates to the campus. The closest gate to
+          There are several entry/exit gates to the campus. The preferred gate to access
           NSSC is the J N Tata Auditorium Gate (173) of the campus. Please use this gate to access the conference venue. 
           The guest houses MGH and CVH are best accessed through the Main Gate (175) or the Telephone Exchange Gate (136). 
           CVH is also accessible to pedestrians through the MS Ramaiah College/New BEL Road gate (179).
+        </p>
+        <p className="text-lg" font-bold>
+            Note: Due to some road contructions around the university campus, the Circle Maramma Gate (170) is temporarily closed for vehicular traffic 
+            and the Main Gate (175) is accessible only from the West. 
         </p>
 
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
