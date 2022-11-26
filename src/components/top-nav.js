@@ -24,6 +24,12 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           tabindex="0"
           class="dropdown-content mt-3 p-2 bg-white shadow-lg rounded-box w-72"
         >
+          <li tabindex="0" className="collapse">
+            <Link to="https://ismir2022program.ismir.net" className="text-lg collapse-title font-medium">
+              Virtual Platform
+            </Link>
+          </li>
+  
           <li tabindex="0" className="collapse collapse-arrow focus:text-black">
             <input type="checkbox" />
             <div class="collapse-title text-lg font-medium">Calls</div>
@@ -265,8 +271,13 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
     </div>
     <div class="navbar-center hidden lg:flex text-[#d83616]">
       <ul class="menu menu-horizontal p-0">
+        <li tabindex="0">
+            <Link to="https://ismir2022program.ismir.net" className="active:bg-[#d83616] text-xl">
+              Virtual Platform
+            </Link>
+        </li>
         <li tabindex="0 ">
-          <a className="active:bg-[#d83616] text-2xl">
+          <a className="active:bg-[#d83616] text-xl">
             Calls
             <svg
               class="fill-current"
@@ -309,7 +320,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           </ul>
         </li>
         <li tabindex="0">
-          <a className="active:bg-[#d83616] text-2xl">
+          <a className="active:bg-[#d83616] text-xl">
             Program
             <svg
               class="fill-current"
@@ -401,7 +412,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           </ul>
         </li>
         <li tabindex="0">
-          <a className="active:bg-[#d83616] text-2xl">
+          <a className="active:bg-[#d83616] text-xl">
             Attend
             <svg
               class="fill-current"
@@ -489,13 +500,13 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
         <li>
           <Link
             to="/sponsors"
-            className="text-2xl active:bg-[#d83616]  collapse-title"
+            className="text-xl active:bg-[#d83616]  collapse-title"
           >
             Sponsors
           </Link>
         </li>
         <li tabindex="0">
-          <a className="active:bg-[#d83616] text-2xl">
+          <a className="active:bg-[#d83616] text-xl">
             Diversity & Inclusion
             <svg
               class="fill-current"
@@ -529,7 +540,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           </ul>
         </li>
         <li tabindex="0">
-          <a className="active:bg-[#d83616] text-2xl">
+          <a className="active:bg-[#d83616] text-xl">
             About
             <svg
               class="fill-current"
@@ -552,7 +563,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
           </ul>
         </li>
         <li>
-          <Link to="/contact" className="active:bg-[#d83616] text-2xl">
+          <Link to="/contact" className="active:bg-[#d83616] text-xl">
             Contact
           </Link>
         </li>

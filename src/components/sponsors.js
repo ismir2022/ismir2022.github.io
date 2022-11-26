@@ -124,6 +124,16 @@ const Sponsors = () => {
                   />
                 </a>
               </div>
+              <div>
+                <a href="https://bytedance.com/" target="_blank">
+                  <StaticImage
+                    src="../images/sponsors/TikTok_logo.png"
+                    placeholder="blurred"
+                    objectFit="contain"
+                    width={200}
+                  />
+                </a>
+              </div>
             </div>
           </div>
           <div className="flex flex-row flex-wrap"></div>

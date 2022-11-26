@@ -362,7 +362,7 @@ const Team = () => {
           </div>
         </div>
         <div>
-          <h1 className="text-2xl font-bold">Local Organization</h1>
+          <h1 className="text-2xl font-bold">Local Organization, Technology and Virtual Platform</h1>
           <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32 p-10">
             <div className="flex-col flex items-center justify-center space-y-3 md:w-[130px]">
               <div class="avatar">
@@ -393,6 +393,20 @@ const Team = () => {
                 </div>
               </div>
               <p className="text-md font-medium">Sharath Adavanne</p>
+            </div>
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <div class="avatar">
+                <div class="w-25 rounded-full">
+                  <StaticImage
+                    src="../images/team/swapnil-gupta.jpeg"
+                    objectFit="contain"
+                    placeholder="blurred"
+                    height={130}
+                    width={130}
+                  />
+                </div>
+              </div>
+              <p className="text-md font-medium">Swapnil Gupta</p>
             </div>
           </div>
         </div>
@@ -459,27 +473,6 @@ const Team = () => {
                 </div>
               </div>
               <p className="text-md font-medium">Vishnu Srinivasa Murthy</p>
-            </div>
-          </div>
-        </div>
-        <div>
-          <h1 className="text-2xl font-bold">
-            Technology and Virtual Platform Chair
-          </h1>
-          <div className="flex  md:flex-row flex-col flex-wrap gap-x-10 gap-y-5 md:gap-x-32  p-10 ">
-            <div className="flex-col flex items-center justify-center space-y-3">
-              <div class="avatar">
-                <div class="w-25 rounded-full">
-                  <StaticImage
-                    src="../images/team/swapnil-gupta.jpeg"
-                    objectFit="contain"
-                    placeholder="blurred"
-                    height={130}
-                    width={130}
-                  />
-                </div>
-              </div>
-              <p className="text-md font-medium">Swapnil Gupta</p>
             </div>
           </div>
         </div>
@@ -1189,6 +1182,90 @@ const Team = () => {
                   Bombay, in the Department of Electrical Engineering and Centre for Machine Intelligence 
                   and Data Science. I am interested in signal processing and machine learning. I am also 
                   a music enthusiast and am interested in exploring the applications of signal and ML techniques to music.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/YuxiQiao.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Yuxi Qiao</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a masters student at Music Technology Group (MTG) of the Universitat Pompeu Fabra, Barcelona. My research interests lie in music emotion recognition. I'm glad to be a part of the event, and very happy to be helping out.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Oguz_Araz.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Recep Oğuz Araz</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  His interests lie in the fields of Speech and Music, with a focus on the area spanned by Signal Processing, Machine Learning and DJing. He is a second year Sound and Music Computing Masters student at UPF, Barcelona.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Adithi-Shankar.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Adithi Shankar</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I am a Master's student at UPF Barcelona. I play the Saraswati Veena and my interests lie in the area of source separation and vocal pitch extraction for Carnatic Music. Really happy to be a part of this event.
+                </p>
+              </div>
+            </div>
+            <div className="flex flex-col md:flex-row md:gap-x-20 gap-x-20 items-center gap-y-5">
+              <div className="flex-col flex items-left space-y-3">
+                <div class="avatar">
+                  <div class="md:w-[90px] rounded-full">
+                    <StaticImage
+                      src="../images/volunteers/Dilip-Harish.png"
+                      objectFit="contain"
+                      placeholder="blurred"
+                      height={120}
+                      width={120}
+                    />
+                  </div>
+                </div>
+                <p className="text-md font-medium text-center">Dilip Harish</p>
+              </div>
+              <div>
+                <p className="text-md break-word">
+                  I’m currently pursuing my master’s at the University of Pompeu Fabra in Sound and music computing. I’m passionate out making music and audio technologies more accessible. I am a hobby guitarist and i’ve been learning vocals in Carnatic music for the past couple of years.
                 </p>
               </div>
             </div>
