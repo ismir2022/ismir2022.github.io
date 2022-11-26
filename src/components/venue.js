@@ -94,7 +94,7 @@ const Venue = () => {
           CVH is also accessible to pedestrians through the MS Ramaiah College/New BEL Road gate (179).
         </p>
         <p className="text-lg" font-bold>
-            Note: Due to some road contructions around the university campus, the Circle Maramma Gate (170) is temporarily closed for vehicular traffic 
+            Note: Due to some road constructions around the university campus, the Circle Maramma Gate (170) is temporarily closed for vehicular traffic 
             and the Main Gate (175) is accessible only from the West. 
         </p>
 
