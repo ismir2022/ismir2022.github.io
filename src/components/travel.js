@@ -52,14 +52,17 @@ const Travel = () => {
         <p className="text-lg">
           We request you to periodically check COVID-19 related travel guidelines, restrictions and rules 
           for your travel to India and to Bengaluru. There might be COVID-19 testing, vaccination and self-registration 
-          requirements for your travel. We request you to refer to latest guidelines for International and Domestic
+          requirements for your travel. 
+          <s>We request you to refer to latest guidelines for International and Domestic
           travellers at {" "}
             <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/covid19" target="_blank"> 
               https://www.newdelhiairport.in/covid19 
-            </a></span> and register before traveling on the {" "}
-            <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/airsuvidha/apho-registration" target="_blank"> 
-              Air Suvidha 
-            </a></span> portal. 
+            </a></span> and register before traveling on the Air Suvidha portal</s>
+            As per the latest <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/airsuvidha/apho-registration" target="_blank"> 
+              "Guidelines for International Arrivals"</a></span> issued by the 
+              <span className="text-[#d83616] "><a href="https://www.mohfw.gov.in/" target="_blank"> 
+              Ministry of Health and Family Welfare</a></span>, Govt. of India on 21st November, 2022, filling up the form Air Suvidha portal is no longer necessary 
+              before traveling to India. 
         </p>
       </div>
       <div className="space-y-3">
