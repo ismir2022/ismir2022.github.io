@@ -577,11 +577,11 @@ const Mmmt = () =>
             <tbody>
               <tr className="">
                 <th className="bg-gray-400" >CATEGORY</th>
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-gray-400" colSpan={2}>
                   Prices in INR, exclusive of 18% GST
                 </th>
                 {/* <td bgcolor="#f2f3f4" rowspan="27" width="0.1"></td> */}
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-gray-400" colSpan={2}>
                   Prices in INR, inclusive of 18% GST
                 </th>
               </tr>
@@ -589,36 +589,36 @@ const Mmmt = () =>
                 <th className="bg-gray-300" rowSpan={2} />
                 <th className="bg-gray-300">Early Bird</th>
                 <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                {/* <th className="bg-gray-300">On-site</th> */}
                 <th className="bg-gray-300">Early Bird</th>
                 <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                {/* <th className="bg-gray-300">On-site</th> */}
               </tr>
               <tr className="">
                 <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 1 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-gray-300">Sep 1 - Nov 26</th>
+                {/* <th className="bg-gray-300">Dec 02 - 03</th> */}
                 <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 1 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-gray-300">Sep 1 - Nov 26</th>
+                {/* <th className="bg-gray-300">Dec 02 - 03</th> */}
               </tr>
               <tr className="">
                 <td className="bg-white">Student (In-person or virtual)</td>
                 <td className="bg-white">₹1,000</td>
                 <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,000</td>
+                {/* <td className="bg-white">₹1,000</td> */}
                 <td className="bg-white">₹1,180</td>
                 <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,180</td>
+                {/* <td className="bg-white">₹1,180</td> */}
               </tr>
               <tr className="">
                 <td className="bg-white">Full (In-person or virtual)</td>
                 <td className="bg-white">₹2,200</td>
                 <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,200</td>
+                {/* <td className="bg-white">₹2,200</td> */}
                 <td className="bg-white">₹2,596</td>
                 <td className="bg-white">₹2,596</td>
-                <td className="bg-white">₹2,596</td>
+                {/* <td className="bg-white">₹2,596</td> */}
               </tr>
             </tbody>
           </table>
@@ -658,7 +658,7 @@ const Mmmt = () =>
           </li>
           <li>
             All deadlines mentioned above are in AoE time zone (UTC-12:00,
-            IST-17:30), except on-site registration.
+            IST-17:30).
           </li>
           <li>
             Approximately, 1 USD = 79 INR, 1 EUR = 80 INR, 100 JPY = 58 INR.
