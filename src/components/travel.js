@@ -51,18 +51,20 @@ const Travel = () => {
         <p className="text-2xl font-bold">COVID-19 related travel guidelines</p>
         <p className="text-lg">
           We request you to periodically check COVID-19 related travel guidelines, restrictions and rules 
-          for your travel to India and to Bengaluru. There might be COVID-19 testing, vaccination and self-registration 
-          requirements for your travel. 
-          <s>We request you to refer to latest guidelines for International and Domestic
+          for your travel to India and to Bengaluru. <s>There might be COVID-19 testing, vaccination and self-registration 
+          requirements for your travel. We request you to refer to latest guidelines for International and Domestic
           travellers at {" "}
             <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/covid19" target="_blank"> 
               https://www.newdelhiairport.in/covid19 
-            </a></span> and register before traveling on the Air Suvidha portal</s>
-            As per the latest <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/airsuvidha/apho-registration" target="_blank"> 
-              "Guidelines for International Arrivals"</a></span> issued by the 
-              <span className="text-[#d83616] "><a href="https://www.mohfw.gov.in/" target="_blank"> 
-              Ministry of Health and Family Welfare</a></span>, Govt. of India on 21st November, 2022, filling up the form Air Suvidha portal is no longer necessary 
-              before traveling to India. 
+            </a></span> and register before traveling on the Air Suvidha portal.</s>
+            {" "}As per the latest <span className="text-[#d83616] "><a href="https://www.newdelhiairport.in/airsuvidha/apho-registration" target="_blank"> 
+              "Guidelines for International Arrivals"</a></span>{" "}issued by the 
+              <span className="text-[#d83616] "><a href="https://www.mohfw.gov.in/" target="_blank">{" "} 
+              Ministry of Health and Family Welfare (MoHFW)</a></span>, Govt. of India on 21st November, 2022, Ministry of Civil Aviation (MoCA) has issued 
+              <span className="text-[#d83616] "><a href="https://twitter.com/MoCA_GoI/status/1594729972308283392" target="_blank"> 
+              official communication</a></span>{" "} that self-registration on the Air Suvidha portal is no longer necessary 
+              before traveling to India. The testing and vaccination requirements have also been relaxed - we request you to 
+              kindly refer to the official communication from MoHFW and MoCA, Govt. of India.
         </p>
       </div>
       <div className="space-y-3">
