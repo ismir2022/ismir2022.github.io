@@ -80,15 +80,69 @@ const Participants = () => {
         <p className="text-lg">We present instructions for each session of the conference below and describe how each session will be conducted:</p>
         <div className="space-y-3">
           <p className="text-xl font-bold">Tutorials</p>
+          <p className="text-lg">
+              Tutorial sessions are hybrid, with some attendees and speakers present at the venue and rest are remote. 
+              We have made the tutorial sessions longer this year to allow for more interaction given the hybrid mode. 
+              The participants who have registered for tutorials will be added to private tutorial slack channels for 
+              each tutorial. Participants attending tutorials in-person can use the symbols on their badges to access 
+              the right tutorial room at the venue. Lunch on 04 Dec, 2022 is included for those attending the tutorials in-person.
+          </p>
           <p className="text-xl font-bold">Paper Sessions</p>
+              <p className="text-lg"> Each paper session starts with a sequence of live presentations (or presentation video 
+                  playback for remote presenters) of all the papers assigned to that session. All sessions (except Paper session-7) 
+                  start with a 10-minute presentation by an award nominated paper (marked with an asterisk in the detailed schedule), 
+                    followed by 4-minute presentations for other papers in the session. Following this activity, in-person 
+                  attendees will be able to physically visit all the posters set up by the in-person presenters in the poster 
+                  area. The posters will be displayed on poster boards with the presenters available for immediate interaction. 
+                  Posters by remote presenters will be displayed on a screen in the poster venue (as a slideshow). The 
+                  interaction with virtual presenters is asynchronous via the corresponding paper’s slack channel. There 
+                  will be no live Q&A for paper presentations. 
+              </p>
+              <p className="text-lg"> All paper and poster PDFs, as well as presentation video (4 min), irrespective of 
+                 whether the presenters are in-person or remote, are available online on the conference virtual platform Miniconf. 
+                 Each paper will have a dedicated slack channel. Both in-person and remote attendees can ask asynchronous 
+                 questions to remote or in-person presenters via the paper’s slack channel. We strongly encourage sending 
+                 questions by recording a short video to make it interactive! When possible, we also encourage virtual attendees 
+                 to post questions before the physical poster sessions to allow authors to respond (by recording a short video) 
+                 during their session. 
+              </p>
           <p className="text-xl font-bold">Keynotes, WiMIR plenary session and Special sessions</p>
+              <p className="text-lg"> The plenary sessions are panels in hybrid mode with some speakers remote and others physically 
+                 present in the auditorium. Physical attendees can interact directly while remote attendees can watch the live stream 
+                 and interact with the speakers in the provided Zoom meeting room. We will make the sessions interactive to the extent 
+                 possible and have live Q&A during the session. 
+              </p>
           <p className="text-xl font-bold">Online Special Sessions</p>
+              <p className="text-lg"> These special sessions are fully online and interactive. The meeting links will be announced on 
+                 the virtual platform (Slack) to all registered attendees. The Zoom meeting will be open 30 min before the session starts. 
+                 All participants are encouraged to join the sessions and participate in discussions. 
+              </p>
           <p className="text-xl font-bold">ISMIR music program</p>
+              <p className="text-lg"> Some of the pieces of the ISMIR music program will be presented live at the venue, while 
+                 the remaining ones will be a playback of a pre-recorded video. The complete session will be livestreamed and 
+                 recorded for offline watching for participants.
+              </p>
           <p className="text-xl font-bold">Late-breaking/Demo (LBD)</p>
+              <p className="text-lg"> LBD presentations are split into an in-person session and a virtual session. Each LBD 
+                 extended abstract will have a dedicated slack channel on the virtual platform and will have the abstract 
+                 and poster/video on MiniConf. Both in-person and remote attendees can ask asynchronous questions to remote 
+                 or in-person presenters via the slack channel. 
+              </p>
+              <ul className="list-disc text-lg list-inside">
+                <li>Physical session: The LBD posters by in-person attendees will be presented during this session at the venue. 
+                Virtual presenters can choose to remain online to interact with any interested participants.</li>
+                <li>Virtual/Remote session:  Remote presenters can use the huddle feature on each LBD extended abstract slack channel 
+                to present their LBD posters on a video call. (Huddle supports up to 50 simultaneous participants).</li>
+              </ul>
           <p className="text-xl font-bold">Social Program</p>
+              <p className="text-lg"> The cultural and music events performed at the conference venue will not be live-streamed, 
+                however the ISMIR music concert and Dhaatu puppet theater events will be recorded and made available for 
+                  offline viewing of conference participants. 
+              </p>
         </div>
         <div className="space-y-3">
           <p className="text-2xl font-bold">Virtual Platform Instructions</p>
+          
           <p className="text-lg"> ISMIR 2022 will be accessible to remote participants through a combination of Slack, Zoom and Miniconf. </p>
           <p className="text-xl font-bold">MiniConf</p>
           <p className="text-xl font-bold">Slack</p>
