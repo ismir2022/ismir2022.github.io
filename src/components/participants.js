@@ -205,8 +205,14 @@ const Participants = () => {
                       slack workspace, use MiniConf to explore the sessions and presentations at ISMIR 2022 and opt-in 
                         to follow their respective slack channels for asynchronous discussions about them.  </p> 
           <p className="text-xl font-bold">Support</p>
-               <p className="text-lg"> In case of queries, write to ismir2022-tech@ismir.net by email. If you are 
-                      already on slack, ask your question on the Helpdesk channel of slack: #tech-help</p> 
+               <p className="text-lg"> In case of queries, write to{" "}
+                      <span className="text-[#d83616]">
+                <a href="mailto:ismir2022-tech@ismir.net" target="_blank">
+                 ismir2022-tech@ismir.net
+                </a></span>{" "} by email. If you are 
+                      already on slack, ask your question on the Helpdesk channel of slack:{" "}<span className="text-[#d83616] font-bold">
+                            <a href="https://ismir2022program.slack.com/archives/C04C3C4UN0P" target="_blank">
+                           #tech-help </a></span></p>
         </div>
         <div className="space-y-3">
           <p className="text-lg">Finally, a conference can provide enriching experiences in terms of learning about a field, 
