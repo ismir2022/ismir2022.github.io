@@ -32,16 +32,16 @@ const Participants = () => {
                 <a href="https://ismir2022program.ismir.net/" target="_blank">
                  MiniConf
                 </a>
-                </span>: is a publicly available archive of the entire conference program. MiniConf will put together and help 
+                </span> is a publicly available archive of the entire conference program. MiniConf will put together and help 
                             navigate through the schedule, papers, tutorials and information about all sessions. MiniConf will 
                             continue to be available and maintained after the conference and will serve as the official 
                             archive of the conference.
             </li>
-            <li><span className="text-[#d83616] font-bold">
+            <li>Slack: The {" "}<span className="text-[#d83616] font-bold">
                 <a href="https://ismir2022program.slack.com/" target="_blank">
-                 Slack
+                 Conference Slack workspace
                 </a>
-                </span>: The Conference Slack workspace will be the primary tool for interaction between participants. 
+                </span>{" "} will be the primary tool for interaction between participants. 
                 The conference Slack workspace will be available from 27 Nov, 2022 to 19 Dec, 2022 to facilitate 
                 any post-conference interactions between participants. The Slack workspace will support asynchronous 
                 interactions between participants as well as group huddles. All information that should be available 
@@ -142,13 +142,71 @@ const Participants = () => {
         </div>
         <div className="space-y-3">
           <p className="text-2xl font-bold">Virtual Platform Instructions</p>
-          
           <p className="text-lg"> ISMIR 2022 will be accessible to remote participants through a combination of Slack, Zoom and Miniconf. </p>
           <p className="text-xl font-bold">MiniConf</p>
+               <p className="text-lg"> MiniConf is a publicly available archive of the entire conference program. MiniConf 
+                      will put together and help navigate through the schedule, papers, tutorials and information about all 
+                      sessions. For all kinds of interaction on the individual sessions or tutorials/papers/music/LBD items, the 
+                      respective MiniConf page will redirect you to the corresponding Slack channels, details of which are discussed next.</p>      
           <p className="text-xl font-bold">Slack</p>
+               <p className="text-lg"> 
+                 <span className="text-[#d83616] font-bold">
+                <a href="https://ismir2022program.slack.com/" target="_blank">
+                 Conference Slack workspace
+                </a>
+                </span>{" "} will be the primary tool for 
+                   interaction between participants. The Slack workspace will support asynchronous interactions 
+                   between participants as well as group huddles (video calls) with screen share option.</p> 
+                      
+                <ul className="list-disc text-lg list-inside">
+                  <li>All registered authors will be added to their respective paper/music/lbd slack channels by default.
+                      <ul className="list-disc text-lg list-inside">
+                        <li>The paper channels have the following naming format: p&lt;session-number-&lt;position&gt;-&lt;first-author-last-name-in-lowercase&gt;, 
+                          e.g. if a paper session is in session 3 and it’s position in the session is 5 and author last name is Kumar, 
+                          then the slack channel would p3-05-kumar.</li>
+                        <li>The music submission channels have the format m-&lt;slot-number&gt;, e.g. the sixth music piece in ISMIR music program 
+                            will have a channel name m-6.</li>
+                        <li>The LBD extended abstract slack channels will have a channel name &lt;lp/lv&gt;-&lt;ID&gt;-&lt;first-author-last-name-in-lowercase&gt;, 
+                        where “lp” and “lv” stand for physical and virtual LBD session, respectively. </li>
+                      </ul>
+                  </li>
+                  <li> All the six tutorial channels will be private, registered participants will be automatically added to 
+                      the respective tutorial channels that they have registered for. Slack channel is named as “t&lt;x&gt;-&lt;m/a&gt;”, where 
+                      x is the tutorial number and m/a refer to morning or afternoon session, e.g. if the tutorial is T1(M): An 
+                      Introduction to Symbolic Music Processing in Python with Partitura, then the slack channel name would be t1-m. 
+                      Only users registered for a specific tutorial session will have access to the respective channel.
+                  </li>
+                  <li>Non-author participants are not added to any of the paper/music/lbd slack channels by default. 
+                      They will only be added by default to:
+                      <ul className="list-disc text-lg list-inside">
+                        <li><span className="text-[#d83616] font-bold">
+                            <a href="https://ismir2022program.slack.com/archives/C04BX8ZLUJY" target="_blank">
+                           #general </a></span>{" "}channel: a read-only channel, used by organizers for broadcasting updates and messages. 
+                           Participants can only reply to the broadcasted thread, and cannot post their own message.</li>
+                      <li><span className="text-[#d83616] font-bold">
+                            <a href="https://ismir2022program.slack.com/archives/C04C3C4UN0P" target="_blank">
+                           #tech-help </a></span>{" "} channel: use this for seeking any kind of tech support from the organizers.</li>
+                        <li>Tutorial channels they have registered for, and </li>
+                        <li>Sponsors' channels</li>
+                      </ul>
+                  </li>
+                  <li> Participants who are interested in a certain tutorial/paper/music/lbd item will browse for them using MiniConf, and 
+                      navigate to the corresponding Slack channels, and opt to follow them.
+                  </li>
+                  <li> Participants are free to create smaller groups and channels amongst themselves for networking and private discussions. </li>
+                </ul>
           <p className="text-xl font-bold">Zoom</p>
+               <p className="text-lg"> The conference sessions will be livestreamed on Zoom meetings. If you have signed up for a tutorial, you 
+                      will find the zoom link pinned to the respective tutorial channel. For the rest of the conference, you will find the zoom link pinned 
+                      in the #general channel of the slack. </p> 
           <p className="text-xl font-bold">Onboarding</p>
+               <p className="text-lg">You will receive a link to join the conference Slack workspace by 27th November (AoE). This 
+                      link will be sent to the email you have used to register for the conference. Once you join the 
+                      slack workspace, use MiniConf to explore the sessions and presentations at ISMIR 2022 and opt-in 
+                        to follow their respective slack channels for asynchronous discussions about them.  </p> 
           <p className="text-xl font-bold">Support</p>
+               <p className="text-lg"> In case of queries, write to ismir2022-tech@ismir.net by email. If you are 
+                      already on slack, ask your question on the Helpdesk channel of slack: #tech-help</p> 
         </div>
         <div className="space-y-3">
           <p className="text-lg">Finally, a conference can provide enriching experiences in terms of learning about a field, 
