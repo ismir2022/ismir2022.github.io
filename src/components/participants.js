@@ -26,9 +26,56 @@ const Participants = () => {
         <div className="space-y-3">
           <p className="text-2xl font-bold">General Guidelines</p>
           <p className="text-xl font-bold">Hybrid Event</p>
+          <p className="text-lg">The Hybrid event will be conducted with a combination of live sessions at the venue and a virtual platform. The virtual platform of the conference will consist of:</p>
+          <ul className="list-disc text-lg list-inside">
+            <li><span className="text-[#d83616] font-bold">
+                <a href="https://ismir2022program.ismir.net/" target="_blank">
+                 MiniConf
+                </a>
+                </span>: is a publicly available archive of the entire conference program. MiniConf will put together and help 
+                            navigate through the schedule, papers, tutorials and information about all sessions. MiniConf will 
+                            continue to be available and maintained after the conference and will serve as the official 
+                            archive of the conference.
+            </li>
+            <li><span className="text-[#d83616] font-bold">
+                <a href="https://ismir2022program.slack.com/" target="_blank">
+                 Slack
+                </a>
+                </span>: The Conference Slack workspace will be the primary tool for interaction between participants. 
+                The conference Slack workspace will be available from 27 Nov, 2022 to 19 Dec, 2022 to facilitate 
+                any post-conference interactions between participants. The Slack workspace will support asynchronous 
+                interactions between participants as well as group huddles. All information that should be available 
+                only with registered participants will be shared on the Slack workspace. 
+            </li>
+            <li><span className="font-bold">Zoom:</span>{" "} The conference sessions will be livestreamed on Zoom. 
+                We will use Zoom meetings in the conference, which ensures a two-way communication is possible and 
+                allows remote participants to interact (on video with audio) with the live audience. 
+            </li>
+          </ul>
           <p className="text-xl font-bold">Inclusive Hybrid mode</p>
+          <p className="text-lg">
+            Given that the conference is hybrid with a large portion of participants attending the conference remotely, 
+              the conference aims to be inclusive to all participants, especially to remote attendees during the conference.
+              When possible, we will first seek questions/comments from remote attendees during plenary sessions, given that 
+              in-person attendees will have the opportunity to meet with the speakers at the venue for further questions. 
+              We request all participants to be considerate about remote attendees’ time zone differences while engaging 
+              with them via asynchronous interaction. We request participants to make efforts to include any remote attendees 
+              who are desirous of participating in any discussions during the conference. 
+          </p>
           <p className="text-xl font-bold">Recording and Archival</p>
+          <p className="text-lg">
+            All sessions of the scientific program (tutorials, paper presentations, all plenary sessions, opening, closing sessions and ISMIR music program) 
+            will be recorded and made available on conference slack for offline viewing. The recordings will be available to registered conference 
+            participants until 19 Dec 2022. 
+          </p>
           <p className="text-xl font-bold">Additional guidelines for remote attendees</p>
+          <ul className="list-disc text-lg list-inside">
+            <li>Please make sure you mute yourself while not speaking during a session.</li>
+            <li>We encourage you to switch on video when you ask questions.</li>
+            <li>Though the conference is hybrid, a majority of events happen during the day time in India. 
+              While we understand the timezone might not be convenient for all attendees, we encourage you to 
+              participate live in all sessions of the conference for the best experience.</li>
+          </ul>
         </div>
         <p className="text-lg">We present instructions for each session of the conference below and describe how each session will be conducted:</p>
         <div className="space-y-3">
