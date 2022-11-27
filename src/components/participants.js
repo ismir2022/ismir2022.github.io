@@ -161,7 +161,7 @@ const Participants = () => {
                 <ul className="list-disc text-lg list-inside">
                   <li>All registered authors will be added to their respective paper/music/lbd slack channels by default.
                       <ul className="list-disc text-lg list-inside">
-                        <li>The paper channels have the following naming format: p&lt;session-number-&lt;position&gt;-&lt;first-author-last-name-in-lowercase&gt;, 
+                        <li>The paper channels have the following naming format: p&lt;session-number&gt;-&lt;position&gt;-&lt;first-author-last-name-in-lowercase&gt;, 
                           e.g. if a paper session is in session 3 and it’s position in the session is 5 and author last name is Kumar, 
                           then the slack channel would p3-05-kumar.</li>
                         <li>The music submission channels have the format m-&lt;slot-number&gt;, e.g. the sixth music piece in ISMIR music program 
