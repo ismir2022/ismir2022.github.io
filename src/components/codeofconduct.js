@@ -135,7 +135,7 @@ const Coc = () => {
           are only for their viewing and cannot be shared further without the express consent of conference organizers 
           and participants involved in the recordings. 
         </p>
-        <p>
+        <p className="text-lg">
           Providing access to the virtual conference platform or sharing Zoom meeting links with people who have 
           not registered for the conference without the express consent of the conference organizers is prohibited. 
         </p>
