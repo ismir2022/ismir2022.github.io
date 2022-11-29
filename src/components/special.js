@@ -21,7 +21,7 @@ const Special = () => {
         <p className="text-lg">
             In the WiMIR plenary session, we invited few women researchers to present their work and share their journey. The panelists will then be available for an open Q&A with the audience.
         </p>
-        <br>
+        <br></br>
 
         <p className="text-lg">
             <b>Panelist:</b> Dr. Xiao Hu
@@ -29,7 +29,7 @@ const Special = () => {
             <b>Abstract:</b> In this session, I will briefly introduce our recent and ongoing research in the Cultural Computing and Multimodal Information Research (CCMIR) group in the University of Hong Kong, on the broad theme of “leveraging the power of music for learning and wellbeing.” Starting from explorations of music usage among real users, our investigation covers three themes: multimodal analysis of user-music interactions in the lab; remote monitoring of user-music interactions in the natural settings; and music recommendations for enhancing learning and wellbeing. Through the series of studies, we aim to broaden the impact of MIR research to related fields such as education, psychology and cognitive science.
             <b>Bio:</b>  Dr. Xiao Hu, is an Associate Professor in the Human Communication, Development and Information Science (CDIS) Academic Unit in the Faculty of Education at the University of Hong Kong. Her main research interests lie in the interactions of technology and human users, including music information retrieval, technology-enhanced learning and wellbeing, and digital cultural heritage. Dr. Hu served as a board member of The International Society for Music Information Retrieval (ISMIR) (2011-2017), a program co-chair for ISMIR 2017 and 2018, and a conference co-chair for ISMIR 2014. Her earlier research focused on music emotion recognition and her studies in recent years have expanded to how music can impact human learning and wellbeing and how to leverage MIR technologies to optimize the positive effects of music.
         </p>
-        <br>
+        <br></br>
 
         <p className="text-lg">
             <b>Panelist:</b> Dr. Emilia Parada-Cabaleiro
@@ -37,7 +37,7 @@ const Special = () => {
             <b>Abstract:</b> Computer Science, Psychology, Engineering, Music Theory, Social Sciences, Statistics: The field of MIR involves researchers from many different disciplines. Although this opens up a wide range of possibilities and research directions in principle, given the large diversity of backgrounds, it is sometimes challenging to comprehend each other's terminology. Moreover, in order to exploit synergies the best way, it is essential to agree upon suitable methods and identify the associated requirements. In this talk, a music therapist and musicologist will share her personal experiences of working in the MIR community. Examples and pitfalls will be discussed, with the goal of laying the foundation for a more fruitful collaboration.
             <b>Bio:</b> Dr. Emilia Parada-Cabaleiro received her PhD in 2017 from the University of Rome Tor Vergata (Italy). Her formal education includes degrees in Music Education, Musicology, and Music Management as well as professional diplomas in Piano Performance and Music Therapy. Currently, she is a University Assistant at the Institute of Computational Perception at the Johannes Kepler University Linz (Austria). Her research, having a particular focus on Affective Computing, explores the use of computational methods to support some of the aforementioned music-related fields.
         </p>
-        <br>
+        <br></br>
 
         <p className="text-lg">
             <b>Panelist:</b> Dr. Chitralekha Gupta
@@ -45,7 +45,7 @@ const Special = () => {
             <b>Abstract:</b> Singing quality assessment refers to the degree to which a particular vocal production meets professional standards of singing excellence. The aim of automated singing quality evaluation is to develop computational techniques for evaluating singing skill in the same way that music experts do. Such methods, therefore, seek to objectively measure musically-relevant perceptual parameters, such an intonation accuracy and rhythm consistency, to provide meaningful feedback to the singers. There have been two broad approaches for automatic singing skill evaluation: reference-dependent and reference-independent. Reference-dependent methods compare a test singing rendition against a template or an ideal singing rendition, while reference-independent methods rely on the inherent characteristics of singing quality, independent of a template singing rendition or song. In this talk, I will present an overview of the field of automatic singing quality evaluation including different quantitative methods applied in both of these approaches, as well as the current challenges and open research questions in this field.
             <b>Bio:</b> Dr. Chitralekha Gupta is a post-doctoral research fellow at the National University of Singapore (NUS). Her research interests lie in the intersection of speech and music, particularly singing voice analysis, applications of ASR in music, and neural audio synthesis. She received her Ph.D. degree from NUS in 2019, her Master's degree from the Indian Institute of Technology Bombay in 2011 and has worked in the software industry for three years. She has been awarded a start-up grant and is the founder of MuSigPro, a music tech company, in Singapore. She received the NUS Dean's Graduate Research Achievement Award 2018, and the Best Student Paper Award in APSIPA 2017. She was a co-captain at MIREX 2020 and has played an active role in the organizing committees of international conferences such as ISMIR 2022 and 2017, ICASSP 2022, and ASRU 2019.
         </p>
-        <br>
+        <br></br>
 
         <p className="text-lg">
             <b>Panelist:</b> Shahar Elisha
