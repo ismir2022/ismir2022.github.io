@@ -321,6 +321,28 @@ const LBD = () => {
           </li>
         </ul>
       </div>
+      <p className="font-bold text-2xl">Travel/Tourism Enquiries</p>
+        <p className="text-lg">
+          For customized tours during your visit, please contact our tourism partner{" "}
+          <span className="text-[#d83616]">
+              <a href="https://www.timtimholidays.com/" target="_blank">
+                Tim-Tim Holidays
+              </a>
+            </span>
+          . Tim-Tim Holidays Pvt. Ltd. (R) is driven by a team of qualified professionals, researchers, musicians and engineers 
+          who have an intense passion towards travel and tourism. The company has collaborated with globally popular tour operators. 
+          They specialize in Bengaluru city tours, Adventure, Wildlife, Road Trips, Classical Music Tours, Classical Dance Tours, Yoga & Wellness Retreats and more. 
+        </p>
+        <p className="text-lg">
+          Please contact them by e-mail at {" "}
+          <span className="text-[#d83616]">
+              <a href="mailto:consult.timtim@gmail.com" target="_blank">
+                consult.timtim@gmail.com
+              </a>
+            </span>
+        {" "} or by phone on +91 974 174 0014. 
+        </p>
+ 
     </div>
   );
 };

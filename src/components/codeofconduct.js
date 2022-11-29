@@ -61,10 +61,6 @@ const Coc = () => {
               </a>
             </span>
           </li>
-          <li>
-            Volunteer team contact (24-hour support): Will be provided closer to
-            the conference
-          </li>
         </ul>
         <p className="text-xl font-bold">The Quick Version</p>
         <p className="text-lg">
@@ -133,8 +129,15 @@ const Coc = () => {
           Privacy Protocols: Screencaptures, Audio and Video recordings
         </p>
         <p className="text-lg">
-          Some scheduled ISMIR 2022 events will be recorded and streamed.
-          Participants will be alerted in the program and at events.
+          Given the hybrid nature of the conference, most of the scientific sessions of ISMIR 2022 events 
+          will be livestreamed and also recorded. Participants will be alerted in the program and at events. 
+          The audio and video recordings of such sessions made available to registered conference participants 
+          are only for their viewing and cannot be shared further without the express consent of conference organizers 
+          and participants involved in the recordings. 
+        </p>
+        <p className="text-lg">
+          Providing access to the virtual conference platform or sharing Zoom meeting links with people who have 
+          not registered for the conference without the express consent of the conference organizers is prohibited. 
         </p>
         <p className="text-lg">
           Do not take audio or video recordings of any ISMIR 2022 activities
@@ -155,15 +158,15 @@ const Coc = () => {
           posters/presentation materials unless explicitly allowed by the
           license terms under which these materials are distributed. All ISMIR
           2022 presentation videos, posters, and papers are freely available on
-          the conference site.
+          the conference site. 
         </p>
         <p className="text-lg">Chat logs can be saved for personal use only.</p>
         <p className="text-lg font-bold">Consequences/Enforcement</p>
         <p className="text-lg">
           If a participant engages in harassing or inappropriate behaviour, the
           conference organisers may take any action they deem appropriate,
-          including warning the offender or expulsion from the conference
-          platforms with no refund.
+          including warning the offender or expulsion from the conference venue and 
+          virtual platforms with no refund.
         </p>
         <p className="text-lg">
           Participants asked to stop any harassing or inappropriate behaviour
