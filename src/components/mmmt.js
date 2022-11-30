@@ -12,6 +12,11 @@ import Peter_Keller from '../images/mmmt/Peter_Keller.jpeg';
 import Martin_Clayton from '../images/mmmt/Martin_Clayton.png';
 import JJ_Aucouturier from '../images/mmmt/Jean-Julien_Aucouturier.png';
 import Suvi_Saarikallio from '../images/mmmt/Suvi_Saarikallio.png'
+import RadhikaG_MaheshK from '../images/mmmt/RadhikaGosavi_MaheshKale.png'
+import twin_health from '../images/mmmt/sponsor.png'
+
+import day_1 from '../images/mmmt/schedule_day1.jpg'
+import day_2 from '../images/mmmt/schedule_day2.jpg'
 
 import poster from '../images/MMMT_poster.pdf';
 
@@ -51,7 +56,7 @@ const Mmmt = () =>
       <div className="space-y-3">
         <p className="text-xl text-[#d83616] font-bold">December 2-3, 2022</p>
         <p className="text-xl font-bold">
-          Venue: Online/Indian Institute of Science (IISc), Bengaluru
+          Venue: Golden Jubilee Hall, Dept. of ECE, Indian Institute of Science (IISc), Bengaluru (Hybrid)
         </p>
         <p className="text-lg font-bold">Time: 9:30am - 5:00pm IST</p>
         <p className="text-lg font-bold">
@@ -454,6 +459,64 @@ const Mmmt = () =>
         </div>
         <br />
         <br />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <p className="text-xl font-bold">Music Education & Technology</p> <br />
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+        </div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex-col flex items-center justify-center space-y-3">
+            <div class="avatar">
+              <img
+                class="myImg"
+                src={RadhikaG_MaheshK}
+                style={{ width: 250 }}
+                onClick={(event) => showModal(event, RadhikaG_MaheshK)}
+              />
+            </div>
+          </div>
+        </div>
+        <br/>
+        <br/>
+        
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+        <h1 className="text-xl font-bold font-size: 50px">Sponsor</h1>
+        </div>
+
+         <div className="flex-col flex items-center justify-center space-y-3">
+            <div class="avatar">
+                <a href="https://www.usa.twinhealth.com/" target="_blank">
+              <img
+                src={twin_health}
+                style={{ width: 250 }}
+              />
+              </a>
+            </div>
+          </div>
         <p className="text-xl font-bold">Schedule</p>
         <p className="text-lg">
           All the talks will take place between 9:30am - 5:00pm IST and can be
@@ -465,7 +528,46 @@ const Mmmt = () =>
           lunch. At the end of the workshop we hope to have an informal get
           together to ring in ISMIR 2022! We look forward to seeing you there!
         </p>
-        <p className="text-xl font-bold">Registration</p>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <div className="flex md:flex-row flex-col flex-wrap gap-x-10 gap-y-10 md:gap-x-32 p-5">
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-lg">
+                <span className="text-gray-500">Day-1 </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={day_1}
+                  style={{ height: 450, width: 350 }}
+                  onClick={(event) => showModal(event, day_1)}
+                />
+              </div>
+            </div>
+            <br />
+            <br />
+            <div className="flex-col flex items-center justify-center space-y-3">
+              <p className="text-lg">
+                <span className="text-gray-500">Day-2 </span>
+              </p>
+              <div class="avatar">
+                <img
+                  class="myImg"
+                  src={day_2}
+                  style={{ height: 450, width: 350 }}
+                  onClick={(event) => showModal(event, day_2)}
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
+      <p className="text-xl font-bold">Registration</p>
         <p className="text-lg">
           The registration fee for the workshop are as follows:
         </p>
@@ -475,11 +577,11 @@ const Mmmt = () =>
             <tbody>
               <tr className="">
                 <th className="bg-gray-400" >CATEGORY</th>
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-gray-400" colSpan={2}>
                   Prices in INR, exclusive of 18% GST
                 </th>
                 {/* <td bgcolor="#f2f3f4" rowspan="27" width="0.1"></td> */}
-                <th className="bg-gray-400" colSpan={3}>
+                <th className="bg-gray-400" colSpan={2}>
                   Prices in INR, inclusive of 18% GST
                 </th>
               </tr>
@@ -487,36 +589,36 @@ const Mmmt = () =>
                 <th className="bg-gray-300" rowSpan={2} />
                 <th className="bg-gray-300">Early Bird</th>
                 <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                {/* <th className="bg-gray-300">On-site</th> */}
                 <th className="bg-gray-300">Early Bird</th>
                 <th className="bg-gray-300">Regular</th>
-                <th className="bg-gray-300">On-site</th>
+                {/* <th className="bg-gray-300">On-site</th> */}
               </tr>
               <tr className="">
                 <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 1 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-gray-300">Sep 1 - Nov 26</th>
+                {/* <th className="bg-gray-300">Dec 02 - 03</th> */}
                 <th className="bg-gray-300">Until Aug 31</th>
-                <th className="bg-gray-300">Sep 1 - Nov 25</th>
-                <th className="bg-gray-300">Dec 02 - 03</th>
+                <th className="bg-gray-300">Sep 1 - Nov 26</th>
+                {/* <th className="bg-gray-300">Dec 02 - 03</th> */}
               </tr>
               <tr className="">
                 <td className="bg-white">Student (In-person or virtual)</td>
                 <td className="bg-white">₹1,000</td>
                 <td className="bg-white">₹1,000</td>
-                <td className="bg-white">₹1,000</td>
+                {/* <td className="bg-white">₹1,000</td> */}
                 <td className="bg-white">₹1,180</td>
                 <td className="bg-white">₹1,180</td>
-                <td className="bg-white">₹1,180</td>
+                {/* <td className="bg-white">₹1,180</td> */}
               </tr>
               <tr className="">
                 <td className="bg-white">Full (In-person or virtual)</td>
                 <td className="bg-white">₹2,200</td>
                 <td className="bg-white">₹2,200</td>
-                <td className="bg-white">₹2,200</td>
+                {/* <td className="bg-white">₹2,200</td> */}
                 <td className="bg-white">₹2,596</td>
                 <td className="bg-white">₹2,596</td>
-                <td className="bg-white">₹2,596</td>
+                {/* <td className="bg-white">₹2,596</td> */}
               </tr>
             </tbody>
           </table>
@@ -556,7 +658,7 @@ const Mmmt = () =>
           </li>
           <li>
             All deadlines mentioned above are in AoE time zone (UTC-12:00,
-            IST-17:30), except on-site registration.
+            IST-17:30).
           </li>
           <li>
             Approximately, 1 USD = 79 INR, 1 EUR = 80 INR, 100 JPY = 58 INR.

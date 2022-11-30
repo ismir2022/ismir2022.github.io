@@ -98,7 +98,7 @@ const Presenters = () => {
   
         <p className="text-lg"> If you wish to use the poster printing service, please fill this <span className="text-[#d83616]"><a href="https://forms.gle/YV1vPNkKrnjwcH4b9" target="_blank">google form</a></span>.</p>
   
-       <p className="text-lg">The request to print your poster should be made by <span className="font-bold text-lg">Nov 20, 2022</span>, Anywhere On Earth (AOE). 
+       <p className="text-lg">The request to print your poster should be made by <span className="font-bold text-lg"><s>Nov 20, 2022</s> Nov 25, 2022</span>, Anywhere On Earth (AOE). 
         Requests made can be cancelled until the same deadline and no cancellation would be possible after the deadline. Please write to <span className="text-[#d83616]"><a href="mailto:ismir2022-registration@ismir.net" target="_blank">
           ismir2022-registration@ismir.net</a></span> for any questions/queries about the poster printing service.</p>
       </div>
