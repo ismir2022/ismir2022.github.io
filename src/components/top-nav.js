@@ -314,7 +314,7 @@ import { StaticImage } from "gatsby-plugin-image"; import * as React from
             </li>
             <li>
               <Link to="/calls/cfm" className="active:bg-[#d83616] text-xl">
-                Call for for Music
+                Call for Music
               </Link>
             </li>
           </ul>
