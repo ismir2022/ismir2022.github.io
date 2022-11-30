@@ -200,7 +200,7 @@ const Sponsors = () => {
                     src="../images/sponsors/UIUC_logo.png"
                     placeholder="blurred"
                     objectFit="contain"
-                    width={125}
+                    width={150}
                   />
                 </a>
               </div>
