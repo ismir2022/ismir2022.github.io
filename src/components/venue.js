@@ -183,8 +183,8 @@ const Venue = () => {
         </p>
         <div className="text-lg place-content-between flex flex-row">
           <div className="text-lg space-y-0">
-            <p className="text-lg">Multimedia Class Room,</p>
-            <p className="text-lg">Dept. of Electrical Engineering, </p>
+            <p className="text-lg">Golden Jubilee Hall,</p>
+            <p className="text-lg">Dept. of Electrical Communication Engineering, </p>
             <p className="text-lg">Indian Institute of Science (IISc),</p>
             <p className="text-lg">Sir C V Raman Avenue, </p>
             <p className="text-lg">Bengaluru, Karnataka 560012 </p>
@@ -192,14 +192,14 @@ const Venue = () => {
           <div className="justify-center items-center">
             <p className="justify-center">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.9548199085507!2d77.56897485231406!3d13.01653834792022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d24e436373%3A0x82e461238095adbd!2sDepartment%20Of%20Electrical%20Engineering!5e0!3m2!1sen!2sin!4v1667638321282!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7615.363384634631!2d77.56501235915349!3d13.021184113215728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d760e5b215%3A0x3c9590030bb511b6!2sDepartment%20of%20Electrical%20Communication%20Engineering!5e0!3m2!1sen!2sin!4v1669905334258!5m2!1sen!2sin"
                 width="300vw"
                 height="300vh"
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
               ></iframe>
-            </p>
+           </p>
           </div>
         </div>
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
