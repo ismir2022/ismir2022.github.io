@@ -116,6 +116,7 @@ const Special = () => {
         <p className="text-xl text-[#d83616] font-bold">Special Session-B (Online): PhD in MIR: Challenges and Opportunities</p>
         <p className="text-lg font-bold">Dec 6, 2022 (Tue), 10.00 pm - 11.15 pm</p>
         <p className="text-lg font-bold">Moderator: Meinard Müller</p>
+        <p className="text-lg font-bold">Panelists: Ching-Yu Chiu, Magdalena Fuentes, Cynthia Liem, Lele Liu, Simon Schwär, Venkatasubramanian Viraraghavan</p>
         <p className="text-lg">
            Music information retrieval (MIR) is an exciting research field related to different disciplines, 
              including signal processing, machine learning, information retrieval, psychology, musicology, 
