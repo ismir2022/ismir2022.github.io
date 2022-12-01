@@ -191,8 +191,15 @@ const Venue = () => {
           </div>
           <div className="justify-center items-center">
             <p className="justify-center">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7615.363384634631!2d77.56501235915349!3d13.021184113215728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d760e5b215%3A0x3c9590030bb511b6!2sDepartment%20of%20Electrical%20Communication%20Engineering!5e0!3m2!1sen!2sin!4v1669905334258!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </p>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7615.363384634631!2d77.56501235915349!3d13.021184113215728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d760e5b215%3A0x3c9590030bb511b6!2sDepartment%20of%20Electrical%20Communication%20Engineering!5e0!3m2!1sen!2sin!4v1669905334258!5m2!1sen!2sin"
+                width="300vw"
+                height="300vh"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+           </p>
           </div>
         </div>
         <h1 className="text-[#d83616] font-bold md:text-3xl text-2xl mt-5">
