@@ -8,6 +8,18 @@ const Highlights = () => {
       </h3>
       <div className="bg-white w-auto md:h-50 overflow-scroll overflow-x-hidden md:overflow-hidden py-5">
         <ul className="text-lg list-disc list-outside mt-2 mx-10 space-y-3">
+         <li>
+            The {" " }
+            <span className="text-[#d83616]">
+              <a
+                href="https://ismir2022.ismir.net/program/schedule"
+                target="_blank"
+              >
+                final schedule
+              </a>
+            </span>
+            {" "} of the conference is now available. 
+          </li> 
           <li>
             For the benefit of our remote attendees, we are organizing three{" "}
            
@@ -16,7 +28,7 @@ const Highlights = () => {
                 href="https://ismir2022.ismir.net/program/special"
                 target="_blank"
               >
-                special virtual-only sessions
+                special online sessions
               </a>
             </span>
             {" "} during the conference. 
