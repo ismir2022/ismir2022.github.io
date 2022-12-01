@@ -24,10 +24,10 @@ const Dates = () => {
               <p className="breakword line-through">August 31, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
-              <p className="w-1/2 breakword">
+              <p className="w-1/2 breakword line-through">
                 Online registration portal closes for in-person attendance
               </p>
-              <p className="breakword">November 25, 2022</p>
+              <p className="breakword line-through">November 25, 2022</p>
             </div>
             <div className="flex flex-row space-x-5">
               <p className="w-1/2 breakword">

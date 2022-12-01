@@ -16,7 +16,7 @@ const Wimir = () => {
         </p>
         <ul className="text-lg list-disc list-inside">
           <li><span className="text-[#d83616]"><a href="https://ismir2022.ismir.net/diversity/mentoring" target="_blank">New-to-ISMIR paper mentoring program</a></span></li>
-          <li>WiMIR plenary session (TBA)</li>
+          <li><span className="text-[#d83616]"><a href="https://ismir2022.ismir.net/program/special" target="_blank">WiMIR plenary session</a></span></li>
           <li><span className="text-[#d83616]"><a href="https://wimir.wordpress.com/" target="_blank">WiMIR workshops</a></span></li>
           <li>D&I waivers & grants</li>
         </ul>

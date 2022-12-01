@@ -194,6 +194,16 @@ const Sponsors = () => {
                   />
                 </a>
               </div>
+              <div>
+                <a href="https://ischool.illinois.edu/" target="_blank">
+                  <StaticImage
+                    src="../images/sponsors/UIUC_logo.png"
+                    placeholder="blurred"
+                    objectFit="contain"
+                    width={150}
+                  />
+                </a>
+              </div>
             </div>
           </div>
 
