@@ -183,8 +183,8 @@ const Venue = () => {
         </p>
         <div className="text-lg place-content-between flex flex-row">
           <div className="text-lg space-y-0">
-            <p className="text-lg">Multimedia Class Room,</p>
-            <p className="text-lg">Dept. of Electrical Engineering, </p>
+            <p className="text-lg">Golden Jubilee Hall,</p>
+            <p className="text-lg">Dept. of Electrical Communication Engineering, </p>
             <p className="text-lg">Indian Institute of Science (IISc),</p>
             <p className="text-lg">Sir C V Raman Avenue, </p>
             <p className="text-lg">Bengaluru, Karnataka 560012 </p>
