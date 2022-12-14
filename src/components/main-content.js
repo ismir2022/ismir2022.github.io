@@ -31,7 +31,69 @@ const MainContent = () => {
         Perception, and Neuromusicology.
       </p>
       <p><br /></p>
+    <div className="flex flex-col gap-5">
+      <h3 className="font-bold text-xl md:text-2xl md:text-left text-center">
+        Awards
+      </h3>
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Brave New Idea Award
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Sonus Texere! Automated Dense Soundtrack Construction for Books using Movie Adaptations</strong></dt>
+      <dd>Jaidev Shriram, Makarand Tapaswi, Vinoo Alluri</dd>
+      </div>
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Best Special Call Paper Award
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Raga Classification From Vocal Performances Using Multimodal Analysis</strong></dt>
+      <dd>Martin Clayton, Preeti Rao, Nithya Nadig Shikarpur, Sujoy Roychowdhury, Jin Li</dd>
+      </div>
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Best Student Paper Award
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Traces of Globalization in Online Music Consumption Patterns and Results of Recommendation Algorithms</strong></dt>
+      <dd>Oleg Lesota, Emilia Parada-Cabaleiro, Elisabeth Lex, Navid Rekabsaz, Stefan Brandl, Markus Schedl</dd>
+      </div>
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Best Paper Award
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Performance MIDI-to-score conversion by neural beat tracking</strong></dt>
+      <dd>Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos</dd>
+      </div>
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Best Reviewer Awards
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Katharina Hoedt</strong></dt>
+      <dd>Johannes Kepler University Linz</dd>
+      </div>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Maximilian Schmitt</strong></dt>
+      <dd>University of Augsburg</dd>
+      </div>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Reinier de Valk</strong></dt>
+      <dd>Moodagent</dd>
+      </div>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Silvan Peter</strong></dt>
+      <dd>Johannes Kepler University Linz</dd>
+      </div>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong>Thomas Prätzlich</strong></dt>
+      <dd>Learnfield GmbH/Skoove</dd>
+      </div>
     </div>
+    </div>
+
   )
 }
 
