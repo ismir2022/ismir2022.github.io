@@ -31,27 +31,19 @@ const MainContent = () => {
         Perception, and Neuromusicology.
       </p>
       <p><br /></p>
-    <div className="flex flex-col gap-5">
-      <h3 className="font-bold text-xl md:text-2xl md:text-left text-center">
+      <div className="flex flex-col gap-5">
+      <h2 className="font-bold text-xl md:text-2xl md:text-left text-center">
         Awards
-      </h3>
-
+      </h2>
+      
       <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
-        Brave New Idea Award
+        Best Paper Award
       </h3>
       <div style={{paddingBottom:"10px"}}>
-      <dt><strong><a href="https://ismir2022program.ismir.net/poster_182.html" target="_blank">Sonus Texere! Automated Dense Soundtrack Construction for Books using Movie Adaptations</a></strong></dt>
-      <dd>Jaidev Shriram, Makarand Tapaswi, Vinoo Alluri</dd>
+      <dt><strong><a href="https://ismir2022program.ismir.net/poster_335.html" target="_blank">Performance MIDI-to-score conversion by neural beat tracking</a></strong></dt>
+      <dd>Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos</dd>
       </div>
-
-      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
-        Best Special Call Paper Award
-      </h3>
-      <div style={{paddingBottom:"10px"}}>
-      <dt><strong><a href="https://ismir2022program.ismir.net/poster_83.html" target="_blank">Raga Classification From Vocal Performances Using Multimodal Analysis</a></strong></dt>
-      <dd>Martin Clayton, Preeti Rao, Nithya Nadig Shikarpur, Sujoy Roychowdhury, Jin Li</dd>
-      </div>
-
+      
       <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
         Best Student Paper Award
       </h3>
@@ -61,11 +53,19 @@ const MainContent = () => {
       </div>
 
       <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
-        Best Paper Award
+        Best Special Call Paper Award
       </h3>
       <div style={{paddingBottom:"10px"}}>
-      <dt><strong><a href="https://ismir2022program.ismir.net/poster_335.html" target="_blank">Performance MIDI-to-score conversion by neural beat tracking</a></strong></dt>
-      <dd>Lele Liu, Qiuqiang Kong, Veronica Morfi, Emmanouil Benetos</dd>
+      <dt><strong><a href="https://ismir2022program.ismir.net/poster_83.html" target="_blank">Raga Classification From Vocal Performances Using Multimodal Analysis</a></strong></dt>
+      <dd>Martin Clayton, Preeti Rao, Nithya Nadig Shikarpur, Sujoy Roychowdhury, Jin Li</dd>
+      </div>      
+
+      <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
+        Brave New Idea Award
+      </h3>
+      <div style={{paddingBottom:"10px"}}>
+      <dt><strong><a href="https://ismir2022program.ismir.net/poster_182.html" target="_blank">Sonus Texere! Automated Dense Soundtrack Construction for Books using Movie Adaptations</a></strong></dt>
+      <dd>Jaidev Shriram, Makarand Tapaswi, Vinoo Alluri</dd>
       </div>
 
       <h3 className="font-bold text-xl md:text-xl md:text-left text-center">
